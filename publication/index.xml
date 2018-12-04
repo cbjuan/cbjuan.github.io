@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/publication/</link>
+    <description>Recent content in Publications on Juan Cruz-Benito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://cbjuan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analyzing the software architectures supporting HCI/HMI processes through a systematic review of the literature</title>
+      <link>https://cbjuan.github.io/publication/cruzbenito-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/cruzbenito-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On data-driven systems analyzing, supporting and enhancing users&#39; interaction and experience</title>
+      <link>https://cbjuan.github.io/publication/cruz-benito-phd-2018/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/cruz-benito-phd-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep-Learning-Based Proposal to Aid Users in Quantum Computing Programming</title>
+      <link>https://cbjuan.github.io/publication/10-1007-978-3-319-91152-6-32/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/10-1007-978-3-319-91152-6-32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Different Versions of Layout and Complexity of Web Forms Affect Users After They Start It? A Pilot Experience</title>
+      <link>https://cbjuan.github.io/publication/10-1007-978-3-319-77712-2-92/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/10-1007-978-3-319-77712-2-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barómetro de empleabilidad y empleo universitarios. Edición Máster 2017</title>
+      <link>https://cbjuan.github.io/publication/oeeu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/oeeu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing a Research Method to Analyze Visual Literacy Based on Cross-Cultural Characteristics</title>
+      <link>https://cbjuan.github.io/publication/garcia-sanchez-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/garcia-sanchez-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empleabilidad de los titulados universitarios en España. Proyecto OEEU</title>
+      <link>https://cbjuan.github.io/publication/ek-seks-20181912139/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/ek-seks-20181912139/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
+      <link>https://cbjuan.github.io/publication/8240912/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/8240912/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaffolding the OEEU&#39;s Data-Driven Ecosystem to Analyze the Employability of Spanish Graduates</title>
+      <link>https://cbjuan.github.io/publication/vazquez-ingelmo-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/vazquez-ingelmo-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Analytics, o cómo sacar valor a los datos en la educación</title>
+      <link>https://cbjuan.github.io/publication/acquila-2017-learning/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/acquila-2017-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

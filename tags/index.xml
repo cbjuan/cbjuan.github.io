@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tags/</link>
+    <description>Recent content in Tags on Juan Cruz-Benito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://cbjuan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A/B testing</title>
+      <link>https://cbjuan.github.io/tags/a-b-testing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/a-b-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A/B testing approach</title>
+      <link>https://cbjuan.github.io/tags/a-b-testing-approach/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/a-b-testing-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://cbjuan.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptability</title>
+      <link>https://cbjuan.github.io/tags/adaptability/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/adaptability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://cbjuan.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://cbjuan.github.io/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic mail</title>
+      <link>https://cbjuan.github.io/tags/electronic-mail/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/electronic-mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employment</title>
+      <link>https://cbjuan.github.io/tags/employment/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/employment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCI</title>
+      <link>https://cbjuan.github.io/tags/hci/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/hci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Computer Interaction</title>
+      <link>https://cbjuan.github.io/tags/human-computer-interaction/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/human-computer-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Machine Interaction</title>
+      <link>https://cbjuan.github.io/tags/human-machine-interaction/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/human-machine-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning algorithms</title>
+      <link>https://cbjuan.github.io/tags/machine-learning-algorithms/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/machine-learning-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive models</title>
+      <link>https://cbjuan.github.io/tags/predictive-models/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/predictive-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://cbjuan.github.io/tags/software/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Architectures</title>
+      <link>https://cbjuan.github.io/tags/software-architectures/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/software-architectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Literature Review</title>
+      <link>https://cbjuan.github.io/tags/systematic-literature-review/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/systematic-literature-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://cbjuan.github.io/tags/testing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://cbjuan.github.io/tags/tools/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universidades; Educación superior; Estudiantes universitarios; Empleabilidad; Empleo juvenil; Titulados universitarios; Capital humano; Competencias</title>
+      <link>https://cbjuan.github.io/tags/universidades-educaci%C3%B3n-superior-estudiantes-universitarios-empleabilidad-empleo-juvenil-titulados-universitarios-capital-humano-competencias/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/universidades-educaci%C3%B3n-superior-estudiantes-universitarios-empleabilidad-empleo-juvenil-titulados-universitarios-capital-humano-competencias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web forms</title>
+      <link>https://cbjuan.github.io/tags/web-forms/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/web-forms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adequate version</title>
+      <link>https://cbjuan.github.io/tags/adequate-version/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/adequate-version/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clusters</title>
+      <link>https://cbjuan.github.io/tags/clusters/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>different versions</title>
+      <link>https://cbjuan.github.io/tags/different-versions/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/different-versions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enabling adaptability</title>
+      <link>https://cbjuan.github.io/tags/enabling-adaptability/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/enabling-adaptability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heuristic rules</title>
+      <link>https://cbjuan.github.io/tags/heuristic-rules/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/heuristic-rules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hierarchical clustering</title>
+      <link>https://cbjuan.github.io/tags/hierarchical-clustering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/hierarchical-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human factors</title>
+      <link>https://cbjuan.github.io/tags/human-factors/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/human-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human-computer interaction</title>
+      <link>https://cbjuan.github.io/tags/human-computer-interaction/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/human-computer-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning (artificial intelligence)</title>
+      <link>https://cbjuan.github.io/tags/learning-artificial-intelligence/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/learning-artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://cbjuan.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning algorithms</title>
+      <link>https://cbjuan.github.io/tags/machine-learning-algorithms/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/machine-learning-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning procedures</title>
+      <link>https://cbjuan.github.io/tags/machine-learning-procedures/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/machine-learning-procedures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimal version</title>
+      <link>https://cbjuan.github.io/tags/optimal-version/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/optimal-version/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>original study</title>
+      <link>https://cbjuan.github.io/tags/original-study/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/original-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predictive models</title>
+      <link>https://cbjuan.github.io/tags/predictive-models/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/predictive-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>questionnaires</title>
+      <link>https://cbjuan.github.io/tags/questionnaires/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/questionnaires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random forest</title>
+      <link>https://cbjuan.github.io/tags/random-forest/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/random-forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redirection rules</title>
+      <link>https://cbjuan.github.io/tags/redirection-rules/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/redirection-rules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relevant factors</title>
+      <link>https://cbjuan.github.io/tags/relevant-factors/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/relevant-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>similar characteristics</title>
+      <link>https://cbjuan.github.io/tags/similar-characteristics/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/similar-characteristics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user behavior</title>
+      <link>https://cbjuan.github.io/tags/user-behavior/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/user-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user characteristics detection</title>
+      <link>https://cbjuan.github.io/tags/user-characteristics-detection/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/user-characteristics-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user experience</title>
+      <link>https://cbjuan.github.io/tags/user-experience/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/user-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user interface</title>
+      <link>https://cbjuan.github.io/tags/user-interface/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/user-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user interfaces</title>
+      <link>https://cbjuan.github.io/tags/user-interfaces/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/user-interfaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user preferences</title>
+      <link>https://cbjuan.github.io/tags/user-preferences/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/user-preferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user profiles</title>
+      <link>https://cbjuan.github.io/tags/user-profiles/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/user-profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web forms</title>
+      <link>https://cbjuan.github.io/tags/web-forms/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/web-forms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
