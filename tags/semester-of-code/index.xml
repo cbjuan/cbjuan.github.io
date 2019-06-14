@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>semester of code on Juan Cruz-Benito</title>
+    <title>Semester of Code on Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tags/semester-of-code/</link>
-    <description>Recent content in semester of code on Juan Cruz-Benito</description>
+    <description>Recent content in Semester of Code on Juan Cruz-Benito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://cbjuan.github.io/tags/semester-of-code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Semester of Code: Piloting virtual placements for informatics across Europe</title>
+      <link>https://cbjuan.github.io/publication/2015_7096026/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/2015_7096026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semester of Code: Piloting virtual placements for informatics across Europe</title>
+      <link>https://cbjuan.github.io/publication/2015_7096026/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/2015_7096026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tecnología al servicio de un proceso de gestión de prácticas virtuales en empresas: Propuesta y primeros resultados del Semester of Code</title>
+      <link>https://cbjuan.github.io/publication/2015_garcia-tecnologia/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/2015_garcia-tecnologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual placements for informatics students in open source business across Europe</title>
+      <link>https://cbjuan.github.io/publication/2014_7044411/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/2014_7044411/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Developing Win-win Solutions for Virtual Placements in Informatics: The VALS Case</title>
