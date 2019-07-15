@@ -7,15 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://cbjuan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Artificial intelligence</title>
+      <link>https://cbjuan.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://cbjuan.github.io/tags/education/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>https://cbjuan.github.io/tags/students/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology acceptance model</title>
+      <link>https://cbjuan.github.io/tags/technology-acceptance-model/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/technology-acceptance-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eLearning</title>
+      <link>https://cbjuan.github.io/tags/elearning/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/elearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Human-Computer Interaction</title>
       <link>https://cbjuan.github.io/tags/human-computer-interaction/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/tags/human-computer-interaction/</guid>
       <description></description>
@@ -24,7 +69,7 @@
     <item>
       <title>Human-Machine Interaction</title>
       <link>https://cbjuan.github.io/tags/human-machine-interaction/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/tags/human-machine-interaction/</guid>
       <description></description>
@@ -33,7 +78,7 @@
     <item>
       <title>Software Architectures</title>
       <link>https://cbjuan.github.io/tags/software-architectures/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/tags/software-architectures/</guid>
       <description></description>
@@ -42,7 +87,7 @@
     <item>
       <title>Systematic Literature Review</title>
       <link>https://cbjuan.github.io/tags/systematic-literature-review/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/tags/systematic-literature-review/</guid>
       <description></description>
@@ -481,29 +526,11 @@
     </item>
     
     <item>
-      <title>Education</title>
-      <link>https://cbjuan.github.io/tags/education/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://cbjuan.github.io/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pharmaceuticals</title>
       <link>https://cbjuan.github.io/tags/pharmaceuticals/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/tags/pharmaceuticals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Second Life</title>
-      <link>https://cbjuan.github.io/tags/second-life/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://cbjuan.github.io/tags/second-life/</guid>
       <description></description>
     </item>
     
@@ -535,7 +562,7 @@
     </item>
     
     <item>
-      <title>Usalpharma</title>
+      <title>USALPHARMA</title>
       <link>https://cbjuan.github.io/tags/usalpharma/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
       
@@ -603,6 +630,15 @@
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/tags/quality-assurance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>second life</title>
+      <link>https://cbjuan.github.io/tags/second-life/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/second-life/</guid>
       <description></description>
     </item>
     
@@ -940,15 +976,6 @@
     </item>
     
     <item>
-      <title>eLearning</title>
-      <link>https://cbjuan.github.io/tags/elearning/</link>
-      <pubDate>Mon, 07 Sep 2015 00:00:00 +0200</pubDate>
-      
-      <guid>https://cbjuan.github.io/tags/elearning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>iMOOC</title>
       <link>https://cbjuan.github.io/tags/imooc/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0200</pubDate>
@@ -1048,15 +1075,6 @@
     </item>
     
     <item>
-      <title>Companies</title>
-      <link>https://cbjuan.github.io/tags/companies/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://cbjuan.github.io/tags/companies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Engineering education</title>
       <link>https://cbjuan.github.io/tags/engineering-education/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
@@ -1111,15 +1129,6 @@
     </item>
     
     <item>
-      <title>Semester of Code</title>
-      <link>https://cbjuan.github.io/tags/semester-of-code/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://cbjuan.github.io/tags/semester-of-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SoC</title>
       <link>https://cbjuan.github.io/tags/soc/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
@@ -1147,7 +1156,7 @@
     </item>
     
     <item>
-      <title>VALS European project</title>
+      <title>VALS European Project</title>
       <link>https://cbjuan.github.io/tags/vals-european-project/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
       
@@ -1188,6 +1197,15 @@
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
       
       <guid>https://cbjuan.github.io/tags/business-related-attitudes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>companies</title>
+      <link>https://cbjuan.github.io/tags/companies/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/companies/</guid>
       <description></description>
     </item>
     
@@ -1269,6 +1287,15 @@
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
       
       <guid>https://cbjuan.github.io/tags/professional-career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semester of code</title>
+      <link>https://cbjuan.github.io/tags/semester-of-code/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/semester-of-code/</guid>
       <description></description>
     </item>
     

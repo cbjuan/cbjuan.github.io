@@ -3,8 +3,26 @@
     
     <url>
     
-      <loc>https://cbjuan.github.io/publication_types/0/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <loc>https://cbjuan.github.io/publication_types/1/</loc>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/artificial-intelligence/</loc>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/education/</loc>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +31,7 @@
     <url>
     
       <loc>https://cbjuan.github.io/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,7 +39,113 @@
     
     <url>
     
+      <loc>https://cbjuan.github.io/publication/2019_hciinternational/</loc>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cbjuan.github.io/publication_types/</loc>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/students/</loc>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/</loc>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/technology-acceptance-model/</loc>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/elearning/</loc>
+      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/publication_types/2/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/publication/2018_cruzbenito/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/human-computer-interaction/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/human-machine-interaction/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/software-architectures/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/systematic-literature-review/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/publication_types/0/</loc>
       <lastmod>2019-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -32,68 +156,6 @@
     
       <loc>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</loc>
       <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/publication_types/2/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/publication/2018_cruzbenito/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/human-computer-interaction/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/human-machine-interaction/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/software-architectures/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/systematic-literature-review/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -135,15 +197,6 @@
     
       <loc>https://cbjuan.github.io/publication/2018_garcia-proposing/</loc>
       <lastmod>2018-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/publication_types/1/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -776,25 +829,7 @@
     
     <url>
     
-      <loc>https://cbjuan.github.io/tags/education/</loc>
-      <lastmod>2016-08-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://cbjuan.github.io/tags/pharmaceuticals/</loc>
-      <lastmod>2016-08-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/second-life/</loc>
       <lastmod>2016-08-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -902,6 +937,15 @@
     <url>
     
       <loc>https://cbjuan.github.io/tags/quality-assurance/</loc>
+      <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/second-life/</loc>
       <lastmod>2016-08-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1380,15 +1424,6 @@
     
     <url>
     
-      <loc>https://cbjuan.github.io/tags/elearning/</loc>
-      <lastmod>2015-09-07T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://cbjuan.github.io/tags/imooc/</loc>
       <lastmod>2015-09-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1512,15 +1547,6 @@
     
     <url>
     
-      <loc>https://cbjuan.github.io/tags/companies/</loc>
-      <lastmod>2015-03-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://cbjuan.github.io/tags/engineering-education/</loc>
       <lastmod>2015-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1567,15 +1593,6 @@
     <url>
     
       <loc>https://cbjuan.github.io/tags/proposals/</loc>
-      <lastmod>2015-03-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/semester-of-code/</loc>
       <lastmod>2015-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1672,6 +1689,15 @@
     
     <url>
     
+      <loc>https://cbjuan.github.io/tags/companies/</loc>
+      <lastmod>2015-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cbjuan.github.io/tags/computer-science-education/</loc>
       <lastmod>2015-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1745,6 +1771,15 @@
     <url>
     
       <loc>https://cbjuan.github.io/tags/professional-career/</loc>
+      <lastmod>2015-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/semester-of-code/</loc>
       <lastmod>2015-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
