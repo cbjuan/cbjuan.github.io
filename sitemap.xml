@@ -154,8 +154,25 @@
     
     <url>
     
+      <loc>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</loc>
       <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/teachers/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -1556,6 +1573,15 @@
     
     <url>
     
+      <loc>https://cbjuan.github.io/tags/educational-institutions/</loc>
+      <lastmod>2015-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cbjuan.github.io/tags/engineering-education/</loc>
       <lastmod>2015-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1602,15 +1628,6 @@
     <url>
     
       <loc>https://cbjuan.github.io/tags/proposals/</loc>
-      <lastmod>2015-03-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/semester-of-code/</loc>
       <lastmod>2015-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1725,15 +1742,6 @@
     
     <url>
     
-      <loc>https://cbjuan.github.io/tags/educational-institutions/</loc>
-      <lastmod>2015-03-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://cbjuan.github.io/tags/further-education/</loc>
       <lastmod>2015-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1780,6 +1788,15 @@
     <url>
     
       <loc>https://cbjuan.github.io/tags/professional-career/</loc>
+      <lastmod>2015-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/semester-of-code/</loc>
       <lastmod>2015-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
