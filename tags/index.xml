@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://cbjuan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Artificial intelligence</title>
       <link>https://cbjuan.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
       
       <guid>https://cbjuan.github.io/tags/artificial-intelligence/</guid>
       <description></description>
@@ -24,9 +24,36 @@
     <item>
       <title>Education</title>
       <link>https://cbjuan.github.io/tags/education/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
       
       <guid>https://cbjuan.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teachers</title>
+      <link>https://cbjuan.github.io/tags/teachers/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/teachers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology acceptance model</title>
+      <link>https://cbjuan.github.io/tags/technology-acceptance-model/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/technology-acceptance-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eLearning</title>
+      <link>https://cbjuan.github.io/tags/elearning/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/tags/elearning/</guid>
       <description></description>
     </item>
     
@@ -36,24 +63,6 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/tags/students/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology acceptance model</title>
-      <link>https://cbjuan.github.io/tags/technology-acceptance-model/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://cbjuan.github.io/tags/technology-acceptance-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eLearning</title>
-      <link>https://cbjuan.github.io/tags/elearning/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://cbjuan.github.io/tags/elearning/</guid>
       <description></description>
     </item>
     
@@ -90,15 +99,6 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/tags/systematic-literature-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teachers</title>
-      <link>https://cbjuan.github.io/tags/teachers/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://cbjuan.github.io/tags/teachers/</guid>
       <description></description>
     </item>
     
@@ -580,7 +580,7 @@
     </item>
     
     <item>
-      <title>USALPHARMA</title>
+      <title>Usalpharma</title>
       <link>https://cbjuan.github.io/tags/usalpharma/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
       

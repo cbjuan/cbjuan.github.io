@@ -4,7 +4,7 @@
     <url>
     
       <loc>https://cbjuan.github.io/publication_types/1/</loc>
-      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,7 @@
     <url>
     
       <loc>https://cbjuan.github.io/tags/artificial-intelligence/</loc>
-      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -22,7 +22,7 @@
     <url>
     
       <loc>https://cbjuan.github.io/tags/education/</loc>
-      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -30,8 +30,61 @@
     
     <url>
     
+      <loc>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</loc>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cbjuan.github.io/</loc>
-      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/publication_types/</loc>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/</loc>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/teachers/</loc>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/technology-acceptance-model/</loc>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cbjuan.github.io/tags/elearning/</loc>
+      <lastmod>2019-11-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -47,43 +100,7 @@
     
     <url>
     
-      <loc>https://cbjuan.github.io/publication_types/</loc>
-      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://cbjuan.github.io/tags/students/</loc>
-      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/</loc>
-      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/technology-acceptance-model/</loc>
-      <lastmod>2019-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/elearning/</loc>
       <lastmod>2019-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -154,25 +171,8 @@
     
     <url>
     
-      <loc>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</loc>
       <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cbjuan.github.io/tags/teachers/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
