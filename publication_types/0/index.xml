@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://cbjuan.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discurso de agradecimiento, Premios a Jóvenes Investigadores Informáticos, SCIE - Fundación BBVA2019 / Speech, Awards for Young Computer ScienceResearchers, SCIE - BBVA Foundation, 2019</title>
+      <link>https://cbjuan.github.io/publication/cruz-benito-juan-2019-3529255/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/publication/cruz-benito-juan-2019-3529255/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Qiskit: An Open-source Framework for Quantum Computing</title>
