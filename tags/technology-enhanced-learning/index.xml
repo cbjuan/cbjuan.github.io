@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> technology enhanced learning on Juan Cruz-Benito</title>
+    <title>technology-enhanced learning on Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tags/technology-enhanced-learning/</link>
-    <description>Recent content in  technology enhanced learning on Juan Cruz-Benito</description>
+    <description>Recent content in technology-enhanced learning on Juan Cruz-Benito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
@@ -18,24 +18,6 @@
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Usalpharma: Una arquitectura software al servicio del aprendizaje en Mundos Virtuales</title>
-      <link>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      
-      <guid>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>USALSIM: learning, professional practices and employability in a 3D virtual world</title>
-      <link>https://cbjuan.github.io/publication/2013_usalsim-ijtel/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
-      <guid>https://cbjuan.github.io/publication/2013_usalsim-ijtel/</guid>
       <description></description>
     </item>
     

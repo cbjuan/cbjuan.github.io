@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Juan Cruz-Benito</title>
@@ -27,7 +27,8 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀</description>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀
+Latest release   Star</description>
     </item>
     
     <item>
@@ -36,7 +37,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://cbjuan.github.io/home/about/</guid>
-      <description>Biography Juan Cruz-Benito received a Ph.D. in Computing Engineering from the University of Salamanca, Spain, in 2018. Previously, he received the M.Sc. degree in Intelligent Systems, the B.Sc. in Computer Systems and the Technical Engineering Degree in Computer Systems from the same university in 2013, 2012, and 2011, respectively. He is currently Senior Software Engineer at the IBM Research&#39;s T.J. Watson Research Center, NY, USA. Before it, he worked for five years in research &amp;amp; development projects at the GRIAL Research Group, University of Salamanca, Spain, where he participated, as software engineer, researcher, and developer in many European and Spanish R&amp;amp;D projects (public and private ones).</description>
+      <description>Biography Juan Cruz-Benito received a Ph.D. in Computing Engineering from the University of Salamanca, Spain, in 2018. Previously, he received the M.Sc. degree in Intelligent Systems, the B.Sc. in Computer Systems and the Technical Engineering Degree in Computer Systems from the same university in 2013, 2012, and 2011, respectively. He is currently Senior Software Engineer at the IBM Research&amp;rsquo;s T.J. Watson Research Center, NY, USA. Before it, he worked for five years in research &amp;amp; development projects at the GRIAL Research Group, University of Salamanca, Spain, where he participated, as software engineer, researcher, and developer in many European and Spanish R&amp;amp;D projects (public and private ones).</description>
     </item>
     
     <item>
