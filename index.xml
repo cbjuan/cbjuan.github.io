@@ -20,6 +20,28 @@
     </item>
     
     <item>
+      <title>Using Jupyter: From simple personal notebooks to large deployments with thousands of users</title>
+      <link>https://cbjuan.github.io/talk/2020_pydata/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/talk/2020_pydata/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Discurso de agradecimiento, Premios a Jóvenes Investigadores Informáticos, SCIE - Fundación BBVA2019 / Speech, Awards for Young Computer Science Researchers, SCIE - BBVA Foundation, 2019</title>
       <link>https://cbjuan.github.io/publication/cruz-benito-juan-2019-3529255/</link>
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0100</pubDate>
@@ -144,15 +166,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://cbjuan.github.io/publication/2018_garcia-sanchez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
-      <link>https://cbjuan.github.io/publication/2018_8240912/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
       <description></description>
     </item>
     

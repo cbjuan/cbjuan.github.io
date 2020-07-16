@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Juan Cruz-Benito</title>
+    <title>Talks on Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Juan Cruz-Benito</description>
+    <description>Recent content in Talks on Juan Cruz-Benito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
@@ -13,14 +13,13 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>https://cbjuan.github.io/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Using Jupyter: From simple personal notebooks to large deployments with thousands of users</title>
+      <link>https://cbjuan.github.io/talk/2020_pydata/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0100</pubDate>
       
-      <guid>https://cbjuan.github.io/talk/example/</guid>
+      <guid>https://cbjuan.github.io/talk/2020_pydata/</guid>
       <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+ Slides can be added in a few ways: - **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.</description>
     </item>
     
   </channel>
