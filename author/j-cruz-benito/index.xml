@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Cruz-Benito | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/j-cruz-benito/</link>
+      <atom:link href="https://cbjuan.github.io/author/j-cruz-benito/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Cruz-Benito</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 24 May 2017 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>J Cruz-Benito</title>
+      <link>https://cbjuan.github.io/author/j-cruz-benito/</link>
+    </image>
+    
+    <item>
+      <title>Autopublicación y difusión de resultados científicos a través de Internet. Plan de Formación Docente 2017 de la Universidad de Salamanca</title>
+      <link>https://cbjuan.github.io/publication/2017_cruz-autopublicacion/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2017_cruz-autopublicacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herramienta para la validación de elementos de mejora UX/Engagement para los cuestionarios de recogida de información de egresados en el contexto del Observatorio de Empleabilidad y Empleo Universitarios (OEEU)</title>
+      <link>https://cbjuan.github.io/publication/2017_cruz-herramienta/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2017_cruz-herramienta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

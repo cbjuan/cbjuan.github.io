@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristina Maderuelo | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/cristina-maderuelo/</link>
+      <atom:link href="https://cbjuan.github.io/author/cristina-maderuelo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cristina Maderuelo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Cristina Maderuelo</title>
+      <link>https://cbjuan.github.io/author/cristina-maderuelo/</link>
+    </image>
+    
+    <item>
+      <title>Usalpharma: Una arquitectura software al servicio del aprendizaje en Mundos Virtuales</title>
+      <link>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usalpharma: A cloud-based architecture to support Quality Assurance training processes in health area using Virtual Worlds</title>
+      <link>https://cbjuan.github.io/publication/2014_garcia-usalpharma/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2014_garcia-usalpharma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

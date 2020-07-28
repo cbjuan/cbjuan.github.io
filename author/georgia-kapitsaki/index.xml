@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgia Kapitsaki | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/georgia-kapitsaki/</link>
+      <atom:link href="https://cbjuan.github.io/author/georgia-kapitsaki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Georgia Kapitsaki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 15 Jan 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Georgia Kapitsaki</title>
+      <link>https://cbjuan.github.io/author/georgia-kapitsaki/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the barriers to virtual student placements in the Semester of Code</title>
+      <link>https://cbjuan.github.io/publication/2016_garcia-understanding/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2016_garcia-understanding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

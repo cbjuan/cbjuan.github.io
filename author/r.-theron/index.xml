@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Therón | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/r.-theron/</link>
+      <atom:link href="https://cbjuan.github.io/author/r.-theron/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Therón</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>R. Therón</title>
+      <link>https://cbjuan.github.io/author/r.-theron/</link>
+    </image>
+    
+    <item>
+      <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
+      <link>https://cbjuan.github.io/publication/2018_8240912/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
+      <link>https://cbjuan.github.io/publication/2016_7511684/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using software architectures to retrieve interaction information in eLearning environments</title>
+      <link>https://cbjuan.github.io/publication/2014_7017715/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2014_7017715/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining Generic Data Collectors for Learning Analytics: Facing Up the Heterogeneous Data from Heterogeneous Environments</title>
+      <link>https://cbjuan.github.io/publication/2014_6901482/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2014_6901482/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring and feedback of learning processes in virtual worlds through analytics architectures: A real case</title>
+      <link>https://cbjuan.github.io/publication/2014_6877097/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2014_6877097/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

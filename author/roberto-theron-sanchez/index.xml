@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberto Therón Sánchez | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/roberto-theron-sanchez/</link>
+      <atom:link href="https://cbjuan.github.io/author/roberto-theron-sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberto Therón Sánchez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Jun 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Roberto Therón Sánchez</title>
+      <link>https://cbjuan.github.io/author/roberto-theron-sanchez/</link>
+    </image>
+    
+    <item>
+      <title>Comunidades de Aprendizaje en Redes Sociales y su Relación con los MOOC</title>
+      <link>https://cbjuan.github.io/publication/2016_cruz-comunidades/</link>
+      <pubDate>Tue, 07 Jun 2016 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2016_cruz-comunidades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detección de aprendizaje no formal e informal en Comunidades de Aprendizaje soportadas por Redes Sociales en el contexto de un MOOC Cooperativo</title>
+      <link>https://cbjuan.github.io/publication/2015_cruz-deteccion/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2015_cruz-deteccion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualización y Análisis de Datos en Mundos Virtuales Educativos: Comprendiendo la interacción de los usuarios en los entornos 3D</title>
+      <link>https://cbjuan.github.io/publication/2014_garcia-visualizacion/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2014_garcia-visualizacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Users&#39; Movements in Virtual Worlds: Discovering Engagement and Use Patterns</title>
+      <link>https://cbjuan.github.io/publication/2013_cruz-benito-aum-2536536-2536622/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2013_cruz-benito-aum-2536536-2536622/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

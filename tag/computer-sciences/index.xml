@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer sciences | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/computer-sciences/</link>
+      <atom:link href="https://cbjuan.github.io/tag/computer-sciences/index.xml" rel="self" type="application/rss+xml" />
+    <description>computer sciences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>computer sciences</title>
+      <link>https://cbjuan.github.io/tag/computer-sciences/</link>
+    </image>
+    
+    <item>
+      <title>Developing Win-win Solutions for Virtual Placements in Informatics: The VALS Case</title>
+      <link>https://cbjuan.github.io/publication/2014_garcia-penalvo-dws-2669711-2669982/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2014_garcia-penalvo-dws-2669711-2669982/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

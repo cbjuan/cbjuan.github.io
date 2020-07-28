@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/publication-type/6/</link>
+      <atom:link href="https://cbjuan.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>6</title>
+      <link>https://cbjuan.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Developing a Research Method to Analyze Visual Literacy Based on Cross-Cultural Characteristics</title>
+      <link>https://cbjuan.github.io/publication/2018_garcia-sanchez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2018_garcia-sanchez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaffolding the OEEU&#39;s Data-Driven Ecosystem to Analyze the Employability of Spanish Graduates</title>
+      <link>https://cbjuan.github.io/publication/2018_vazquez-ingelmo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2018_vazquez-ingelmo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

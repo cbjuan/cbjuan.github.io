@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Carballo-Franquis | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/jorge-carballo-franquis/</link>
+      <atom:link href="https://cbjuan.github.io/author/jorge-carballo-franquis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jorge Carballo-Franquis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Jorge Carballo-Franquis</title>
+      <link>https://cbjuan.github.io/author/jorge-carballo-franquis/</link>
+    </image>
+    
+    <item>
+      <title>Qiskit: An Open-source Framework for Quantum Computing</title>
+      <link>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

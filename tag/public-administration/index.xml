@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>public administration | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/public-administration/</link>
+      <atom:link href="https://cbjuan.github.io/tag/public-administration/index.xml" rel="self" type="application/rss+xml" />
+    <description>public administration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>public administration</title>
+      <link>https://cbjuan.github.io/tag/public-administration/</link>
+    </image>
+    
+    <item>
+      <title>Análisis comparativo de la gestión del conocimiento en la administración pública española</title>
+      <link>https://cbjuan.github.io/publication/2015_garcia-holgado-analisis/</link>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2015_garcia-holgado-analisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Knowledge Management Experiences in Spanish Public Administration</title>
+      <link>https://cbjuan.github.io/publication/2015_garcia-holgado-akm-2808580-2808609/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2015_garcia-holgado-akm-2808580-2808609/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

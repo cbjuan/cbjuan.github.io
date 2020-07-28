@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/students/</link>
+      <atom:link href="https://cbjuan.github.io/tag/students/index.xml" rel="self" type="application/rss+xml" />
+    <description>Students</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Students</title>
+      <link>https://cbjuan.github.io/tag/students/</link>
+    </image>
+    
+    <item>
+      <title>Measuring Students’ Acceptance to AI-Driven Assessment in eLearning: Proposing a First TAM-Based Research Model</title>
+      <link>https://cbjuan.github.io/publication/2019_hciinternational/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2019_hciinternational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

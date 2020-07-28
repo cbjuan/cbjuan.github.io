@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iván Álvarez Navia | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/ivan-alvarez-navia/</link>
+      <atom:link href="https://cbjuan.github.io/author/ivan-alvarez-navia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iván Álvarez Navia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Iván Álvarez Navia</title>
+      <link>https://cbjuan.github.io/author/ivan-alvarez-navia/</link>
+    </image>
+    
+    <item>
+      <title>VALS: Virtual Alliances for Learning Society</title>
+      <link>https://cbjuan.github.io/publication/2013_garcia-vals/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2013_garcia-vals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

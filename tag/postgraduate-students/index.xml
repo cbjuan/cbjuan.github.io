@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>postgraduate students | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/postgraduate-students/</link>
+      <atom:link href="https://cbjuan.github.io/tag/postgraduate-students/index.xml" rel="self" type="application/rss+xml" />
+    <description>postgraduate students</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>postgraduate students</title>
+      <link>https://cbjuan.github.io/tag/postgraduate-students/</link>
+    </image>
+    
+    <item>
+      <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
+      <link>https://cbjuan.github.io/publication/2016_7511684/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Martín-González | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/m-martin-gonzalez/</link>
+      <atom:link href="https://cbjuan.github.io/author/m-martin-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Martín-González</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 19 Feb 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>M Martín-González</title>
+      <link>https://cbjuan.github.io/author/m-martin-gonzalez/</link>
+    </image>
+    
+    <item>
+      <title>Herramienta para la validación de elementos de mejora UX/Engagement para los cuestionarios de recogida de información de egresados en el contexto del Observatorio de Empleabilidad y Empleo Universitarios (OEEU)</title>
+      <link>https://cbjuan.github.io/publication/2017_cruz-herramienta/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2017_cruz-herramienta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

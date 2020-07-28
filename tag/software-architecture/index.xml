@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software architecture | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/software-architecture/</link>
+      <atom:link href="https://cbjuan.github.io/tag/software-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software architecture</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Software architecture</title>
+      <link>https://cbjuan.github.io/tag/software-architecture/</link>
+    </image>
+    
+    <item>
+      <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
+      <link>https://cbjuan.github.io/publication/2016_7511684/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using software architectures to retrieve interaction information in eLearning environments</title>
+      <link>https://cbjuan.github.io/publication/2014_7017715/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2014_7017715/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

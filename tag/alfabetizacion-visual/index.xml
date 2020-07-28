@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alfabetización visual | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/alfabetizacion-visual/</link>
+      <atom:link href="https://cbjuan.github.io/tag/alfabetizacion-visual/index.xml" rel="self" type="application/rss+xml" />
+    <description>alfabetización visual</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>alfabetización visual</title>
+      <link>https://cbjuan.github.io/tag/alfabetizacion-visual/</link>
+    </image>
+    
+    <item>
+      <title>Comprendiendo la comunicación visual en las redes sociales: una propuesta real de análisis</title>
+      <link>https://cbjuan.github.io/publication/2015_garcia-sanchez-comprendiendo/</link>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2015_garcia-sanchez-comprendiendo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

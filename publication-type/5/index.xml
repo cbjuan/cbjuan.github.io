@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/publication-type/5/</link>
+      <atom:link href="https://cbjuan.github.io/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>5</title>
+      <link>https://cbjuan.github.io/publication-type/5/</link>
+    </image>
+    
+    <item>
+      <title>Barómetro de empleabilidad y empleo universitarios. Edición Máster 2017</title>
+      <link>https://cbjuan.github.io/publication/2018_oeeu/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2018_oeeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barómetro de Empleabilidad y Empleo de los Universitarios en España, 2015 (Primer informe de resultados)</title>
+      <link>https://cbjuan.github.io/publication/2016_oeeu/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2016_oeeu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

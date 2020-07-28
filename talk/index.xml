@@ -1,75 +1,147 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on Juan Cruz-Benito</title>
+    <title>Talks | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/talk/</link>
-    <description>Recent content in Talks on Juan Cruz-Benito</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://cbjuan.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://cbjuan.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Talks</title>
+      <link>https://cbjuan.github.io/talk/</link>
+    </image>
     
     <item>
       <title>Trabajando en remoto. Herramientas</title>
       <link>https://cbjuan.github.io/talk/2020_se_usal_remotertools/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0100</pubDate>
-      
       <guid>https://cbjuan.github.io/talk/2020_se_usal_remotertools/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways: - **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.</description>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
     <item>
       <title>Practical Data Science and Machine Learning</title>
       <link>https://cbjuan.github.io/talk/2020_master_usal/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0100</pubDate>
-      
       <guid>https://cbjuan.github.io/talk/2020_master_usal/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways: - **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.</description>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
     <item>
       <title>Using Jupyter: From simple personal notebooks to large deployments with thousands of users</title>
       <link>https://cbjuan.github.io/talk/2020_pydata/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0100</pubDate>
-      
       <guid>https://cbjuan.github.io/talk/2020_pydata/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways: - **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.</description>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
     <item>
       <title>Trabajo en remoto. What?</title>
       <link>https://cbjuan.github.io/talk/2019_se_usal_remote/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://cbjuan.github.io/talk/2019_se_usal_remote/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways: - **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.</description>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
     <item>
       <title>Computación cuántica. ¿humo, realidad o futuro? ¿Todo a la vez?</title>
       <link>https://cbjuan.github.io/talk/2018_quantum_pintofscience/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0200</pubDate>
-      
       <guid>https://cbjuan.github.io/talk/2018_quantum_pintofscience/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways: - **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.</description>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
     <item>
       <title>Computación cuántica. ¿Qué es? ¿Qué podemos esperar?</title>
       <link>https://cbjuan.github.io/talk/2018_quantum_faculty/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://cbjuan.github.io/talk/2018_quantum_faculty/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways: - **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.</description>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Á Conde | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/miguel-a-conde/</link>
+      <atom:link href="https://cbjuan.github.io/author/miguel-a-conde/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel Á Conde</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Nov 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Miguel Á Conde</title>
+      <link>https://cbjuan.github.io/author/miguel-a-conde/</link>
+    </image>
+    
+    <item>
+      <title>SNOLA: creando una Red sobre Analíticas de Aprendizaje en España</title>
+      <link>https://cbjuan.github.io/publication/2017_agudo-snola/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2017_agudo-snola/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

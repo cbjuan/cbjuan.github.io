@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>users&#39; profiles | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/users-profiles/</link>
+      <atom:link href="https://cbjuan.github.io/tag/users-profiles/index.xml" rel="self" type="application/rss+xml" />
+    <description>users&#39; profiles</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>users&#39; profiles</title>
+      <link>https://cbjuan.github.io/tag/users-profiles/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing Users&#39; Movements in Virtual Worlds: Discovering Engagement and Use Patterns</title>
+      <link>https://cbjuan.github.io/publication/2013_cruz-benito-aum-2536536-2536622/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2013_cruz-benito-aum-2536536-2536622/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

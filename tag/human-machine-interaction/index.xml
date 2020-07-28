@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human-Machine Interaction | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/human-machine-interaction/</link>
+      <atom:link href="https://cbjuan.github.io/tag/human-machine-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human-Machine Interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Human-Machine Interaction</title>
+      <link>https://cbjuan.github.io/tag/human-machine-interaction/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing the software architectures supporting HCI/HMI processes through a systematic review of the literature</title>
+      <link>https://cbjuan.github.io/publication/2018_cruzbenito/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2018_cruzbenito/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
