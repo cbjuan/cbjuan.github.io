@@ -6,7 +6,7 @@
     <description>Recent content in Juan Cruz-Benito on Juan Cruz-Benito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; 2020</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -17,6 +17,28 @@
       
       <guid>https://cbjuan.github.io/publication/2020-hcii/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Trabajando en remoto. Herramientas</title>
+      <link>https://cbjuan.github.io/talk/2020_se_usal_remotertools/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://cbjuan.github.io/talk/2020_se_usal_remotertools/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
     <item>
@@ -100,6 +122,28 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     </item>
     
     <item>
+      <title>Trabajo en remoto. What?</title>
+      <link>https://cbjuan.github.io/talk/2019_se_usal_remote/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://cbjuan.github.io/talk/2019_se_usal_remote/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Qiskit: An Open-source Framework for Quantum Computing</title>
       <link>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
@@ -156,30 +200,25 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     </item>
     
     <item>
-      <title>How Different Versions of Layout and Complexity of Web Forms Affect Users After They Start It? A Pilot Experience</title>
-      <link>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      <title>Computación cuántica. ¿humo, realidad o futuro? ¿Todo a la vez?</title>
+      <link>https://cbjuan.github.io/talk/2018_quantum_pintofscience/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Empleabilidad de los titulados universitarios en España. Proyecto OEEU</title>
-      <link>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</link>
-      <pubDate>Wed, 25 Apr 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Barómetro de empleabilidad y empleo universitarios. Edición Máster 2017</title>
-      <link>https://cbjuan.github.io/publication/2018_oeeu/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://cbjuan.github.io/publication/2018_oeeu/</guid>
-      <description></description>
+      <guid>https://cbjuan.github.io/talk/2018_quantum_pintofscience/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
   </channel>
