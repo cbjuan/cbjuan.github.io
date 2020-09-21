@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profile | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/category/profile/</link>
+      <atom:link href="https://cbjuan.github.io/category/profile/index.xml" rel="self" type="application/rss+xml" />
+    <description>Profile</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Profile</title>
+      <link>https://cbjuan.github.io/category/profile/</link>
+    </image>
+    
+    <item>
+      <title>Nov 05, 2019. &#34;Juan Cruz Benito. Premio de Investigación Sociedad Científica Informática de España - Fundación BBVA&#34;</title>
+      <link>https://cbjuan.github.io/media/2019-bbva-foundation/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/media/2019-bbva-foundation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

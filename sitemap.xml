@@ -39,7 +39,7 @@
   
   <url>
     <loc>https://cbjuan.github.io/</loc>
-    <lastmod>2020-09-21T16:27:44+02:00</lastmod>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
   </url>
   
   <url>
@@ -69,7 +69,7 @@
   
   <url>
     <loc>https://cbjuan.github.io/tags/</loc>
-    <lastmod>2020-09-21T16:27:44+02:00</lastmod>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
   </url>
   
   <url>
@@ -133,18 +133,33 @@
   </url>
   
   <url>
-    <loc>https://cbjuan.github.io/talk/2020_pydata/</loc>
-    <lastmod>2020-07-16T14:05:57+02:00</lastmod>
+    <loc>https://cbjuan.github.io/categories/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cbjuan.github.io/categories/</loc>
-    <lastmod>2020-09-21T16:27:44+02:00</lastmod>
+    <loc>https://cbjuan.github.io/media/2020-cabalgaelcometa/</loc>
+    <lastmod>2020-09-21T18:10:24+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://cbjuan.github.io/category/interview/</loc>
-    <lastmod>2020-09-21T16:27:44+02:00</lastmod>
+    <lastmod>2020-09-21T18:10:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/tag/media/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/talk/2020_pydata/</loc>
+    <lastmod>2020-07-16T14:05:57+02:00</lastmod>
   </url>
   
   <url>
@@ -153,13 +168,78 @@
   </url>
   
   <url>
-    <loc>https://cbjuan.github.io/media/</loc>
-    <lastmod>2020-09-21T16:27:44+02:00</lastmod>
+    <loc>https://cbjuan.github.io/media/2019-noticias-navarra/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cbjuan.github.io/tag/media/</loc>
-    <lastmod>2020-09-21T16:27:44+02:00</lastmod>
+    <loc>https://cbjuan.github.io/category/mention/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-madrid-press/</loc>
+    <lastmod>2020-09-21T18:10:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-madrid-actual/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-noticias-bancarias/</loc>
+    <lastmod>2020-09-21T18:10:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-urjc-pr/</loc>
+    <lastmod>2020-09-21T18:10:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-region-digital/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-20-minutos/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-coddii/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-unavarra/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-bbva/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-navarra-capital/</loc>
+    <lastmod>2020-09-21T18:10:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-la-vanguardia/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-europa-press/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-expansion/</loc>
+    <lastmod>2020-09-21T18:10:52+02:00</lastmod>
   </url>
   
   <url>
@@ -170,6 +250,16 @@
   <url>
     <loc>https://cbjuan.github.io/publication/cruz-benito-juan-2019-3529255/</loc>
     <lastmod>2019-11-07T16:29:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-bbva-foundation/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/category/profile/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
   </url>
   
   <url>
@@ -190,6 +280,16 @@
   <url>
     <loc>https://cbjuan.github.io/tag/technology-acceptance-model/</loc>
     <lastmod>2019-11-05T01:28:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2019-grial/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/category/press-release/</loc>
+    <lastmod>2020-09-21T18:30:36+02:00</lastmod>
   </url>
   
   <url>
@@ -1085,6 +1185,11 @@
   <url>
     <loc>https://cbjuan.github.io/publication/2017_vazquez-improving/</loc>
     <lastmod>2018-12-04T23:42:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/media/2017-tlp-innova/</loc>
+    <lastmod>2020-09-21T18:10:24+02:00</lastmod>
   </url>
   
   <url>
