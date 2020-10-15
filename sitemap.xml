@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2020-10-15T10:40:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/talk/2020_jupytercon/</loc>
+    <lastmod>2020-10-15T10:40:23+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cbjuan.github.io/publication-type/3/</loc>
     <lastmod>2020-09-21T12:38:29+02:00</lastmod>
   </url>
@@ -35,11 +45,6 @@
   <url>
     <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbjuan.github.io/</loc>
-    <lastmod>2020-09-21T19:16:04+02:00</lastmod>
   </url>
   
   <url>
