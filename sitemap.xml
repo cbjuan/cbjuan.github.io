@@ -3,8 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cbjuan.github.io/publication-type/2/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/tag/adoption/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/publication/2020-ijimai/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/authors/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/tag/e-assessment/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/author/francisco-jose-garcia-penalvo/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/author/jose-carlos-sanchez-prieto/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cbjuan.github.io/</loc>
-    <lastmod>2020-11-13T18:06:11+01:00</lastmod>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/publication_types/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/author/roberto-theron/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbjuan.github.io/tags/</loc>
+    <lastmod>2020-12-01T17:18:58+01:00</lastmod>
   </url>
   
   <url>
@@ -15,11 +75,6 @@
   <url>
     <loc>https://cbjuan.github.io/publication-type/3/</loc>
     <lastmod>2020-09-21T12:38:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbjuan.github.io/authors/</loc>
-    <lastmod>2020-11-13T18:06:11+01:00</lastmod>
   </url>
   
   <url>
@@ -43,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
   </url>
@@ -58,11 +108,6 @@
   </url>
   
   <url>
-    <loc>https://cbjuan.github.io/publication_types/</loc>
-    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cbjuan.github.io/author/sanjay-vishwakarma/</loc>
     <lastmod>2020-09-21T12:38:29+02:00</lastmod>
   </url>
@@ -70,11 +115,6 @@
   <url>
     <loc>https://cbjuan.github.io/tag/software-engineering/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbjuan.github.io/tags/</loc>
-    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url>
   
   <url>
@@ -98,11 +138,6 @@
   </url>
   
   <url>
-    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
-    <lastmod>2020-07-16T13:17:10+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cbjuan.github.io/tag/assessment/</loc>
     <lastmod>2020-07-16T13:17:10+02:00</lastmod>
   </url>
@@ -114,16 +149,6 @@
   
   <url>
     <loc>https://cbjuan.github.io/author/francisco-j.-garcia-penalvo/</loc>
-    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbjuan.github.io/author/jose-carlos-sanchez-prieto/</loc>
-    <lastmod>2020-09-21T18:59:02+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbjuan.github.io/author/roberto-theron/</loc>
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url>
   
@@ -310,11 +335,6 @@
   <url>
     <loc>https://cbjuan.github.io/tag/students/</loc>
     <lastmod>2019-07-15T12:25:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbjuan.github.io/publication-type/2/</loc>
-    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url>
   
   <url>

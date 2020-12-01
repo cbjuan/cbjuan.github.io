@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/author/francisco-jose-garcia-penalvo/</link>
       <atom:link href="https://cbjuan.github.io/author/francisco-jose-garcia-penalvo/index.xml" rel="self" type="application/rss+xml" />
     <description>Francisco José García-Peñalvo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 25 Apr 2018 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Francisco José García-Peñalvo</title>
@@ -13,66 +13,10 @@
     </image>
     
     <item>
-      <title>Empleabilidad de los titulados universitarios en España. Proyecto OEEU</title>
-      <link>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</link>
-      <pubDate>Wed, 25 Apr 2018 00:00:00 +0200</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Barómetro de empleabilidad y empleo universitarios. Edición Máster 2017</title>
-      <link>https://cbjuan.github.io/publication/2018_oeeu/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0100</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_oeeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comunidades de Aprendizaje en Redes Sociales y su Relación con los MOOC</title>
-      <link>https://cbjuan.github.io/publication/2016_cruz-comunidades/</link>
-      <pubDate>Tue, 07 Jun 2016 00:00:00 +0200</pubDate>
-      <guid>https://cbjuan.github.io/publication/2016_cruz-comunidades/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Barómetro de Empleabilidad y Empleo de los Universitarios en España, 2015 (Primer informe de resultados)</title>
-      <link>https://cbjuan.github.io/publication/2016_oeeu/</link>
-      <pubDate>Thu, 11 Feb 2016 00:00:00 +0100</pubDate>
-      <guid>https://cbjuan.github.io/publication/2016_oeeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Virtual Placements Management Process Supported by Technology: Proposal and First Results of the Semester of Code</title>
-      <link>https://cbjuan.github.io/publication/2016_garcia-virtual/</link>
-      <pubDate>Wed, 03 Feb 2016 00:00:00 +0100</pubDate>
-      <guid>https://cbjuan.github.io/publication/2016_garcia-virtual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tecnología al servicio de un proceso de gestión de prácticas virtuales en empresas: Propuesta y primeros resultados del Semester of Code</title>
-      <link>https://cbjuan.github.io/publication/2015_garcia-tecnologia/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
-      <guid>https://cbjuan.github.io/publication/2015_garcia-tecnologia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualización y Análisis de Datos en Mundos Virtuales Educativos: Comprendiendo la interacción de los usuarios en los entornos 3D</title>
-      <link>https://cbjuan.github.io/publication/2014_garcia-visualizacion/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>https://cbjuan.github.io/publication/2014_garcia-visualizacion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VALS: Virtual Alliances for Learning Society</title>
-      <link>https://cbjuan.github.io/publication/2013_garcia-vals/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://cbjuan.github.io/publication/2013_garcia-vals/</guid>
+      <title>Assessed by Machines: Development of a TAM-Based Tool to Measure AI-based Assessment Acceptance Among Students</title>
+      <link>https://cbjuan.github.io/publication/2020-ijimai/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2020-ijimai/</guid>
       <description></description>
     </item>
     

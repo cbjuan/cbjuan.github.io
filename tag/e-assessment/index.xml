@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>e-assessment | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/e-assessment/</link>
+      <atom:link href="https://cbjuan.github.io/tag/e-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <description>e-assessment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>e-assessment</title>
+      <link>https://cbjuan.github.io/tag/e-assessment/</link>
+    </image>
+    
+    <item>
+      <title>Assessed by Machines: Development of a TAM-Based Tool to Measure AI-based Assessment Acceptance Among Students</title>
+      <link>https://cbjuan.github.io/publication/2020-ijimai/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2020-ijimai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
