@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/tag/computation-and-language/</link>
       <atom:link href="https://cbjuan.github.io/tag/computation-and-language/index.xml" rel="self" type="application/rss+xml" />
     <description>Computation and Language</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Computation and Language</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Automated Source Code Generation and Auto-completion Using Deep Learning: Comparing and Discussing Current Language-Model-Related Approaches</title>
-      <link>https://cbjuan.github.io/publication/2020-lm-arxiv/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0200</pubDate>
-      <guid>https://cbjuan.github.io/publication/2020-lm-arxiv/</guid>
+      <title>Automated Source Code Generation and Auto-Completion Using Deep Learning: Comparing and Discussing Current Language Model-Related Approaches</title>
+      <link>https://cbjuan.github.io/publication/2020-lms-ai/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2020-lms-ai/</guid>
       <description></description>
     </item>
     
