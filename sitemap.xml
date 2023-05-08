@@ -2,38 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cbjuan.github.io/publication-type/1/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/authors/</loc>
+    <lastmod>2023-05-08T15:30:31+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/david-peral-garcia/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2023-qml-teem-22/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/francisco-jose-garcia-penalvo/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2023-05-08T15:30:31+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication_types/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-natural-language/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tags/</loc>
+    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/publication-type/3/</loc>
     <lastmod>2022-01-13T18:22:08+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/authors/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/david-peral-garcia/</loc>
-    <lastmod>2022-01-13T18:22:08+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/francisco-jose-garcia-penalvo/</loc>
-    <lastmod>2022-01-13T18:22:08+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
-    <lastmod>2022-01-13T18:22:08+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/publication_types/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/publication/2022-srl_qml/</loc>
     <lastmod>2022-01-13T18:22:08+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tags/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/talk/2021_bbva/</loc>
     <lastmod>2021-12-15T17:24:20+01:00</lastmod>
@@ -88,9 +97,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/talk/2020_jupytercon/</loc>
     <lastmod>2021-01-12T11:04:40+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/publication-type/1/</loc>
-    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/adriana-gamazo/</loc>
     <lastmod>2020-07-16T13:17:10+02:00</lastmod>
@@ -1564,7 +1570,7 @@
     <loc>https://cbjuan.github.io/tag/a/b-testing-approach/</loc>
   </url><url>
     <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2021-04-14T15:45:22+02:00</lastmod>
+    <lastmod>2023-05-08T15:30:31+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/post/</loc>
     <lastmod>2020-07-28T14:28:12+02:00</lastmod>
