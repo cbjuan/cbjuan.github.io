@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/</link>
       <atom:link href="https://cbjuan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Cruz-Benito</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 04 May 2023 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Juan Cruz-Benito</title>
       <link>https://cbjuan.github.io/</link>
     </image>
+    
+    <item>
+      <title>Systematic Literature Review: Quantum Machine Learning and its applications</title>
+      <link>https://cbjuan.github.io/publication/2022-srl_qml/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2022-srl_qml/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development of Algorithms and Methods for the Simulation and Improvement in the Quantum Natural Language Processing Area</title>
@@ -40,14 +48,6 @@ Slides can be added in a few ways:
 
 Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Systematic Literature Review: Quantum Machine Learning and its applications</title>
-      <link>https://cbjuan.github.io/publication/2022-srl_qml/</link>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0100</pubDate>
-      <guid>https://cbjuan.github.io/publication/2022-srl_qml/</guid>
-      <description></description>
     </item>
     
     <item>

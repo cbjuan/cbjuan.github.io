@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/tag/machine-learning/</link>
       <atom:link href="https://cbjuan.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 04 May 2023 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>machine learning</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Development of Algorithms and Methods for the Simulation and Improvement in the Quantum Natural Language Processing Area</title>
-      <link>https://cbjuan.github.io/publication/2023-qml-teem-22/</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0200</pubDate>
-      <guid>https://cbjuan.github.io/publication/2023-qml-teem-22/</guid>
+      <title>Systematic Literature Review: Quantum Machine Learning and its applications</title>
+      <link>https://cbjuan.github.io/publication/2022-srl_qml/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2022-srl_qml/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Systematic Literature Review: Quantum Machine Learning and its applications</title>
-      <link>https://cbjuan.github.io/publication/2022-srl_qml/</link>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0100</pubDate>
-      <guid>https://cbjuan.github.io/publication/2022-srl_qml/</guid>
+      <title>Development of Algorithms and Methods for the Simulation and Improvement in the Quantum Natural Language Processing Area</title>
+      <link>https://cbjuan.github.io/publication/2023-qml-teem-22/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-qml-teem-22/</guid>
       <description></description>
     </item>
     
