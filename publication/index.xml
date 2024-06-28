@@ -13,10 +13,82 @@
     </image>
     
     <item>
+      <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
+      <link>https://cbjuan.github.io/publication/2024-qiskithumaneval/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qiskithumaneval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum and non-quantum source code translation</title>
+      <link>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Natural Language Processing and Quantum Natural Processing approaches in text classification tasks</title>
+      <link>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
+      <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
+      <link>https://cbjuan.github.io/publication/2024-synthesisrl/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal machine learning for generating three-dimensional audio</title>
+      <link>https://cbjuan.github.io/publication/2024-patent_3daudio/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-patent_3daudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Systematic Literature Review: Quantum Machine Learning and its applications</title>
       <link>https://cbjuan.github.io/publication/2022-srl_qml/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0100</pubDate>
       <guid>https://cbjuan.github.io/publication/2022-srl_qml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
+      <link>https://cbjuan.github.io/publication/2023-qnlp-icist/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-qnlp-icist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural language processing for restricting user access to systems</title>
+      <link>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
+      <link>https://cbjuan.github.io/publication/2023-qnlp-ivus/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-qnlp-ivus/</guid>
       <description></description>
     </item>
     

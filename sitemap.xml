@@ -2,47 +2,209 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cbjuan.github.io/publication-type/2/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <loc>https://cbjuan.github.io/publication-type/3/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/authors/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/david-peral-garcia/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <loc>https://cbjuan.github.io/author/david-kremer/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/francisco-jose-garcia-penalvo/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <loc>https://cbjuan.github.io/tag/evaluation-benchmarks/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/francis-harkins/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/humaneval/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ismael-faro/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <loc>https://cbjuan.github.io/tag/large-language-models/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/luca-buratti/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/nicolas-dupuis/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication_types/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <loc>https://cbjuan.github.io/tag/qiskit/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/publication/2022-srl_qml/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <loc>https://cbjuan.github.io/tag/qiskit-humaneval/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2024-qiskithumaneval/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ruchir-puri/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/sanjay-vishwakarma/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/siddharth-golecha/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tags/</loc>
-    <lastmod>2024-02-09T23:54:12+01:00</lastmod>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/vishal-sharathchandra-bajpe/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication-type/8/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/computer-program/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/francisco-jose-martin-fernandez/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ismael-faro-sertage/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/memory/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/method/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/process/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/storage/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/training/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/translation/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication-type/2/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/david-peral-garcia/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/francisco-jose-garcia-penalvo/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-machine-learning/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-natural-language-processing/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/aitana-viudes-forrat/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/code-large-language-models/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/code-llms/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/circuit-routing/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/circuit-synthesis/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/hanhee-paik/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ivan-duran/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2024-synthesisrl/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/reinforcement-learning/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/transpiling/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/victor-villar/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/artificial-neural-network/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2024-patent_3daudio/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/processing/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2022-srl_qml/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication-type/1/</loc>
-    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2023-qnlp-icist/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ivan-duran-martinez/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/natural-language-processing/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/neural-network-model/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/response/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/sanjay-kumar-lalta-prasad-vishwakarma/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/sanket-panda/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2023-qnlp-ivus/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2023-qml-teem-22/</loc>
-    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/quantum-natural-language/</loc>
-    <lastmod>2023-05-08T15:30:24+02:00</lastmod>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/talk/2023_master_usal/</loc>
     <lastmod>2023-05-08T15:43:47+02:00</lastmod>
@@ -62,22 +224,13 @@
     <loc>https://cbjuan.github.io/author/francisco-martin-fernandez/</loc>
     <lastmod>2021-01-25T12:22:04+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/ismael-faro/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/programming-languages/</loc>
-    <lastmod>2021-01-25T12:22:04+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/sanjay-vishwakarma/</loc>
     <lastmod>2021-01-25T12:22:04+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/software-engineering/</loc>
     <lastmod>2021-01-25T12:22:04+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/adoption/</loc>
-    <lastmod>2020-12-01T17:21:14+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
     <lastmod>2020-12-01T17:21:14+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2020-ijimai/</loc>
@@ -338,16 +491,10 @@
     <loc>https://cbjuan.github.io/author/francisco-jose-cabrera-hernandez/</loc>
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/francisco-jose-martin-fernandez/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/author/gadi-aleksandrowicz/</loc>
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/giacomo-nannicini/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/hanhee-paik/</loc>
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/hiroshi-horii/</loc>
@@ -360,9 +507,6 @@
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/ismail-yunus-akhalwaya/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/ivan-duran/</loc>
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/ivano-tavernelli/</loc>
@@ -1358,9 +1502,6 @@
     <loc>https://cbjuan.github.io/tag/solid-modelling/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/training/</loc>
-    <lastmod>2020-09-21T18:55:41+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/virtual-environments/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
   </url><url>
@@ -1570,7 +1711,7 @@
     <loc>https://cbjuan.github.io/tag/a/b-testing-approach/</loc>
   </url><url>
     <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2023-05-08T16:58:07+02:00</lastmod>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/post/</loc>
     <lastmod>2020-07-28T14:28:12+02:00</lastmod>

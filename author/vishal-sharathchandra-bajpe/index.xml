@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vishal Sharathchandra Bajpe | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/vishal-sharathchandra-bajpe/</link>
+      <atom:link href="https://cbjuan.github.io/author/vishal-sharathchandra-bajpe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vishal Sharathchandra Bajpe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Vishal Sharathchandra Bajpe</title>
+      <link>https://cbjuan.github.io/author/vishal-sharathchandra-bajpe/</link>
+    </image>
+    
+    <item>
+      <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
+      <link>https://cbjuan.github.io/publication/2024-qiskithumaneval/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qiskithumaneval/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

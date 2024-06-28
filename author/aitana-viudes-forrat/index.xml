@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aitana Viudes Forrat | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/aitana-viudes-forrat/</link>
+      <atom:link href="https://cbjuan.github.io/author/aitana-viudes-forrat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aitana Viudes Forrat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 29 May 2024 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Aitana Viudes Forrat</title>
+      <link>https://cbjuan.github.io/author/aitana-viudes-forrat/</link>
+    </image>
+    
+    <item>
+      <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
+      <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

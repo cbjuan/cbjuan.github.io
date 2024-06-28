@@ -5,12 +5,28 @@
     <link>https://cbjuan.github.io/publication-type/1/</link>
       <atom:link href="https://cbjuan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 04 May 2023 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>1</title>
       <link>https://cbjuan.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
+      <link>https://cbjuan.github.io/publication/2023-qnlp-icist/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-qnlp-icist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
+      <link>https://cbjuan.github.io/publication/2023-qnlp-ivus/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-qnlp-ivus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development of Algorithms and Methods for the Simulation and Improvement in the Quantum Natural Language Processing Area</title>

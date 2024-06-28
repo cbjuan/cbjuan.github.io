@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/author/david-peral-garcia/</link>
       <atom:link href="https://cbjuan.github.io/author/david-peral-garcia/index.xml" rel="self" type="application/rss+xml" />
     <description>David Peral-García</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>David Peral-García</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Comparing Natural Language Processing and Quantum Natural Processing approaches in text classification tasks</title>
+      <link>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Systematic Literature Review: Quantum Machine Learning and its applications</title>
       <link>https://cbjuan.github.io/publication/2022-srl_qml/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0100</pubDate>
       <guid>https://cbjuan.github.io/publication/2022-srl_qml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
+      <link>https://cbjuan.github.io/publication/2023-qnlp-icist/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-qnlp-icist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
+      <link>https://cbjuan.github.io/publication/2023-qnlp-ivus/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-qnlp-ivus/</guid>
       <description></description>
     </item>
     

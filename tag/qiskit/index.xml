@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiskit | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/qiskit/</link>
+      <atom:link href="https://cbjuan.github.io/tag/qiskit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiskit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Qiskit</title>
+      <link>https://cbjuan.github.io/tag/qiskit/</link>
+    </image>
+    
+    <item>
+      <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
+      <link>https://cbjuan.github.io/publication/2024-qiskithumaneval/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qiskithumaneval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
+      <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
