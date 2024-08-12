@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Approximate compiling | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/approximate-compiling/</link>
+      <atom:link href="https://cbjuan.github.io/tag/approximate-compiling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Approximate compiling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Approximate compiling</title>
+      <link>https://cbjuan.github.io/tag/approximate-compiling/</link>
+    </image>
+    
+    <item>
+      <title>AI methods for approximate compiling of unitaries</title>
+      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

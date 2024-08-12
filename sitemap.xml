@@ -3,13 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cbjuan.github.io/publication-type/3/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/approximate-compiling/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/authors/</loc>
-    <lastmod>2024-06-29T01:47:43+02:00</lastmod>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/david-kremer/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ismael-faro/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication_types/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/sanjay-vishwakarma/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tags/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/unitary-synthesis/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/victor-villar/</loc>
+    <lastmod>2024-08-13T00:32:17+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/evaluation-benchmarks/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
@@ -20,15 +59,6 @@
     <loc>https://cbjuan.github.io/tag/humaneval/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/ismael-faro/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/</loc>
-    <lastmod>2024-06-29T01:47:43+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/large-language-models/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
@@ -36,9 +66,6 @@
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/nicolas-dupuis/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/publication_types/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/qiskit/</loc>
@@ -53,22 +80,13 @@
     <loc>https://cbjuan.github.io/author/ruchir-puri/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/sanjay-vishwakarma/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/author/siddharth-golecha/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tags/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/vishal-sharathchandra-bajpe/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication-type/8/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/computer-program/</loc>
@@ -113,9 +131,6 @@
     <loc>https://cbjuan.github.io/author/francisco-jose-garcia-penalvo/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/quantum-machine-learning/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
@@ -146,9 +161,6 @@
     <loc>https://cbjuan.github.io/author/ivan-duran/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/publication/2024-synthesisrl/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
@@ -156,9 +168,6 @@
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/transpiling/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/victor-villar/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/artificial-neural-network/</loc>
