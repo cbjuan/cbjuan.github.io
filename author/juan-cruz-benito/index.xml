@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/author/juan-cruz-benito/</link>
       <atom:link href="https://cbjuan.github.io/author/juan-cruz-benito/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Cruz-Benito</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Juan Cruz-Benito</title>
       <link>https://cbjuan.github.io/author/juan-cruz-benito/</link>
     </image>
+    
+    <item>
+      <title>Attention-based neural networks for quantum computing simulations</title>
+      <link>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0200</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AI methods for approximate compiling of unitaries</title>
