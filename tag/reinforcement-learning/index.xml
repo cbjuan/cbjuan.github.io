@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/tag/reinforcement-learning/</link>
       <atom:link href="https://cbjuan.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinforcement Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 21 May 2024 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Reinforcement Learning</title>
       <link>https://cbjuan.github.io/tag/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>Reinforcement Learning based Clifford Circuit Synthesis</title>
+      <link>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
