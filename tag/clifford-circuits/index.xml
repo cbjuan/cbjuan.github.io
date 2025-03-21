@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clifford Circuits | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/clifford-circuits/</link>
+      <atom:link href="https://cbjuan.github.io/tag/clifford-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clifford Circuits</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Clifford Circuits</title>
+      <link>https://cbjuan.github.io/tag/clifford-circuits/</link>
+    </image>
+    
+    <item>
+      <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
+      <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
