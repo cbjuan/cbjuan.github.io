@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/author/hanhee-paik/</link>
       <atom:link href="https://cbjuan.github.io/author/hanhee-paik/index.xml" rel="self" type="application/rss+xml" />
     <description>Hanhee Paik</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Hanhee Paik</title>
       <link>https://cbjuan.github.io/author/hanhee-paik/</link>
     </image>
+    
+    <item>
+      <title>Reinforcement learning based transpilation of quantum circuits</title>
+      <link>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reinforcement Learning based Clifford Circuit Synthesis</title>
