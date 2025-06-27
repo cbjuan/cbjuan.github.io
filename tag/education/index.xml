@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/tag/education/</link>
       <atom:link href="https://cbjuan.github.io/tag/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Education</title>
@@ -15,7 +15,7 @@
     <item>
       <title>AI-Driven Assessment of Students: Current Uses and Research Trends</title>
       <link>https://cbjuan.github.io/publication/2020-hcii/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2020-hcii/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>How to Measure Teachers&#39; Acceptance of AI-driven Assessment in eLearning: A TAM-based Proposal</title>
       <link>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Measuring Students’ Acceptance to AI-Driven Assessment in eLearning: Proposing a First TAM-Based Research Model</title>
       <link>https://cbjuan.github.io/publication/2019_hciinternational/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2019_hciinternational/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
       <link>https://cbjuan.github.io/publication/2016_7511684/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
       <description></description>
     </item>

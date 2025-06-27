@@ -9,7 +9,7 @@
     <lastmod>2025-03-21T10:29:31+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/authors/</loc>
-    <lastmod>2025-03-21T10:29:31+01:00</lastmod>
+    <lastmod>2025-06-27T15:28:46+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/ayushi-dubal/</loc>
     <lastmod>2025-03-21T10:29:31+01:00</lastmod>
@@ -26,10 +26,10 @@
     <loc>https://cbjuan.github.io/author/derek-wang/</loc>
     <lastmod>2025-03-21T10:29:31+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2025-03-21T10:29:31+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2025-06-27T15:18:47+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
     <lastmod>2025-03-21T10:29:31+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
@@ -114,6 +114,9 @@
     <lastmod>2025-01-24T14:15:56+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</loc>
+    <lastmod>2024-10-17T13:13:54+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ivan-duran-martinez/</loc>
     <lastmod>2024-10-17T13:13:54+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/memory/</loc>
@@ -248,6 +251,9 @@
     <loc>https://cbjuan.github.io/publication/2023-qnlp-icist/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/author/ivan-duran-martinez/</loc>
+    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/tag/natural-language-processing/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
@@ -268,6 +274,9 @@
   </url><url>
     <loc>https://cbjuan.github.io/publication/2023-qml-teem-22/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/talk/2025_doctorado_usal/</loc>
+    <lastmod>2025-06-27T15:18:47+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/talk/2023_master_usal/</loc>
     <lastmod>2023-05-08T15:43:47+02:00</lastmod>
@@ -335,6 +344,9 @@
     <loc>https://cbjuan.github.io/talk/2020_master_usal/</loc>
     <lastmod>2020-07-16T14:12:39+02:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/talk/2020_pydata/</loc>
+    <lastmod>2020-07-16T14:05:57+02:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/categories/</loc>
     <lastmod>2020-09-21T18:37:33+02:00</lastmod>
   </url><url>
@@ -344,14 +356,11 @@
     <loc>https://cbjuan.github.io/category/interview/</loc>
     <lastmod>2020-09-21T18:37:33+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/media/</loc>
-    <lastmod>2020-09-21T18:37:33+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/media/</loc>
     <lastmod>2020-09-21T18:37:33+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/talk/2020_pydata/</loc>
-    <lastmod>2020-07-16T14:05:57+02:00</lastmod>
+    <loc>https://cbjuan.github.io/tag/media/</loc>
+    <lastmod>2020-09-21T18:37:33+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/media/2020-la-razon/</loc>
     <lastmod>2020-09-21T16:27:44+02:00</lastmod>
@@ -554,6 +563,9 @@
     <loc>https://cbjuan.github.io/author/francisco-jose-cabrera-hernandez/</loc>
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/author/francisco-jose-martin-fernandez/</loc>
+    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/author/gadi-aleksandrowicz/</loc>
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
@@ -618,6 +630,9 @@
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/luciano-bello/</loc>
+    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/%C5%82ukasz-herok/</loc>
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/manoel-marques/</loc>
@@ -725,9 +740,6 @@
     <loc>https://cbjuan.github.io/author/yunong-shi/</loc>
     <lastmod>2022-01-13T18:24:51+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/%C5%82ukasz-herok/</loc>
-    <lastmod>2022-01-13T18:24:51+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/publication-type/7/</loc>
     <lastmod>2020-07-28T14:28:12+02:00</lastmod>
   </url><url>
@@ -746,10 +758,19 @@
     <loc>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-91152-6-32/</loc>
     <lastmod>2018-12-04T23:42:49+01:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/author/francisco-martin-fernandez/</loc>
+    <lastmod>2018-12-04T23:42:49+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/talk/2018_quantum_pintofscience/</loc>
     <lastmod>2020-07-28T12:04:18+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</loc>
+    <lastmod>2018-12-04T23:42:49+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/jose-carlos-sanchez-prieto/</loc>
+    <lastmod>2018-12-04T23:42:49+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/martin-martin-gonzalez/</loc>
     <lastmod>2018-12-04T23:42:49+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</loc>
@@ -775,6 +796,12 @@
   </url><url>
     <loc>https://cbjuan.github.io/publication-type/6/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/a/b-testing/</loc>
+    <lastmod>2020-09-21T18:55:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/a/b-testing-approach/</loc>
+    <lastmod>2020-09-21T18:55:41+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/adaptability/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
@@ -893,6 +920,9 @@
     <loc>https://cbjuan.github.io/author/alejandra-martinez-mones/</loc>
     <lastmod>2018-12-04T23:42:49+01:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/author/angel-f-agudo-peregrina/</loc>
+    <lastmod>2018-12-04T23:42:49+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/author/antonio-robles-gomez/</loc>
     <lastmod>2018-12-04T23:42:49+01:00</lastmod>
   </url><url>
@@ -920,9 +950,6 @@
     <loc>https://cbjuan.github.io/publication/2017_agudo-snola/</loc>
     <lastmod>2018-12-04T23:42:49+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/angel-f-agudo-peregrina/</loc>
-    <lastmod>2018-12-04T23:42:49+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/publication/2017_vazquez-improving/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
@@ -931,6 +958,9 @@
   </url><url>
     <loc>https://cbjuan.github.io/publication-type/4/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/francisco-j.-garcia-penalvo/</loc>
+    <lastmod>2020-09-21T18:59:02+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2017_cruzinclusion/</loc>
     <lastmod>2020-09-21T18:59:02+02:00</lastmod>
@@ -959,14 +989,14 @@
     <loc>https://cbjuan.github.io/author/r-theron/</loc>
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/author/angel-fidalgo-blanco/</loc>
+    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/publication/2017_cruz-learning/</loc>
     <lastmod>2020-09-21T18:59:02+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/oriol-borras-gene/</loc>
-    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/angel-fidalgo-blanco/</loc>
-    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
+    <lastmod>2020-09-21T18:59:02+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2017_cruz-improving/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
@@ -1003,9 +1033,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/tag/using-logic/</loc>
     <lastmod>2018-12-13T19:17:28+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/technology-enhanced-learning/</loc>
-    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/3-d-environment/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
@@ -1064,6 +1091,9 @@
     <loc>https://cbjuan.github.io/tag/software-product/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/technology-enhanced-learning/</loc>
+    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/tag/three-dimensional-displays/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
   </url><url>
@@ -1090,6 +1120,9 @@
   </url><url>
     <loc>https://cbjuan.github.io/publication/2016_cruz-comunidades/</loc>
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/oriol-borras-gene/</loc>
+    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/roberto-theron-sanchez/</loc>
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
@@ -1133,13 +1166,13 @@
     <loc>https://cbjuan.github.io/author/alicia-garcia-holgado/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/analysis/</loc>
-    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/analisis/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2015_garcia-holgado-analisis/</loc>
+    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/analysis/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2015_garcia-sanchez-comprendiendo/</loc>
@@ -1217,9 +1250,6 @@
     <loc>https://cbjuan.github.io/tag/spain/</loc>
     <lastmod>2020-07-28T14:35:19+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/moodle/</loc>
-    <lastmod>2019-02-03T19:03:44-05:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</loc>
     <lastmod>2018-12-14T18:40:00+01:00</lastmod>
   </url><url>
@@ -1227,6 +1257,9 @@
     <lastmod>2018-12-14T18:40:00+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/mooc/</loc>
+    <lastmod>2018-12-14T18:40:00+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/moodle/</loc>
     <lastmod>2018-12-14T18:40:00+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/analitica-de-uso/</loc>
@@ -1273,9 +1306,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/tag/usage-patterns/</loc>
     <lastmod>2018-12-14T18:53:15+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/professional-skills/</loc>
-    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/business-stakeholders/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
@@ -1331,6 +1361,9 @@
     <loc>https://cbjuan.github.io/tag/professional-career/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/professional-skills/</loc>
+    <lastmod>2020-12-01T17:25:20+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/tag/proposals/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
@@ -1364,9 +1397,6 @@
     <loc>https://cbjuan.github.io/tag/virtual-placements/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/electronic-learning/</loc>
-    <lastmod>2020-09-21T18:55:41+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/cloud/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
   </url><url>
@@ -1389,6 +1419,9 @@
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/elearning-environments/</loc>
+    <lastmod>2020-09-21T18:55:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/electronic-learning/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/information-analysis/</loc>
@@ -1429,6 +1462,9 @@
   </url><url>
     <loc>https://cbjuan.github.io/tag/academic-institution/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ana-martin-suarez/</loc>
+    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/business/</loc>
     <lastmod>2020-09-21T18:55:41+02:00</lastmod>
@@ -1652,6 +1688,15 @@
     <loc>https://cbjuan.github.io/tag/e-learning/</loc>
     <lastmod>2019-02-03T19:03:44-05:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/electronic-learning/</loc>
+    <lastmod>2019-02-03T19:03:44-05:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/higher-education/</loc>
+    <lastmod>2019-02-03T19:03:44-05:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/moodle/</loc>
+    <lastmod>2019-02-03T19:03:44-05:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/tag/online-learning/</loc>
     <lastmod>2019-02-03T19:03:44-05:00</lastmod>
   </url><url>
@@ -1661,16 +1706,25 @@
     <loc>https://cbjuan.github.io/tag/professional-relationships/</loc>
     <lastmod>2019-02-03T19:03:44-05:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/professional-skills/</loc>
+    <lastmod>2019-02-03T19:03:44-05:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/tag/sloodle/</loc>
     <lastmod>2019-02-03T19:03:44-05:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/student-employability/</loc>
     <lastmod>2019-02-03T19:03:44-05:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/technology-enhanced-learning/</loc>
+    <lastmod>2019-02-03T19:03:44-05:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/tag/university-students/</loc>
     <lastmod>2019-02-03T19:03:44-05:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/usalsim/</loc>
+    <lastmod>2019-02-03T19:03:44-05:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/virtual-world/</loc>
     <lastmod>2019-02-03T19:03:44-05:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/work-placement-simulation/</loc>
@@ -1688,10 +1742,16 @@
     <loc>https://cbjuan.github.io/author/antonio-m-seoane-pardo/</loc>
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/author/aranzazu-zarzuelo-castaneda/</loc>
+    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/tag/competence/</loc>
     <lastmod>2019-02-03T19:02:47-05:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/congresses/</loc>
+    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/cristina-maderuelo-martin/</loc>
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/engagement/</loc>
@@ -1702,6 +1762,9 @@
   </url><url>
     <loc>https://cbjuan.github.io/tag/formal-learning/</loc>
     <lastmod>2019-02-03T19:02:47-05:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/hinojal-zazo-gomez/</loc>
+    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/informal-learning/</loc>
     <lastmod>2019-02-03T19:02:47-05:00</lastmod>
@@ -1719,6 +1782,9 @@
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/ma-jose-de-jesus-valle/</loc>
+    <lastmod>2020-09-21T19:06:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ma.-del-carmen-gutierrez-millan/</loc>
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/miguel-angel-conde-gonzalez/</loc>
@@ -1769,12 +1835,11 @@
     <loc>https://cbjuan.github.io/tag/virtual-world/</loc>
     <lastmod>2020-09-21T19:06:07+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/a/b-testing/</loc>
+    <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2025-06-27T15:28:46+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/a/b-testing-approach/</loc>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2024-06-29T01:47:43+02:00</lastmod>
+    <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2025-06-27T15:28:46+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/post/</loc>
     <lastmod>2020-07-28T14:28:12+02:00</lastmod>

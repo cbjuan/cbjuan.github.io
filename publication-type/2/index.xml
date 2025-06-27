@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/publication-type/2/</link>
       <atom:link href="https://cbjuan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>2</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Comparing Natural Language Processing and Quantum Natural Processing approaches in text classification tasks</title>
       <link>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Systematic Literature Review: Quantum Machine Learning and its applications</title>
       <link>https://cbjuan.github.io/publication/2022-srl_qml/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2022-srl_qml/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Automated Source Code Generation and Auto-Completion Using Deep Learning: Comparing and Discussing Current Language Model-Related Approaches</title>
       <link>https://cbjuan.github.io/publication/2020-lms-ai/</link>
-      <pubDate>Sat, 16 Jan 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2020-lms-ai/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Assessed by Machines: Development of a TAM-Based Tool to Measure AI-based Assessment Acceptance Among Students</title>
       <link>https://cbjuan.github.io/publication/2020-ijimai/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2020-ijimai/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Analyzing the software architectures supporting HCI/HMI processes through a systematic review of the literature</title>
       <link>https://cbjuan.github.io/publication/2018_cruzbenito/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_cruzbenito/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Proposing a Machine Learning Approach to Analyze and Predict Employment and its Factors</title>
       <link>https://cbjuan.github.io/publication/2018_garcia-proposing/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_garcia-proposing/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>Empleabilidad de los titulados universitarios en España. Proyecto OEEU</title>
       <link>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</link>
-      <pubDate>Wed, 25 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
       <link>https://cbjuan.github.io/publication/2018_8240912/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>Learning communities in social networks and their relationship with the MOOCs</title>
       <link>https://cbjuan.github.io/publication/2017_cruz-learning/</link>
-      <pubDate>Thu, 19 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2017_cruz-learning/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
       <link>https://cbjuan.github.io/publication/2016_7511684/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
       <description></description>
     </item>
@@ -95,7 +95,7 @@
     <item>
       <title>Comunidades de Aprendizaje en Redes Sociales y su Relación con los MOOC</title>
       <link>https://cbjuan.github.io/publication/2016_cruz-comunidades/</link>
-      <pubDate>Tue, 07 Jun 2016 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_cruz-comunidades/</guid>
       <description></description>
     </item>
@@ -103,7 +103,7 @@
     <item>
       <title>Virtual Placements Management Process Supported by Technology: Proposal and First Results of the Semester of Code</title>
       <link>https://cbjuan.github.io/publication/2016_garcia-virtual/</link>
-      <pubDate>Wed, 03 Feb 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_garcia-virtual/</guid>
       <description></description>
     </item>
@@ -111,7 +111,7 @@
     <item>
       <title>Understanding the barriers to virtual student placements in the Semester of Code</title>
       <link>https://cbjuan.github.io/publication/2016_garcia-understanding/</link>
-      <pubDate>Fri, 15 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_garcia-understanding/</guid>
       <description></description>
     </item>
@@ -119,7 +119,7 @@
     <item>
       <title>Usalpharma: Una arquitectura software al servicio del aprendizaje en Mundos Virtuales</title>
       <link>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</guid>
       <description></description>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>Discovering usage behaviors and engagement in an Educational Virtual World</title>
       <link>https://cbjuan.github.io/publication/2015_cruzbenito-18/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_cruzbenito-18/</guid>
       <description></description>
     </item>
@@ -135,7 +135,7 @@
     <item>
       <title>Tecnología al servicio de un proceso de gestión de prácticas virtuales en empresas: Propuesta y primeros resultados del Semester of Code</title>
       <link>https://cbjuan.github.io/publication/2015_garcia-tecnologia/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_garcia-tecnologia/</guid>
       <description></description>
     </item>
@@ -143,7 +143,7 @@
     <item>
       <title>Facility-based inspection training in a virtual 3D laboratory</title>
       <link>https://cbjuan.github.io/publication/2014_maderuelo/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_maderuelo/</guid>
       <description></description>
     </item>
@@ -151,7 +151,7 @@
     <item>
       <title>Scientific Knowledge Transfer Training Through a Virtual World</title>
       <link>https://cbjuan.github.io/publication/2014_martin-scientific/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_martin-scientific/</guid>
       <description></description>
     </item>
@@ -159,7 +159,7 @@
     <item>
       <title>Usalpharma: A cloud-based architecture to support Quality Assurance training processes in health area using Virtual Worlds</title>
       <link>https://cbjuan.github.io/publication/2014_garcia-usalpharma/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_garcia-usalpharma/</guid>
       <description></description>
     </item>
@@ -167,7 +167,7 @@
     <item>
       <title>Visualización y Análisis de Datos en Mundos Virtuales Educativos: Comprendiendo la interacción de los usuarios en los entornos 3D</title>
       <link>https://cbjuan.github.io/publication/2014_garcia-visualizacion/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_garcia-visualizacion/</guid>
       <description></description>
     </item>
@@ -175,7 +175,7 @@
     <item>
       <title>USALSIM: learning, professional practices and employability in a 3D virtual world</title>
       <link>https://cbjuan.github.io/publication/2013_usalsim-ijtel/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2013_usalsim-ijtel/</guid>
       <description></description>
     </item>

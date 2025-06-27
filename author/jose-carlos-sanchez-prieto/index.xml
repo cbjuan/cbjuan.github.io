@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/author/jose-carlos-sanchez-prieto/</link>
       <atom:link href="https://cbjuan.github.io/author/jose-carlos-sanchez-prieto/index.xml" rel="self" type="application/rss+xml" />
     <description>José Carlos Sánchez-Prieto</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>José Carlos Sánchez-Prieto</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Assessed by Machines: Development of a TAM-Based Tool to Measure AI-based Assessment Acceptance Among Students</title>
       <link>https://cbjuan.github.io/publication/2020-ijimai/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2020-ijimai/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>AI-Driven Assessment of Students: Current Uses and Research Trends</title>
       <link>https://cbjuan.github.io/publication/2020-hcii/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2020-hcii/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>How to Measure Teachers&#39; Acceptance of AI-driven Assessment in eLearning: A TAM-based Proposal</title>
       <link>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Measuring Students’ Acceptance to AI-Driven Assessment in eLearning: Proposing a First TAM-Based Research Model</title>
       <link>https://cbjuan.github.io/publication/2019_hciinternational/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2019_hciinternational/</guid>
       <description></description>
     </item>
@@ -47,23 +47,15 @@
     <item>
       <title>Proposing a Machine Learning Approach to Analyze and Predict Employment and its Factors</title>
       <link>https://cbjuan.github.io/publication/2018_garcia-proposing/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_garcia-proposing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Different Versions of Layout and Complexity of Web Forms Affect Users After They Start It? A Pilot Experience</title>
-      <link>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developing a Research Method to Analyze Visual Literacy Based on Cross-Cultural Characteristics</title>
       <link>https://cbjuan.github.io/publication/2018_garcia-sanchez/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_garcia-sanchez/</guid>
       <description></description>
     </item>
@@ -71,7 +63,7 @@
     <item>
       <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
       <link>https://cbjuan.github.io/publication/2018_8240912/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
       <description></description>
     </item>
@@ -79,7 +71,7 @@
     <item>
       <title>Improving success/completion ratio in large surveys: a proposal based on usability and engagement</title>
       <link>https://cbjuan.github.io/publication/2017_cruz-improving/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2017_cruz-improving/</guid>
       <description></description>
     </item>

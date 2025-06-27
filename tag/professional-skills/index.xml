@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> professional skills | Juan Cruz-Benito</title>
+    <title>Professional Skills | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/professional-skills/</link>
       <atom:link href="https://cbjuan.github.io/tag/professional-skills/index.xml" rel="self" type="application/rss+xml" />
-    <description> professional skills</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0100</lastBuildDate>
+    <description>Professional Skills</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title> professional skills</title>
+      <title>Professional Skills</title>
       <link>https://cbjuan.github.io/tag/professional-skills/</link>
     </image>
     
     <item>
       <title>Semester of Code: Piloting virtual placements for informatics across Europe</title>
       <link>https://cbjuan.github.io/publication/2015_7096026/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_7096026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>USALSIM: learning, professional practices and employability in a 3D virtual world</title>
-      <link>https://cbjuan.github.io/publication/2013_usalsim-ijtel/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://cbjuan.github.io/publication/2013_usalsim-ijtel/</guid>
       <description></description>
     </item>
     

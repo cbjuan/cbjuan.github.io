@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software engineering | Juan Cruz-Benito</title>
+    <title>Software Engineering | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/software-engineering/</link>
       <atom:link href="https://cbjuan.github.io/tag/software-engineering/index.xml" rel="self" type="application/rss+xml" />
-    <description>Software engineering</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <description>Software Engineering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Software engineering</title>
+      <title>Software Engineering</title>
       <link>https://cbjuan.github.io/tag/software-engineering/</link>
     </image>
     
     <item>
       <title>Automated Source Code Generation and Auto-Completion Using Deep Learning: Comparing and Discussing Current Language Model-Related Approaches</title>
       <link>https://cbjuan.github.io/publication/2020-lms-ai/</link>
-      <pubDate>Sat, 16 Jan 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2020-lms-ai/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
       <link>https://cbjuan.github.io/publication/2016_7511684/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
       <description></description>
     </item>

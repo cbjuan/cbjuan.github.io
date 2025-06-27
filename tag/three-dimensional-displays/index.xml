@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Three-dimensional displays | Juan Cruz-Benito</title>
+    <title>Three-Dimensional Displays | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/three-dimensional-displays/</link>
       <atom:link href="https://cbjuan.github.io/tag/three-dimensional-displays/index.xml" rel="self" type="application/rss+xml" />
-    <description>Three-dimensional displays</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0200</lastBuildDate>
+    <description>Three-Dimensional Displays</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Three-dimensional displays</title>
+      <title>Three-Dimensional Displays</title>
       <link>https://cbjuan.github.io/tag/three-dimensional-displays/</link>
     </image>
     
     <item>
       <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
       <link>https://cbjuan.github.io/publication/2016_7511684/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Monitoring and feedback of learning processes in virtual worlds through analytics architectures: A real case</title>
       <link>https://cbjuan.github.io/publication/2014_6877097/</link>
-      <pubDate>Sun, 01 Jun 2014 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_6877097/</guid>
       <description></description>
     </item>

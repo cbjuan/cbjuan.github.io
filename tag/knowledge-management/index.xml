@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>knowledge management | Juan Cruz-Benito</title>
+    <title>Knowledge Management | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/knowledge-management/</link>
       <atom:link href="https://cbjuan.github.io/tag/knowledge-management/index.xml" rel="self" type="application/rss+xml" />
-    <description>knowledge management</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0200</lastBuildDate>
+    <description>Knowledge Management</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>knowledge management</title>
+      <title>Knowledge Management</title>
       <link>https://cbjuan.github.io/tag/knowledge-management/</link>
     </image>
     
     <item>
       <title>Análisis comparativo de la gestión del conocimiento en la administración pública española</title>
       <link>https://cbjuan.github.io/publication/2015_garcia-holgado-analisis/</link>
-      <pubDate>Fri, 16 Oct 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_garcia-holgado-analisis/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Analysis of Knowledge Management Experiences in Spanish Public Administration</title>
       <link>https://cbjuan.github.io/publication/2015_garcia-holgado-akm-2808580-2808609/</link>
-      <pubDate>Fri, 09 Oct 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_garcia-holgado-akm-2808580-2808609/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Formal and Informal Learning Experiences in Multicultural Scopes</title>
       <link>https://cbjuan.github.io/publication/2013_garcia-penalvo-fil-2536536-2536616/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2013_garcia-penalvo-fil-2536536-2536616/</guid>
       <description></description>
     </item>

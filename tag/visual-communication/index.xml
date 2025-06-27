@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>visual communication | Juan Cruz-Benito</title>
+    <title>Visual Communication | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/visual-communication/</link>
       <atom:link href="https://cbjuan.github.io/tag/visual-communication/index.xml" rel="self" type="application/rss+xml" />
-    <description>visual communication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0200</lastBuildDate>
+    <description>Visual Communication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>visual communication</title>
+      <title>Visual Communication</title>
       <link>https://cbjuan.github.io/tag/visual-communication/</link>
     </image>
     
     <item>
       <title>Comprendiendo la comunicación visual en las redes sociales: una propuesta real de análisis</title>
       <link>https://cbjuan.github.io/publication/2015_garcia-sanchez-comprendiendo/</link>
-      <pubDate>Fri, 16 Oct 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_garcia-sanchez-comprendiendo/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Designing and Building Systems and Tools to Analyze Visual Communications on Social Networks</title>
       <link>https://cbjuan.github.io/publication/2015_garcia-sanchez-dbs-2808580-2808629/</link>
-      <pubDate>Fri, 09 Oct 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_garcia-sanchez-dbs-2808580-2808629/</guid>
       <description></description>
     </item>

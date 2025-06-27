@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Press release | Juan Cruz-Benito</title>
+    <title>Press Release | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/category/press-release/</link>
       <atom:link href="https://cbjuan.github.io/category/press-release/index.xml" rel="self" type="application/rss+xml" />
-    <description>Press release</description>
+    <description>Press Release</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 20 Jun 2019 13:36:00 +0100</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Press release</title>
+      <title>Press Release</title>
       <link>https://cbjuan.github.io/category/press-release/</link>
     </image>
     

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloud computing | Juan Cruz-Benito</title>
+    <title>Cloud Computing | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/cloud-computing/</link>
       <atom:link href="https://cbjuan.github.io/tag/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cloud computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0100</lastBuildDate>
+    <description>Cloud Computing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Cloud computing</title>
+      <title>Cloud Computing</title>
       <link>https://cbjuan.github.io/tag/cloud-computing/</link>
     </image>
     
     <item>
       <title>Using software architectures to retrieve interaction information in eLearning environments</title>
       <link>https://cbjuan.github.io/publication/2014_7017715/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_7017715/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Defining Generic Data Collectors for Learning Analytics: Facing Up the Heterogeneous Data from Heterogeneous Environments</title>
       <link>https://cbjuan.github.io/publication/2014_6901482/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_6901482/</guid>
       <description></description>
     </item>

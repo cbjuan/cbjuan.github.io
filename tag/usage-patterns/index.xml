@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Usage patterns | Juan Cruz-Benito</title>
+    <title>Usage Patterns | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/usage-patterns/</link>
       <atom:link href="https://cbjuan.github.io/tag/usage-patterns/index.xml" rel="self" type="application/rss+xml" />
-    <description>Usage patterns</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0200</lastBuildDate>
+    <description>Usage Patterns</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Usage patterns</title>
+      <title>Usage Patterns</title>
       <link>https://cbjuan.github.io/tag/usage-patterns/</link>
     </image>
     
     <item>
       <title>Discovering usage behaviors and engagement in an Educational Virtual World</title>
       <link>https://cbjuan.github.io/publication/2015_cruzbenito-18/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_cruzbenito-18/</guid>
       <description></description>
     </item>

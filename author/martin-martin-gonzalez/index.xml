@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/author/martin-martin-gonzalez/</link>
       <atom:link href="https://cbjuan.github.io/author/martin-martin-gonzalez/index.xml" rel="self" type="application/rss+xml" />
     <description>Martín Martín-González</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Martín Martín-González</title>
@@ -15,23 +15,15 @@
     <item>
       <title>Proposing a Machine Learning Approach to Analyze and Predict Employment and its Factors</title>
       <link>https://cbjuan.github.io/publication/2018_garcia-proposing/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_garcia-proposing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Different Versions of Layout and Complexity of Web Forms Affect Users After They Start It? A Pilot Experience</title>
-      <link>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empleabilidad de los titulados universitarios en España. Proyecto OEEU</title>
       <link>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</link>
-      <pubDate>Wed, 25 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</guid>
       <description></description>
     </item>
@@ -39,7 +31,7 @@
     <item>
       <title>Barómetro de empleabilidad y empleo universitarios. Edición Máster 2017</title>
       <link>https://cbjuan.github.io/publication/2018_oeeu/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_oeeu/</guid>
       <description></description>
     </item>
@@ -47,7 +39,7 @@
     <item>
       <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
       <link>https://cbjuan.github.io/publication/2018_8240912/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
       <description></description>
     </item>
@@ -55,7 +47,7 @@
     <item>
       <title>Scaffolding the OEEU&#39;s Data-Driven Ecosystem to Analyze the Employability of Spanish Graduates</title>
       <link>https://cbjuan.github.io/publication/2018_vazquez-ingelmo/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_vazquez-ingelmo/</guid>
       <description></description>
     </item>
@@ -63,7 +55,7 @@
     <item>
       <title>Improving success/completion ratio in large surveys: a proposal based on usability and engagement</title>
       <link>https://cbjuan.github.io/publication/2017_cruz-improving/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2017_cruz-improving/</guid>
       <description></description>
     </item>
@@ -71,7 +63,7 @@
     <item>
       <title>Barómetro de Empleabilidad y Empleo de los Universitarios en España, 2015 (Primer informe de resultados)</title>
       <link>https://cbjuan.github.io/publication/2016_oeeu/</link>
-      <pubDate>Thu, 11 Feb 2016 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_oeeu/</guid>
       <description></description>
     </item>
@@ -79,7 +71,7 @@
     <item>
       <title>Analyzing the Employability and Employment Factors of Graduate Students in Spain: The OEEU Information System</title>
       <link>https://cbjuan.github.io/publication/2015_michavila-aee-2808580-2808622/cite/</link>
-      <pubDate>Fri, 09 Oct 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_michavila-aee-2808580-2808622/cite/</guid>
       <description></description>
     </item>

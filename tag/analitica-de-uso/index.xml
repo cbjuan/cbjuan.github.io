@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>analítica de uso | Juan Cruz-Benito</title>
+    <title>Analítica De Uso | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/analitica-de-uso/</link>
       <atom:link href="https://cbjuan.github.io/tag/analitica-de-uso/index.xml" rel="self" type="application/rss+xml" />
-    <description>analítica de uso</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0200</lastBuildDate>
+    <description>Analítica De Uso</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>analítica de uso</title>
+      <title>Analítica De Uso</title>
       <link>https://cbjuan.github.io/tag/analitica-de-uso/</link>
     </image>
     
     <item>
       <title>Usalpharma: Una arquitectura software al servicio del aprendizaje en Mundos Virtuales</title>
       <link>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</guid>
       <description></description>
     </item>

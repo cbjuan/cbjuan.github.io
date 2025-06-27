@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>open source | Juan Cruz-Benito</title>
+    <title>Open Source | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/open-source/</link>
       <atom:link href="https://cbjuan.github.io/tag/open-source/index.xml" rel="self" type="application/rss+xml" />
-    <description>open source</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    <description>Open Source</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>open source</title>
+      <title>Open Source</title>
       <link>https://cbjuan.github.io/tag/open-source/</link>
     </image>
     
     <item>
       <title>Developing Win-win Solutions for Virtual Placements in Informatics: The VALS Case</title>
       <link>https://cbjuan.github.io/publication/2014_garcia-penalvo-dws-2669711-2669982/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_garcia-penalvo-dws-2669711-2669982/</guid>
       <description></description>
     </item>

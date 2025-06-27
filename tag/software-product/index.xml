@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>software product | Juan Cruz-Benito</title>
+    <title>Software Product | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/software-product/</link>
       <atom:link href="https://cbjuan.github.io/tag/software-product/index.xml" rel="self" type="application/rss+xml" />
-    <description>software product</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0200</lastBuildDate>
+    <description>Software Product</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>software product</title>
+      <title>Software Product</title>
       <link>https://cbjuan.github.io/tag/software-product/</link>
     </image>
     
     <item>
       <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
       <link>https://cbjuan.github.io/publication/2016_7511684/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
       <description></description>
     </item>

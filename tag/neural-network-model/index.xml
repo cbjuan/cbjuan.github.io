@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>neural network model | Juan Cruz-Benito</title>
+    <title>Neural Network Model | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/neural-network-model/</link>
       <atom:link href="https://cbjuan.github.io/tag/neural-network-model/index.xml" rel="self" type="application/rss+xml" />
-    <description>neural network model</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0100</lastBuildDate>
+    <description>Neural Network Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>neural network model</title>
+      <title>Neural Network Model</title>
       <link>https://cbjuan.github.io/tag/neural-network-model/</link>
     </image>
     
     <item>
       <title>Reinforced Learning for Quantum Design</title>
       <link>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Reinforcement Learning based Clifford Circuit Synthesis</title>
       <link>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Attention-based neural networks for quantum computing simulations</title>
       <link>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</link>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Natural language processing for restricting user access to systems</title>
       <link>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</link>
-      <pubDate>Thu, 29 Jun 2023 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</guid>
       <description></description>
     </item>

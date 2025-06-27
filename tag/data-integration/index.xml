@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data integration | Juan Cruz-Benito</title>
+    <title>Data Integration | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/data-integration/</link>
       <atom:link href="https://cbjuan.github.io/tag/data-integration/index.xml" rel="self" type="application/rss+xml" />
-    <description>Data integration</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0200</lastBuildDate>
+    <description>Data Integration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Data integration</title>
+      <title>Data Integration</title>
       <link>https://cbjuan.github.io/tag/data-integration/</link>
     </image>
     
     <item>
       <title>Defining Generic Data Collectors for Learning Analytics: Facing Up the Heterogeneous Data from Heterogeneous Environments</title>
       <link>https://cbjuan.github.io/publication/2014_6901482/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_6901482/</guid>
       <description></description>
     </item>

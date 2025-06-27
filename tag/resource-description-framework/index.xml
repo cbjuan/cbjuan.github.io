@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resource description framework | Juan Cruz-Benito</title>
+    <title>Resource Description Framework | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/resource-description-framework/</link>
       <atom:link href="https://cbjuan.github.io/tag/resource-description-framework/index.xml" rel="self" type="application/rss+xml" />
-    <description>Resource description framework</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0200</lastBuildDate>
+    <description>Resource Description Framework</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Resource description framework</title>
+      <title>Resource Description Framework</title>
       <link>https://cbjuan.github.io/tag/resource-description-framework/</link>
     </image>
     
     <item>
       <title>Defining Generic Data Collectors for Learning Analytics: Facing Up the Heterogeneous Data from Heterogeneous Environments</title>
       <link>https://cbjuan.github.io/publication/2014_6901482/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_6901482/</guid>
       <description></description>
     </item>

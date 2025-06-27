@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>employment | Juan Cruz-Benito</title>
+    <title>Employment | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/employment/</link>
       <atom:link href="https://cbjuan.github.io/tag/employment/index.xml" rel="self" type="application/rss+xml" />
-    <description>employment</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <description>Employment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>employment</title>
+      <title>Employment</title>
       <link>https://cbjuan.github.io/tag/employment/</link>
     </image>
     
     <item>
       <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
       <link>https://cbjuan.github.io/publication/2018_8240912/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Analyzing the Employability and Employment Factors of Graduate Students in Spain: The OEEU Information System</title>
       <link>https://cbjuan.github.io/publication/2015_michavila-aee-2808580-2808622/cite/</link>
-      <pubDate>Fri, 09 Oct 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2015_michavila-aee-2808580-2808622/cite/</guid>
       <description></description>
     </item>

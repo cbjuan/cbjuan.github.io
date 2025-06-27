@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>process | Juan Cruz-Benito</title>
+    <title>Process | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/process/</link>
       <atom:link href="https://cbjuan.github.io/tag/process/index.xml" rel="self" type="application/rss+xml" />
-    <description>process</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0200</lastBuildDate>
+    <description>Process</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>process</title>
+      <title>Process</title>
       <link>https://cbjuan.github.io/tag/process/</link>
     </image>
     
     <item>
       <title>Quantum and non-quantum source code translation</title>
       <link>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</guid>
       <description></description>
     </item>

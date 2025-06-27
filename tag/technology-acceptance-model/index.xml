@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology acceptance model | Juan Cruz-Benito</title>
+    <title>Technology Acceptance Model | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/technology-acceptance-model/</link>
       <atom:link href="https://cbjuan.github.io/tag/technology-acceptance-model/index.xml" rel="self" type="application/rss+xml" />
-    <description>Technology acceptance model</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <description>Technology Acceptance Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Technology acceptance model</title>
+      <title>Technology Acceptance Model</title>
       <link>https://cbjuan.github.io/tag/technology-acceptance-model/</link>
     </image>
     
     <item>
       <title>How to Measure Teachers&#39; Acceptance of AI-driven Assessment in eLearning: A TAM-based Proposal</title>
       <link>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Measuring Students’ Acceptance to AI-Driven Assessment in eLearning: Proposing a First TAM-Based Research Model</title>
       <link>https://cbjuan.github.io/publication/2019_hciinternational/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2019_hciinternational/</guid>
       <description></description>
     </item>

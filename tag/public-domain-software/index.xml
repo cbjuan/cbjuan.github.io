@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>public domain software | Juan Cruz-Benito</title>
+    <title>Public Domain Software | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/public-domain-software/</link>
       <atom:link href="https://cbjuan.github.io/tag/public-domain-software/index.xml" rel="self" type="application/rss+xml" />
-    <description>public domain software</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0200</lastBuildDate>
+    <description>Public Domain Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>public domain software</title>
+      <title>Public Domain Software</title>
       <link>https://cbjuan.github.io/tag/public-domain-software/</link>
     </image>
     
     <item>
       <title>Virtual placements for informatics students in open source business across Europe</title>
       <link>https://cbjuan.github.io/publication/2014_7044411/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2014_7044411/</guid>
       <description></description>
     </item>

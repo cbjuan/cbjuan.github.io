@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>USALPHARMA | Juan Cruz-Benito</title>
+    <title>Usalpharma | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/tag/usalpharma/</link>
       <atom:link href="https://cbjuan.github.io/tag/usalpharma/index.xml" rel="self" type="application/rss+xml" />
-    <description>USALPHARMA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0200</lastBuildDate>
+    <description>Usalpharma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>USALPHARMA</title>
+      <title>Usalpharma</title>
       <link>https://cbjuan.github.io/tag/usalpharma/</link>
     </image>
     
     <item>
       <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
       <link>https://cbjuan.github.io/publication/2016_7511684/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Virtual Congresses for Pharmaceutical Learning</title>
       <link>https://cbjuan.github.io/publication/2013_suarez-vcp-2536536-2536549/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2013_suarez-vcp-2536536-2536549/</guid>
       <description></description>
     </item>

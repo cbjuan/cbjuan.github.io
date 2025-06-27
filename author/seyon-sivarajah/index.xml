@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/author/seyon-sivarajah/</link>
       <atom:link href="https://cbjuan.github.io/author/seyon-sivarajah/index.xml" rel="self" type="application/rss+xml" />
     <description>Seyon Sivarajah</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Seyon Sivarajah</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Qiskit: An Open-source Framework for Quantum Computing</title>
       <link>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</guid>
       <description></description>
     </item>
