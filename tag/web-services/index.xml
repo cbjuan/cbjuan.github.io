@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Services | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/web-services/</link>
-      <atom:link href="https://cbjuan.github.io/tag/web-services/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/web-services/</link>
+      <atom:link href="https://juancb.es/tag/web-services/index.xml" rel="self" type="application/rss+xml" />
     <description>Web Services</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Web Services</title>
-      <link>https://cbjuan.github.io/tag/web-services/</link>
+      <link>https://juancb.es/tag/web-services/</link>
     </image>
     
     <item>
       <title>Comprendiendo la comunicación visual en las redes sociales: una propuesta real de análisis</title>
-      <link>https://cbjuan.github.io/publication/2015_garcia-sanchez-comprendiendo/</link>
+      <link>https://juancb.es/publication/2015_garcia-sanchez-comprendiendo/</link>
       <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2015_garcia-sanchez-comprendiendo/</guid>
+      <guid>https://juancb.es/publication/2015_garcia-sanchez-comprendiendo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing and Building Systems and Tools to Analyze Visual Communications on Social Networks</title>
-      <link>https://cbjuan.github.io/publication/2015_garcia-sanchez-dbs-2808580-2808629/</link>
+      <link>https://juancb.es/publication/2015_garcia-sanchez-dbs-2808580-2808629/</link>
       <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2015_garcia-sanchez-dbs-2808580-2808629/</guid>
+      <guid>https://juancb.es/publication/2015_garcia-sanchez-dbs-2808580-2808629/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extending MOOC Ecosystems Using Web Services and Software Architectures</title>
-      <link>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</link>
+      <link>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
+      <guid>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
       <description></description>
     </item>
     

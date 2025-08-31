@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information Storage | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/information-storage/</link>
-      <atom:link href="https://cbjuan.github.io/tag/information-storage/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/information-storage/</link>
+      <atom:link href="https://juancb.es/tag/information-storage/index.xml" rel="self" type="application/rss+xml" />
     <description>Information Storage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Information Storage</title>
-      <link>https://cbjuan.github.io/tag/information-storage/</link>
+      <link>https://juancb.es/tag/information-storage/</link>
     </image>
     
     <item>
       <title>Defining Generic Data Collectors for Learning Analytics: Facing Up the Heterogeneous Data from Heterogeneous Environments</title>
-      <link>https://cbjuan.github.io/publication/2014_6901482/</link>
+      <link>https://juancb.es/publication/2014_6901482/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2014_6901482/</guid>
+      <guid>https://juancb.es/publication/2014_6901482/</guid>
       <description></description>
     </item>
     

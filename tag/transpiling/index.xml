@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transpiling | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/transpiling/</link>
-      <atom:link href="https://cbjuan.github.io/tag/transpiling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/transpiling/</link>
+      <atom:link href="https://juancb.es/tag/transpiling/index.xml" rel="self" type="application/rss+xml" />
     <description>Transpiling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Transpiling</title>
-      <link>https://cbjuan.github.io/tag/transpiling/</link>
+      <link>https://juancb.es/tag/transpiling/</link>
     </image>
     
     <item>
       <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
+      <link>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid>
+      <guid>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2024-synthesisrl/</link>
+      <link>https://juancb.es/publication/2024-synthesisrl/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid>
+      <guid>https://juancb.es/publication/2024-synthesisrl/</guid>
       <description></description>
     </item>
     

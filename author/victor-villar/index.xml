@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Victor Villar | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/author/victor-villar/</link>
-      <atom:link href="https://cbjuan.github.io/author/victor-villar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/author/victor-villar/</link>
+      <atom:link href="https://juancb.es/author/victor-villar/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor Villar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Victor Villar</title>
-      <link>https://cbjuan.github.io/author/victor-villar/</link>
+      <link>https://juancb.es/author/victor-villar/</link>
     </image>
     
     <item>
       <title>Reinforcement learning based transpilation of quantum circuits</title>
-      <link>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</link>
+      <link>https://juancb.es/publication/2025-patent_rl_transpilation/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</guid>
+      <guid>https://juancb.es/publication/2025-patent_rl_transpilation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
+      <link>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid>
+      <guid>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI methods for approximate compiling of unitaries</title>
-      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
+      <link>https://juancb.es/publication/2024-aimethodsunitaries/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
+      <guid>https://juancb.es/publication/2024-aimethodsunitaries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2024-synthesisrl/</link>
+      <link>https://juancb.es/publication/2024-synthesisrl/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid>
+      <guid>https://juancb.es/publication/2024-synthesisrl/</guid>
       <description></description>
     </item>
     

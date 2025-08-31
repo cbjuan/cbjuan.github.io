@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HCI | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/hci/</link>
-      <atom:link href="https://cbjuan.github.io/tag/hci/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/hci/</link>
+      <atom:link href="https://juancb.es/tag/hci/index.xml" rel="self" type="application/rss+xml" />
     <description>HCI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>HCI</title>
-      <link>https://cbjuan.github.io/tag/hci/</link>
+      <link>https://juancb.es/tag/hci/</link>
     </image>
     
     <item>
       <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
-      <link>https://cbjuan.github.io/publication/2018_8240912/</link>
+      <link>https://juancb.es/publication/2018_8240912/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
+      <guid>https://juancb.es/publication/2018_8240912/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extending MOOC Ecosystems Using Web Services and Software Architectures</title>
-      <link>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</link>
+      <link>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
+      <guid>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zlatko Kristev Minev | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/author/zlatko-kristev-minev/</link>
-      <atom:link href="https://cbjuan.github.io/author/zlatko-kristev-minev/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/author/zlatko-kristev-minev/</link>
+      <atom:link href="https://juancb.es/author/zlatko-kristev-minev/index.xml" rel="self" type="application/rss+xml" />
     <description>Zlatko Kristev Minev</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Zlatko Kristev Minev</title>
-      <link>https://cbjuan.github.io/author/zlatko-kristev-minev/</link>
+      <link>https://juancb.es/author/zlatko-kristev-minev/</link>
     </image>
     
     <item>
       <title>Reinforced Learning for Quantum Design</title>
-      <link>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</link>
+      <link>https://juancb.es/publication/2025-patent_rl_qpu_design/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</guid>
+      <guid>https://juancb.es/publication/2025-patent_rl_qpu_design/</guid>
       <description></description>
     </item>
     

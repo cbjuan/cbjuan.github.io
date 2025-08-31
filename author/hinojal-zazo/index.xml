@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hinojal Zazo | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/author/hinojal-zazo/</link>
-      <atom:link href="https://cbjuan.github.io/author/hinojal-zazo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/author/hinojal-zazo/</link>
+      <atom:link href="https://juancb.es/author/hinojal-zazo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hinojal Zazo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Hinojal Zazo</title>
-      <link>https://cbjuan.github.io/author/hinojal-zazo/</link>
+      <link>https://juancb.es/author/hinojal-zazo/</link>
     </image>
     
     <item>
       <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
-      <link>https://cbjuan.github.io/publication/2016_7511684/</link>
+      <link>https://juancb.es/publication/2016_7511684/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
+      <guid>https://juancb.es/publication/2016_7511684/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using software architectures to retrieve interaction information in eLearning environments</title>
-      <link>https://cbjuan.github.io/publication/2014_7017715/</link>
+      <link>https://juancb.es/publication/2014_7017715/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2014_7017715/</guid>
+      <guid>https://juancb.es/publication/2014_7017715/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facility-based inspection training in a virtual 3D laboratory</title>
-      <link>https://cbjuan.github.io/publication/2014_maderuelo/</link>
+      <link>https://juancb.es/publication/2014_maderuelo/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2014_maderuelo/</guid>
+      <guid>https://juancb.es/publication/2014_maderuelo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring and feedback of learning processes in virtual worlds through analytics architectures: A real case</title>
-      <link>https://cbjuan.github.io/publication/2014_6877097/</link>
+      <link>https://juancb.es/publication/2014_6877097/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2014_6877097/</guid>
+      <guid>https://juancb.es/publication/2014_6877097/</guid>
       <description></description>
     </item>
     

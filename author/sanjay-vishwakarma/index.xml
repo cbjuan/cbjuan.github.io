@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanjay Vishwakarma | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/author/sanjay-vishwakarma/</link>
-      <atom:link href="https://cbjuan.github.io/author/sanjay-vishwakarma/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/author/sanjay-vishwakarma/</link>
+      <atom:link href="https://juancb.es/author/sanjay-vishwakarma/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanjay Vishwakarma</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Sanjay Vishwakarma</title>
-      <link>https://cbjuan.github.io/author/sanjay-vishwakarma/</link>
+      <link>https://juancb.es/author/sanjay-vishwakarma/</link>
     </image>
     
     <item>
       <title>Reinforcement Learning based Clifford Circuit Synthesis</title>
-      <link>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</link>
+      <link>https://juancb.es/publication/2025-patent_rl_cliffords/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</guid>
+      <guid>https://juancb.es/publication/2025-patent_rl_cliffords/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI methods for approximate compiling of unitaries</title>
-      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
+      <link>https://juancb.es/publication/2024-aimethodsunitaries/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
+      <guid>https://juancb.es/publication/2024-aimethodsunitaries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
-      <link>https://cbjuan.github.io/publication/2024-qiskithumaneval/</link>
+      <link>https://juancb.es/publication/2024-qiskithumaneval/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-qiskithumaneval/</guid>
+      <guid>https://juancb.es/publication/2024-qiskithumaneval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
-      <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
+      <link>https://juancb.es/publication/2024-qiskitcodeassistant/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
+      <guid>https://juancb.es/publication/2024-qiskitcodeassistant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Source Code Generation and Auto-Completion Using Deep Learning: Comparing and Discussing Current Language Model-Related Approaches</title>
-      <link>https://cbjuan.github.io/publication/2020-lms-ai/</link>
+      <link>https://juancb.es/publication/2020-lms-ai/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2020-lms-ai/</guid>
+      <guid>https://juancb.es/publication/2020-lms-ai/</guid>
       <description></description>
     </item>
     

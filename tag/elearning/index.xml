@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ELearning | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/elearning/</link>
-      <atom:link href="https://cbjuan.github.io/tag/elearning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/elearning/</link>
+      <atom:link href="https://juancb.es/tag/elearning/index.xml" rel="self" type="application/rss+xml" />
     <description>ELearning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>ELearning</title>
-      <link>https://cbjuan.github.io/tag/elearning/</link>
+      <link>https://juancb.es/tag/elearning/</link>
     </image>
     
     <item>
       <title>How to Measure Teachers&#39; Acceptance of AI-driven Assessment in eLearning: A TAM-based Proposal</title>
-      <link>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</link>
+      <link>https://juancb.es/publication/sanchez-prieto-2019-mta-3362789-3362918/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid>
+      <guid>https://juancb.es/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Students’ Acceptance to AI-Driven Assessment in eLearning: Proposing a First TAM-Based Research Model</title>
-      <link>https://cbjuan.github.io/publication/2019_hciinternational/</link>
+      <link>https://juancb.es/publication/2019_hciinternational/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2019_hciinternational/</guid>
+      <guid>https://juancb.es/publication/2019_hciinternational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extending MOOC Ecosystems Using Web Services and Software Architectures</title>
-      <link>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</link>
+      <link>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
+      <guid>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using software architectures to retrieve interaction information in eLearning environments</title>
-      <link>https://cbjuan.github.io/publication/2014_7017715/</link>
+      <link>https://juancb.es/publication/2014_7017715/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2014_7017715/</guid>
+      <guid>https://juancb.es/publication/2014_7017715/</guid>
       <description></description>
     </item>
     

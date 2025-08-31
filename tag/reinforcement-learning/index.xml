@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reinforcement Learning | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/reinforcement-learning/</link>
-      <atom:link href="https://cbjuan.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/reinforcement-learning/</link>
+      <atom:link href="https://juancb.es/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinforcement Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/tag/reinforcement-learning/</link>
+      <link>https://juancb.es/tag/reinforcement-learning/</link>
     </image>
     
     <item>
       <title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title>
-      <link>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</link>
+      <link>https://juancb.es/publication/2025-qpu_post_training_llms/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</guid>
+      <guid>https://juancb.es/publication/2025-qpu_post_training_llms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforcement learning based transpilation of quantum circuits</title>
-      <link>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</link>
+      <link>https://juancb.es/publication/2025-patent_rl_transpilation/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</guid>
+      <guid>https://juancb.es/publication/2025-patent_rl_transpilation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
+      <link>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid>
+      <guid>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforced Learning for Quantum Design</title>
-      <link>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</link>
+      <link>https://juancb.es/publication/2025-patent_rl_qpu_design/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</guid>
+      <guid>https://juancb.es/publication/2025-patent_rl_qpu_design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforcement Learning based Clifford Circuit Synthesis</title>
-      <link>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</link>
+      <link>https://juancb.es/publication/2025-patent_rl_cliffords/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</guid>
+      <guid>https://juancb.es/publication/2025-patent_rl_cliffords/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2024-synthesisrl/</link>
+      <link>https://juancb.es/publication/2024-synthesisrl/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid>
+      <guid>https://juancb.es/publication/2024-synthesisrl/</guid>
       <description></description>
     </item>
     

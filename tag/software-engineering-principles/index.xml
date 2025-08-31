@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering Principles | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/software-engineering-principles/</link>
-      <atom:link href="https://cbjuan.github.io/tag/software-engineering-principles/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/software-engineering-principles/</link>
+      <atom:link href="https://juancb.es/tag/software-engineering-principles/index.xml" rel="self" type="application/rss+xml" />
     <description>Software Engineering Principles</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Software Engineering Principles</title>
-      <link>https://cbjuan.github.io/tag/software-engineering-principles/</link>
+      <link>https://juancb.es/tag/software-engineering-principles/</link>
     </image>
     
     <item>
       <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
-      <link>https://cbjuan.github.io/publication/2016_7511684/</link>
+      <link>https://juancb.es/publication/2016_7511684/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
+      <guid>https://juancb.es/publication/2016_7511684/</guid>
       <description></description>
     </item>
     

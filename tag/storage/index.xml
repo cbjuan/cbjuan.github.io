@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storage | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/storage/</link>
-      <atom:link href="https://cbjuan.github.io/tag/storage/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/storage/</link>
+      <atom:link href="https://juancb.es/tag/storage/index.xml" rel="self" type="application/rss+xml" />
     <description>Storage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Storage</title>
-      <link>https://cbjuan.github.io/tag/storage/</link>
+      <link>https://juancb.es/tag/storage/</link>
     </image>
     
     <item>
       <title>Quantum and non-quantum source code translation</title>
-      <link>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</link>
+      <link>https://juancb.es/publication/2024-patent_quantumcodetranslation/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</guid>
+      <guid>https://juancb.es/publication/2024-patent_quantumcodetranslation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal machine learning for generating three-dimensional audio</title>
-      <link>https://cbjuan.github.io/publication/2024-patent_3daudio/</link>
+      <link>https://juancb.es/publication/2024-patent_3daudio/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-patent_3daudio/</guid>
+      <guid>https://juancb.es/publication/2024-patent_3daudio/</guid>
       <description></description>
     </item>
     

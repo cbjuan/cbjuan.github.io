@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ismael Faro | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/author/ismael-faro/</link>
-      <atom:link href="https://cbjuan.github.io/author/ismael-faro/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/author/ismael-faro/</link>
+      <atom:link href="https://juancb.es/author/ismael-faro/index.xml" rel="self" type="application/rss+xml" />
     <description>Ismael Faro</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Ismael Faro</title>
-      <link>https://cbjuan.github.io/author/ismael-faro/</link>
+      <link>https://juancb.es/author/ismael-faro/</link>
     </image>
     
     <item>
       <title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title>
-      <link>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</link>
+      <link>https://juancb.es/publication/2025-qpu_post_training_llms/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</guid>
+      <guid>https://juancb.es/publication/2025-qpu_post_training_llms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI methods for approximate compiling of unitaries</title>
-      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
+      <link>https://juancb.es/publication/2024-aimethodsunitaries/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
+      <guid>https://juancb.es/publication/2024-aimethodsunitaries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
-      <link>https://cbjuan.github.io/publication/2024-qiskithumaneval/</link>
+      <link>https://juancb.es/publication/2024-qiskithumaneval/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-qiskithumaneval/</guid>
+      <guid>https://juancb.es/publication/2024-qiskithumaneval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
-      <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
+      <link>https://juancb.es/publication/2024-qiskitcodeassistant/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
+      <guid>https://juancb.es/publication/2024-qiskitcodeassistant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2024-synthesisrl/</link>
+      <link>https://juancb.es/publication/2024-synthesisrl/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid>
+      <guid>https://juancb.es/publication/2024-synthesisrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Source Code Generation and Auto-Completion Using Deep Learning: Comparing and Discussing Current Language Model-Related Approaches</title>
-      <link>https://cbjuan.github.io/publication/2020-lms-ai/</link>
+      <link>https://juancb.es/publication/2020-lms-ai/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2020-lms-ai/</guid>
+      <guid>https://juancb.es/publication/2020-lms-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qiskit: An Open-source Framework for Quantum Computing</title>
-      <link>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</link>
+      <link>https://juancb.es/publication/2019_qiskit_zenodo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</guid>
+      <guid>https://juancb.es/publication/2019_qiskit_zenodo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Deep-Learning-Based Proposal to Aid Users in Quantum Computing Programming</title>
-      <link>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-91152-6-32/</link>
+      <link>https://juancb.es/publication/2018_10-1007-978-3-319-91152-6-32/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-91152-6-32/</guid>
+      <guid>https://juancb.es/publication/2018_10-1007-978-3-319-91152-6-32/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMOOC | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/imooc/</link>
-      <atom:link href="https://cbjuan.github.io/tag/imooc/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/imooc/</link>
+      <atom:link href="https://juancb.es/tag/imooc/index.xml" rel="self" type="application/rss+xml" />
     <description>IMOOC</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 07 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>IMOOC</title>
-      <link>https://cbjuan.github.io/tag/imooc/</link>
+      <link>https://juancb.es/tag/imooc/</link>
     </image>
     
     <item>
       <title>Extending MOOC Ecosystems Using Web Services and Software Architectures</title>
-      <link>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</link>
+      <link>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
+      <guid>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine-Learning Procedures | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/machine-learning-procedures/</link>
-      <atom:link href="https://cbjuan.github.io/tag/machine-learning-procedures/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/machine-learning-procedures/</link>
+      <atom:link href="https://juancb.es/tag/machine-learning-procedures/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine-Learning Procedures</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Machine-Learning Procedures</title>
-      <link>https://cbjuan.github.io/tag/machine-learning-procedures/</link>
+      <link>https://juancb.es/tag/machine-learning-procedures/</link>
     </image>
     
     <item>
       <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
-      <link>https://cbjuan.github.io/publication/2018_8240912/</link>
+      <link>https://juancb.es/publication/2018_8240912/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
+      <guid>https://juancb.es/publication/2018_8240912/</guid>
       <description></description>
     </item>
     

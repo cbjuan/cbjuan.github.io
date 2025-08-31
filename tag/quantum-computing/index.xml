@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Computing | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/quantum-computing/</link>
-      <atom:link href="https://cbjuan.github.io/tag/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juancb.es/tag/quantum-computing/</link>
+      <atom:link href="https://juancb.es/tag/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Computing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
       <title>Quantum Computing</title>
-      <link>https://cbjuan.github.io/tag/quantum-computing/</link>
+      <link>https://juancb.es/tag/quantum-computing/</link>
     </image>
     
     <item>
       <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
+      <link>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid>
+      <guid>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI methods for approximate compiling of unitaries</title>
-      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
+      <link>https://juancb.es/publication/2024-aimethodsunitaries/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
+      <guid>https://juancb.es/publication/2024-aimethodsunitaries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
-      <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
+      <link>https://juancb.es/publication/2024-qiskitcodeassistant/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
+      <guid>https://juancb.es/publication/2024-qiskitcodeassistant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing Natural Language Processing and Quantum Natural Processing approaches in text classification tasks</title>
-      <link>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</link>
+      <link>https://juancb.es/publication/2024-qnlp_expertsystems/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</guid>
+      <guid>https://juancb.es/publication/2024-qnlp_expertsystems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2024-synthesisrl/</link>
+      <link>https://juancb.es/publication/2024-synthesisrl/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid>
+      <guid>https://juancb.es/publication/2024-synthesisrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic Literature Review: Quantum Machine Learning and its applications</title>
-      <link>https://cbjuan.github.io/publication/2022-srl_qml/</link>
+      <link>https://juancb.es/publication/2022-srl_qml/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2022-srl_qml/</guid>
+      <guid>https://juancb.es/publication/2022-srl_qml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
-      <link>https://cbjuan.github.io/publication/2023-qnlp-icist/</link>
+      <link>https://juancb.es/publication/2023-qnlp-icist/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2023-qnlp-icist/</guid>
+      <guid>https://juancb.es/publication/2023-qnlp-icist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
-      <link>https://cbjuan.github.io/publication/2023-qnlp-ivus/</link>
+      <link>https://juancb.es/publication/2023-qnlp-ivus/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2023-qnlp-ivus/</guid>
+      <guid>https://juancb.es/publication/2023-qnlp-ivus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of Algorithms and Methods for the Simulation and Improvement in the Quantum Natural Language Processing Area</title>
-      <link>https://cbjuan.github.io/publication/2023-qml-teem-22/</link>
+      <link>https://juancb.es/publication/2023-qml-teem-22/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2023-qml-teem-22/</guid>
+      <guid>https://juancb.es/publication/2023-qml-teem-22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qiskit: An Open-source Framework for Quantum Computing</title>
-      <link>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</link>
+      <link>https://juancb.es/publication/2019_qiskit_zenodo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</guid>
+      <guid>https://juancb.es/publication/2019_qiskit_zenodo/</guid>
       <description></description>
     </item>
     
