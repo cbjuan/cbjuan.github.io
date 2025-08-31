@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanket Panda | Juan Cruz-Benito</title>
-    <link>https://juancb.es/author/sanket-panda/</link>
-      <atom:link href="https://juancb.es/author/sanket-panda/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/author/sanket-panda/</link>
+      <atom:link href="https://cbjuan.github.io/author/sanket-panda/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanket Panda</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Sanket Panda</title>
-      <link>https://juancb.es/author/sanket-panda/</link>
+      <link>https://cbjuan.github.io/author/sanket-panda/</link>
     </image>
     
     <item>
       <title>Natural language processing for restricting user access to systems</title>
-      <link>https://juancb.es/publication/2023-patent_nlprestricted/</link>
+      <link>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2023-patent_nlprestricted/</guid>
+      <guid>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</guid>
       <description></description>
     </item>
     

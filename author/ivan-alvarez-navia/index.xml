@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iván Álvarez Navia | Juan Cruz-Benito</title>
-    <link>https://juancb.es/author/ivan-alvarez-navia/</link>
-      <atom:link href="https://juancb.es/author/ivan-alvarez-navia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/author/ivan-alvarez-navia/</link>
+      <atom:link href="https://cbjuan.github.io/author/ivan-alvarez-navia/index.xml" rel="self" type="application/rss+xml" />
     <description>Iván Álvarez Navia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Iván Álvarez Navia</title>
-      <link>https://juancb.es/author/ivan-alvarez-navia/</link>
+      <link>https://cbjuan.github.io/author/ivan-alvarez-navia/</link>
     </image>
     
     <item>
       <title>VALS: Virtual Alliances for Learning Society</title>
-      <link>https://juancb.es/publication/2013_garcia-vals/</link>
+      <link>https://cbjuan.github.io/publication/2013_garcia-vals/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2013_garcia-vals/</guid>
+      <guid>https://cbjuan.github.io/publication/2013_garcia-vals/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jorge M Martínez | Juan Cruz-Benito</title>
-    <link>https://juancb.es/author/jorge-m-martinez/</link>
-      <atom:link href="https://juancb.es/author/jorge-m-martinez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/author/jorge-m-martinez/</link>
+      <atom:link href="https://cbjuan.github.io/author/jorge-m-martinez/index.xml" rel="self" type="application/rss+xml" />
     <description>Jorge M Martínez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Jorge M Martínez</title>
-      <link>https://juancb.es/author/jorge-m-martinez/</link>
+      <link>https://cbjuan.github.io/author/jorge-m-martinez/</link>
     </image>
     
     <item>
       <title>Improving success/completion ratio in large surveys: a proposal based on usability and engagement</title>
-      <link>https://juancb.es/publication/2017_cruz-improving/</link>
+      <link>https://cbjuan.github.io/publication/2017_cruz-improving/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2017_cruz-improving/</guid>
+      <guid>https://cbjuan.github.io/publication/2017_cruz-improving/</guid>
       <description></description>
     </item>
     

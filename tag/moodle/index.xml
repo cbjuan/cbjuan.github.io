@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moodle | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/moodle/</link>
-      <atom:link href="https://juancb.es/tag/moodle/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/moodle/</link>
+      <atom:link href="https://cbjuan.github.io/tag/moodle/index.xml" rel="self" type="application/rss+xml" />
     <description>Moodle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 07 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Moodle</title>
-      <link>https://juancb.es/tag/moodle/</link>
+      <link>https://cbjuan.github.io/tag/moodle/</link>
     </image>
     
     <item>
       <title>Extending MOOC Ecosystems Using Web Services and Software Architectures</title>
-      <link>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</link>
+      <link>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
       <description></description>
     </item>
     

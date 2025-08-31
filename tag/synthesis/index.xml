@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synthesis | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/synthesis/</link>
-      <atom:link href="https://juancb.es/tag/synthesis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/synthesis/</link>
+      <atom:link href="https://cbjuan.github.io/tag/synthesis/index.xml" rel="self" type="application/rss+xml" />
     <description>Synthesis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Synthesis</title>
-      <link>https://juancb.es/tag/synthesis/</link>
+      <link>https://cbjuan.github.io/tag/synthesis/</link>
     </image>
     
     <item>
       <title>Reinforcement Learning based Clifford Circuit Synthesis</title>
-      <link>https://juancb.es/publication/2025-patent_rl_cliffords/</link>
+      <link>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2025-patent_rl_cliffords/</guid>
+      <guid>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</guid>
       <description></description>
     </item>
     

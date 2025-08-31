@@ -1,55 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oriol Borras-Gene | Juan Cruz-Benito</title>
-    <link>https://juancb.es/author/oriol-borras-gene/</link>
-      <atom:link href="https://juancb.es/author/oriol-borras-gene/index.xml" rel="self" type="application/rss+xml" />
-    <description>Oriol Borras-Gene</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <title>Oriol Borrás-Gené | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/oriol-borras-gene/</link>
+      <atom:link href="https://cbjuan.github.io/author/oriol-borras-gene/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oriol Borrás-Gené</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
-      <title>Oriol Borras-Gene</title>
-      <link>https://juancb.es/author/oriol-borras-gene/</link>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Oriol Borrás-Gené</title>
+      <link>https://cbjuan.github.io/author/oriol-borras-gene/</link>
     </image>
     
     <item>
-      <title>Learning communities in social networks and their relationship with the MOOCs</title>
-      <link>https://juancb.es/publication/2017_cruz-learning/</link>
-      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2017_cruz-learning/</guid>
+      <title>Comunidades de Aprendizaje en Redes Sociales y su Relación con los MOOC</title>
+      <link>https://cbjuan.github.io/publication/2016_cruz-comunidades/</link>
+      <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2016_cruz-comunidades/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-    <title>Detección de aprendizaje no formal e informal en Comunidades de Aprendizaje soportadas por Redes Sociales en el contexto de un MOOC Cooperativo</title>
-      <link>https://juancb.es/publication/2015_cruz-deteccion/</link>
+    <item>
+      <title>Detección de aprendizaje no formal e informal en Comunidades de Aprendizaje soportadas por Redes Sociales en el contexto de un MOOC Cooperativo</title>
+      <link>https://cbjuan.github.io/publication/2015_cruz-deteccion/</link>
       <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_cruz-deteccion/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_cruz-deteccion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detection of Non-Formal and Informal Learning in learning communities supported by social networks in the context of a Cooperative MOOC</title>
-      <link>https://juancb.es/publication/2015_cruz-detection/</link>
+      <link>https://cbjuan.github.io/publication/2015_cruz-detection/</link>
       <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_cruz-detection/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_cruz-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extending MOOC Ecosystems Using Web Services and Software Architectures</title>
-      <link>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</link>
+      <link>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution of the Conversation and Knowledge Acquisition in Social Networks Related to a MOOC Course</title>
-      <link>https://juancb.es/publication/2015_10-1007-978-3-319-20609-7-44/</link>
+      <link>https://cbjuan.github.io/publication/2015_10-1007-978-3-319-20609-7-44/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_10-1007-978-3-319-20609-7-44/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_10-1007-978-3-319-20609-7-44/</guid>
       <description></description>
     </item>
     

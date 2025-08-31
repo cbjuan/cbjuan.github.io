@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antonio Robles Gómez | Juan Cruz-Benito</title>
-    <link>https://juancb.es/author/antonio-robles-gomez/</link>
-      <atom:link href="https://juancb.es/author/antonio-robles-gomez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/author/antonio-robles-gomez/</link>
+      <atom:link href="https://cbjuan.github.io/author/antonio-robles-gomez/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio Robles Gómez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 07 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Antonio Robles Gómez</title>
-      <link>https://juancb.es/author/antonio-robles-gomez/</link>
+      <link>https://cbjuan.github.io/author/antonio-robles-gomez/</link>
     </image>
     
     <item>
       <title>SNOLA: creando una Red sobre Analíticas de Aprendizaje en España</title>
-      <link>https://juancb.es/publication/2017_agudo-snola/</link>
+      <link>https://cbjuan.github.io/publication/2017_agudo-snola/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2017_agudo-snola/</guid>
+      <guid>https://cbjuan.github.io/publication/2017_agudo-snola/</guid>
       <description></description>
     </item>
     

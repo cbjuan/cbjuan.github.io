@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Domínguez-Gil | Juan Cruz-Benito</title>
-    <link>https://juancb.es/author/a.-dominguez-gil/</link>
-      <atom:link href="https://juancb.es/author/a.-dominguez-gil/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/author/a.-dominguez-gil/</link>
+      <atom:link href="https://cbjuan.github.io/author/a.-dominguez-gil/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Domínguez-Gil</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>A. Domínguez-Gil</title>
-      <link>https://juancb.es/author/a.-dominguez-gil/</link>
+      <link>https://cbjuan.github.io/author/a.-dominguez-gil/</link>
     </image>
     
     <item>
       <title>Facility-based inspection training in a virtual 3D laboratory</title>
-      <link>https://juancb.es/publication/2014_maderuelo/</link>
+      <link>https://cbjuan.github.io/publication/2014_maderuelo/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2014_maderuelo/</guid>
+      <guid>https://cbjuan.github.io/publication/2014_maderuelo/</guid>
       <description></description>
     </item>
     

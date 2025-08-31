@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Process | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/process/</link>
-      <atom:link href="https://juancb.es/tag/process/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/process/</link>
+      <atom:link href="https://cbjuan.github.io/tag/process/index.xml" rel="self" type="application/rss+xml" />
     <description>Process</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Process</title>
-      <link>https://juancb.es/tag/process/</link>
+      <link>https://cbjuan.github.io/tag/process/</link>
     </image>
     
     <item>
       <title>Quantum and non-quantum source code translation</title>
-      <link>https://juancb.es/publication/2024-patent_quantumcodetranslation/</link>
+      <link>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2024-patent_quantumcodetranslation/</guid>
+      <guid>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</guid>
       <description></description>
     </item>
     

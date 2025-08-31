@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning Analytics | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/learning-analytics/</link>
-      <atom:link href="https://juancb.es/tag/learning-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/learning-analytics/</link>
+      <atom:link href="https://cbjuan.github.io/tag/learning-analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>Learning Analytics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Learning Analytics</title>
-      <link>https://juancb.es/tag/learning-analytics/</link>
+      <link>https://cbjuan.github.io/tag/learning-analytics/</link>
     </image>
     
     <item>
       <title>Defining Generic Data Collectors for Learning Analytics: Facing Up the Heterogeneous Data from Heterogeneous Environments</title>
-      <link>https://juancb.es/publication/2014_6901482/</link>
+      <link>https://cbjuan.github.io/publication/2014_6901482/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2014_6901482/</guid>
+      <guid>https://cbjuan.github.io/publication/2014_6901482/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring and feedback of learning processes in virtual worlds through analytics architectures: A real case</title>
-      <link>https://juancb.es/publication/2014_6877097/</link>
+      <link>https://cbjuan.github.io/publication/2014_6877097/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2014_6877097/</guid>
+      <guid>https://cbjuan.github.io/publication/2014_6877097/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytics of Information Flows and Decision Making in Heterogeneous Learning Ecosystems</title>
-      <link>https://juancb.es/publication/2014_cruz-benito-aif-2669711-2669977/</link>
+      <link>https://cbjuan.github.io/publication/2014_cruz-benito-aif-2669711-2669977/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2014_cruz-benito-aif-2669711-2669977/</guid>
+      <guid>https://cbjuan.github.io/publication/2014_cruz-benito-aif-2669711-2669977/</guid>
       <description></description>
     </item>
     

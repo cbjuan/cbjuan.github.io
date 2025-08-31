@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interview | Juan Cruz-Benito</title>
-    <link>https://juancb.es/category/interview/</link>
-      <atom:link href="https://juancb.es/category/interview/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/category/interview/</link>
+      <atom:link href="https://cbjuan.github.io/category/interview/index.xml" rel="self" type="application/rss+xml" />
     <description>Interview</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Interview</title>
-      <link>https://juancb.es/category/interview/</link>
+      <link>https://cbjuan.github.io/category/interview/</link>
     </image>
     
     <item>
       <title>Feb 06, 2020. Cabalga El Cometa EP-18 &#34;El grial de la computación cuántica con Juan Cruz-Benito&#34;</title>
-      <link>https://juancb.es/media/2020-cabalgaelcometa/</link>
+      <link>https://cbjuan.github.io/media/2020-cabalgaelcometa/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>https://juancb.es/media/2020-cabalgaelcometa/</guid>
+      <guid>https://cbjuan.github.io/media/2020-cabalgaelcometa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jan 24, 2020. &#34;El español que democratizará la computación cuántica&#34;</title>
-      <link>https://juancb.es/media/2020-la-razon/</link>
+      <link>https://cbjuan.github.io/media/2020-la-razon/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>https://juancb.es/media/2020-la-razon/</guid>
+      <guid>https://cbjuan.github.io/media/2020-la-razon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jul 13, 2017. &#34;La informática es un arma poderosa para enseñar a la gente&#34;</title>
-      <link>https://juancb.es/media/2017-tlp-innova/</link>
+      <link>https://cbjuan.github.io/media/2017-tlp-innova/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0100</pubDate>
-      <guid>https://juancb.es/media/2017-tlp-innova/</guid>
+      <guid>https://cbjuan.github.io/media/2017-tlp-innova/</guid>
       <description></description>
     </item>
     

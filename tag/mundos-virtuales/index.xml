@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mundos Virtuales | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/mundos-virtuales/</link>
-      <atom:link href="https://juancb.es/tag/mundos-virtuales/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/mundos-virtuales/</link>
+      <atom:link href="https://cbjuan.github.io/tag/mundos-virtuales/index.xml" rel="self" type="application/rss+xml" />
     <description>Mundos Virtuales</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Mundos Virtuales</title>
-      <link>https://juancb.es/tag/mundos-virtuales/</link>
+      <link>https://cbjuan.github.io/tag/mundos-virtuales/</link>
     </image>
     
     <item>
       <title>Usalpharma: Una arquitectura software al servicio del aprendizaje en Mundos Virtuales</title>
-      <link>https://juancb.es/publication/2015_cruzbenito-usalpharma/</link>
+      <link>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_cruzbenito-usalpharma/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</guid>
       <description></description>
     </item>
     

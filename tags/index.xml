@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tags/</link>
-      <atom:link href="https://juancb.es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tags/</link>
+      <atom:link href="https://cbjuan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Tags</title>
-      <link>https://juancb.es/tags/</link>
+      <link>https://cbjuan.github.io/tags/</link>
     </image>
     
   </channel>

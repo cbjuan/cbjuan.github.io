@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks | Juan Cruz-Benito</title>
-    <link>https://juancb.es/talk/</link>
-      <atom:link href="https://juancb.es/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/talk/</link>
+      <atom:link href="https://cbjuan.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Talks</title>
-      <link>https://juancb.es/talk/</link>
+      <link>https://cbjuan.github.io/talk/</link>
     </image>
     
     <item>
       <title>¿Hay vida después del doctorado? / Is there life after the PhD?</title>
-      <link>https://juancb.es/talk/2025_doctorado_usal/</link>
+      <link>https://cbjuan.github.io/talk/2025_doctorado_usal/</link>
       <pubDate>Tue, 11 Apr 2023 16:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2025_doctorado_usal/</guid>
+      <guid>https://cbjuan.github.io/talk/2025_doctorado_usal/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -36,9 +36,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>What does an engineer like you do in a quantum place like this?</title>
-      <link>https://juancb.es/talk/2023_master_usal/</link>
+      <link>https://cbjuan.github.io/talk/2023_master_usal/</link>
       <pubDate>Tue, 11 Apr 2023 16:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2023_master_usal/</guid>
+      <guid>https://cbjuan.github.io/talk/2023_master_usal/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -58,9 +58,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>Data-Driven Human-Computer Interaction: experimenting new user experiences using data</title>
-      <link>https://juancb.es/talk/2021_bbva/</link>
+      <link>https://cbjuan.github.io/talk/2021_bbva/</link>
       <pubDate>Tue, 14 Dec 2021 15:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2021_bbva/</guid>
+      <guid>https://cbjuan.github.io/talk/2021_bbva/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -80,9 +80,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>Modern tools to work in AI &amp; Quantum computing</title>
-      <link>https://juancb.es/talk/2021_scayle/</link>
+      <link>https://cbjuan.github.io/talk/2021_scayle/</link>
       <pubDate>Fri, 28 May 2021 11:30:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2021_scayle/</guid>
+      <guid>https://cbjuan.github.io/talk/2021_scayle/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -102,9 +102,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>IBM Quantum Experience Notebooks. Serving JupyterHub at scale for the Quantum Computing Community</title>
-      <link>https://juancb.es/talk/2020_jupytercon/</link>
+      <link>https://cbjuan.github.io/talk/2020_jupytercon/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2020_jupytercon/</guid>
+      <guid>https://cbjuan.github.io/talk/2020_jupytercon/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -124,9 +124,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>Trabajando en remoto. Herramientas</title>
-      <link>https://juancb.es/talk/2020_se_usal_remotertools/</link>
+      <link>https://cbjuan.github.io/talk/2020_se_usal_remotertools/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2020_se_usal_remotertools/</guid>
+      <guid>https://cbjuan.github.io/talk/2020_se_usal_remotertools/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -146,9 +146,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>Practical Data Science and Machine Learning</title>
-      <link>https://juancb.es/talk/2020_master_usal/</link>
+      <link>https://cbjuan.github.io/talk/2020_master_usal/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2020_master_usal/</guid>
+      <guid>https://cbjuan.github.io/talk/2020_master_usal/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -168,9 +168,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>Using Jupyter: From simple personal notebooks to large deployments with thousands of users</title>
-      <link>https://juancb.es/talk/2020_pydata/</link>
+      <link>https://cbjuan.github.io/talk/2020_pydata/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2020_pydata/</guid>
+      <guid>https://cbjuan.github.io/talk/2020_pydata/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -190,9 +190,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>Introducción a la Inteligencia Artificial</title>
-      <link>https://juancb.es/talk/2019_intro_ai/</link>
+      <link>https://cbjuan.github.io/talk/2019_intro_ai/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2019_intro_ai/</guid>
+      <guid>https://cbjuan.github.io/talk/2019_intro_ai/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -212,9 +212,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>Trabajo en remoto. What?</title>
-      <link>https://juancb.es/talk/2019_se_usal_remote/</link>
+      <link>https://cbjuan.github.io/talk/2019_se_usal_remote/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2019_se_usal_remote/</guid>
+      <guid>https://cbjuan.github.io/talk/2019_se_usal_remote/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -234,9 +234,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>Computación cuántica. ¿humo, realidad o futuro? ¿Todo a la vez?</title>
-      <link>https://juancb.es/talk/2018_quantum_pintofscience/</link>
+      <link>https://cbjuan.github.io/talk/2018_quantum_pintofscience/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2018_quantum_pintofscience/</guid>
+      <guid>https://cbjuan.github.io/talk/2018_quantum_pintofscience/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -256,9 +256,9 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     
     <item>
       <title>Computación cuántica. ¿Qué es? ¿Qué podemos esperar?</title>
-      <link>https://juancb.es/talk/2018_quantum_faculty/</link>
+      <link>https://cbjuan.github.io/talk/2018_quantum_faculty/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/talk/2018_quantum_faculty/</guid>
+      <guid>https://cbjuan.github.io/talk/2018_quantum_faculty/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

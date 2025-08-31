@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Press Release | Juan Cruz-Benito</title>
-    <link>https://juancb.es/category/press-release/</link>
-      <atom:link href="https://juancb.es/category/press-release/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/category/press-release/</link>
+      <atom:link href="https://cbjuan.github.io/category/press-release/index.xml" rel="self" type="application/rss+xml" />
     <description>Press Release</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 20 Jun 2019 13:36:00 +0100</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Press Release</title>
-      <link>https://juancb.es/category/press-release/</link>
+      <link>https://cbjuan.github.io/category/press-release/</link>
     </image>
     
     <item>
       <title>Jun 20, 2019. &#34;Juan Cruz-Benito, miembro del grupo GRIAL, galardonado con uno de los premios nacionales a jóvenes investigadores en informática&#34;</title>
-      <link>https://juancb.es/media/2019-grial/</link>
+      <link>https://cbjuan.github.io/media/2019-grial/</link>
       <pubDate>Thu, 20 Jun 2019 13:36:00 +0100</pubDate>
-      <guid>https://juancb.es/media/2019-grial/</guid>
+      <guid>https://cbjuan.github.io/media/2019-grial/</guid>
       <description></description>
     </item>
     

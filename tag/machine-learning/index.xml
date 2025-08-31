@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/machine-learning/</link>
-      <atom:link href="https://juancb.es/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/machine-learning/</link>
+      <atom:link href="https://cbjuan.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Machine Learning</title>
-      <link>https://juancb.es/tag/machine-learning/</link>
+      <link>https://cbjuan.github.io/tag/machine-learning/</link>
     </image>
     
     <item>
       <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
-      <link>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</link>
+      <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2025-paulinetworkssynthesisrl/</guid>
+      <guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI methods for approximate compiling of unitaries</title>
-      <link>https://juancb.es/publication/2024-aimethodsunitaries/</link>
+      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2024-aimethodsunitaries/</guid>
+      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
-      <link>https://juancb.es/publication/2024-synthesisrl/</link>
+      <link>https://cbjuan.github.io/publication/2024-synthesisrl/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2024-synthesisrl/</guid>
+      <guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal machine learning for generating three-dimensional audio</title>
-      <link>https://juancb.es/publication/2024-patent_3daudio/</link>
+      <link>https://cbjuan.github.io/publication/2024-patent_3daudio/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2024-patent_3daudio/</guid>
+      <guid>https://cbjuan.github.io/publication/2024-patent_3daudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic Literature Review: Quantum Machine Learning and its applications</title>
-      <link>https://juancb.es/publication/2022-srl_qml/</link>
+      <link>https://cbjuan.github.io/publication/2022-srl_qml/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2022-srl_qml/</guid>
+      <guid>https://cbjuan.github.io/publication/2022-srl_qml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Source Code Generation and Auto-Completion Using Deep Learning: Comparing and Discussing Current Language Model-Related Approaches</title>
-      <link>https://juancb.es/publication/2020-lms-ai/</link>
+      <link>https://cbjuan.github.io/publication/2020-lms-ai/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2020-lms-ai/</guid>
+      <guid>https://cbjuan.github.io/publication/2020-lms-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
-      <link>https://juancb.es/publication/2018_8240912/</link>
+      <link>https://cbjuan.github.io/publication/2018_8240912/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2018_8240912/</guid>
+      <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
       <description></description>
     </item>
     

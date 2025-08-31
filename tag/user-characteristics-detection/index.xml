@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>User Characteristics Detection | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/user-characteristics-detection/</link>
-      <atom:link href="https://juancb.es/tag/user-characteristics-detection/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/user-characteristics-detection/</link>
+      <atom:link href="https://cbjuan.github.io/tag/user-characteristics-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>User Characteristics Detection</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>User Characteristics Detection</title>
-      <link>https://juancb.es/tag/user-characteristics-detection/</link>
+      <link>https://cbjuan.github.io/tag/user-characteristics-detection/</link>
     </image>
     
     <item>
       <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
-      <link>https://juancb.es/publication/2018_8240912/</link>
+      <link>https://cbjuan.github.io/publication/2018_8240912/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2018_8240912/</guid>
+      <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
       <description></description>
     </item>
     

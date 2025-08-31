@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hiroshi Horii | Juan Cruz-Benito</title>
-    <link>https://juancb.es/author/hiroshi-horii/</link>
-      <atom:link href="https://juancb.es/author/hiroshi-horii/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/author/hiroshi-horii/</link>
+      <atom:link href="https://cbjuan.github.io/author/hiroshi-horii/index.xml" rel="self" type="application/rss+xml" />
     <description>Hiroshi Horii</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Hiroshi Horii</title>
-      <link>https://juancb.es/author/hiroshi-horii/</link>
+      <link>https://cbjuan.github.io/author/hiroshi-horii/</link>
     </image>
     
     <item>
       <title>Qiskit: An Open-source Framework for Quantum Computing</title>
-      <link>https://juancb.es/publication/2019_qiskit_zenodo/</link>
+      <link>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2019_qiskit_zenodo/</guid>
+      <guid>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</guid>
       <description></description>
     </item>
     

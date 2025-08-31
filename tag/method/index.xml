@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Method | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/method/</link>
-      <atom:link href="https://juancb.es/tag/method/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/method/</link>
+      <atom:link href="https://cbjuan.github.io/tag/method/index.xml" rel="self" type="application/rss+xml" />
     <description>Method</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Method</title>
-      <link>https://juancb.es/tag/method/</link>
+      <link>https://cbjuan.github.io/tag/method/</link>
     </image>
     
     <item>
       <title>Attention-based neural networks for quantum computing simulations</title>
-      <link>https://juancb.es/publication/2024-patent_attentionnns_quantumsimulation/</link>
+      <link>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2024-patent_attentionnns_quantumsimulation/</guid>
+      <guid>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantum and non-quantum source code translation</title>
-      <link>https://juancb.es/publication/2024-patent_quantumcodetranslation/</link>
+      <link>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2024-patent_quantumcodetranslation/</guid>
+      <guid>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal machine learning for generating three-dimensional audio</title>
-      <link>https://juancb.es/publication/2024-patent_3daudio/</link>
+      <link>https://cbjuan.github.io/publication/2024-patent_3daudio/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2024-patent_3daudio/</guid>
+      <guid>https://cbjuan.github.io/publication/2024-patent_3daudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural language processing for restricting user access to systems</title>
-      <link>https://juancb.es/publication/2023-patent_nlprestricted/</link>
+      <link>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2023-patent_nlprestricted/</guid>
+      <guid>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</guid>
       <description></description>
     </item>
     

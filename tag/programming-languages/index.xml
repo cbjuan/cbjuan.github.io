@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming Languages | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/programming-languages/</link>
-      <atom:link href="https://juancb.es/tag/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/programming-languages/</link>
+      <atom:link href="https://cbjuan.github.io/tag/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <description>Programming Languages</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Programming Languages</title>
-      <link>https://juancb.es/tag/programming-languages/</link>
+      <link>https://cbjuan.github.io/tag/programming-languages/</link>
     </image>
     
     <item>
       <title>Automated Source Code Generation and Auto-Completion Using Deep Learning: Comparing and Discussing Current Language Model-Related Approaches</title>
-      <link>https://juancb.es/publication/2020-lms-ai/</link>
+      <link>https://cbjuan.github.io/publication/2020-lms-ai/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2020-lms-ai/</guid>
+      <guid>https://cbjuan.github.io/publication/2020-lms-ai/</guid>
       <description></description>
     </item>
     

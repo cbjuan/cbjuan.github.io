@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hinojal Zazo Pérez-Blanco | Juan Cruz-Benito</title>
-    <link>https://juancb.es/author/hinojal-zazo-perez-blanco/</link>
-      <atom:link href="https://juancb.es/author/hinojal-zazo-perez-blanco/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/author/hinojal-zazo-perez-blanco/</link>
+      <atom:link href="https://cbjuan.github.io/author/hinojal-zazo-perez-blanco/index.xml" rel="self" type="application/rss+xml" />
     <description>Hinojal Zazo Pérez-Blanco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Hinojal Zazo Pérez-Blanco</title>
-      <link>https://juancb.es/author/hinojal-zazo-perez-blanco/</link>
+      <link>https://cbjuan.github.io/author/hinojal-zazo-perez-blanco/</link>
     </image>
     
     <item>
       <title>Usalpharma: Una arquitectura software al servicio del aprendizaje en Mundos Virtuales</title>
-      <link>https://juancb.es/publication/2015_cruzbenito-usalpharma/</link>
+      <link>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_cruzbenito-usalpharma/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</guid>
       <description></description>
     </item>
     

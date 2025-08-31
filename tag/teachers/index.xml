@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachers | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/teachers/</link>
-      <atom:link href="https://juancb.es/tag/teachers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/teachers/</link>
+      <atom:link href="https://cbjuan.github.io/tag/teachers/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachers</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Teachers</title>
-      <link>https://juancb.es/tag/teachers/</link>
+      <link>https://cbjuan.github.io/tag/teachers/</link>
     </image>
     
     <item>
       <title>How to Measure Teachers&#39; Acceptance of AI-driven Assessment in eLearning: A TAM-based Proposal</title>
-      <link>https://juancb.es/publication/sanchez-prieto-2019-mta-3362789-3362918/</link>
+      <link>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid>
+      <guid>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid>
       <description></description>
     </item>
     

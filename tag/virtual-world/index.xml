@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtual World | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/virtual-world/</link>
-      <atom:link href="https://juancb.es/tag/virtual-world/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/virtual-world/</link>
+      <atom:link href="https://cbjuan.github.io/tag/virtual-world/index.xml" rel="self" type="application/rss+xml" />
     <description>Virtual World</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Virtual World</title>
-      <link>https://juancb.es/tag/virtual-world/</link>
+      <link>https://cbjuan.github.io/tag/virtual-world/</link>
     </image>
     
     <item>
       <title>Virtual Congresses for Pharmaceutical Learning</title>
-      <link>https://juancb.es/publication/2013_suarez-vcp-2536536-2536549/</link>
+      <link>https://cbjuan.github.io/publication/2013_suarez-vcp-2536536-2536549/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2013_suarez-vcp-2536536-2536549/</guid>
+      <guid>https://cbjuan.github.io/publication/2013_suarez-vcp-2536536-2536549/</guid>
       <description></description>
     </item>
     

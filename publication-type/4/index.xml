@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | Juan Cruz-Benito</title>
-    <link>https://juancb.es/publication-type/4/</link>
-      <atom:link href="https://juancb.es/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/publication-type/4/</link>
+      <atom:link href="https://cbjuan.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>4</title>
-      <link>https://juancb.es/publication-type/4/</link>
+      <link>https://cbjuan.github.io/publication-type/4/</link>
     </image>
     
     <item>
       <title>Inclusión de prácticas de observación de usuarios reales en la asignatura Interacción Persona-Ordenador del Grado en Ingeniería Informática</title>
-      <link>https://juancb.es/publication/2017_cruzinclusion/</link>
+      <link>https://cbjuan.github.io/publication/2017_cruzinclusion/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2017_cruzinclusion/</guid>
+      <guid>https://cbjuan.github.io/publication/2017_cruzinclusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Innovación en la enseñanza de la Interacción Persona-Ordenador: interfaces imaginadas, ciencia-ficción y trabajo con usuarios reales [Innovation in teaching Human-Computer Interaction: imagined interfaces, sci-fi and working with real users]</title>
-      <link>https://juancb.es/publication/2017_theron-innovacion/</link>
+      <link>https://cbjuan.github.io/publication/2017_theron-innovacion/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2017_theron-innovacion/</guid>
+      <guid>https://cbjuan.github.io/publication/2017_theron-innovacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autopublicación y difusión de resultados científicos a través de Internet. Plan de Formación Docente 2017 de la Universidad de Salamanca</title>
-      <link>https://juancb.es/publication/2017_cruz-autopublicacion/</link>
+      <link>https://cbjuan.github.io/publication/2017_cruz-autopublicacion/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2017_cruz-autopublicacion/</guid>
+      <guid>https://cbjuan.github.io/publication/2017_cruz-autopublicacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Herramienta para la validación de elementos de mejora UX/Engagement para los cuestionarios de recogida de información de egresados en el contexto del Observatorio de Empleabilidad y Empleo Universitarios (OEEU)</title>
-      <link>https://juancb.es/publication/2017_cruz-herramienta/</link>
+      <link>https://cbjuan.github.io/publication/2017_cruz-herramienta/</link>
       <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2017_cruz-herramienta/</guid>
+      <guid>https://cbjuan.github.io/publication/2017_cruz-herramienta/</guid>
       <description></description>
     </item>
     

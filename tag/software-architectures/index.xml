@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Architectures | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/software-architectures/</link>
-      <atom:link href="https://juancb.es/tag/software-architectures/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/software-architectures/</link>
+      <atom:link href="https://cbjuan.github.io/tag/software-architectures/index.xml" rel="self" type="application/rss+xml" />
     <description>Software Architectures</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Software Architectures</title>
-      <link>https://juancb.es/tag/software-architectures/</link>
+      <link>https://cbjuan.github.io/tag/software-architectures/</link>
     </image>
     
     <item>
       <title>Analyzing the software architectures supporting HCI/HMI processes through a systematic review of the literature</title>
-      <link>https://juancb.es/publication/2018_cruzbenito/</link>
+      <link>https://cbjuan.github.io/publication/2018_cruzbenito/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2018_cruzbenito/</guid>
+      <guid>https://cbjuan.github.io/publication/2018_cruzbenito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
-      <link>https://juancb.es/publication/2016_7511684/</link>
+      <link>https://cbjuan.github.io/publication/2016_7511684/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2016_7511684/</guid>
+      <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extending MOOC Ecosystems Using Web Services and Software Architectures</title>
-      <link>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</link>
+      <link>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Usalpharma: Una arquitectura software al servicio del aprendizaje en Mundos Virtuales</title>
-      <link>https://juancb.es/publication/2015_cruzbenito-usalpharma/</link>
+      <link>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_cruzbenito-usalpharma/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using software architectures to retrieve interaction information in eLearning environments</title>
-      <link>https://juancb.es/publication/2014_7017715/</link>
+      <link>https://cbjuan.github.io/publication/2014_7017715/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2014_7017715/</guid>
+      <guid>https://cbjuan.github.io/publication/2014_7017715/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Natural Language Processing | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/quantum-natural-language-processing/</link>
-      <atom:link href="https://juancb.es/tag/quantum-natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/quantum-natural-language-processing/</link>
+      <atom:link href="https://cbjuan.github.io/tag/quantum-natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Natural Language Processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Quantum Natural Language Processing</title>
-      <link>https://juancb.es/tag/quantum-natural-language-processing/</link>
+      <link>https://cbjuan.github.io/tag/quantum-natural-language-processing/</link>
     </image>
     
     <item>
       <title>Comparing Natural Language Processing and Quantum Natural Processing approaches in text classification tasks</title>
-      <link>https://juancb.es/publication/2024-qnlp_expertsystems/</link>
+      <link>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2024-qnlp_expertsystems/</guid>
+      <guid>https://cbjuan.github.io/publication/2024-qnlp_expertsystems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
-      <link>https://juancb.es/publication/2023-qnlp-icist/</link>
+      <link>https://cbjuan.github.io/publication/2023-qnlp-icist/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2023-qnlp-icist/</guid>
+      <guid>https://cbjuan.github.io/publication/2023-qnlp-icist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>
-      <link>https://juancb.es/publication/2023-qnlp-ivus/</link>
+      <link>https://cbjuan.github.io/publication/2023-qnlp-ivus/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2023-qnlp-ivus/</guid>
+      <guid>https://cbjuan.github.io/publication/2023-qnlp-ivus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of Algorithms and Methods for the Simulation and Improvement in the Quantum Natural Language Processing Area</title>
-      <link>https://juancb.es/publication/2023-qml-teem-22/</link>
+      <link>https://cbjuan.github.io/publication/2023-qml-teem-22/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2023-qml-teem-22/</guid>
+      <guid>https://cbjuan.github.io/publication/2023-qml-teem-22/</guid>
       <description></description>
     </item>
     

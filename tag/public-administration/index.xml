@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Administration | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/public-administration/</link>
-      <atom:link href="https://juancb.es/tag/public-administration/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/public-administration/</link>
+      <atom:link href="https://cbjuan.github.io/tag/public-administration/index.xml" rel="self" type="application/rss+xml" />
     <description>Public Administration</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Public Administration</title>
-      <link>https://juancb.es/tag/public-administration/</link>
+      <link>https://cbjuan.github.io/tag/public-administration/</link>
     </image>
     
     <item>
       <title>Análisis comparativo de la gestión del conocimiento en la administración pública española</title>
-      <link>https://juancb.es/publication/2015_garcia-holgado-analisis/</link>
+      <link>https://cbjuan.github.io/publication/2015_garcia-holgado-analisis/</link>
       <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_garcia-holgado-analisis/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_garcia-holgado-analisis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Knowledge Management Experiences in Spanish Public Administration</title>
-      <link>https://juancb.es/publication/2015_garcia-holgado-akm-2808580-2808609/</link>
+      <link>https://cbjuan.github.io/publication/2015_garcia-holgado-akm-2808580-2808609/</link>
       <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_garcia-holgado-akm-2808580-2808609/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_garcia-holgado-akm-2808580-2808609/</guid>
       <description></description>
     </item>
     

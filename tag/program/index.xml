@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Program | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/program/</link>
-      <atom:link href="https://juancb.es/tag/program/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/program/</link>
+      <atom:link href="https://cbjuan.github.io/tag/program/index.xml" rel="self" type="application/rss+xml" />
     <description>Program</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Program</title>
-      <link>https://juancb.es/tag/program/</link>
+      <link>https://cbjuan.github.io/tag/program/</link>
     </image>
     
     <item>
       <title>Attention-based neural networks for quantum computing simulations</title>
-      <link>https://juancb.es/publication/2024-patent_attentionnns_quantumsimulation/</link>
+      <link>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2024-patent_attentionnns_quantumsimulation/</guid>
+      <guid>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</guid>
       <description></description>
     </item>
     

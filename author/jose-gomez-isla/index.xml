@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>José Gómez-Isla | Juan Cruz-Benito</title>
-    <link>https://juancb.es/author/jose-gomez-isla/</link>
-      <atom:link href="https://juancb.es/author/jose-gomez-isla/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/author/jose-gomez-isla/</link>
+      <atom:link href="https://cbjuan.github.io/author/jose-gomez-isla/index.xml" rel="self" type="application/rss+xml" />
     <description>José Gómez-Isla</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>José Gómez-Isla</title>
-      <link>https://juancb.es/author/jose-gomez-isla/</link>
+      <link>https://cbjuan.github.io/author/jose-gomez-isla/</link>
     </image>
     
     <item>
       <title>Developing a Research Method to Analyze Visual Literacy Based on Cross-Cultural Characteristics</title>
-      <link>https://juancb.es/publication/2018_garcia-sanchez/</link>
+      <link>https://cbjuan.github.io/publication/2018_garcia-sanchez/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2018_garcia-sanchez/</guid>
+      <guid>https://cbjuan.github.io/publication/2018_garcia-sanchez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procesos colaborativos de crítica y reflexión para la coevaluación de proyectos artísticos de alumnos de Bellas Artes mediante el uso de las tecnologías móviles</title>
-      <link>https://juancb.es/publication/2017_gomez-procesos/</link>
+      <link>https://cbjuan.github.io/publication/2017_gomez-procesos/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2017_gomez-procesos/</guid>
+      <guid>https://cbjuan.github.io/publication/2017_gomez-procesos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comprendiendo la comunicación visual en las redes sociales: una propuesta real de análisis</title>
-      <link>https://juancb.es/publication/2015_garcia-sanchez-comprendiendo/</link>
+      <link>https://cbjuan.github.io/publication/2015_garcia-sanchez-comprendiendo/</link>
       <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_garcia-sanchez-comprendiendo/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_garcia-sanchez-comprendiendo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing and Building Systems and Tools to Analyze Visual Communications on Social Networks</title>
-      <link>https://juancb.es/publication/2015_garcia-sanchez-dbs-2808580-2808629/</link>
+      <link>https://cbjuan.github.io/publication/2015_garcia-sanchez-dbs-2808580-2808629/</link>
       <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2015_garcia-sanchez-dbs-2808580-2808629/</guid>
+      <guid>https://cbjuan.github.io/publication/2015_garcia-sanchez-dbs-2808580-2808629/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Human-Computer Interaction | Juan Cruz-Benito</title>
-    <link>https://juancb.es/tag/human-computer-interaction/</link>
-      <atom:link href="https://juancb.es/tag/human-computer-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbjuan.github.io/tag/human-computer-interaction/</link>
+      <atom:link href="https://cbjuan.github.io/tag/human-computer-interaction/index.xml" rel="self" type="application/rss+xml" />
     <description>Human-Computer Interaction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juancb.es/img/JuanCruzBenito_square.jpg</url>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Human-Computer Interaction</title>
-      <link>https://juancb.es/tag/human-computer-interaction/</link>
+      <link>https://cbjuan.github.io/tag/human-computer-interaction/</link>
     </image>
     
     <item>
       <title>Analyzing the software architectures supporting HCI/HMI processes through a systematic review of the literature</title>
-      <link>https://juancb.es/publication/2018_cruzbenito/</link>
+      <link>https://cbjuan.github.io/publication/2018_cruzbenito/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2018_cruzbenito/</guid>
+      <guid>https://cbjuan.github.io/publication/2018_cruzbenito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning</title>
-      <link>https://juancb.es/publication/2018_8240912/</link>
+      <link>https://cbjuan.github.io/publication/2018_8240912/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2018_8240912/</guid>
+      <guid>https://cbjuan.github.io/publication/2018_8240912/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using software architectures to retrieve interaction information in eLearning environments</title>
-      <link>https://juancb.es/publication/2014_7017715/</link>
+      <link>https://cbjuan.github.io/publication/2014_7017715/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://juancb.es/publication/2014_7017715/</guid>
+      <guid>https://cbjuan.github.io/publication/2014_7017715/</guid>
       <description></description>
     </item>
     
