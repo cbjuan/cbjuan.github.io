@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>José Carlos Sanchez-Prieto | Juan Cruz-Benito</title>
+    <title>José Carlos Sánchez-Prieto | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/author/jose-carlos-sanchez-prieto/</link>
       <atom:link href="https://cbjuan.github.io/author/jose-carlos-sanchez-prieto/index.xml" rel="self" type="application/rss+xml" />
-    <description>José Carlos Sanchez-Prieto</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <description>José Carlos Sánchez-Prieto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>José Carlos Sanchez-Prieto</title>
+      <title>José Carlos Sánchez-Prieto</title>
       <link>https://cbjuan.github.io/author/jose-carlos-sanchez-prieto/</link>
     </image>
     
     <item>
-      <title>How Different Versions of Layout and Complexity of Web Forms Affect Users After They Start It? A Pilot Experience</title>
-      <link>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</guid>
+      <title>Assessed by Machines: Development of a TAM-Based Tool to Measure AI-based Assessment Acceptance Among Students</title>
+      <link>https://cbjuan.github.io/publication/2020-ijimai/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2020-ijimai/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-t Uses and Research Trends</title>
+    <item>
+      <title>AI-Driven Assessment of Students: Current Uses and Research Trends</title>
       <link>https://cbjuan.github.io/publication/2020-hcii/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2020-hcii/</guid>
