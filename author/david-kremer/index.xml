@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/author/david-kremer/</link>
       <atom:link href="https://cbjuan.github.io/author/david-kremer/index.xml" rel="self" type="application/rss+xml" />
     <description>David Kremer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>David Kremer</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title>
+      <link>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Characterization, analysis and categorization of quantum programs without executing them</title>
-      <link>https://cbjuan.github.io/publication/2025-characterization-quantumprograms/</link>
+      <link>https://cbjuan.github.io/publication/2025-patent-characterization-quantumprograms/</link>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-characterization-quantumprograms/</guid>
+      <guid>https://cbjuan.github.io/publication/2025-patent-characterization-quantumprograms/</guid>
       <description></description>
     </item>
     
@@ -47,7 +55,7 @@
     <item>
       <title>AI methods for approximate compiling of unitaries</title>
       <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
       <description></description>
     </item>
@@ -55,7 +63,7 @@
     <item>
       <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
       <link>https://cbjuan.github.io/publication/2024-qiskithumaneval/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2024-qiskithumaneval/</guid>
       <description></description>
     </item>
@@ -63,7 +71,7 @@
     <item>
       <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
       <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
       <description></description>
     </item>

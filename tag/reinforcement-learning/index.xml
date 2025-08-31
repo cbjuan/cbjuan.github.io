@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/tag/reinforcement-learning/</link>
       <atom:link href="https://cbjuan.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinforcement Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Reinforcement Learning</title>
       <link>https://cbjuan.github.io/tag/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title>
+      <link>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reinforcement learning based transpilation of quantum circuits</title>

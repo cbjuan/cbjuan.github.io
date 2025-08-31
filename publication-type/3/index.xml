@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/publication-type/3/</link>
       <atom:link href="https://cbjuan.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>3</title>
@@ -13,34 +13,18 @@
     </image>
     
     <item>
+      <title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title>
+      <link>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
       <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI methods for approximate compiling of unitaries</title>
-      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
-      <link>https://cbjuan.github.io/publication/2024-qiskithumaneval/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-qiskithumaneval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
-      <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Francisco Martín-Fernández | Juan Cruz-Benito</title>
+    <title>Francisco Martin-Fernandez | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/author/francisco-martin-fernandez/</link>
       <atom:link href="https://cbjuan.github.io/author/francisco-martin-fernandez/index.xml" rel="self" type="application/rss+xml" />
-    <description>Francisco Martín-Fernández</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <description>Francisco Martin-Fernandez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Francisco Martín-Fernández</title>
+      <title>Francisco Martin-Fernandez</title>
       <link>https://cbjuan.github.io/author/francisco-martin-fernandez/</link>
     </image>
     
     <item>
-      <title>A Deep-Learning-Based Proposal to Aid Users in Quantum Computing Programming</title>
-      <link>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-91152-6-32/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-91152-6-32/</guid>
+      <title>Automated Source Code Generation and Auto-Completion Using Deep Learning: Comparing and Discussing Current Language Model-Related Approaches</title>
+      <link>https://cbjuan.github.io/publication/2020-lms-ai/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2020-lms-ai/</guid>
       <description></description>
     </item>
     

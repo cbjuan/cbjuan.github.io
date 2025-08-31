@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-Training | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/post-training/</link>
+      <atom:link href="https://cbjuan.github.io/tag/post-training/index.xml" rel="self" type="application/rss+xml" />
+    <description>Post-Training</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Post-Training</title>
+      <link>https://cbjuan.github.io/tag/post-training/</link>
+    </image>
+    
+    <item>
+      <title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title>
+      <link>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

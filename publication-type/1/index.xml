@@ -5,12 +5,36 @@
     <link>https://cbjuan.github.io/publication-type/1/</link>
       <atom:link href="https://cbjuan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>1</title>
       <link>https://cbjuan.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>AI methods for approximate compiling of unitaries</title>
+      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
+      <link>https://cbjuan.github.io/publication/2024-qiskithumaneval/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qiskithumaneval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
+      <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Quantum Natural Language Processing for Sentiment Classification and Next-Word Prediction in Sentences Without Fixed Syntactic Structure</title>

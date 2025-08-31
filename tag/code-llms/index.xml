@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/tag/code-llms/</link>
       <atom:link href="https://cbjuan.github.io/tag/code-llms/index.xml" rel="self" type="application/rss+xml" />
     <description>Code LLMs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Code LLMs</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code</title>
       <link>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</guid>
       <description></description>
     </item>
