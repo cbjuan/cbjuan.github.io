@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/publication-type/3/</link>
       <atom:link href="https://cbjuan.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>3</title>
       <link>https://cbjuan.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>AI Methods for Permutation Circuit Synthesis Across Generic Topologies</title>
+      <link>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title>

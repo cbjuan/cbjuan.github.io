@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/author/victor-villar/</link>
       <atom:link href="https://cbjuan.github.io/author/victor-villar/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor Villar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Victor Villar</title>
       <link>https://cbjuan.github.io/author/victor-villar/</link>
     </image>
+    
+    <item>
+      <title>AI Methods for Permutation Circuit Synthesis Across Generic Topologies</title>
+      <link>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reinforcement learning based transpilation of quantum circuits</title>
