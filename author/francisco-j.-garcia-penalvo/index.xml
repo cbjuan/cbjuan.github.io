@@ -1,36 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Francisco J. Garcia-Penalvo | Juan Cruz-Benito</title>
+    <title>Francisco J. García-Peñalvo | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/author/francisco-j.-garcia-penalvo/</link>
       <atom:link href="https://cbjuan.github.io/author/francisco-j.-garcia-penalvo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Francisco J. Garcia-Penalvo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <description>Francisco J. García-Peñalvo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Francisco J. Garcia-Penalvo</title>
+      <title>Francisco J. García-Peñalvo</title>
       <link>https://cbjuan.github.io/author/francisco-j.-garcia-penalvo/</link>
     </image>
     
     <item>
-      <title>Inclusión de prácticas de observación de usuarios reales en la asignatura Interacción Persona-Ordenador del Grado en Ingeniería Informática</title>
-      <link>https://cbjuan.github.io/publication/2017_cruzinclusion/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2017_cruzinclusion/</guid>
+      <title>Assessed by Machines: Development of a TAM-Based Tool to Measure AI-based Assessment Acceptance Among Students</title>
+      <link>https://cbjuan.github.io/publication/2020-ijimai/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2020-ijimai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning communities in social networks and their relationship with the MOOCs</title>
-      <link>https://cbjuan.github.io/publication/2017_cruz-learning/</link>
-      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2017_cruz-learning/</guid>
+      <title>AI-Driven Assessment of Students: Current Uses and Research Trends</title>
+      <link>https://cbjuan.github.io/publication/2020-hcii/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2020-hcii/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-Learning: A TAM-based Proposal</title>
+    <item>
+      <title>How to Measure Teachers&#39; Acceptance of AI-driven Assessment in eLearning: A TAM-based Proposal</title>
       <link>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid>
