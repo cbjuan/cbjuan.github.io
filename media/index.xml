@@ -5,12 +5,28 @@
     <link>https://cbjuan.github.io/media/</link>
       <atom:link href="https://cbjuan.github.io/media/index.xml" rel="self" type="application/rss+xml" />
     <description>Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Media</title>
       <link>https://cbjuan.github.io/media/</link>
     </image>
+    
+    <item>
+      <title>Oct 06, 2025. METAFUTURO Bizkaia Quantum - Primera jornada 2025</title>
+      <link>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-bizkaia-quantum/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-bizkaia-quantum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sep 24, 2025. Juan Cruz-Benito en IBM Quantum señala el próximo gran reto del sector tecnológico: &#39;Queremos que todo el mundo sea parte de la tecnología cuántica&#39;</title>
+      <link>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-quantum-ibm/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0100</pubDate>
+      <guid>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-quantum-ibm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feb 06, 2020. Cabalga El Cometa EP-18 &#34;El grial de la computación cuántica con Juan Cruz-Benito&#34;</title>
