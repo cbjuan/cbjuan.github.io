@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/author/sanjay-vishwakarma/</link>
       <atom:link href="https://cbjuan.github.io/author/sanjay-vishwakarma/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanjay Vishwakarma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Sanjay Vishwakarma</title>
       <link>https://cbjuan.github.io/author/sanjay-vishwakarma/</link>
     </image>
+    
+    <item>
+      <title>Quantum Processing Unit (QPU) processing time Prediction with Machine Learning</title>
+      <link>https://cbjuan.github.io/publication/2025-qputimeprediction/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-qputimeprediction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reinforcement Learning based Clifford Circuit Synthesis</title>
