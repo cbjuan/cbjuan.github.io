@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ana Martín-Suárez | Juan Cruz-Benito</title>
+    <title>Ana Martin-Suarez | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/author/ana-martin-suarez/</link>
       <atom:link href="https://cbjuan.github.io/author/ana-martin-suarez/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ana Martín-Suárez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <description>Ana Martin-Suarez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Ana Martín-Suárez</title>
+      <title>Ana Martin-Suarez</title>
       <link>https://cbjuan.github.io/author/ana-martin-suarez/</link>
     </image>
     
     <item>
-      <title>Usalpharma: A Software Architecture to Support Learning in Virtual Worlds</title>
-      <link>https://cbjuan.github.io/publication/2016_7511684/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2016_7511684/</guid>
+      <title>Facility-based inspection training in a virtual 3D laboratory</title>
+      <link>https://cbjuan.github.io/publication/2014_maderuelo/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2014_maderuelo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Usalpharma: Una arquitectura software al servicio del aprendizaje en Mundos Virtuales</title>
-      <link>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2015_cruzbenito-usalpharma/</guid>
+      <title>Scientific Knowledge Transfer Training Through a Virtual World</title>
+      <link>https://cbjuan.github.io/publication/2014_martin-scientific/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2014_martin-scientific/</guid>
       <description></description>
+    </item>
+    
+  </channel>
+</rss>
+iption>
     </item>
     
     <item>
