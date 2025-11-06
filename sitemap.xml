@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cbjuan.github.io/tag/ai/</loc>
+    <lastmod>2025-11-05T16:02:10+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/talk/2025_qiskit_ai_hackathon/</loc>
+    <lastmod>2025-11-05T16:02:10+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/hackathon/</loc>
+    <lastmod>2025-11-05T16:02:10+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2025-11-06T01:37:04+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit/</loc>
+    <lastmod>2025-11-05T16:02:10+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
+    <lastmod>2025-11-05T16:02:10+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tags/</loc>
     <lastmod>2025-11-05T16:02:10+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication-type/3/</loc>
@@ -38,9 +56,6 @@
     <loc>https://cbjuan.github.io/tag/qpu/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
-    <lastmod>2025-10-29T10:47:15+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/quantum-processing-unit/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
   </url><url>
@@ -49,9 +64,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/author/sanjay-vishwakarma/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tags/</loc>
-    <lastmod>2025-10-29T11:00:09+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/categories/</loc>
     <lastmod>2025-10-29T11:00:09+01:00</lastmod>
@@ -67,6 +79,9 @@
   </url><url>
     <loc>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-bizkaia-quantum/</loc>
     <lastmod>2025-10-29T11:00:09+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/talk/2025_metafuturo_bizkaia/</loc>
+    <lastmod>2025-11-06T01:37:04+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-quantum-ibm/</loc>
     <lastmod>2025-10-29T11:00:09+01:00</lastmod>
@@ -115,9 +130,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/tag/post-training/</loc>
     <lastmod>2025-08-31T07:25:11-05:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/qiskit/</loc>
-    <lastmod>2025-08-31T07:42:46-05:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/qiskit-humaneval/</loc>
     <lastmod>2025-08-31T07:42:46-05:00</lastmod>
@@ -343,9 +355,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/publication/2023-qnlp-icist/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/talk/2025_metafuturo_bizkaia/</loc>
-    <lastmod>2025-10-29T11:09:32+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/ivan-duran-martinez/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
