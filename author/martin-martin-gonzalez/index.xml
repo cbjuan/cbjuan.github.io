@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Martín Martín-Gonzalez | Juan Cruz-Benito</title>
+    <title>Martín Martín-González | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/author/martin-martin-gonzalez/</link>
       <atom:link href="https://cbjuan.github.io/author/martin-martin-gonzalez/index.xml" rel="self" type="application/rss+xml" />
-    <description>Martín Martín-Gonzalez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <description>Martín Martín-González</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Martín Martín-Gonzalez</title>
+      <title>Martín Martín-González</title>
       <link>https://cbjuan.github.io/author/martin-martin-gonzalez/</link>
     </image>
     
     <item>
-      <title>How Different Versions of Layout and Complexity of Web Forms Affect Users After They Start It? A Pilot Experience</title>
-      <link>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2018_10-1007-978-3-319-77712-2-92/</guid>
+      <title>Proposing a Machine Learning Approach to Analyze and Predict Employment and its Factors</title>
+      <link>https://cbjuan.github.io/publication/2018_garcia-proposing/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2018_garcia-proposing/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-os en España. Proyecto OEEU</title>
+    <item>
+      <title>Empleabilidad de los titulados universitarios en España. Proyecto OEEU</title>
       <link>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2018_ek-seks-20181912139/</guid>
