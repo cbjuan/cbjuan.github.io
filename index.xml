@@ -107,6 +107,28 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
     </item>
     
     <item>
+      <title>¿Hay vida después del doctorado? / Is there life after the PhD?</title>
+      <link>https://cbjuan.github.io/talk/2025_doctorado_usal/</link>
+      <pubDate>Fri, 11 Apr 2025 16:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/talk/2025_doctorado_usal/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
       <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
@@ -232,28 +254,6 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2023-qml-teem-22/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>¿Hay vida después del doctorado? / Is there life after the PhD?</title>
-      <link>https://cbjuan.github.io/talk/2025_doctorado_usal/</link>
-      <pubDate>Tue, 11 Apr 2023 16:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/talk/2025_doctorado_usal/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --&gt;
-</description>
     </item>
     
     <item>
