@@ -5,12 +5,29 @@
     <link>https://cbjuan.github.io/tag/pauli-networks/</link>
       <atom:link href="https://cbjuan.github.io/tag/pauli-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Pauli Networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Pauli Networks</title>
       <link>https://cbjuan.github.io/tag/pauli-networks/</link>
     </image>
+    
+    <item>
+      <title>Pauli Network Circuit Synthesis with Reinforcement Learning Paper Published</title>
+      <link>https://cbjuan.github.io/post/2025-pauli-network-circuit-synthesis/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-pauli-network-circuit-synthesis/</guid>
+      <description>&lt;p&gt;Really happy to see the paper on arxiv. The described AI-powered transpiler pass for Pauli Networks has been available in the Qiskit Transpiler Service since last November 2024, as presented in the Quantum Developer Conference 2024 Check out the paper 
+&lt;a href=&#34;https://arxiv.org/abs/2503.14448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2503.14448&lt;/a&gt; and the related documentation on how to use it 
+&lt;a href=&#34;https://docs.quantum.ibm.com/guides/ai-transpiler-passes#ai-circuit-synthesis-passes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.quantum.ibm.com/guides/ai-transpiler-passes#ai-circuit-synthesis-passes&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; In response to 
+&lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:7308037457931833344/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayushi Dubal&amp;rsquo;s post&lt;/a&gt; about the Reinforcement Learning-based synthesis pass for Pauli Networks (Clifford + arbitrary angle Pauli rotation circuits). The research paper &lt;em&gt;Pauli Network Circuit Synthesis with Reinforcement Learning&lt;/em&gt; was presented at the American Physical Society March Meeting in Anaheim.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_pauli-network-circuit-synthesis-with-reinforcement-activity-7308037457931833344-PyjS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 19, 2025 - 16 reactions, 2 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>

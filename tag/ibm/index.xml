@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBM | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/ibm/</link>
+      <atom:link href="https://cbjuan.github.io/tag/ibm/index.xml" rel="self" type="application/rss+xml" />
+    <description>IBM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>IBM</title>
+      <link>https://cbjuan.github.io/tag/ibm/</link>
+    </image>
+    
+    <item>
+      <title>Keynote Speaker at Metafuturo 2025: Quantum Computing &#43; AI Convergence</title>
+      <link>https://cbjuan.github.io/post/2025-metafuturo-quantum-ai-keynote/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-metafuturo-quantum-ai-keynote/</guid>
+      <description>&lt;p&gt;🚀 Thrilled to have been part of Metafuturo 2025 as a keynote speaker!&lt;/p&gt;
+&lt;p&gt;I had the incredible opportunity to share insights on the convergence of Quantum Computing + AI at this forward-thinking event organized by Bizkaiko Foru Aldundia / Diputación Foral de Bizkaia and ATRESMEDIA.&lt;/p&gt;
+&lt;p&gt;The intersection of quantum technologies and artificial intelligence represents one of the most exciting frontiers in tech today. During my talk, I shared what we are doing in this field at IBM Quantum. From LLMs and agentic AI applications for quantum computing to AI-optimized quantum circuits, we&amp;rsquo;re witnessing the birth of computational capabilities that seemed like science fiction just a few years ago.&lt;/p&gt;
+&lt;p&gt;What struck me most during the event was the genuine curiosity and engagement from attendees across diverse industries. The talks and panels ranged from practical implementations to philosophical implications—exactly the kind of multidisciplinary dialogue we need as we navigate this quantum journey.&lt;/p&gt;
+&lt;p&gt;Huge thanks to the organizers for creating such a vibrant platform for discussing the technologies that will shape our tomorrow. Events like Metafuturo 2025 are essential for building bridges between cutting-edge research and real-world applications.&lt;/p&gt;
+&lt;p&gt;The future is quantum-enhanced, AI-powered, and closer than we think! 🔬⚡&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #ArtificialIntelligence #Innovation #Metafuturo2025 #TechTrends #QuantumAI #FutureOfTech #IBM&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-artificialintelligence-innovation-activity-7376756582644166656-N5v6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on September 24, 2025 - 107 reactions, 7 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant: New Open-Source LLM Models Released</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</guid>
+      <description>&lt;p&gt;🚀 We&amp;rsquo;re thrilled to announce the latest open-source LLM releases from the Qiskit Code Assistant team! 🚀&lt;/p&gt;
+&lt;p&gt;These new models bring enhanced capabilities and broader compatibility to quantum computing development.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s New:&lt;/p&gt;
+&lt;p&gt;✨ Qiskit 2.0 Compatibility - Our newer models are fully compatible with Qiskit 2.0 code, ensuring seamless development with the latest quantum computing framework&lt;/p&gt;
+&lt;p&gt;🧠 Enhanced Text Understanding - Significant improvements in general text comprehension and code generation capabilities&lt;/p&gt;
+&lt;p&gt;🔬 Expanding Our Horizons - We continue to leverage the newest stable versions of IBM Granite 3.2 and 3.3 models, while for the first time exploring beyond IBM Granite with the powerful Qwen2.5-Coder series&lt;/p&gt;
+&lt;p&gt;Available Models:
+• Granite 3.3 8B Qiskit (+ GGUF)
+• Granite 3.2 8B Qiskit (+ GGUF)
+• Qwen2.5-Coder 14B Qiskit (+ GGUF)&lt;/p&gt;
+&lt;p&gt;All models are available on Hugging Face and ready for local deployment!&lt;/p&gt;
+&lt;p&gt;🔗 Browse All Models: 
+&lt;a href=&#34;https://huggingface.co/Qiskit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit&lt;/a&gt;
+🔗 Get Started: 
+&lt;a href=&#34;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d love to hear how you&amp;rsquo;re making the most of these models! Share your experiences and quantum development journey with us. 🌟&lt;/p&gt;
+&lt;p&gt;Big thanks to the team involved in this release, specially to Nicolas Dupuis, Adarsh Tiwari and Ismael Faro&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #AI #LLMs #Qiskit #IBM #TechInnovation #QuantumDevelopment #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-qiskit-activity-7348275407323893762-qqo8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>qiskit-ibm-transpiler Ranks #4 in Unitary Fund 2024 Survey</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/</guid>
+      <description>&lt;p&gt;🎉 Exciting news! The qiskit-ibm-transpiler has been recognized as the &amp;ldquo;4th most used quantum computing development tool globally&amp;rdquo; in the 2024 Unitary Fund survey under the &amp;ldquo;Full-stack development platforms, compilers, and simulators&amp;rdquo; category.&lt;/p&gt;
+&lt;p&gt;What makes this particularly remarkable? The project has only been publicly available for just over a year!&lt;/p&gt;
+&lt;p&gt;🔍 What is the qiskit-ibm-transpiler?&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a library that combines Qiskit&amp;rsquo;s powerful heuristic algorithms with our cutting-edge AI transpiler passes. Think of it as a sophisticated translator that optimizes your quantum code to run more efficiently on real quantum hardware.&lt;/p&gt;
+&lt;p&gt;🌍 What this means:&lt;/p&gt;
+&lt;p&gt;This recognition reflects both the growing adoption of quantum computing and the community&amp;rsquo;s trust in AI-powered tools. It&amp;rsquo;s an acknowledgment of not just our technology, but of every developer who has contributed to and embraced this project.&lt;/p&gt;
+&lt;p&gt;🔗 Resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: 
+&lt;a href=&#34;https://github.com/Qiskit/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Qiskit/qiskit-ibm-transpiler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: 
+&lt;a href=&#34;https://docs.quantum.ibm.com/transpile/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.quantum.ibm.com/transpile/qiskit-ibm-transpiler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you to everyone who has been part of this journey. Here&amp;rsquo;s to pushing the boundaries of quantum computing together! 🚀&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #Qiskit #IBM #SoftwareDevelopment #AITranspilerPasses #QiskitIBMTranspiler #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-opensource-qiskit-activity-7274806285357748224-d9Al&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on December 17, 2024 - 79 reactions, 1 comment as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Honored to Receive IBM Master Inventor Recognition</title>
+      <link>https://cbjuan.github.io/post/2024-ibm-master-inventor/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ibm-master-inventor/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m honored to share that I&amp;rsquo;ve received the 
+&lt;a href=&#34;https://www.credly.com/badges/cf8bd032-f112-4b81-9439-41011b83c090&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM Master Inventor recognition&lt;/a&gt;! 🎉&lt;/p&gt;
+&lt;p&gt;This distinction is awarded to employees who have &amp;ldquo;mastered the patent process, mentored broadly, added value to IBM&amp;rsquo;s portfolio and demonstrated sustained innovation leadership and service.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s incredibly rewarding to be recognized for contributions that blend innovation with mentorship and service to the broader community. This achievement reflects not just individual effort, but the collaborative spirit of working with brilliant colleagues across IBM.&lt;/p&gt;
+&lt;p&gt;Thank you to everyone who has been part of this journey!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_master-inventor-was-issued-by-ibm-to-juan-activity-7255334536752865282-3tR8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on October 24, 2024 - 137 reactions, 40 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Starting New Role: Software Engineering Manager</title>
+      <link>https://cbjuan.github.io/post/2023-software-engineering-manager/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2023-software-engineering-manager/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to share that I&amp;rsquo;m starting a new position as Software Engineering Manager!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_im-happy-to-share-that-im-starting-a-new-activity-7060707472176537600-tD3G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on May 6, 2023 - 85 reactions, 10 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

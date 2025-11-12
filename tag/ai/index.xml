@@ -20,5 +20,141 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title>
+      <link>https://cbjuan.github.io/post/2025-quantum-verifiable-rewards-qiskit/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-quantum-verifiable-rewards-qiskit/</guid>
+      <description>&lt;p&gt;📄 We just released a new paper &amp;ldquo;Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant&amp;rdquo; - and it&amp;rsquo;s been getting great attention from folks in the quantum field since day one. 🎉&lt;/p&gt;
+&lt;p&gt;🔍 What we built: A novel approach to train AI models that can write better quantum code using Qiskit. What makes this interesting:&lt;/p&gt;
+&lt;p&gt;✅ Quantum verification at the core - Instead of just hoping the AI-generated code works, we actually verify it runs correctly on real quantum systems
+✅ Smart training pipeline - We created synthetic quantum problem-test pairs and used both Direct Preference Optimization (DPO) and Group Relative Policy Optimization (GRPO) to align our models
+✅ Real quantum feedback - Our models learn directly from quantum hardware and systems rewards, ensuring the code they generate actually works in practice&lt;/p&gt;
+&lt;p&gt;The results: Our best model significantly outperforms existing leading open-source baselines on the challenging Qiskit-HumanEval-hard benchmark.&lt;/p&gt;
+&lt;p&gt;This work presents a solid contribution to making quantum programming more accessible through AI assistance. The approach of using quantum hardware verification to train coding assistants opens up promising directions for future research.&lt;/p&gt;
+&lt;p&gt;Proud of our team&amp;rsquo;s thoughtful work on this project: Nicolas Dupuis, Adarsh Tiwari, Youssef MROUEH, David Kremer, Ismael Faro. The intersection of AI and quantum computing continues to offer compelling research opportunities.&lt;/p&gt;
+&lt;p&gt;Paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2508.20907&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2508.20907&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #AI #MachineLearning #Qiskit #Research #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantum-verifiable-rewards-for-post-training-activity-7367455154318585857-5ElR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on August 30, 2025 - 76 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant: New Open-Source LLM Models Released</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</guid>
+      <description>&lt;p&gt;🚀 We&amp;rsquo;re thrilled to announce the latest open-source LLM releases from the Qiskit Code Assistant team! 🚀&lt;/p&gt;
+&lt;p&gt;These new models bring enhanced capabilities and broader compatibility to quantum computing development.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s New:&lt;/p&gt;
+&lt;p&gt;✨ Qiskit 2.0 Compatibility - Our newer models are fully compatible with Qiskit 2.0 code, ensuring seamless development with the latest quantum computing framework&lt;/p&gt;
+&lt;p&gt;🧠 Enhanced Text Understanding - Significant improvements in general text comprehension and code generation capabilities&lt;/p&gt;
+&lt;p&gt;🔬 Expanding Our Horizons - We continue to leverage the newest stable versions of IBM Granite 3.2 and 3.3 models, while for the first time exploring beyond IBM Granite with the powerful Qwen2.5-Coder series&lt;/p&gt;
+&lt;p&gt;Available Models:
+• Granite 3.3 8B Qiskit (+ GGUF)
+• Granite 3.2 8B Qiskit (+ GGUF)
+• Qwen2.5-Coder 14B Qiskit (+ GGUF)&lt;/p&gt;
+&lt;p&gt;All models are available on Hugging Face and ready for local deployment!&lt;/p&gt;
+&lt;p&gt;🔗 Browse All Models: 
+&lt;a href=&#34;https://huggingface.co/Qiskit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit&lt;/a&gt;
+🔗 Get Started: 
+&lt;a href=&#34;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d love to hear how you&amp;rsquo;re making the most of these models! Share your experiences and quantum development journey with us. 🌟&lt;/p&gt;
+&lt;p&gt;Big thanks to the team involved in this release, specially to Nicolas Dupuis, Adarsh Tiwari and Ismael Faro&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #AI #LLMs #Qiskit #IBM #TechInnovation #QuantumDevelopment #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-qiskit-activity-7348275407323893762-qqo8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Among IBM Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore</title>
+      <link>https://cbjuan.github.io/post/2025-ibm-tech-singapore/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-ibm-tech-singapore/</guid>
+      <description>&lt;p&gt;Among 👁️🐝Ⓜ️ Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore 🇸🇬&lt;/p&gt;
+&lt;p&gt;I had the privilege of attending IBM Tech 2025 in Singapore this week - an exclusive, invitation-only gathering of IBM&amp;rsquo;s top technical talent from around the world. As one of the selected participants, I&amp;rsquo;m humbled to have been recognized among IBM&amp;rsquo;s most innovative and performing technical minds.&lt;/p&gt;
+&lt;p&gt;The atmosphere was electric as we dove deep into the future of AI, quantum computing, and emerging technologies. What struck me most was not just the cutting-edge content of the presentations from colleagues and leaders such as Ruchir Puri, Suja Viswesan, Ric Lewis, Borja Peropadre, and others, but the quality of conversations happening between sessions. Exchanging ideas with brilliant colleagues across different technical disciplines provided invaluable perspective on where technology is headed.&lt;/p&gt;
+&lt;p&gt;Particularly enlightening were the discussions with my IBM Quantum and AI Research colleagues and the cross-pollination of ideas between different technical domains. These connections reinforced my belief that the most transformative innovations happen at the intersection of diverse expertise.&lt;/p&gt;
+&lt;p&gt;Beyond the technical exchanges, Singapore provided a stunning backdrop for cultural experiences that complemented our professional activities. The city&amp;rsquo;s blend of tradition and futuristic vision perfectly mirrored our discussions about building tomorrow&amp;rsquo;s technologies while honoring established principles.&lt;/p&gt;
+&lt;p&gt;Returning home energized and inspired, I&amp;rsquo;m grateful for both the recognition and the opportunity to contribute to IBM&amp;rsquo;s technical community. The future belongs to those who collaborate across boundaries, and IBM Tech 2025 demonstrated that our collective expertise is our greatest strength.&lt;/p&gt;
+&lt;p&gt;#IBMTech2025 #Innovation #TechnicalExcellence #QuantumComputing #AI #FutureTech #IBMLife #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ibmtech2025-innovation-technicalexcellence-activity-7311293166270242817-FcdZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 28, 2025 - 96 reactions, 14 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Granite-8B-Qiskit-RC-0.10: Updated Checkpoint Using Current Training Approach</title>
+      <link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</guid>
+      <description>&lt;p&gt;🙌 Thanks to the feedback received, we&amp;rsquo;ve released a revised version of the granite-8b-qiskit-rc-0.10! Check out the improved checkpoint at 
+&lt;a href=&#34;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt; In response to: 
+&lt;a href=&#34;https://lnkd.in/dCzwpkBZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my&amp;rsquo;s post announcing the initial release of that model&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7302255239674404864-6E_9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 3, 2025 - 22 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shipping Granite-8B-Qiskit-RC-0.10: The Final Model of Current Training Era</title>
+      <link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</guid>
+      <description>&lt;p&gt;🚀 Last Friday, we shipped something special: granite-8b-qiskit-rc-0.10, our latest revision of the LLMs that empower the Qiskit Code Assistant.&lt;/p&gt;
+&lt;p&gt;Trained on a significantly expanded Qiskit synthetic dataset, this release marks the end of an era - it&amp;rsquo;s our final model using the current training approach.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s next? We&amp;rsquo;re pivoting to newer Granite base models and starting to integrate other cutting-edge techniques. Stay tuned!&lt;/p&gt;
+&lt;p&gt;Check it out: 
+&lt;a href=&#34;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7297410467726004225-osAr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on February 18, 2025 - 126 reactions, 8 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantum Developer Conference 2024: Showcasing AI-Powered Quantum Tools</title>
+      <link>https://cbjuan.github.io/post/2024-quantum-developer-conference/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-quantum-developer-conference/</guid>
+      <description>&lt;p&gt;Excited to be participating in the Quantum Developer Conference 2024 at the IBM Thomas J. Watson Research Center! It&amp;rsquo;s been fantastic networking with fellow quantum computing professionals and showcasing the latest developments at the intersection of AI and quantum computing.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re featuring exciting innovations including the Qiskit Code Assistant and our cutting-edge AI-powered transpiler passes. These tools represent significant steps forward in making quantum computing more accessible and efficient.&lt;/p&gt;
+&lt;p&gt;Learn more: 
+&lt;a href=&#34;https://www.ibm.com/quantum/blog/qdc-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ibm.com/quantum/blog/qdc-2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #AI #IBMQuantum #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-ai-ibmquantum-activity-7263335380895059968-cQiA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on November 15, 2024 - 97 reactions, 1 comment as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing Qiskit Code Assistant: New Blog Post Published</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-code-assistant-introduction/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-code-assistant-introduction/</guid>
+      <description>&lt;p&gt;Last week we published a blog post summarizing what is the Qiskit Code Assistant and how you can start to use it.&lt;/p&gt;
+&lt;p&gt;Following the recent launch, users are already leveraging the tool&amp;rsquo;s features. We&amp;rsquo;re actively developing improved models with enhanced capabilities that we&amp;rsquo;re planning to release as open source!&lt;/p&gt;
+&lt;p&gt;Read the blog post: 
+&lt;a href=&#34;https://www.ibm.com/quantum/blog/qiskit-code-assistant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ibm.com/quantum/blog/qiskit-code-assistant&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #qiskitcodeassistant #opensource #ibmquantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_introducing-qiskit-code-assistant-ibm-quantum-activity-7251924654397739008-d92S&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on October 15, 2024 - 51 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

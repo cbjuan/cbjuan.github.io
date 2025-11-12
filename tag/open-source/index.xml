@@ -5,12 +5,106 @@
     <link>https://cbjuan.github.io/tag/open-source/</link>
       <atom:link href="https://cbjuan.github.io/tag/open-source/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Source</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Open Source</title>
       <link>https://cbjuan.github.io/tag/open-source/</link>
     </image>
+    
+    <item>
+      <title>qiskit-ibm-transpiler Ranks #3 in Unitary Foundation 2025 Survey</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-ibm-transpiler-unitary-foundation/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-ibm-transpiler-unitary-foundation/</guid>
+      <description>&lt;p&gt;🚀 🚀🚀 Climbing the ranks in quantum software!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m thrilled to share that the &lt;code&gt;qiskit-ibm-transpiler&lt;/code&gt; library has moved up to #3 in the 
+&lt;a href=&#34;https://unitaryfoundation.github.io/survey-2025/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unitary Foundation 2025 Survey under Full-stack development platforms, compilers, and simulators&lt;/a&gt;. Just last year, we 
+&lt;a href=&#34;https://unitaryfoundation.github.io/survey-2024/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;were #4&lt;/a&gt; — and this year’s leap is a testament to the incredible work of the team behind it.&lt;/p&gt;
+&lt;p&gt;In less than two years, the package has surpassed 
+&lt;a href=&#34;https://pepy.tech/projects/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;929K downloads&lt;/a&gt;, becoming a relevant tool for quantum circuit optimization/transpilation across the community.&lt;/p&gt;
+&lt;p&gt;One of the most exciting updates this year: our AI transpiler passes — including the latest Pauli Networks pass (
+&lt;a href=&#34;https://arxiv.org/abs/2503.14448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2503.14448&lt;/a&gt;) — can now run in local mode, removing the need for an IBM Quantum premium plan. This makes advanced AI-powered transpilation more accessible than ever.&lt;/p&gt;
+&lt;p&gt;The Unitary Fund survey is widely recognized as the primary pulse check for quantum software adoption and developer preferences. Seeing our work reflected there is both humbling and energizing.&lt;/p&gt;
+&lt;p&gt;Huge kudos to the amazing team behind this David Kremer, Víctor Villar Pascual, Jesús Talavera Gómez, Yaiza García Martín-Mantero, Ismael Faro — your dedication, creativity, and deep technical insight are what make this possible. And thank you to the community for your continued trust and feedback.&lt;/p&gt;
+&lt;p&gt;Let’s keep pushing the boundaries of quantum + AI software together.&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #Qiskit #IBMQuantum #AITranspiler #UnitaryFund #QuantumSoftware #OpenSource #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-qiskit-ibmquantum-activity-7393696332462518272-2JwC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on November 10, 2025 - 50 reactions as of 11/11/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant: New Open-Source LLM Models Released</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</guid>
+      <description>&lt;p&gt;🚀 We&amp;rsquo;re thrilled to announce the latest open-source LLM releases from the Qiskit Code Assistant team! 🚀&lt;/p&gt;
+&lt;p&gt;These new models bring enhanced capabilities and broader compatibility to quantum computing development.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s New:&lt;/p&gt;
+&lt;p&gt;✨ Qiskit 2.0 Compatibility - Our newer models are fully compatible with Qiskit 2.0 code, ensuring seamless development with the latest quantum computing framework&lt;/p&gt;
+&lt;p&gt;🧠 Enhanced Text Understanding - Significant improvements in general text comprehension and code generation capabilities&lt;/p&gt;
+&lt;p&gt;🔬 Expanding Our Horizons - We continue to leverage the newest stable versions of IBM Granite 3.2 and 3.3 models, while for the first time exploring beyond IBM Granite with the powerful Qwen2.5-Coder series&lt;/p&gt;
+&lt;p&gt;Available Models:
+• Granite 3.3 8B Qiskit (+ GGUF)
+• Granite 3.2 8B Qiskit (+ GGUF)
+• Qwen2.5-Coder 14B Qiskit (+ GGUF)&lt;/p&gt;
+&lt;p&gt;All models are available on Hugging Face and ready for local deployment!&lt;/p&gt;
+&lt;p&gt;🔗 Browse All Models: 
+&lt;a href=&#34;https://huggingface.co/Qiskit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit&lt;/a&gt;
+🔗 Get Started: 
+&lt;a href=&#34;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d love to hear how you&amp;rsquo;re making the most of these models! Share your experiences and quantum development journey with us. 🌟&lt;/p&gt;
+&lt;p&gt;Big thanks to the team involved in this release, specially to Nicolas Dupuis, Adarsh Tiwari and Ismael Faro&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #AI #LLMs #Qiskit #IBM #TechInnovation #QuantumDevelopment #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-qiskit-activity-7348275407323893762-qqo8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>qiskit-ibm-transpiler Ranks #4 in Unitary Fund 2024 Survey</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/</guid>
+      <description>&lt;p&gt;🎉 Exciting news! The qiskit-ibm-transpiler has been recognized as the &amp;ldquo;4th most used quantum computing development tool globally&amp;rdquo; in the 2024 Unitary Fund survey under the &amp;ldquo;Full-stack development platforms, compilers, and simulators&amp;rdquo; category.&lt;/p&gt;
+&lt;p&gt;What makes this particularly remarkable? The project has only been publicly available for just over a year!&lt;/p&gt;
+&lt;p&gt;🔍 What is the qiskit-ibm-transpiler?&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a library that combines Qiskit&amp;rsquo;s powerful heuristic algorithms with our cutting-edge AI transpiler passes. Think of it as a sophisticated translator that optimizes your quantum code to run more efficiently on real quantum hardware.&lt;/p&gt;
+&lt;p&gt;🌍 What this means:&lt;/p&gt;
+&lt;p&gt;This recognition reflects both the growing adoption of quantum computing and the community&amp;rsquo;s trust in AI-powered tools. It&amp;rsquo;s an acknowledgment of not just our technology, but of every developer who has contributed to and embraced this project.&lt;/p&gt;
+&lt;p&gt;🔗 Resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: 
+&lt;a href=&#34;https://github.com/Qiskit/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Qiskit/qiskit-ibm-transpiler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: 
+&lt;a href=&#34;https://docs.quantum.ibm.com/transpile/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.quantum.ibm.com/transpile/qiskit-ibm-transpiler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you to everyone who has been part of this journey. Here&amp;rsquo;s to pushing the boundaries of quantum computing together! 🚀&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #Qiskit #IBM #SoftwareDevelopment #AITranspilerPasses #QiskitIBMTranspiler #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-opensource-qiskit-activity-7274806285357748224-d9Al&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on December 17, 2024 - 79 reactions, 1 comment as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing Qiskit Code Assistant: New Blog Post Published</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-code-assistant-introduction/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-code-assistant-introduction/</guid>
+      <description>&lt;p&gt;Last week we published a blog post summarizing what is the Qiskit Code Assistant and how you can start to use it.&lt;/p&gt;
+&lt;p&gt;Following the recent launch, users are already leveraging the tool&amp;rsquo;s features. We&amp;rsquo;re actively developing improved models with enhanced capabilities that we&amp;rsquo;re planning to release as open source!&lt;/p&gt;
+&lt;p&gt;Read the blog post: 
+&lt;a href=&#34;https://www.ibm.com/quantum/blog/qiskit-code-assistant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ibm.com/quantum/blog/qiskit-code-assistant&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #qiskitcodeassistant #opensource #ibmquantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_introducing-qiskit-code-assistant-ibm-quantum-activity-7251924654397739008-d92S&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on October 15, 2024 - 51 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Developing Win-win Solutions for Virtual Placements in Informatics: The VALS Case</title>

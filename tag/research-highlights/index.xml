@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Highlights | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/research-highlights/</link>
+      <atom:link href="https://cbjuan.github.io/tag/research-highlights/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Highlights</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Research Highlights</title>
+      <link>https://cbjuan.github.io/tag/research-highlights/</link>
+    </image>
+    
+    <item>
+      <title>IEEE Quantum Week 2024: Showcasing AI-Powered Quantum Tools</title>
+      <link>https://cbjuan.github.io/post/2024-ieee-quantum-week/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ieee-quantum-week/</guid>
+      <description>&lt;p&gt;Las week I attended to the IEEE Quantum Week and it was a blast! 🚀🔬&lt;/p&gt;
+&lt;p&gt;I had the opportunity to witness and showcase several groundbreaking developments from IBM Quantum AI:&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Qiskit Transpiler Service&lt;/strong&gt;: Jay Gambetta presented impressive results showing how our AI-powered optimization passes outperformed all competitors in benchpress regarding depth and number of gates, including Qiskit itself!&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Qiskit Code Assistant&lt;/strong&gt;: We announced the first preview release of this innovative tool.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Unitary Compilation Research&lt;/strong&gt;: David Kremer presented our work on approximate compiling of unitaries in quantum circuits using AI. We also co-delivered a tutorial on AI-powered transpiler passes.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Qiskit HumanEval&lt;/strong&gt;: I had the chance to present this benchmark for evaluating quantum software development tools.&lt;/p&gt;
+&lt;p&gt;It was an incredible week of innovation, collaboration, and pushing the boundaries of what&amp;rsquo;s possible in quantum computing!&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #IEEEQuantumWeek #Qiskit #AIforQuantum #QisktiCodeAssistant #QiskitTranspilerService #ResearchHighlights&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-ieeequantumweek-qiskit-activity-7244387457046114304-WxeQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on September 24, 2024 - 71 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

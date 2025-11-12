@@ -5,12 +5,36 @@
     <link>https://cbjuan.github.io/tag/natural-language-processing/</link>
       <atom:link href="https://cbjuan.github.io/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Natural Language Processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 06 Jun 2024 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Natural Language Processing</title>
       <link>https://cbjuan.github.io/tag/natural-language-processing/</link>
     </image>
+    
+    <item>
+      <title>Comparing Natural Language Processing and Quantum NLP: Research Published</title>
+      <link>https://cbjuan.github.io/post/2024-quantum-nlp-comparison-paper/</link>
+      <pubDate>Thu, 06 Jun 2024 08:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-quantum-nlp-comparison-paper/</guid>
+      <description>&lt;p&gt;Excited to share our peer-reviewed publication &amp;ldquo;Comparing Natural Language Processing and Quantum Natural Processing approaches in text classification tasks&amp;rdquo;! 🚀&lt;/p&gt;
+&lt;p&gt;This collaborative work with David Peral García and Francisco José García-Peñalvo has been published in &lt;em&gt;Expert Systems with Applications&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Key findings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Quantum NLP models can obtain the same or better results in some datasets for simpler text classification tasks like entity recognition and sentiment analysis&lt;/li&gt;
+&lt;li&gt;✅ Performance diminishes with increased label complexity and sentence difficulty&lt;/li&gt;
+&lt;li&gt;✅ Experiments utilized up to 7 qubits and tested on both new and existing datasets across multiple classification scenarios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While the results are promising, we identified that advancing to larger-scale quantum applications requires more powerful quantum hardware and sophisticated software infrastructure.&lt;/p&gt;
+&lt;p&gt;This research contributes to our understanding of where quantum computing can provide advantages in natural language processing tasks and highlights the path forward for future developments.&lt;/p&gt;
+&lt;p&gt;Read the full paper on 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0957417424012934/pdfft?md5=97c5788dcf43d930dd7c41c2ee72d05e&amp;amp;pid=1-s2.0-S0957417424012934-main.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ScienceDirect&lt;/a&gt;. 
+&lt;a href=&#34;https://doi.org/https://doi.org/10.1016/j.eswa.2024.124427&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_comparing-natural-language-processing-and-activity-7208402743756042240-RRIS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 17, 2024 - 19 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Natural language processing for restricting user access to systems</title>

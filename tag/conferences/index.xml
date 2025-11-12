@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/conferences/</link>
+      <atom:link href="https://cbjuan.github.io/tag/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conferences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Conferences</title>
+      <link>https://cbjuan.github.io/tag/conferences/</link>
+    </image>
+    
+    <item>
+      <title>Quantum Developer Conference 2024: Showcasing AI-Powered Quantum Tools</title>
+      <link>https://cbjuan.github.io/post/2024-quantum-developer-conference/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-quantum-developer-conference/</guid>
+      <description>&lt;p&gt;Excited to be participating in the Quantum Developer Conference 2024 at the IBM Thomas J. Watson Research Center! It&amp;rsquo;s been fantastic networking with fellow quantum computing professionals and showcasing the latest developments at the intersection of AI and quantum computing.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re featuring exciting innovations including the Qiskit Code Assistant and our cutting-edge AI-powered transpiler passes. These tools represent significant steps forward in making quantum computing more accessible and efficient.&lt;/p&gt;
+&lt;p&gt;Learn more: 
+&lt;a href=&#34;https://www.ibm.com/quantum/blog/qdc-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ibm.com/quantum/blog/qdc-2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #AI #IBMQuantum #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-ai-ibmquantum-activity-7263335380895059968-cQiA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on November 15, 2024 - 97 reactions, 1 comment as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IEEE Quantum Week 2024: Showcasing AI-Powered Quantum Tools</title>
+      <link>https://cbjuan.github.io/post/2024-ieee-quantum-week/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ieee-quantum-week/</guid>
+      <description>&lt;p&gt;Las week I attended to the IEEE Quantum Week and it was a blast! 🚀🔬&lt;/p&gt;
+&lt;p&gt;I had the opportunity to witness and showcase several groundbreaking developments from IBM Quantum AI:&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Qiskit Transpiler Service&lt;/strong&gt;: Jay Gambetta presented impressive results showing how our AI-powered optimization passes outperformed all competitors in benchpress regarding depth and number of gates, including Qiskit itself!&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Qiskit Code Assistant&lt;/strong&gt;: We announced the first preview release of this innovative tool.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Unitary Compilation Research&lt;/strong&gt;: David Kremer presented our work on approximate compiling of unitaries in quantum circuits using AI. We also co-delivered a tutorial on AI-powered transpiler passes.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Qiskit HumanEval&lt;/strong&gt;: I had the chance to present this benchmark for evaluating quantum software development tools.&lt;/p&gt;
+&lt;p&gt;It was an incredible week of innovation, collaboration, and pushing the boundaries of what&amp;rsquo;s possible in quantum computing!&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #IEEEQuantumWeek #Qiskit #AIforQuantum #QisktiCodeAssistant #QiskitTranspilerService #ResearchHighlights&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-ieeequantumweek-qiskit-activity-7244387457046114304-WxeQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on September 24, 2024 - 71 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting Qiskit HumanEval at IEEE Quantum Week 2024</title>
+      <link>https://cbjuan.github.io/post/2024-ieee-quantum-week-humaneval-talk/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ieee-quantum-week-humaneval-talk/</guid>
+      <description>&lt;p&gt;Hey! If you are at the #IEEEQuantumWeek 2024, I will be talking about the Qiskit HumanEval benchmark for LLMs in the session SYS-BNCH: Benchmarking (10:00 AM – 11:30 AM EDT)&lt;/p&gt;
+&lt;p&gt;After that, I&amp;rsquo;ll be around the IBM Quantum booth to chat about our AI and quantum computing initiatives. Looking forward to connecting with the community!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ieeequantumweek-activity-7242164477415051264--8Qm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on September 18, 2024 - 51 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

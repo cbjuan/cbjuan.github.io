@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/software-development/</link>
+      <atom:link href="https://cbjuan.github.io/tag/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Software Development</title>
+      <link>https://cbjuan.github.io/tag/software-development/</link>
+    </image>
+    
+    <item>
+      <title>qiskit-ibm-transpiler Ranks #4 in Unitary Fund 2024 Survey</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/</guid>
+      <description>&lt;p&gt;🎉 Exciting news! The qiskit-ibm-transpiler has been recognized as the &amp;ldquo;4th most used quantum computing development tool globally&amp;rdquo; in the 2024 Unitary Fund survey under the &amp;ldquo;Full-stack development platforms, compilers, and simulators&amp;rdquo; category.&lt;/p&gt;
+&lt;p&gt;What makes this particularly remarkable? The project has only been publicly available for just over a year!&lt;/p&gt;
+&lt;p&gt;🔍 What is the qiskit-ibm-transpiler?&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a library that combines Qiskit&amp;rsquo;s powerful heuristic algorithms with our cutting-edge AI transpiler passes. Think of it as a sophisticated translator that optimizes your quantum code to run more efficiently on real quantum hardware.&lt;/p&gt;
+&lt;p&gt;🌍 What this means:&lt;/p&gt;
+&lt;p&gt;This recognition reflects both the growing adoption of quantum computing and the community&amp;rsquo;s trust in AI-powered tools. It&amp;rsquo;s an acknowledgment of not just our technology, but of every developer who has contributed to and embraced this project.&lt;/p&gt;
+&lt;p&gt;🔗 Resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: 
+&lt;a href=&#34;https://github.com/Qiskit/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Qiskit/qiskit-ibm-transpiler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: 
+&lt;a href=&#34;https://docs.quantum.ibm.com/transpile/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.quantum.ibm.com/transpile/qiskit-ibm-transpiler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you to everyone who has been part of this journey. Here&amp;rsquo;s to pushing the boundaries of quantum computing together! 🚀&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #Qiskit #IBM #SoftwareDevelopment #AITranspilerPasses #QiskitIBMTranspiler #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-opensource-qiskit-activity-7274806285357748224-d9Al&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on December 17, 2024 - 79 reactions, 1 comment as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

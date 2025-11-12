@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/category/conferences/</link>
+      <atom:link href="https://cbjuan.github.io/category/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conferences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Conferences</title>
+      <link>https://cbjuan.github.io/category/conferences/</link>
+    </image>
+    
+    <item>
+      <title>IEEE Quantum Week in Albuquerque: AI and Quantum Computing at IBM Quantum</title>
+      <link>https://cbjuan.github.io/post/2025-ieee-quantum-week-albuquerque/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-ieee-quantum-week-albuquerque/</guid>
+      <description>&lt;p&gt;🚀 Excited to be attending IEEE Quantum Week in Albuquerque, New Mexico! I&amp;rsquo;ll be sharing some of the work we&amp;rsquo;re doing at IBM Quantum, especially at the intersection of AI and Quantum Computing. If you&amp;rsquo;re around and passionate about Quantum, AI, or both—let&amp;rsquo;s connect! Here&amp;rsquo;s where you can find me:&lt;/p&gt;
+&lt;p&gt;🧠 Today, Sunday, August 31 – 4:00PM
+Paper Presentation: &amp;ldquo;Quantum Processing Unit (QPU) Processing Time Prediction with Machine Learning&amp;rdquo;. We&amp;rsquo;ll explore how ML can improve QPU time prediction for quantum jobs—enabling smarter quantum workload scheduling.&lt;/p&gt;
+&lt;p&gt;🛠️ Monday, September 1 – 10:00AM
+Tutorial: &amp;ldquo;TUT13 — AI Methods for Quantum Circuit Optimization&amp;rdquo;. Together with David Kremer, we&amp;rsquo;ll demonstrate how Reinforcement Learning can be used to transpile and synthesize quantum circuits, using qiskit-ibm-transpiler and other tools developed by our team.&lt;/p&gt;
+&lt;p&gt;💡 Tuesday, September 2 – 12:00PM
+Live Demo at IBM Quantum Booth #400. I&amp;rsquo;ll demo our new AI-powered quantum computing development environment—designed to bridge the gap between quantum theory and practical implementation in a visual way.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re attending and want to talk about AI for Quantum, Quantum+AI, or our work at IBM Quantum—feel free to reach out or stop by!&lt;/p&gt;
+&lt;p&gt;#IEEEQuantumWeek #IBMQuantum #QuantumComputing #AIforQuantum #QuantumPlusAI&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ieeequantumweek-ibmquantum-quantumcomputing-activity-7368027269971243008-idxv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on August 31, 2025 - 42 reactions, 2 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Among IBM Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore</title>
+      <link>https://cbjuan.github.io/post/2025-ibm-tech-singapore/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-ibm-tech-singapore/</guid>
+      <description>&lt;p&gt;Among 👁️🐝Ⓜ️ Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore 🇸🇬&lt;/p&gt;
+&lt;p&gt;I had the privilege of attending IBM Tech 2025 in Singapore this week - an exclusive, invitation-only gathering of IBM&amp;rsquo;s top technical talent from around the world. As one of the selected participants, I&amp;rsquo;m humbled to have been recognized among IBM&amp;rsquo;s most innovative and performing technical minds.&lt;/p&gt;
+&lt;p&gt;The atmosphere was electric as we dove deep into the future of AI, quantum computing, and emerging technologies. What struck me most was not just the cutting-edge content of the presentations from colleagues and leaders such as Ruchir Puri, Suja Viswesan, Ric Lewis, Borja Peropadre, and others, but the quality of conversations happening between sessions. Exchanging ideas with brilliant colleagues across different technical disciplines provided invaluable perspective on where technology is headed.&lt;/p&gt;
+&lt;p&gt;Particularly enlightening were the discussions with my IBM Quantum and AI Research colleagues and the cross-pollination of ideas between different technical domains. These connections reinforced my belief that the most transformative innovations happen at the intersection of diverse expertise.&lt;/p&gt;
+&lt;p&gt;Beyond the technical exchanges, Singapore provided a stunning backdrop for cultural experiences that complemented our professional activities. The city&amp;rsquo;s blend of tradition and futuristic vision perfectly mirrored our discussions about building tomorrow&amp;rsquo;s technologies while honoring established principles.&lt;/p&gt;
+&lt;p&gt;Returning home energized and inspired, I&amp;rsquo;m grateful for both the recognition and the opportunity to contribute to IBM&amp;rsquo;s technical community. The future belongs to those who collaborate across boundaries, and IBM Tech 2025 demonstrated that our collective expertise is our greatest strength.&lt;/p&gt;
+&lt;p&gt;#IBMTech2025 #Innovation #TechnicalExcellence #QuantumComputing #AI #FutureTech #IBMLife #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ibmtech2025-innovation-technicalexcellence-activity-7311293166270242817-FcdZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 28, 2025 - 96 reactions, 14 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
