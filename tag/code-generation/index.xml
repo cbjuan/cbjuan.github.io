@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Generation | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/code-generation/</link>
+      <atom:link href="https://cbjuan.github.io/tag/code-generation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Code Generation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 17 Jun 2024 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Code Generation</title>
+      <link>https://cbjuan.github.io/tag/code-generation/</link>
+    </image>
+    
+    <item>
+      <title>Qiskit Code Assistant: Training LLMs for Quantum Code Generation Paper Published</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-code-assistant-training-paper/</link>
+      <pubDate>Mon, 17 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-code-assistant-training-paper/</guid>
+      <description>&lt;p&gt;Excited to share our research paper on training specialized LLMs for quantum computing code generation using Qiskit! 🚀&lt;/p&gt;
+&lt;p&gt;Code Large Language Models have emerged as powerful tools, revolutionizing the software development landscape by automating coding tasks. However, quantum programming presents unique challenges compared to classical coding.&lt;/p&gt;
+&lt;p&gt;Our work addresses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The scarcity of quantum code examples&lt;/li&gt;
+&lt;li&gt;The rapidly evolving nature of the quantum computing field&lt;/li&gt;
+&lt;li&gt;Custom benchmarking similar to HumanEval for quantum-specific tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The results are promising: our model outperforms existing state-of-the-art quantum computing models!&lt;/p&gt;
+&lt;p&gt;This research represents an important step toward making quantum programming more accessible through AI assistance.&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2405.19495v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2405.19495v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #genAI #codegen #LLMs #IBMQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-code-assistant-training-llms-for-activity-7208408489528897537-ZCkg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 17, 2024 - 45 reactions, 3 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

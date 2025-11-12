@@ -21,11 +21,61 @@
     </item>
     
     <item>
+      <title>New Qiskit HumanEval Release: Qiskit 1.4 Compatibility and Benchmark Improvements</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-humaneval-update/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-humaneval-update/</guid>
+      <description>&lt;p&gt;New Qiskit HumanEval release! 🚀&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve just updated 
+&lt;a href=&#34;https://huggingface.co/datasets/Qiskit/qiskit_humaneval&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/datasets/Qiskit/qiskit_humaneval&lt;/a&gt; to be compatible with the latest Qiskit 1.4 release! But that&amp;rsquo;s not all - our update also includes significant improvements to the benchmark, making it more robust and rigorous in terms of code execution tests to provide even more accurate and comprehensive evaluations of your LLM-generated quantum code&lt;/p&gt;
+&lt;p&gt;View the full changelog: 
+&lt;a href=&#34;https://github.com/qiskit-community/qiskit-human-eval/compare/0.1.0...0.1.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/qiskit-community/qiskit-human-eval/compare/0.1.0...0.1.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want to know more about Qiskit HumanEval? Check out our paper 
+&lt;a href=&#34;https://arxiv.org/abs/2406.14712&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.14712&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #AIforQuantum #qiskit_humaneval&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-aiforquantum-qiskitabrhumaneval-activity-7306320824448274433-svHs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 14, 2025 - 26 reactions, 2 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting Qiskit HumanEval at IEEE Quantum Week 2024</title>
+      <link>https://cbjuan.github.io/post/2024-ieee-quantum-week-humaneval-talk/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ieee-quantum-week-humaneval-talk/</guid>
+      <description>&lt;p&gt;Hey! If you are at the #IEEEQuantumWeek 2024, I will be talking about the Qiskit HumanEval benchmark for LLMs in the session SYS-BNCH: Benchmarking (10:00 AM – 11:30 AM EDT)&lt;/p&gt;
+&lt;p&gt;After that, I&amp;rsquo;ll be around the IBM Quantum booth to chat about our AI and quantum computing initiatives. Looking forward to connecting with the community!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ieeequantumweek-activity-7242164477415051264--8Qm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on September 18, 2024 - 51 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
       <link>https://cbjuan.github.io/publication/2024-qiskithumaneval/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2024-qiskithumaneval/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Qiskit HumanEval: Evaluation Benchmark for Quantum Code Generation Published</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-humaneval-paper/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-humaneval-paper/</guid>
+      <description>&lt;p&gt;Excited to share our new research paper introducing the Qiskit HumanEval dataset! 🚀&lt;/p&gt;
+&lt;p&gt;This work addresses a critical need: evaluating Large Language Models&amp;rsquo; capability to generate quantum computing code. Our dataset comprises more than 100 quantum computing tasks, each with accompanying prompts, solutions, test cases, and difficulty ratings.&lt;/p&gt;
+&lt;p&gt;We systematically tested LLMs on their ability to produce executable quantum code, demonstrating the feasibility of using generative AI tools in quantum code development and establishing important benchmarks for the field.&lt;/p&gt;
+&lt;p&gt;This research opens new possibilities for AI-assisted quantum software development and provides a standardized way to measure progress in this exciting intersection of quantum computing and artificial intelligence.&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2406.14712v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.14712v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#quantumcomputing #ibmquantum #qiskit #llms&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-humaneval-an-evaluation-benchmark-activity-7214160969575366656-6wIx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on July 3, 2024 - 70 reactions, 7 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

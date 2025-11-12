@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBM Quantum | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/ibm-quantum/</link>
+      <atom:link href="https://cbjuan.github.io/tag/ibm-quantum/index.xml" rel="self" type="application/rss+xml" />
+    <description>IBM Quantum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>IBM Quantum</title>
+      <link>https://cbjuan.github.io/tag/ibm-quantum/</link>
+    </image>
+    
+    <item>
+      <title>qiskit-ibm-transpiler Ranks #3 in Unitary Foundation 2025 Survey</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-ibm-transpiler-unitary-foundation/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-ibm-transpiler-unitary-foundation/</guid>
+      <description>&lt;p&gt;🚀 🚀🚀 Climbing the ranks in quantum software!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m thrilled to share that the &lt;code&gt;qiskit-ibm-transpiler&lt;/code&gt; library has moved up to #3 in the 
+&lt;a href=&#34;https://unitaryfoundation.github.io/survey-2025/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unitary Foundation 2025 Survey under Full-stack development platforms, compilers, and simulators&lt;/a&gt;. Just last year, we 
+&lt;a href=&#34;https://unitaryfoundation.github.io/survey-2024/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;were #4&lt;/a&gt; — and this year’s leap is a testament to the incredible work of the team behind it.&lt;/p&gt;
+&lt;p&gt;In less than two years, the package has surpassed 
+&lt;a href=&#34;https://pepy.tech/projects/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;929K downloads&lt;/a&gt;, becoming a relevant tool for quantum circuit optimization/transpilation across the community.&lt;/p&gt;
+&lt;p&gt;One of the most exciting updates this year: our AI transpiler passes — including the latest Pauli Networks pass (
+&lt;a href=&#34;https://arxiv.org/abs/2503.14448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2503.14448&lt;/a&gt;) — can now run in local mode, removing the need for an IBM Quantum premium plan. This makes advanced AI-powered transpilation more accessible than ever.&lt;/p&gt;
+&lt;p&gt;The Unitary Fund survey is widely recognized as the primary pulse check for quantum software adoption and developer preferences. Seeing our work reflected there is both humbling and energizing.&lt;/p&gt;
+&lt;p&gt;Huge kudos to the amazing team behind this David Kremer, Víctor Villar Pascual, Jesús Talavera Gómez, Yaiza García Martín-Mantero, Ismael Faro — your dedication, creativity, and deep technical insight are what make this possible. And thank you to the community for your continued trust and feedback.&lt;/p&gt;
+&lt;p&gt;Let’s keep pushing the boundaries of quantum + AI software together.&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #Qiskit #IBMQuantum #AITranspiler #UnitaryFund #QuantumSoftware #OpenSource #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-qiskit-ibmquantum-activity-7393696332462518272-2JwC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on November 10, 2025 - 50 reactions as of 11/11/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IEEE Quantum Week in Albuquerque: AI and Quantum Computing at IBM Quantum</title>
+      <link>https://cbjuan.github.io/post/2025-ieee-quantum-week-albuquerque/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-ieee-quantum-week-albuquerque/</guid>
+      <description>&lt;p&gt;🚀 Excited to be attending IEEE Quantum Week in Albuquerque, New Mexico! I&amp;rsquo;ll be sharing some of the work we&amp;rsquo;re doing at IBM Quantum, especially at the intersection of AI and Quantum Computing. If you&amp;rsquo;re around and passionate about Quantum, AI, or both—let&amp;rsquo;s connect! Here&amp;rsquo;s where you can find me:&lt;/p&gt;
+&lt;p&gt;🧠 Today, Sunday, August 31 – 4:00PM
+Paper Presentation: &amp;ldquo;Quantum Processing Unit (QPU) Processing Time Prediction with Machine Learning&amp;rdquo;. We&amp;rsquo;ll explore how ML can improve QPU time prediction for quantum jobs—enabling smarter quantum workload scheduling.&lt;/p&gt;
+&lt;p&gt;🛠️ Monday, September 1 – 10:00AM
+Tutorial: &amp;ldquo;TUT13 — AI Methods for Quantum Circuit Optimization&amp;rdquo;. Together with David Kremer, we&amp;rsquo;ll demonstrate how Reinforcement Learning can be used to transpile and synthesize quantum circuits, using qiskit-ibm-transpiler and other tools developed by our team.&lt;/p&gt;
+&lt;p&gt;💡 Tuesday, September 2 – 12:00PM
+Live Demo at IBM Quantum Booth #400. I&amp;rsquo;ll demo our new AI-powered quantum computing development environment—designed to bridge the gap between quantum theory and practical implementation in a visual way.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re attending and want to talk about AI for Quantum, Quantum+AI, or our work at IBM Quantum—feel free to reach out or stop by!&lt;/p&gt;
+&lt;p&gt;#IEEEQuantumWeek #IBMQuantum #QuantumComputing #AIforQuantum #QuantumPlusAI&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ieeequantumweek-ibmquantum-quantumcomputing-activity-7368027269971243008-idxv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on August 31, 2025 - 42 reactions, 2 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI Transpiler Passes Enable Quantum Volume Breakthrough on IBM Hardware</title>
+      <link>https://cbjuan.github.io/post/2025-ai-transpiler-quantum-volume-achievement/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-ai-transpiler-quantum-volume-achievement/</guid>
+      <description>&lt;p&gt;🚀 Great to see this progress on the quantum hardware side! 🚀&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m also really proud of our work on the AI transpiler passes that enabled this advancement in quantum volume. When I started working with David Kremer, Ivan Duran Martinez, Hanhee Paik and Ismael Faro on these AI-powered passes, we were motivated to push the limits of transpilation to deliver the best results to our clients.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s incredibly rewarding to see how our efforts are making real impact, like what Jay Gambetta has highlighted here.&lt;/p&gt;
+&lt;p&gt;Thanks to the entire team involved in the AI transpiler passes - Víctor Villar Pascual, Jesús Talavera Gómez, Yaiza García Martín-Mantero, Ayushi Dubal, Sanjay Vishwakarma, and many others - this kind of progress is only possible through all of our effort! 🙌🙌🙌&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt; In response to: 
+&lt;a href=&#34;https://lnkd.in/e9hKidgZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jay Gambetta&amp;rsquo;s post on quantum volume achievements&lt;/a&gt; celebrating IBM&amp;rsquo;s r3 beta QPU (ibm_pittsburgh) achieving quantum volume milestones of 1024 and 2048, utilizing AI-optimized transpilation circuits developed by our team.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_following-up-on-an-earlier-post-https-activity-7366432839162126336-FFL8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on August 27, 2025 - 31 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pauli Network Circuit Synthesis with Reinforcement Learning Paper Published</title>
+      <link>https://cbjuan.github.io/post/2025-pauli-network-circuit-synthesis/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-pauli-network-circuit-synthesis/</guid>
+      <description>&lt;p&gt;Really happy to see the paper on arxiv. The described AI-powered transpiler pass for Pauli Networks has been available in the Qiskit Transpiler Service since last November 2024, as presented in the Quantum Developer Conference 2024 Check out the paper 
+&lt;a href=&#34;https://arxiv.org/abs/2503.14448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2503.14448&lt;/a&gt; and the related documentation on how to use it 
+&lt;a href=&#34;https://docs.quantum.ibm.com/guides/ai-transpiler-passes#ai-circuit-synthesis-passes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.quantum.ibm.com/guides/ai-transpiler-passes#ai-circuit-synthesis-passes&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; In response to 
+&lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:7308037457931833344/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayushi Dubal&amp;rsquo;s post&lt;/a&gt; about the Reinforcement Learning-based synthesis pass for Pauli Networks (Clifford + arbitrary angle Pauli rotation circuits). The research paper &lt;em&gt;Pauli Network Circuit Synthesis with Reinforcement Learning&lt;/em&gt; was presented at the American Physical Society March Meeting in Anaheim.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_pauli-network-circuit-synthesis-with-reinforcement-activity-7308037457931833344-PyjS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 19, 2025 - 16 reactions, 2 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant Now Compatible with OpenAI Completions API</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-openai-api/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-openai-api/</guid>
+      <description>&lt;p&gt;Exciting update! The Qiskit Code Assistant service now exposes compatible endpoints with OpenAI&amp;rsquo;s Completions API. This integration enables seamless usage via existing libraries (OpenAI, LiteLLM, etc.), making it easy to infuse Qiskit knowledge into your LLM pipelines.&lt;/p&gt;
+&lt;p&gt;Learn more: 
+&lt;a href=&#34;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-openai-api&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-openai-api&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #QiskitCodeAssistant #IBMQuantum #openai&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-qiskitcodeassistant-ibmquantum-activity-7304888230879879168-c3vf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 10, 2025 - 43 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantum Developer Conference 2024: Showcasing AI-Powered Quantum Tools</title>
+      <link>https://cbjuan.github.io/post/2024-quantum-developer-conference/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-quantum-developer-conference/</guid>
+      <description>&lt;p&gt;Excited to be participating in the Quantum Developer Conference 2024 at the IBM Thomas J. Watson Research Center! It&amp;rsquo;s been fantastic networking with fellow quantum computing professionals and showcasing the latest developments at the intersection of AI and quantum computing.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re featuring exciting innovations including the Qiskit Code Assistant and our cutting-edge AI-powered transpiler passes. These tools represent significant steps forward in making quantum computing more accessible and efficient.&lt;/p&gt;
+&lt;p&gt;Learn more: 
+&lt;a href=&#34;https://www.ibm.com/quantum/blog/qdc-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ibm.com/quantum/blog/qdc-2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #AI #IBMQuantum #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-ai-ibmquantum-activity-7263335380895059968-cQiA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on November 15, 2024 - 97 reactions, 1 comment as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing Qiskit Code Assistant: New Blog Post Published</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-code-assistant-introduction/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-code-assistant-introduction/</guid>
+      <description>&lt;p&gt;Last week we published a blog post summarizing what is the Qiskit Code Assistant and how you can start to use it.&lt;/p&gt;
+&lt;p&gt;Following the recent launch, users are already leveraging the tool&amp;rsquo;s features. We&amp;rsquo;re actively developing improved models with enhanced capabilities that we&amp;rsquo;re planning to release as open source!&lt;/p&gt;
+&lt;p&gt;Read the blog post: 
+&lt;a href=&#34;https://www.ibm.com/quantum/blog/qiskit-code-assistant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ibm.com/quantum/blog/qiskit-code-assistant&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #qiskitcodeassistant #opensource #ibmquantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_introducing-qiskit-code-assistant-ibm-quantum-activity-7251924654397739008-d92S&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on October 15, 2024 - 51 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit HumanEval: Evaluation Benchmark for Quantum Code Generation Published</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-humaneval-paper/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-humaneval-paper/</guid>
+      <description>&lt;p&gt;Excited to share our new research paper introducing the Qiskit HumanEval dataset! 🚀&lt;/p&gt;
+&lt;p&gt;This work addresses a critical need: evaluating Large Language Models&amp;rsquo; capability to generate quantum computing code. Our dataset comprises more than 100 quantum computing tasks, each with accompanying prompts, solutions, test cases, and difficulty ratings.&lt;/p&gt;
+&lt;p&gt;We systematically tested LLMs on their ability to produce executable quantum code, demonstrating the feasibility of using generative AI tools in quantum code development and establishing important benchmarks for the field.&lt;/p&gt;
+&lt;p&gt;This research opens new possibilities for AI-assisted quantum software development and provides a standardized way to measure progress in this exciting intersection of quantum computing and artificial intelligence.&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2406.14712v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.14712v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#quantumcomputing #ibmquantum #qiskit #llms&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-humaneval-an-evaluation-benchmark-activity-7214160969575366656-6wIx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on July 3, 2024 - 70 reactions, 7 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Starting New Role: First Ever AI for Quantum Product Owner at IBM Quantum</title>
+      <link>https://cbjuan.github.io/post/2024-ai-quantum-product-owner/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ai-quantum-product-owner/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to share that I&amp;rsquo;m starting a new position at IBM Quantum as the 1st ever AI for Quantum Product Owner! So happy and motivated for what is coming 🚀&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_im-happy-to-share-that-im-starting-a-new-activity-7212108332688400385-Xxqu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 27, 2024 - 182 reactions, 52 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBM Develops The AI-Quantum Link: Featured in Forbes</title>
+      <link>https://cbjuan.github.io/post/2024-ibm-ai-quantum-link-forbes/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ibm-ai-quantum-link-forbes/</guid>
+      <description>&lt;p&gt;Excited to share this 
+&lt;a href=&#34;https://www.forbes.com/sites/tiriasresearch/2024/06/24/ibm-develops-the-ai-quantum-link/?ss=ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forbes article highlighting our work at IBM Quantum on the intersection of AI and quantum computing&lt;/a&gt;! 🚀&lt;/p&gt;
+&lt;p&gt;The integration of AI and Quantum Computing has the potential to transform industries and advance quantum computing capabilities significantly. We&amp;rsquo;re thrilled to be disclosing our results and research papers from this exciting field.&lt;/p&gt;
+&lt;p&gt;This represents a major step forward in making quantum computing more accessible and powerful through the application of artificial intelligence.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Sharing 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ibm-develops-the-ai-quantum-link-activity-7211318392367001602-AHCp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forbes article &amp;ldquo;IBM Develops The AI-Quantum Link&amp;rdquo;&lt;/a&gt; about IBM Quantum&amp;rsquo;s work integrating AI with quantum computing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ibm-develops-the-ai-quantum-link-activity-7211318392367001602-AHCp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 25, 2024 - 98 reactions, 3 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimize Quantum Circuits with AI-Powered Transpiler Passes</title>
+      <link>https://cbjuan.github.io/post/2024-ai-quantum-releases-announcement/</link>
+      <pubDate>Mon, 17 Jun 2024 14:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ai-quantum-releases-announcement/</guid>
+      <description>&lt;p&gt;Exciting updates from our team at the convergence of AI and quantum computing! 🚀&lt;/p&gt;
+&lt;p&gt;We have released a bunch of new features in the Qiskit transpiler service and the Qiskit Code Assistant projects that continue unlocking the potential of applying classical AI into Quantum computing.&lt;/p&gt;
+&lt;p&gt;Recent releases include:
+🔹 Beta version of the Qiskit transpiler service (unveiled at #THINK24)
+🔹 Research paper on AI methods enabling AI-powered transpiler passes
+🔹 Qiskit Code Assistant with accompanying paper introducing LLMs and the Qiskit HumanEval benchmark&lt;/p&gt;
+&lt;p&gt;Both projects have received recognition through the IBM Quantum Challenge, with fantastic feedback from participants who got to experience the power of AI-driven quantum optimization firsthand!&lt;/p&gt;
+&lt;p&gt;This work represents a major step forward in making quantum computing more efficient and accessible through the integration of artificial intelligence.&lt;/p&gt;
+&lt;p&gt;Original post: 
+&lt;a href=&#34;https://www.ibm.com/quantum/blog/ai-transpiler-passes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ibm.com/quantum/blog/ai-transpiler-passes&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_optimize-quantum-circuits-with-ai-powered-activity-7208405675708686337-_VIg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 17, 2024 - 39 reactions, 1 comment as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant: Training LLMs for Quantum Code Generation Paper Published</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-code-assistant-training-paper/</link>
+      <pubDate>Mon, 17 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-code-assistant-training-paper/</guid>
+      <description>&lt;p&gt;Excited to share our research paper on training specialized LLMs for quantum computing code generation using Qiskit! 🚀&lt;/p&gt;
+&lt;p&gt;Code Large Language Models have emerged as powerful tools, revolutionizing the software development landscape by automating coding tasks. However, quantum programming presents unique challenges compared to classical coding.&lt;/p&gt;
+&lt;p&gt;Our work addresses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The scarcity of quantum code examples&lt;/li&gt;
+&lt;li&gt;The rapidly evolving nature of the quantum computing field&lt;/li&gt;
+&lt;li&gt;Custom benchmarking similar to HumanEval for quantum-specific tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The results are promising: our model outperforms existing state-of-the-art quantum computing models!&lt;/p&gt;
+&lt;p&gt;This research represents an important step toward making quantum programming more accessible through AI assistance.&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2405.19495v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2405.19495v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #genAI #codegen #LLMs #IBMQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-code-assistant-training-llms-for-activity-7208408489528897537-ZCkg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 17, 2024 - 45 reactions, 3 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Quantum Transpiling: Research Paper Published</title>
+      <link>https://cbjuan.github.io/post/2024-rl-quantum-transpiling-paper/</link>
+      <pubDate>Mon, 17 Jun 2024 10:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-rl-quantum-transpiling-paper/</guid>
+      <description>&lt;p&gt;Excited to share research demonstrating the integration of Reinforcement Learning (RL) into quantum transpiling workflows for the Qiskit transpiler service! 🚀&lt;/p&gt;
+&lt;p&gt;This work achieves near-optimal circuit synthesis and routing with significant performance improvements over traditional optimization methods like SAT solvers.&lt;/p&gt;
+&lt;p&gt;Key achievements:
+✅ Linear Function, Clifford, and Permutation circuit synthesis up to 65 qubits
+✅ Substantial reductions in two-qubit gate depth for routing up to 133 qubits
+✅ Performance advantages over SABRE routing heuristics
+✅ Practical efficiency for quantum transpiling pipelines&lt;/p&gt;
+&lt;p&gt;This research represents a major step forward in making quantum computing more efficient and accessible through AI-powered optimization.&lt;/p&gt;
+&lt;p&gt;Big thanks to the amazing team: David Kremer, Víctor Villar Pascual, Hanhee Paik, Ivan Duran Martinez, and Ismael Faro!&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://lnkd.in/dcnw4Zav&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lnkd.in/dcnw4Zav&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #quantumcomputing #IBMQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-quantumcomputing-ibmquantum-activity-7208407307783663616-3bfR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 17, 2024 - 48 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit SDK v1.0 Released: Including Qiskit Transpiler and Code Assistant</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-sdk-v1-release/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-sdk-v1-release/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m extremely proud of this massive release including two projects from my team: the Qiskit Transpiler (with the AI transpiling passes) and the Qiskit Code Assistant 🚀&lt;/p&gt;
+&lt;p&gt;Qiskit SDK 1.x represents full-stack software for all things quantum, featuring:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Qiskit Transpiler with AI-powered optimization&lt;/li&gt;
+&lt;li&gt;Qiskit Runtime&lt;/li&gt;
+&lt;li&gt;Qiskit Serverless&lt;/li&gt;
+&lt;li&gt;AI Code Assistant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More updates and info coming soon!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; In response to 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_introducing-qiskit-sdk-v10-activity-7196994542460375040-2UE3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM Quantum&amp;rsquo;s post announcing Qiskit SDK v1.0&lt;/a&gt;, introducing the full-stack software for quantum computing with Qiskit Transpiler, Qiskit Runtime, Qiskit Serverless, and the AI Code Assistant.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_introducing-qiskit-sdk-v10-activity-7196994542460375040-2UE3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on May 16, 2024 - 15 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBM Quantum Recruiting AI Engineer Interns in Spain</title>
+      <link>https://cbjuan.github.io/post/2024-ibm-quantum-ai-internship/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ibm-quantum-ai-internship/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re recruiting AI Engineer interns based in Spain for the IBM Quantum team! 🚀&lt;/p&gt;
+&lt;p&gt;We are introducing new AI-based capabilities in our software stack, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI circuit transpilers compatible with Qiskit&lt;/li&gt;
+&lt;li&gt;LLM-powered code assistants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As an intern, you would support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI model training and deployment&lt;/li&gt;
+&lt;li&gt;Software service development&lt;/li&gt;
+&lt;li&gt;MLOps work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We&amp;rsquo;ve already received over 100 applications, and our team of international engineers is welcoming to newcomers. This is a fantastic opportunity to gain practical AI experience combined with quantum computing knowledge!&lt;/p&gt;
+&lt;p&gt;Apply here: 
+&lt;a href=&#34;https://lnkd.in/gvQqix-c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lnkd.in/gvQqix-c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#AIEngineer #internship #Spain #IBMQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_bluecamp-internship-program-ai-engineer-activity-7159513192304459777-dZrc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on February 3, 2024 - 15 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBM Quantum Summit 2023: Major Announcements on Quantum Utility</title>
+      <link>https://cbjuan.github.io/post/2023-ibm-quantum-summit/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2023-ibm-quantum-summit/</guid>
+      <description>&lt;p&gt;I am thrilled and honored by the major announcements from IBM Quantum Summit 2023! 🚀&lt;/p&gt;
+&lt;p&gt;Key highlights advancing quantum utility:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hardware Breakthroughs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IBM Heron chip: 3-5x device performance improvement over Eagle&lt;/li&gt;
+&lt;li&gt;IBM Condor: 1,121-processor system demonstrating scaling solutions&lt;/li&gt;
+&lt;li&gt;IBM Quantum System Two: Now operational at Yorktown Lab with 3 Heron processors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Software Innovations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Qiskit 1.0: Scheduled February release with improvements in circuit construction, compilation times, and memory consumption&lt;/li&gt;
+&lt;li&gt;Quantum Serverless: Beta deployment for scaled pattern execution&lt;/li&gt;
+&lt;li&gt;AI Integration: Automated code development via watsonx and enhanced transpiler tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Vision:&lt;/strong&gt; Extended roadmap through 2033&lt;/p&gt;
+&lt;p&gt;Academic and industry partners from University of Tokyo, Argonne National Lab, BasQ, and others showcased utility-scale quantum applications.&lt;/p&gt;
+&lt;p&gt;This represents tremendous progress toward realizing the full potential of quantum computing!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; In response to 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_i-am-thrilled-and-honored-by-the-major-announcements-activity-7138330719772205056-0TG9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jay Gambetta&amp;rsquo;s post about IBM Quantum Summit 2023 announcements&lt;/a&gt;, highlighting hardware and software advances toward quantum utility.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_i-am-thrilled-and-honored-by-the-major-announcements-activity-7138330719772205056-0TG9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on December 7, 2023 - 6 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

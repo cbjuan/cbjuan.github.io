@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum&#43;AI | Juan Cruz-Benito</title>
+    <link>http://localhost:1313/category/quantum-ai/</link>
+      <atom:link href="http://localhost:1313/category/quantum-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantum&#43;AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>http://localhost:1313/img/JuanCruzBenito_square.jpg</url>
+      <title>Quantum&#43;AI</title>
+      <link>http://localhost:1313/category/quantum-ai/</link>
+    </image>
+    
+  </channel>
+</rss>

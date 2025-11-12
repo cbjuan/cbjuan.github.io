@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLMs | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/llms/</link>
+      <atom:link href="https://cbjuan.github.io/tag/llms/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLMs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>LLMs</title>
+      <link>https://cbjuan.github.io/tag/llms/</link>
+    </image>
+    
+    <item>
+      <title>Qiskit Code Assistant: New Open-Source LLM Models Released</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</guid>
+      <description>&lt;p&gt;🚀 We&amp;rsquo;re thrilled to announce the latest open-source LLM releases from the Qiskit Code Assistant team! 🚀&lt;/p&gt;
+&lt;p&gt;These new models bring enhanced capabilities and broader compatibility to quantum computing development.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s New:&lt;/p&gt;
+&lt;p&gt;✨ Qiskit 2.0 Compatibility - Our newer models are fully compatible with Qiskit 2.0 code, ensuring seamless development with the latest quantum computing framework&lt;/p&gt;
+&lt;p&gt;🧠 Enhanced Text Understanding - Significant improvements in general text comprehension and code generation capabilities&lt;/p&gt;
+&lt;p&gt;🔬 Expanding Our Horizons - We continue to leverage the newest stable versions of IBM Granite 3.2 and 3.3 models, while for the first time exploring beyond IBM Granite with the powerful Qwen2.5-Coder series&lt;/p&gt;
+&lt;p&gt;Available Models:
+• Granite 3.3 8B Qiskit (+ GGUF)
+• Granite 3.2 8B Qiskit (+ GGUF)
+• Qwen2.5-Coder 14B Qiskit (+ GGUF)&lt;/p&gt;
+&lt;p&gt;All models are available on Hugging Face and ready for local deployment!&lt;/p&gt;
+&lt;p&gt;🔗 Browse All Models: 
+&lt;a href=&#34;https://huggingface.co/Qiskit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit&lt;/a&gt;
+🔗 Get Started: 
+&lt;a href=&#34;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d love to hear how you&amp;rsquo;re making the most of these models! Share your experiences and quantum development journey with us. 🌟&lt;/p&gt;
+&lt;p&gt;Big thanks to the team involved in this release, specially to Nicolas Dupuis, Adarsh Tiwari and Ismael Faro&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #AI #LLMs #Qiskit #IBM #TechInnovation #QuantumDevelopment #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-qiskit-activity-7348275407323893762-qqo8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Qiskit HumanEval Release: Qiskit 1.4 Compatibility and Benchmark Improvements</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-humaneval-update/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-humaneval-update/</guid>
+      <description>&lt;p&gt;New Qiskit HumanEval release! 🚀&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve just updated 
+&lt;a href=&#34;https://huggingface.co/datasets/Qiskit/qiskit_humaneval&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/datasets/Qiskit/qiskit_humaneval&lt;/a&gt; to be compatible with the latest Qiskit 1.4 release! But that&amp;rsquo;s not all - our update also includes significant improvements to the benchmark, making it more robust and rigorous in terms of code execution tests to provide even more accurate and comprehensive evaluations of your LLM-generated quantum code&lt;/p&gt;
+&lt;p&gt;View the full changelog: 
+&lt;a href=&#34;https://github.com/qiskit-community/qiskit-human-eval/compare/0.1.0...0.1.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/qiskit-community/qiskit-human-eval/compare/0.1.0...0.1.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want to know more about Qiskit HumanEval? Check out our paper 
+&lt;a href=&#34;https://arxiv.org/abs/2406.14712&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.14712&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #AIforQuantum #qiskit_humaneval&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-aiforquantum-qiskitabrhumaneval-activity-7306320824448274433-svHs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 14, 2025 - 26 reactions, 2 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant Now Compatible with OpenAI Completions API</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-openai-api/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-openai-api/</guid>
+      <description>&lt;p&gt;Exciting update! The Qiskit Code Assistant service now exposes compatible endpoints with OpenAI&amp;rsquo;s Completions API. This integration enables seamless usage via existing libraries (OpenAI, LiteLLM, etc.), making it easy to infuse Qiskit knowledge into your LLM pipelines.&lt;/p&gt;
+&lt;p&gt;Learn more: 
+&lt;a href=&#34;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-openai-api&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-openai-api&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #QiskitCodeAssistant #IBMQuantum #openai&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-qiskitcodeassistant-ibmquantum-activity-7304888230879879168-c3vf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 10, 2025 - 43 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Granite-8B-Qiskit-RC-0.10: Updated Checkpoint Using Current Training Approach</title>
+      <link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</guid>
+      <description>&lt;p&gt;🙌 Thanks to the feedback received, we&amp;rsquo;ve released a revised version of the granite-8b-qiskit-rc-0.10! Check out the improved checkpoint at 
+&lt;a href=&#34;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt; In response to: 
+&lt;a href=&#34;https://lnkd.in/dCzwpkBZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my&amp;rsquo;s post announcing the initial release of that model&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7302255239674404864-6E_9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 3, 2025 - 22 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shipping Granite-8B-Qiskit-RC-0.10: The Final Model of Current Training Era</title>
+      <link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</guid>
+      <description>&lt;p&gt;🚀 Last Friday, we shipped something special: granite-8b-qiskit-rc-0.10, our latest revision of the LLMs that empower the Qiskit Code Assistant.&lt;/p&gt;
+&lt;p&gt;Trained on a significantly expanded Qiskit synthetic dataset, this release marks the end of an era - it&amp;rsquo;s our final model using the current training approach.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s next? We&amp;rsquo;re pivoting to newer Granite base models and starting to integrate other cutting-edge techniques. Stay tuned!&lt;/p&gt;
+&lt;p&gt;Check it out: 
+&lt;a href=&#34;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7297410467726004225-osAr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on February 18, 2025 - 126 reactions, 8 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting Qiskit HumanEval at IEEE Quantum Week 2024</title>
+      <link>https://cbjuan.github.io/post/2024-ieee-quantum-week-humaneval-talk/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ieee-quantum-week-humaneval-talk/</guid>
+      <description>&lt;p&gt;Hey! If you are at the #IEEEQuantumWeek 2024, I will be talking about the Qiskit HumanEval benchmark for LLMs in the session SYS-BNCH: Benchmarking (10:00 AM – 11:30 AM EDT)&lt;/p&gt;
+&lt;p&gt;After that, I&amp;rsquo;ll be around the IBM Quantum booth to chat about our AI and quantum computing initiatives. Looking forward to connecting with the community!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ieeequantumweek-activity-7242164477415051264--8Qm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on September 18, 2024 - 51 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit HumanEval: Evaluation Benchmark for Quantum Code Generation Published</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-humaneval-paper/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-humaneval-paper/</guid>
+      <description>&lt;p&gt;Excited to share our new research paper introducing the Qiskit HumanEval dataset! 🚀&lt;/p&gt;
+&lt;p&gt;This work addresses a critical need: evaluating Large Language Models&amp;rsquo; capability to generate quantum computing code. Our dataset comprises more than 100 quantum computing tasks, each with accompanying prompts, solutions, test cases, and difficulty ratings.&lt;/p&gt;
+&lt;p&gt;We systematically tested LLMs on their ability to produce executable quantum code, demonstrating the feasibility of using generative AI tools in quantum code development and establishing important benchmarks for the field.&lt;/p&gt;
+&lt;p&gt;This research opens new possibilities for AI-assisted quantum software development and provides a standardized way to measure progress in this exciting intersection of quantum computing and artificial intelligence.&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2406.14712v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.14712v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#quantumcomputing #ibmquantum #qiskit #llms&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-humaneval-an-evaluation-benchmark-activity-7214160969575366656-6wIx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on July 3, 2024 - 70 reactions, 7 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant: Training LLMs for Quantum Code Generation Paper Published</title>
+      <link>https://cbjuan.github.io/post/2024-qiskit-code-assistant-training-paper/</link>
+      <pubDate>Mon, 17 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-qiskit-code-assistant-training-paper/</guid>
+      <description>&lt;p&gt;Excited to share our research paper on training specialized LLMs for quantum computing code generation using Qiskit! 🚀&lt;/p&gt;
+&lt;p&gt;Code Large Language Models have emerged as powerful tools, revolutionizing the software development landscape by automating coding tasks. However, quantum programming presents unique challenges compared to classical coding.&lt;/p&gt;
+&lt;p&gt;Our work addresses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The scarcity of quantum code examples&lt;/li&gt;
+&lt;li&gt;The rapidly evolving nature of the quantum computing field&lt;/li&gt;
+&lt;li&gt;Custom benchmarking similar to HumanEval for quantum-specific tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The results are promising: our model outperforms existing state-of-the-art quantum computing models!&lt;/p&gt;
+&lt;p&gt;This research represents an important step toward making quantum programming more accessible through AI assistance.&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2405.19495v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2405.19495v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #genAI #codegen #LLMs #IBMQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-code-assistant-training-llms-for-activity-7208408489528897537-ZCkg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 17, 2024 - 45 reactions, 3 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

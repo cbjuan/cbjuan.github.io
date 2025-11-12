@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI for Quantum | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/category/ai-for-quantum/</link>
+      <atom:link href="https://cbjuan.github.io/category/ai-for-quantum/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI for Quantum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>AI for Quantum</title>
+      <link>https://cbjuan.github.io/category/ai-for-quantum/</link>
+    </image>
+    
+    <item>
+      <title>qiskit-ibm-transpiler Ranks #3 in Unitary Foundation 2025 Survey</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-ibm-transpiler-unitary-foundation/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-ibm-transpiler-unitary-foundation/</guid>
+      <description>&lt;p&gt;🚀 🚀🚀 Climbing the ranks in quantum software!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m thrilled to share that the &lt;code&gt;qiskit-ibm-transpiler&lt;/code&gt; library has moved up to #3 in the 
+&lt;a href=&#34;https://unitaryfoundation.github.io/survey-2025/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unitary Foundation 2025 Survey under Full-stack development platforms, compilers, and simulators&lt;/a&gt;. Just last year, we 
+&lt;a href=&#34;https://unitaryfoundation.github.io/survey-2024/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;were #4&lt;/a&gt; — and this year’s leap is a testament to the incredible work of the team behind it.&lt;/p&gt;
+&lt;p&gt;In less than two years, the package has surpassed 
+&lt;a href=&#34;https://pepy.tech/projects/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;929K downloads&lt;/a&gt;, becoming a relevant tool for quantum circuit optimization/transpilation across the community.&lt;/p&gt;
+&lt;p&gt;One of the most exciting updates this year: our AI transpiler passes — including the latest Pauli Networks pass (
+&lt;a href=&#34;https://arxiv.org/abs/2503.14448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2503.14448&lt;/a&gt;) — can now run in local mode, removing the need for an IBM Quantum premium plan. This makes advanced AI-powered transpilation more accessible than ever.&lt;/p&gt;
+&lt;p&gt;The Unitary Fund survey is widely recognized as the primary pulse check for quantum software adoption and developer preferences. Seeing our work reflected there is both humbling and energizing.&lt;/p&gt;
+&lt;p&gt;Huge kudos to the amazing team behind this David Kremer, Víctor Villar Pascual, Jesús Talavera Gómez, Yaiza García Martín-Mantero, Ismael Faro — your dedication, creativity, and deep technical insight are what make this possible. And thank you to the community for your continued trust and feedback.&lt;/p&gt;
+&lt;p&gt;Let’s keep pushing the boundaries of quantum + AI software together.&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #Qiskit #IBMQuantum #AITranspiler #UnitaryFund #QuantumSoftware #OpenSource #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-qiskit-ibmquantum-activity-7393696332462518272-2JwC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on November 10, 2025 - 50 reactions as of 11/11/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

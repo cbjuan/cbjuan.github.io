@@ -29,6 +29,28 @@
     </item>
     
     <item>
+      <title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title>
+      <link>https://cbjuan.github.io/post/2025-quantum-verifiable-rewards-qiskit/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-quantum-verifiable-rewards-qiskit/</guid>
+      <description>&lt;p&gt;📄 We just released a new paper &amp;ldquo;Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant&amp;rdquo; - and it&amp;rsquo;s been getting great attention from folks in the quantum field since day one. 🎉&lt;/p&gt;
+&lt;p&gt;🔍 What we built: A novel approach to train AI models that can write better quantum code using Qiskit. What makes this interesting:&lt;/p&gt;
+&lt;p&gt;✅ Quantum verification at the core - Instead of just hoping the AI-generated code works, we actually verify it runs correctly on real quantum systems
+✅ Smart training pipeline - We created synthetic quantum problem-test pairs and used both Direct Preference Optimization (DPO) and Group Relative Policy Optimization (GRPO) to align our models
+✅ Real quantum feedback - Our models learn directly from quantum hardware and systems rewards, ensuring the code they generate actually works in practice&lt;/p&gt;
+&lt;p&gt;The results: Our best model significantly outperforms existing leading open-source baselines on the challenging Qiskit-HumanEval-hard benchmark.&lt;/p&gt;
+&lt;p&gt;This work presents a solid contribution to making quantum programming more accessible through AI assistance. The approach of using quantum hardware verification to train coding assistants opens up promising directions for future research.&lt;/p&gt;
+&lt;p&gt;Proud of our team&amp;rsquo;s thoughtful work on this project: Nicolas Dupuis, Adarsh Tiwari, Youssef MROUEH, David Kremer, Ismael Faro. The intersection of AI and quantum computing continues to offer compelling research opportunities.&lt;/p&gt;
+&lt;p&gt;Paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2508.20907&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2508.20907&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #AI #MachineLearning #Qiskit #Research #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantum-verifiable-rewards-for-post-training-activity-7367455154318585857-5ElR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on August 30, 2025 - 76 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
       <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
@@ -45,6 +67,30 @@
     </item>
     
     <item>
+      <title>Comparing Natural Language Processing and Quantum NLP: Research Published</title>
+      <link>https://cbjuan.github.io/post/2024-quantum-nlp-comparison-paper/</link>
+      <pubDate>Thu, 06 Jun 2024 08:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-quantum-nlp-comparison-paper/</guid>
+      <description>&lt;p&gt;Excited to share our peer-reviewed publication &amp;ldquo;Comparing Natural Language Processing and Quantum Natural Processing approaches in text classification tasks&amp;rdquo;! 🚀&lt;/p&gt;
+&lt;p&gt;This collaborative work with David Peral García and Francisco José García-Peñalvo has been published in &lt;em&gt;Expert Systems with Applications&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Key findings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Quantum NLP models can obtain the same or better results in some datasets for simpler text classification tasks like entity recognition and sentiment analysis&lt;/li&gt;
+&lt;li&gt;✅ Performance diminishes with increased label complexity and sentence difficulty&lt;/li&gt;
+&lt;li&gt;✅ Experiments utilized up to 7 qubits and tested on both new and existing datasets across multiple classification scenarios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While the results are promising, we identified that advancing to larger-scale quantum applications requires more powerful quantum hardware and sophisticated software infrastructure.&lt;/p&gt;
+&lt;p&gt;This research contributes to our understanding of where quantum computing can provide advantages in natural language processing tasks and highlights the path forward for future developments.&lt;/p&gt;
+&lt;p&gt;Read the full paper on 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0957417424012934/pdfft?md5=97c5788dcf43d930dd7c41c2ee72d05e&amp;amp;pid=1-s2.0-S0957417424012934-main.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ScienceDirect&lt;/a&gt;. 
+&lt;a href=&#34;https://doi.org/https://doi.org/10.1016/j.eswa.2024.124427&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_comparing-natural-language-processing-and-activity-7208402743756042240-RRIS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 17, 2024 - 19 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
       <link>https://cbjuan.github.io/publication/2024-synthesisrl/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
@@ -58,6 +104,30 @@
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2024-patent_3daudio/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Literature Review: Quantum Machine Learning and Its Applications Published</title>
+      <link>https://cbjuan.github.io/post/2024-quantum-ml-systematic-review/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-quantum-ml-systematic-review/</guid>
+      <description>&lt;p&gt;Excited to share our systematic literature review paper &amp;ldquo;Systematic literature review: Quantum machine learning and its applications&amp;rdquo; published in Computer Science Review! 🚀&lt;/p&gt;
+&lt;p&gt;This comprehensive work, in collaboration with David Peral García and Francisco José García-Peñalvo from the University of Salamanca, Spain, analyzes the state of quantum machine learning research from 2017 to 2023.&lt;/p&gt;
+&lt;p&gt;Key findings from our review of 94 studies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Identified two primary algorithm categories: quantum versions of classical ML algorithms (support vector machines, k-nearest neighbors) and quantum neural networks&lt;/li&gt;
+&lt;li&gt;✅ Image classification emerged as a particularly relevant application area&lt;/li&gt;
+&lt;li&gt;✅ While quantum machine learning demonstrates promise, it remains far from achieving its full potential&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our analysis highlights that quantum hardware improvements are necessary, as current quantum computers lack sufficient quality, speed, and scalability for QML&amp;rsquo;s full realization.&lt;/p&gt;
+&lt;p&gt;This research provides valuable insights into the current state and future directions of quantum machine learning.&lt;/p&gt;
+&lt;p&gt;Read the full paper: 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1574013724000030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S1574013724000030&lt;/a&gt;. 
+&lt;a href=&#34;https://doi.org/10.1016/j.cosrev.2024.100619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_systematic-literature-review-quantum-machine-activity-7160148207727960064-JscM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on February 5, 2024 - 53 reactions, 4 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

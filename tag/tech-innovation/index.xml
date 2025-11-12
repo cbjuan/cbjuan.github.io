@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Innovation | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/tech-innovation/</link>
+      <atom:link href="https://cbjuan.github.io/tag/tech-innovation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tech Innovation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Tech Innovation</title>
+      <link>https://cbjuan.github.io/tag/tech-innovation/</link>
+    </image>
+    
+    <item>
+      <title>Qiskit Code Assistant: New Open-Source LLM Models Released</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</guid>
+      <description>&lt;p&gt;🚀 We&amp;rsquo;re thrilled to announce the latest open-source LLM releases from the Qiskit Code Assistant team! 🚀&lt;/p&gt;
+&lt;p&gt;These new models bring enhanced capabilities and broader compatibility to quantum computing development.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s New:&lt;/p&gt;
+&lt;p&gt;✨ Qiskit 2.0 Compatibility - Our newer models are fully compatible with Qiskit 2.0 code, ensuring seamless development with the latest quantum computing framework&lt;/p&gt;
+&lt;p&gt;🧠 Enhanced Text Understanding - Significant improvements in general text comprehension and code generation capabilities&lt;/p&gt;
+&lt;p&gt;🔬 Expanding Our Horizons - We continue to leverage the newest stable versions of IBM Granite 3.2 and 3.3 models, while for the first time exploring beyond IBM Granite with the powerful Qwen2.5-Coder series&lt;/p&gt;
+&lt;p&gt;Available Models:
+• Granite 3.3 8B Qiskit (+ GGUF)
+• Granite 3.2 8B Qiskit (+ GGUF)
+• Qwen2.5-Coder 14B Qiskit (+ GGUF)&lt;/p&gt;
+&lt;p&gt;All models are available on Hugging Face and ready for local deployment!&lt;/p&gt;
+&lt;p&gt;🔗 Browse All Models: 
+&lt;a href=&#34;https://huggingface.co/Qiskit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit&lt;/a&gt;
+🔗 Get Started: 
+&lt;a href=&#34;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d love to hear how you&amp;rsquo;re making the most of these models! Share your experiences and quantum development journey with us. 🌟&lt;/p&gt;
+&lt;p&gt;Big thanks to the team involved in this release, specially to Nicolas Dupuis, Adarsh Tiwari and Ismael Faro&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #AI #LLMs #Qiskit #IBM #TechInnovation #QuantumDevelopment #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-qiskit-activity-7348275407323893762-qqo8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

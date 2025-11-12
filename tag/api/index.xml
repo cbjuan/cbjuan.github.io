@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/api/</link>
+      <atom:link href="https://cbjuan.github.io/tag/api/index.xml" rel="self" type="application/rss+xml" />
+    <description>API</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>API</title>
+      <link>https://cbjuan.github.io/tag/api/</link>
+    </image>
+    
+    <item>
+      <title>Qiskit Code Assistant Now Compatible with OpenAI Completions API</title>
+      <link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-openai-api/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-openai-api/</guid>
+      <description>&lt;p&gt;Exciting update! The Qiskit Code Assistant service now exposes compatible endpoints with OpenAI&amp;rsquo;s Completions API. This integration enables seamless usage via existing libraries (OpenAI, LiteLLM, etc.), making it easy to infuse Qiskit knowledge into your LLM pipelines.&lt;/p&gt;
+&lt;p&gt;Learn more: 
+&lt;a href=&#34;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-openai-api&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-openai-api&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #QiskitCodeAssistant #IBMQuantum #openai&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-qiskitcodeassistant-ibmquantum-activity-7304888230879879168-c3vf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 10, 2025 - 43 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

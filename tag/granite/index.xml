@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Granite | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/granite/</link>
+      <atom:link href="https://cbjuan.github.io/tag/granite/index.xml" rel="self" type="application/rss+xml" />
+    <description>Granite</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Granite</title>
+      <link>https://cbjuan.github.io/tag/granite/</link>
+    </image>
+    
+    <item>
+      <title>Granite-8B-Qiskit-RC-0.10: Updated Checkpoint Using Current Training Approach</title>
+      <link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</guid>
+      <description>&lt;p&gt;🙌 Thanks to the feedback received, we&amp;rsquo;ve released a revised version of the granite-8b-qiskit-rc-0.10! Check out the improved checkpoint at 
+&lt;a href=&#34;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt; In response to: 
+&lt;a href=&#34;https://lnkd.in/dCzwpkBZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my&amp;rsquo;s post announcing the initial release of that model&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7302255239674404864-6E_9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 3, 2025 - 22 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shipping Granite-8B-Qiskit-RC-0.10: The Final Model of Current Training Era</title>
+      <link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</guid>
+      <description>&lt;p&gt;🚀 Last Friday, we shipped something special: granite-8b-qiskit-rc-0.10, our latest revision of the LLMs that empower the Qiskit Code Assistant.&lt;/p&gt;
+&lt;p&gt;Trained on a significantly expanded Qiskit synthetic dataset, this release marks the end of an era - it&amp;rsquo;s our final model using the current training approach.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s next? We&amp;rsquo;re pivoting to newer Granite base models and starting to integrate other cutting-edge techniques. Stay tuned!&lt;/p&gt;
+&lt;p&gt;Check it out: 
+&lt;a href=&#34;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7297410467726004225-osAr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on February 18, 2025 - 126 reactions, 8 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

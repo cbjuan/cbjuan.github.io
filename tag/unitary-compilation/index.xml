@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unitary Compilation | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/unitary-compilation/</link>
+      <atom:link href="https://cbjuan.github.io/tag/unitary-compilation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unitary Compilation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Unitary Compilation</title>
+      <link>https://cbjuan.github.io/tag/unitary-compilation/</link>
+    </image>
+    
+    <item>
+      <title>AI Methods for Approximate Compiling of Unitaries Paper Published</title>
+      <link>https://cbjuan.github.io/post/2024-ai-unitary-compilation-paper/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ai-unitary-compilation-paper/</guid>
+      <description>&lt;p&gt;Excited to share our latest research: &amp;ldquo;AI methods for approximate compiling of unitaries&amp;rdquo;! 🚀&lt;/p&gt;
+&lt;p&gt;This work explores how artificial intelligence can make quantum circuit compilation more efficient. We focus on superconducting quantum hardware using fixed two-qubit gates and single-qubit rotations.&lt;/p&gt;
+&lt;p&gt;🔍 Our approach:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Three-stage process: identifying templates, predicting parameters, and refining through gradient descent&lt;/li&gt;
+&lt;li&gt;Uses deep learning and autoencoder-like models to suggest initial templates and parameter values&lt;/li&gt;
+&lt;li&gt;Demonstrates improvements over exhaustive search and random initialization on 2 and 3-qubit unitaries&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This research highlights AI&amp;rsquo;s potential to enhance quantum circuit transpiling, supporting more efficient quantum computations on current and future hardware.&lt;/p&gt;
+&lt;p&gt;The paper has been accepted at QCE24 (Fifth IEEE International Conference on Quantum Computing and Engineering)!&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2407.21225v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.21225v1&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ai-methods-for-approximate-compiling-of-unitaries-activity-7226743161761480704-476Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on August 7, 2024 - 58 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

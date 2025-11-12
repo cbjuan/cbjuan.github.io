@@ -2,8 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cbjuan.github.io/category/ai-for-quantum/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/authors/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/categories/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ibm-quantum/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/open-source/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-qiskit-ibm-transpiler-unitary-foundation/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/quantum-computing/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/software-development/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tags/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/tag/ai/</loc>
-    <lastmod>2025-11-05T16:02:10+01:00</lastmod>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/talk/2025_qiskit_ai_hackathon/</loc>
     <lastmod>2025-11-05T16:02:10+01:00</lastmod>
@@ -11,26 +47,11 @@
     <loc>https://cbjuan.github.io/tag/hackathon/</loc>
     <lastmod>2025-11-05T16:02:10+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/</loc>
-    <lastmod>2025-11-06T01:38:48+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/qiskit/</loc>
-    <lastmod>2025-11-05T16:02:10+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
-    <lastmod>2025-11-05T16:02:10+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tags/</loc>
-    <lastmod>2025-11-05T16:02:10+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/publication-type/3/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
-    <lastmod>2025-10-29T10:47:15+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/authors/</loc>
-    <lastmod>2025-11-11T11:54:49+01:00</lastmod>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/david-kremer/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
@@ -48,7 +69,7 @@
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
-    <lastmod>2025-10-29T10:47:15+01:00</lastmod>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication_types/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
@@ -65,9 +86,6 @@
     <loc>https://cbjuan.github.io/author/sanjay-vishwakarma/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/categories/</loc>
-    <lastmod>2025-10-29T11:00:09+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/media/</loc>
     <lastmod>2025-10-29T11:00:09+01:00</lastmod>
   </url><url>
@@ -80,8 +98,59 @@
     <loc>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-bizkaia-quantum/</loc>
     <lastmod>2025-10-29T11:00:09+01:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/academic-milestone/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-david-peral-phd-quantum-nlp/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/natural-language-processing/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/nlp/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/phd/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-nlp/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/research/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/research/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/talk/2025_metafuturo_bizkaia/</loc>
     <lastmod>2025-11-06T01:37:04+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/artificial-intelligence/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/future-of-tech/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ibm/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/innovation/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-metafuturo-quantum-ai-keynote/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/metafuturo2025/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-ai/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/speaking/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/tech-trends/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-quantum-ibm/</loc>
     <lastmod>2025-10-29T11:00:09+01:00</lastmod>
@@ -96,10 +165,28 @@
     <lastmod>2025-09-25T01:43:25+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/reinforcement-learning/</loc>
-    <lastmod>2025-09-25T01:43:25+02:00</lastmod>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/victor-villar/</loc>
     <lastmod>2025-09-25T01:43:25+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ai-for-quantum/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/conferences/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ieee-quantum-week/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-ieee-quantum-week-albuquerque/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-plus-ai/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-quantum-verifiable-rewards-qiskit/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication-type/8/</loc>
     <lastmod>2025-09-08T00:50:33+02:00</lastmod>
@@ -132,7 +219,7 @@
     <lastmod>2025-08-31T07:25:11-05:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/qiskit-humaneval/</loc>
-    <lastmod>2025-08-31T07:42:46-05:00</lastmod>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/qiskit-humaneval-hard/</loc>
     <lastmod>2025-08-31T07:25:11-05:00</lastmod>
@@ -155,6 +242,33 @@
     <loc>https://cbjuan.github.io/author/youssef-mroueh/</loc>
     <lastmod>2025-08-31T07:25:11-05:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/post/2025-ai-transpiler-quantum-volume-achievement/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-volume/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/transpilation/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/llms/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/open-source/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit-code-assistant/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-development/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/tech-innovation/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/author/alexandra-rivero-garcia/</loc>
     <lastmod>2025-08-31T13:39:48-06:00</lastmod>
   </url><url>
@@ -173,6 +287,27 @@
     <loc>https://cbjuan.github.io/tag/execution/</loc>
     <lastmod>2025-08-31T13:39:48-06:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/category/academia/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/academia/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/doctoral-studies/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/mentorship/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/mentorship/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-university-salamanca-phd-talk/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/university-of-salamanca/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/tag/artificial-neural-network/</loc>
     <lastmod>2025-08-31T13:39:48-06:00</lastmod>
   </url><url>
@@ -188,11 +323,32 @@
     <loc>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</loc>
     <lastmod>2025-08-31T13:39:48-06:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/transpilation/</loc>
-    <lastmod>2025-08-31T13:39:48-06:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/talk/2025_doctorado_usal/</loc>
     <lastmod>2025-11-06T01:38:48+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-ibm-tech-singapore/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/future-tech/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/ibm/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ibm-life/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ibm-tech-2025/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/technical-excellence/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-pauli-network-circuit-synthesis/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/pauli-networks/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/ayushi-dubal/</loc>
     <lastmod>2025-03-21T10:29:31+01:00</lastmod>
@@ -206,14 +362,35 @@
     <loc>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</loc>
     <lastmod>2025-03-21T10:29:31+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/pauli-networks/</loc>
-    <lastmod>2025-03-21T10:29:31+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/author/simon-martiel/</loc>
     <lastmod>2025-03-21T10:29:31+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/transpiling/</loc>
     <lastmod>2025-03-21T10:29:31+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/benchmarking/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-qiskit-humaneval-update/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/api/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/openai/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-qiskit-code-assistant-openai-api/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/granite/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/design/</loc>
     <lastmod>2025-01-24T14:15:56+01:00</lastmod>
@@ -239,6 +416,60 @@
     <loc>https://cbjuan.github.io/author/vipul-sharma/</loc>
     <lastmod>2025-01-24T14:15:56+01:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/ai-transpiler-passes/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit-ibm-transpiler/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/software-development/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/conferences/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/events/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-quantum-developer-conference/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/career/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-ibm-master-inventor/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/innovation/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/master-inventor/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/patents/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/professional-development/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/recognition/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-qiskit-code-assistant-introduction/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-ieee-quantum-week/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit-transpiler-service/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/research-highlights/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</loc>
     <lastmod>2024-10-17T13:13:54+02:00</lastmod>
   </url><url>
@@ -256,6 +487,9 @@
   </url><url>
     <loc>https://cbjuan.github.io/tag/simulation/</loc>
     <lastmod>2024-10-17T13:13:54+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-ieee-quantum-week-humaneval-talk/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication-type/1/</loc>
     <lastmod>2025-08-31T07:42:46-05:00</lastmod>
@@ -290,6 +524,21 @@
     <loc>https://cbjuan.github.io/author/vishal-sharathchandra-bajpe/</loc>
     <lastmod>2025-08-31T07:42:46-05:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/post/2024-ai-unitary-compilation-paper/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/deep-learning/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qce24/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/unitary-compilation/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-qiskit-humaneval-paper/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/author/aitana-viudes-forrat/</loc>
     <lastmod>2025-08-31T07:42:46-05:00</lastmod>
   </url><url>
@@ -301,6 +550,39 @@
   </url><url>
     <loc>https://cbjuan.github.io/publication/2024-qiskitcodeassistant/</loc>
     <lastmod>2025-08-31T07:42:46-05:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/product-owner/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-ai-quantum-product-owner/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/forbes/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-ibm-ai-quantum-link-forbes/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/media/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/media-coverage/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-ai-quantum-releases-announcement/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/code-generation/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/genai/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-qiskit-code-assistant-training-paper/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-rl-quantum-transpiling-paper/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/computer-program/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
@@ -320,6 +602,12 @@
     <loc>https://cbjuan.github.io/tag/translation/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/post/2024-quantum-nlp-comparison-paper/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/natural-language-processing/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/publication-type/2/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
@@ -333,7 +621,7 @@
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/quantum-machine-learning/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/quantum-natural-language-processing/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
@@ -347,22 +635,73 @@
     <loc>https://cbjuan.github.io/publication/2024-synthesisrl/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit-sdk/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-qiskit-sdk-v1-release/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit-transpiler/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/publication/2024-patent_3daudio/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/processing/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/systematic-literature-review/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-quantum-ml-systematic-review/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ai-engineer/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/bluecamp/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/careers/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2024-ibm-quantum-ai-internship/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/internship/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/spain/</loc>
+    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/publication/2022-srl_qml/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ibm-condor/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ibm-heron/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2023-ibm-quantum-summit/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit-1.0/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-serverless/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-summit/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-system-two/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2023-qnlp-icist/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/ivan-duran-martinez/</loc>
-    <lastmod>2024-06-29T01:43:56+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/natural-language-processing/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</loc>
@@ -379,6 +718,15 @@
   </url><url>
     <loc>https://cbjuan.github.io/publication/2023-qnlp-ivus/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/professional-development/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/software-engineering-manager/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2023-software-engineering-manager/</loc>
+    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2023-qml-teem-22/</loc>
     <lastmod>2024-06-29T01:43:56+02:00</lastmod>
@@ -550,9 +898,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/tag/software-architectures/</loc>
     <lastmod>2020-12-01T17:25:20+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/systematic-literature-review/</loc>
-    <lastmod>2019-07-15T12:26:03+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/talk/2019_se_usal_remote/</loc>
     <lastmod>2020-07-28T12:19:09+02:00</lastmod>
@@ -1334,9 +1679,6 @@
     <loc>https://cbjuan.github.io/tag/oeeu/</loc>
     <lastmod>2020-07-28T14:35:19+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/spain/</loc>
-    <lastmod>2020-07-28T14:35:19+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/publication/2015_cruz-benito-eme-2829875-2829923/</loc>
     <lastmod>2018-12-14T18:40:00+01:00</lastmod>
   </url><url>
@@ -1743,9 +2085,6 @@
     <lastmod>2019-02-03T18:10:32-05:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/nikolas-galanis/</loc>
-    <lastmod>2019-02-03T18:10:32-05:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/open-source/</loc>
     <lastmod>2019-02-03T18:10:32-05:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/paul-sharples/</loc>

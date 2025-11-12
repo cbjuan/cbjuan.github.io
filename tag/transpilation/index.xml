@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/tag/transpilation/</link>
       <atom:link href="https://cbjuan.github.io/tag/transpilation/index.xml" rel="self" type="application/rss+xml" />
     <description>Transpilation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Transpilation</title>
@@ -13,11 +13,92 @@
     </image>
     
     <item>
+      <title>AI Transpiler Passes Enable Quantum Volume Breakthrough on IBM Hardware</title>
+      <link>https://cbjuan.github.io/post/2025-ai-transpiler-quantum-volume-achievement/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-ai-transpiler-quantum-volume-achievement/</guid>
+      <description>&lt;p&gt;🚀 Great to see this progress on the quantum hardware side! 🚀&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m also really proud of our work on the AI transpiler passes that enabled this advancement in quantum volume. When I started working with David Kremer, Ivan Duran Martinez, Hanhee Paik and Ismael Faro on these AI-powered passes, we were motivated to push the limits of transpilation to deliver the best results to our clients.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s incredibly rewarding to see how our efforts are making real impact, like what Jay Gambetta has highlighted here.&lt;/p&gt;
+&lt;p&gt;Thanks to the entire team involved in the AI transpiler passes - Víctor Villar Pascual, Jesús Talavera Gómez, Yaiza García Martín-Mantero, Ayushi Dubal, Sanjay Vishwakarma, and many others - this kind of progress is only possible through all of our effort! 🙌🙌🙌&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt; In response to: 
+&lt;a href=&#34;https://lnkd.in/e9hKidgZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jay Gambetta&amp;rsquo;s post on quantum volume achievements&lt;/a&gt; celebrating IBM&amp;rsquo;s r3 beta QPU (ibm_pittsburgh) achieving quantum volume milestones of 1024 and 2048, utilizing AI-optimized transpilation circuits developed by our team.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_following-up-on-an-earlier-post-https-activity-7366432839162126336-FFL8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on August 27, 2025 - 31 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reinforcement learning based transpilation of quantum circuits</title>
       <link>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Pauli Network Circuit Synthesis with Reinforcement Learning Paper Published</title>
+      <link>https://cbjuan.github.io/post/2025-pauli-network-circuit-synthesis/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-pauli-network-circuit-synthesis/</guid>
+      <description>&lt;p&gt;Really happy to see the paper on arxiv. The described AI-powered transpiler pass for Pauli Networks has been available in the Qiskit Transpiler Service since last November 2024, as presented in the Quantum Developer Conference 2024 Check out the paper 
+&lt;a href=&#34;https://arxiv.org/abs/2503.14448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2503.14448&lt;/a&gt; and the related documentation on how to use it 
+&lt;a href=&#34;https://docs.quantum.ibm.com/guides/ai-transpiler-passes#ai-circuit-synthesis-passes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.quantum.ibm.com/guides/ai-transpiler-passes#ai-circuit-synthesis-passes&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; In response to 
+&lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:7308037457931833344/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayushi Dubal&amp;rsquo;s post&lt;/a&gt; about the Reinforcement Learning-based synthesis pass for Pauli Networks (Clifford + arbitrary angle Pauli rotation circuits). The research paper &lt;em&gt;Pauli Network Circuit Synthesis with Reinforcement Learning&lt;/em&gt; was presented at the American Physical Society March Meeting in Anaheim.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_pauli-network-circuit-synthesis-with-reinforcement-activity-7308037457931833344-PyjS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on March 19, 2025 - 16 reactions, 2 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI Methods for Approximate Compiling of Unitaries Paper Published</title>
+      <link>https://cbjuan.github.io/post/2024-ai-unitary-compilation-paper/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-ai-unitary-compilation-paper/</guid>
+      <description>&lt;p&gt;Excited to share our latest research: &amp;ldquo;AI methods for approximate compiling of unitaries&amp;rdquo;! 🚀&lt;/p&gt;
+&lt;p&gt;This work explores how artificial intelligence can make quantum circuit compilation more efficient. We focus on superconducting quantum hardware using fixed two-qubit gates and single-qubit rotations.&lt;/p&gt;
+&lt;p&gt;🔍 Our approach:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Three-stage process: identifying templates, predicting parameters, and refining through gradient descent&lt;/li&gt;
+&lt;li&gt;Uses deep learning and autoencoder-like models to suggest initial templates and parameter values&lt;/li&gt;
+&lt;li&gt;Demonstrates improvements over exhaustive search and random initialization on 2 and 3-qubit unitaries&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This research highlights AI&amp;rsquo;s potential to enhance quantum circuit transpiling, supporting more efficient quantum computations on current and future hardware.&lt;/p&gt;
+&lt;p&gt;The paper has been accepted at QCE24 (Fifth IEEE International Conference on Quantum Computing and Engineering)!&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://arxiv.org/abs/2407.21225v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.21225v1&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ai-methods-for-approximate-compiling-of-unitaries-activity-7226743161761480704-476Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on August 7, 2024 - 58 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Quantum Transpiling: Research Paper Published</title>
+      <link>https://cbjuan.github.io/post/2024-rl-quantum-transpiling-paper/</link>
+      <pubDate>Mon, 17 Jun 2024 10:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-rl-quantum-transpiling-paper/</guid>
+      <description>&lt;p&gt;Excited to share research demonstrating the integration of Reinforcement Learning (RL) into quantum transpiling workflows for the Qiskit transpiler service! 🚀&lt;/p&gt;
+&lt;p&gt;This work achieves near-optimal circuit synthesis and routing with significant performance improvements over traditional optimization methods like SAT solvers.&lt;/p&gt;
+&lt;p&gt;Key achievements:
+✅ Linear Function, Clifford, and Permutation circuit synthesis up to 65 qubits
+✅ Substantial reductions in two-qubit gate depth for routing up to 133 qubits
+✅ Performance advantages over SABRE routing heuristics
+✅ Practical efficiency for quantum transpiling pipelines&lt;/p&gt;
+&lt;p&gt;This research represents a major step forward in making quantum computing more efficient and accessible through AI-powered optimization.&lt;/p&gt;
+&lt;p&gt;Big thanks to the amazing team: David Kremer, Víctor Villar Pascual, Hanhee Paik, Ivan Duran Martinez, and Ismael Faro!&lt;/p&gt;
+&lt;p&gt;Read the paper: 
+&lt;a href=&#34;https://lnkd.in/dcnw4Zav&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lnkd.in/dcnw4Zav&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#qiskit #quantumcomputing #IBMQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-quantumcomputing-ibmquantum-activity-7208407307783663616-3bfR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 17, 2024 - 48 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

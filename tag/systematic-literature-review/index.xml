@@ -5,12 +5,36 @@
     <link>https://cbjuan.github.io/tag/systematic-literature-review/</link>
       <atom:link href="https://cbjuan.github.io/tag/systematic-literature-review/index.xml" rel="self" type="application/rss+xml" />
     <description>Systematic Literature Review</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Systematic Literature Review</title>
       <link>https://cbjuan.github.io/tag/systematic-literature-review/</link>
     </image>
+    
+    <item>
+      <title>Systematic Literature Review: Quantum Machine Learning and Its Applications Published</title>
+      <link>https://cbjuan.github.io/post/2024-quantum-ml-systematic-review/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2024-quantum-ml-systematic-review/</guid>
+      <description>&lt;p&gt;Excited to share our systematic literature review paper &amp;ldquo;Systematic literature review: Quantum machine learning and its applications&amp;rdquo; published in Computer Science Review! 🚀&lt;/p&gt;
+&lt;p&gt;This comprehensive work, in collaboration with David Peral García and Francisco José García-Peñalvo from the University of Salamanca, Spain, analyzes the state of quantum machine learning research from 2017 to 2023.&lt;/p&gt;
+&lt;p&gt;Key findings from our review of 94 studies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Identified two primary algorithm categories: quantum versions of classical ML algorithms (support vector machines, k-nearest neighbors) and quantum neural networks&lt;/li&gt;
+&lt;li&gt;✅ Image classification emerged as a particularly relevant application area&lt;/li&gt;
+&lt;li&gt;✅ While quantum machine learning demonstrates promise, it remains far from achieving its full potential&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our analysis highlights that quantum hardware improvements are necessary, as current quantum computers lack sufficient quality, speed, and scalability for QML&amp;rsquo;s full realization.&lt;/p&gt;
+&lt;p&gt;This research provides valuable insights into the current state and future directions of quantum machine learning.&lt;/p&gt;
+&lt;p&gt;Read the full paper: 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1574013724000030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S1574013724000030&lt;/a&gt;. 
+&lt;a href=&#34;https://doi.org/10.1016/j.cosrev.2024.100619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_systematic-literature-review-quantum-machine-activity-7160148207727960064-JscM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on February 5, 2024 - 53 reactions, 4 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Analyzing the software architectures supporting HCI/HMI processes through a systematic review of the literature</title>
