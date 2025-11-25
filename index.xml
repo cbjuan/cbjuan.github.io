@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/</link>
       <atom:link href="https://cbjuan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Cruz-Benito</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Juan Cruz-Benito</title>
       <link>https://cbjuan.github.io/</link>
     </image>
+    
+    <item>
+      <title>AI Methods for Permutation Circuit Synthesis Across Generic Topologies</title>
+      <link>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>qiskit-ibm-transpiler Ranks #3 in Unitary Foundation 2025 Survey</title>
@@ -128,14 +136,6 @@ Further talk details can easily be added to this page using _Markdown_ and $\rm 
       <link>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-quantum-ibm/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0100</pubDate>
       <guid>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-quantum-ibm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI Methods for Permutation Circuit Synthesis Across Generic Topologies</title>
-      <link>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</guid>
       <description></description>
     </item>
     

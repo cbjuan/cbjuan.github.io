@@ -2,19 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cbjuan.github.io/category/ai-for-quantum/</loc>
-    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
+    <loc>https://cbjuan.github.io/publication-type/1/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/authors/</loc>
-    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/circuit-synthesis/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/david-kremer/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ismael-faro/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/permutation-circuit/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication_types/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/reinforcement-learning/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tags/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/victor-villar/</loc>
+    <lastmod>2025-11-25T14:34:17+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/ai-for-quantum/</loc>
+    <lastmod>2025-11-12T11:32:25+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/categories/</loc>
     <lastmod>2025-11-12T12:02:05+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/ibm-quantum/</loc>
-    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/</loc>
     <lastmod>2025-11-12T12:02:05+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/open-source/</loc>
@@ -29,14 +71,8 @@
     <loc>https://cbjuan.github.io/category/quantum-computing/</loc>
     <lastmod>2025-11-12T12:02:05+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
-    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/category/software-development/</loc>
     <lastmod>2025-11-12T12:01:16+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tags/</loc>
-    <lastmod>2025-11-12T12:02:05+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/ai/</loc>
     <lastmod>2025-11-12T12:01:16+01:00</lastmod>
@@ -50,28 +86,10 @@
     <loc>https://cbjuan.github.io/publication-type/3/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
-    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/david-kremer/</loc>
-    <lastmod>2025-10-29T10:47:15+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/author/francisco-martin-fernandez/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/author/ismael-faro/</loc>
-    <lastmod>2025-10-29T10:47:15+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2025-10-29T10:47:15+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/author/lucy-xing/</loc>
-    <lastmod>2025-10-29T10:47:15+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
-    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/publication_types/</loc>
     <lastmod>2025-10-29T10:47:15+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/qpu/</loc>
@@ -154,21 +172,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/media/2025-atresmedia-metafuturo-quantum-ibm/</loc>
     <lastmod>2025-10-29T11:00:09+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</loc>
-    <lastmod>2025-09-25T01:43:25+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/circuit-synthesis/</loc>
-    <lastmod>2025-09-25T01:43:25+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/permutation-circuit/</loc>
-    <lastmod>2025-09-25T01:43:25+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/reinforcement-learning/</loc>
-    <lastmod>2025-11-12T12:01:16+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/victor-villar/</loc>
-    <lastmod>2025-09-25T01:43:25+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/ai-for-quantum/</loc>
     <lastmod>2025-11-12T12:02:05+01:00</lastmod>
@@ -490,9 +493,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/post/2024-ieee-quantum-week-humaneval-talk/</loc>
     <lastmod>2025-11-12T12:01:16+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/publication-type/1/</loc>
-    <lastmod>2025-08-31T07:42:46-05:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</loc>
     <lastmod>2025-08-31T07:42:46-05:00</lastmod>

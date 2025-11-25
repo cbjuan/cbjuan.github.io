@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Francisco Jose Martín-Fernández | Juan Cruz-Benito</title>
+    <title>Francisco Jose Martin Fernandez | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/author/francisco-jose-martin-fernandez/</link>
       <atom:link href="https://cbjuan.github.io/author/francisco-jose-martin-fernandez/index.xml" rel="self" type="application/rss+xml" />
-    <description>Francisco Jose Martín-Fernández</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Francisco Jose Martin Fernandez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Francisco Jose Martín-Fernández</title>
+      <title>Francisco Jose Martin Fernandez</title>
       <link>https://cbjuan.github.io/author/francisco-jose-martin-fernandez/</link>
     </image>
     
     <item>
-      <title>Qiskit: An Open-source Framework for Quantum Computing</title>
-      <link>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</guid>
+      <title>Quantum source code generation based on a modeling system</title>
+      <link>https://cbjuan.github.io/publication/2025-patent-quantumcodegeneration/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-patent-quantumcodegeneration/</guid>
       <description></description>
     </item>
-    
-  </channel>
-</rss>
->
     
     <item>
       <title>Characterization, analysis and categorization of quantum programs without executing them</title>
