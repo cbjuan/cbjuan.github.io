@@ -5,12 +5,34 @@
     <link>https://cbjuan.github.io/tag/llms/</link>
       <atom:link href="https://cbjuan.github.io/tag/llms/index.xml" rel="self" type="application/rss+xml" />
     <description>LLMs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>LLMs</title>
       <link>https://cbjuan.github.io/tag/llms/</link>
     </image>
+    
+    <item>
+      <title>Qiskit Code Assistant Upgraded to Mistral-Small-3.2-24B-Qiskit</title>
+      <link>https://cbjuan.github.io/post/2025-mistral-qiskit-code-assistant-upgrade/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-mistral-qiskit-code-assistant-upgrade/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve upgraded the Qiskit Code Assistant! 🚀&lt;/p&gt;
+&lt;p&gt;Last month, we introduced mistral-small-3.2-24b-qiskit, replacing granite-3.3-8b-qiskit.&lt;/p&gt;
+&lt;h2 id=&#34;key-improvements&#34;&gt;Key Improvements&lt;/h2&gt;
+&lt;p&gt;✅ &lt;strong&gt;Better accuracy&lt;/strong&gt;: The new model ranks higher across key benchmarks, including QiskitHumanEval, QiskitHumanEval Hard, HumanEval, MathQA, ASDiv, SciQ and others (see the 
+&lt;a href=&#34;https://huggingface.co/Qiskit/mistral-small-3.2-24b-qiskit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;model card&lt;/a&gt; for more info).&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Improved UX&lt;/strong&gt;: More precise responses for quantum programming tasks.&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Open access&lt;/strong&gt;: Available on Hugging Face → 
+&lt;a href=&#34;https://huggingface.co/Qiskit/mistral-small-3.2-24b-qiskit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/Qiskit/mistral-small-3.2-24b-qiskit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This update is part of our mission to make quantum development more intuitive and efficient. 🌟&lt;/p&gt;
+&lt;p&gt;Explore it, test it, and share your feedback!&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #OpenSource #HuggingFace&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on 
+&lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskitmistral-small-32-24b-qiskit-hugging-activity-7399782560504889344-MW7W?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAAAqiyOwBYhl4wlt2Sem-hMcxJ1KKsLuYRUs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on November 27, 2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Qiskit Code Assistant: New Open-Source LLM Models Released</title>
