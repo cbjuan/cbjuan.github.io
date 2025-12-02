@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formal Verification | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/formal-verification/</link>
+      <atom:link href="https://cbjuan.github.io/tag/formal-verification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Formal Verification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>Formal Verification</title>
+      <link>https://cbjuan.github.io/tag/formal-verification/</link>
+    </image>
+    
+    <item>
+      <title>Seeing AI Through the Curry–Howard Lens</title>
+      <link>https://cbjuan.github.io/post/2025-curry-howard-ai/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2025-curry-howard-ai/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curry–Howard correspondence&lt;/a&gt; draws a deep equivalence between logic and computation: propositions as types, proofs as programs. It&amp;rsquo;s an elegant insight from the 1960s—and surprisingly relevant to where AI is headed.&lt;/p&gt;
+&lt;p&gt;Many researchers have explored formal verification, type-driven development, and reasoning-based generation in AI. But Curry–Howard offers something more: a conceptual framework for understanding what&amp;rsquo;s missing in current LLMs and what becomes possible if we push further.&lt;/p&gt;
+&lt;p&gt;The gap is narrowing. We&amp;rsquo;re already seeing glimpses of this future: reasoning models that decompose problems step-by-step, agents that iterate and verify their outputs, post-training techniques that reward logical consistency over mere plausibility. But these are still fundamentally pattern-matching systems with reasoning-like behavior grafted on. Curry–Howard suggests a more fundamental shift—one where programs are proofs and types are logical propositions about correctness.&lt;/p&gt;
+&lt;h2 id=&#34;what-would-the-next-leap-look-like&#34;&gt;What would the next leap look like?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Programs as proofs in scientific computing.&lt;/strong&gt; Imagine an LLM generating not just a quantum circuit in Qiskit, but a circuit with accompanying correctness guarantees—proving it implements the intended algorithm, respects hardware constraints, or satisfies specific properties. In science and quantum computing, this means code we can trust, not just code that runs and passes tests.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Types as reasoning scaffolds.&lt;/strong&gt; Dependently-typed languages like Coq or Lean already embody Curry–Howard: types express logical specifications, and programs that type-check are valid proofs. Current LLMs can generate code in these languages, but they don&amp;rsquo;t truly reason within them. The next generation should navigate proof spaces natively, generating solutions that are provably correct by construction, not by post-hoc verification.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI as a verification partner.&lt;/strong&gt; In quantum computing, bugs aren&amp;rsquo;t just inconvenient—they&amp;rsquo;re catastrophic. A misconfigured gate sequence, an incorrect assumption about decoherence, and months of experimental time are wasted. Today&amp;rsquo;s coding agents can catch some errors through testing and iteration. Tomorrow&amp;rsquo;s should provide formal guarantees.&lt;/p&gt;
+&lt;h2 id=&#34;the-challenge-ahead&#34;&gt;The challenge ahead&lt;/h2&gt;
+&lt;p&gt;The challenge is architectural: current approaches layer reasoning on top of statistical foundations. What we need are systems where formal reasoning is intrinsic—models that learn not just to predict tokens, but to construct and verify proofs, where the training objective itself rewards logical soundness.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t distant future. Research on neural theorem proving, program synthesis with specifications, and LLMs integrated with proof assistants is accelerating. What Curry–Howard offers is a north star: a vision of AI that doesn&amp;rsquo;t just mimic reasoning, but embodies it.&lt;/p&gt;
+&lt;p&gt;For fields like quantum computing, and science in general, where correctness is non-negotiable, this evolution from reasoning-flavored generation to proof-native systems could be transformative.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Note: The featured image for this post was generated using Gemini Nano Banana.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
