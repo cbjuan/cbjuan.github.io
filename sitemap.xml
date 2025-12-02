@@ -3,54 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cbjuan.github.io/tag/ai/</loc>
-    <lastmod>2025-12-02T15:38:18+01:00</lastmod>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/category/artificial-intelligence/</loc>
-    <lastmod>2025-12-02T15:38:18+01:00</lastmod>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/authors/</loc>
-    <lastmod>2025-12-02T15:38:18+01:00</lastmod>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/categories/</loc>
-    <lastmod>2025-12-02T15:38:18+01:00</lastmod>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/formal-verification/</loc>
     <lastmod>2025-12-02T15:38:18+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/</loc>
-    <lastmod>2025-12-02T15:38:18+01:00</lastmod>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/llms/</loc>
-    <lastmod>2025-12-02T15:38:18+01:00</lastmod>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/ollama/</loc>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/open-source/</loc>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/open-source/</loc>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/proof-assistants/</loc>
     <lastmod>2025-12-02T15:38:18+01:00</lastmod>
   </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit/</loc>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit-code-assistant/</loc>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/category/quantum-computing/</loc>
-    <lastmod>2025-12-02T15:38:18+01:00</lastmod>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
-    <lastmod>2025-12-02T15:38:18+01:00</lastmod>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2025-qiskit-code-assistant-local/</loc>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/post/2025-curry-howard-ai/</loc>
     <lastmod>2025-12-02T15:38:18+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tags/</loc>
-    <lastmod>2025-12-02T15:38:18+01:00</lastmod>
+    <lastmod>2025-12-02T16:29:57+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/mistral/</loc>
-    <lastmod>2025-11-27T13:27:47+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/category/open-source/</loc>
-    <lastmod>2025-11-27T13:27:47+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/open-source/</loc>
-    <lastmod>2025-11-27T13:27:47+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/qiskit/</loc>
-    <lastmod>2025-11-27T13:27:47+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/qiskit-code-assistant/</loc>
     <lastmod>2025-11-27T13:27:47+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/post/2025-mistral-qiskit-code-assistant-upgrade/</loc>
