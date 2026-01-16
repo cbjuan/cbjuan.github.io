@@ -1,22 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Francisco Jose Martín-Fernández | Juan Cruz-Benito</title>
+    <title>Francisco Jose Martin Fernandez | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/author/francisco-jose-martin-fernandez/</link>
       <atom:link href="https://cbjuan.github.io/author/francisco-jose-martin-fernandez/index.xml" rel="self" type="application/rss+xml" />
-    <description>Francisco Jose Martín-Fernández</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Francisco Jose Martin Fernandez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Francisco Jose Martín-Fernández</title>
+      <title>Francisco Jose Martin Fernandez</title>
       <link>https://cbjuan.github.io/author/francisco-jose-martin-fernandez/</link>
     </image>
     
     <item>
-      <title>Qiskit: An Open-source Framework for Quantum Computing</title>
-      <link>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2019_qiskit_zenodo/</guid>
+      <title>Intelligent and automated system for solving computational problems using quantum computation</title>
+      <link>https://cbjuan.github.io/publication/2025-patent-quantumproblemsolving/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-patent-quantumproblemsolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum source code generation based on a modeling system</title>
+      <link>https://cbjuan.github.io/publication/2025-patent-quantumcodegeneration/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-patent-quantumcodegeneration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization, analysis and categorization of quantum programs without executing them</title>
+      <link>https://cbjuan.github.io/publication/2025-patent-characterization-quantumprograms/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-patent-characterization-quantumprograms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning based transpilation of quantum circuits</title>
+      <link>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforced Learning for Quantum Design</title>
+      <link>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning based Clifford Circuit Synthesis</title>
+      <link>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-based neural networks for quantum computing simulations</title>
+      <link>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-patent_attentionnns_quantumsimulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum and non-quantum source code translation</title>
+      <link>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal machine learning for generating three-dimensional audio</title>
+      <link>https://cbjuan.github.io/publication/2024-patent_3daudio/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2024-patent_3daudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural language processing for restricting user access to systems</title>
+      <link>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</guid>
       <description></description>
     </item>
     
