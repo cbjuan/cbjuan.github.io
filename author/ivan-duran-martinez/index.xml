@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ivan Duran Martinez | Juan Cruz-Benito</title>
+    <title>Iván Durán Martínez | Juan Cruz-Benito</title>
     <link>https://cbjuan.github.io/author/ivan-duran-martinez/</link>
       <atom:link href="https://cbjuan.github.io/author/ivan-duran-martinez/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ivan Duran Martinez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <description>Iván Durán Martínez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Ivan Duran Martinez</title>
+      <title>Iván Durán Martínez</title>
       <link>https://cbjuan.github.io/author/ivan-duran-martinez/</link>
     </image>
     
     <item>
-      <title>Intelligent and automated system for solving computational problems using quantum computation</title>
-      <link>https://cbjuan.github.io/publication/2025-patent-quantumproblemsolving/</link>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-patent-quantumproblemsolving/</guid>
+      <title>Natural language processing for restricting user access to systems</title>
+      <link>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2023-patent_nlprestricted/</guid>
       <description></description>
     </item>
+    
+  </channel>
+</rss>
+ </item>
     
     <item>
       <title>Quantum source code generation based on a modeling system</title>
