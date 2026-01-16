@@ -5,7 +5,7 @@
     <link>https://cbjuan.github.io/tag/llms/</link>
       <atom:link href="https://cbjuan.github.io/tag/llms/index.xml" rel="self" type="application/rss+xml" />
     <description>LLMs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>LLMs</title>
@@ -104,6 +104,24 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Originally shared on 
 &lt;a href=&#34;https://www.linkedin.com/posts/juancb_qiskit-qiskit-activity-7348275407323893762-qqo8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Code Assistant</title>
+      <link>https://cbjuan.github.io/project/qiskit-code-assistant/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/project/qiskit-code-assistant/</guid>
+      <description>&lt;p&gt;A family of LLMs (8B–24B parameters) specialized for quantum code generation. Models built on IBM Granite, Mistral, and Qwen foundations, fine-tuned on curated Qiskit datasets including Python scripts, Jupyter notebooks, and synthetic Q&amp;amp;A pairs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open-source model family:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mistral Small 24B&lt;/strong&gt; — Largest model, highest accuracy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Qwen2.5 Coder 14B&lt;/strong&gt; — Strong coding foundation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Granite 3.x 8B&lt;/strong&gt; — Efficient, multiple versions&lt;/li&gt;
+&lt;li&gt;GGUF quantized versions available for local deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Achieves &lt;strong&gt;46.53% on Qiskit HumanEval&lt;/strong&gt;—significantly outperforming competing models (24.75%–39.6%). Supports natural language to code (&amp;ldquo;define a Bell circuit and run it on ibm_brisbane&amp;rdquo;) and intelligent autocomplete.&lt;/p&gt;
+&lt;p&gt;We created and open-sourced &lt;strong&gt;Qiskit HumanEval&lt;/strong&gt; and &lt;strong&gt;Qiskit HumanEval Hard&lt;/strong&gt;—benchmarks with 150+ tasks each, now used industry-wide for evaluating quantum code LLMs. Integrated into VS Code and JupyterLab.&lt;/p&gt;
 </description>
     </item>
     
