@@ -68,7 +68,15 @@
       <guid>https://cbjuan.github.io/project/qiskit-ibm-transpiler/</guid>
       <description>&lt;p&gt;AI-powered quantum circuit optimization that outperforms traditional heuristics. Uses reinforcement learning to achieve near-optimal synthesis of Linear Function, Clifford, and Permutation circuits—orders of magnitude faster than SAT solvers. Our Pauli Network synthesis delivers over 2× reduction in two-qubit gate count, with average improvements of 20% and up to 60% on the Benchpress benchmark.&lt;/p&gt;
 &lt;p&gt;Supports hardware-aware routing up to 133 qubits and works as a drop-in replacement for standard Qiskit transpilation. Available as both local execution (with our open-source RL models) and cloud-based services.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Achievements:&lt;/strong&gt; #3 in Unitary Foundation 2025 Survey • 929K+ downloads • 56 releases • Apache 2.0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Achievements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://unitaryfoundation.github.io/survey-2025/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#3 in Unitary Foundation 2025 Survey&lt;/a&gt; (full-stack platforms)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://unitaryfoundation.github.io/survey-2024/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#4 in Unitary Fund 2024 Survey&lt;/a&gt; (after just 1 year public)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://pepy.tech/projects/qiskit-ibm-transpiler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;929K+ downloads&lt;/a&gt; • 56 releases • Apache 2.0&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
