@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MCP | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/tag/mcp/</link>
+      <atom:link href="https://cbjuan.github.io/tag/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <description>MCP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
+      <title>MCP</title>
+      <link>https://cbjuan.github.io/tag/mcp/</link>
+    </image>
+    
+    <item>
+      <title>Qiskit MCP Servers</title>
+      <link>https://cbjuan.github.io/project/qiskit-mcp-servers/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/project/qiskit-mcp-servers/</guid>
+      <description>&lt;p&gt;Production-ready Model Context Protocol servers that give AI assistants direct access to quantum computing infrastructure. Built on FastMCP with async-first architecture, full type safety, and 65%+ test coverage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Four specialized servers:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Qiskit Server&lt;/strong&gt; — Circuit creation, manipulation, and transpilation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code Assistant Server&lt;/strong&gt; — AI-assisted quantum programming via Granite models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IBM Runtime Server&lt;/strong&gt; — Hardware access, job execution, and backend selection&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Transpiler Server&lt;/strong&gt; — RL-powered circuit optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enables AI systems to autonomously generate quantum code, select optimal backends, execute circuits on real hardware, and provide expert quantum computing guidance—all through a standardized protocol.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
