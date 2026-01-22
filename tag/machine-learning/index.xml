@@ -5,12 +5,91 @@
     <link>https://cbjuan.github.io/tag/machine-learning/</link>
       <atom:link href="https://cbjuan.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Machine Learning</title>
       <link>https://cbjuan.github.io/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>We Got AI Agents to Train RL Models for Quantum Transpilation</title>
+      <link>https://cbjuan.github.io/post/2026-qiskit-gym-mcp-server/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2026-qiskit-gym-mcp-server/</guid>
+      <description>&lt;p&gt;What if you could tell an AI assistant: &lt;code&gt;train a model of X qubits to synthesize linear function circuits using the topology YYYY and 100 million steps&lt;/code&gt; - and it just does it? That&amp;rsquo;s now possible with the new &lt;strong&gt;qiskit-gym-mcp-server&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Inspired by the work Hugging Face has done with 
+&lt;a href=&#34;https://huggingface.co/blog/hf-skills-training&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HF Skills Training&lt;/a&gt; - where Claude and other agents can submit fine-tuning jobs through natural language - we&amp;rsquo;ve built something similar for quantum circuit synthesis. The key difference: instead of fine-tuning LLMs, we&amp;rsquo;re training RL agents that learn to synthesize quantum circuits optimized for real hardware.&lt;/p&gt;
+&lt;video controls width=&#34;100%&#34;&gt;
+  &lt;source src=&#34;demo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;h2 id=&#34;what-is-qiskit-gym-mcp-server&#34;&gt;What Is qiskit-gym-mcp-server?&lt;/h2&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;qiskit-gym-mcp-server&lt;/a&gt; is a community MCP (Model Context Protocol) server that integrates the 
+&lt;a href=&#34;https://github.com/AI4quantum/qiskit-gym&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;qiskit-gym&lt;/a&gt; library. It exposes reinforcement learning-based quantum circuit synthesis as tools that AI agents can invoke autonomously.&lt;/p&gt;
+&lt;p&gt;The server enables three main synthesis capabilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Permutation synthesis&lt;/strong&gt;: Uses SWAP gate routing to handle qubit permutations on constrained topologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinearFunction synthesis&lt;/strong&gt;: Synthesizes CNOT circuits for linear boolean functions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clifford synthesis&lt;/strong&gt;: Generates Clifford circuits using H, S, and CNOT gates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h2&gt;
+&lt;p&gt;The workflow is straightforward. An AI assistant connected via MCP can:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Create environments&lt;/strong&gt; for different quantum circuit problems, supporting various hardware topologies including linear arrays, grid layouts, and layouts from real IBM backends&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Train models&lt;/strong&gt; asynchronously using PPO or AlphaZero algorithms with real-time progress monitoring via TensorBoard&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Save and manage&lt;/strong&gt; trained models for later use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthesize circuits&lt;/strong&gt; using the trained models&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;AI Assistant → MCP Client → create_*_env_tool → start_training_tool
+                ↓                ↓
+            gym_core.py (envs)  training.py (RLSynthesis)
+                ↓
+            synthesize_*_tool
+                ↓
+            Optimized circuit (QPY format)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;the-agentic-example&#34;&gt;The Agentic Example&lt;/h2&gt;
+&lt;p&gt;To demonstrate the full potential, we&amp;rsquo;ve included a LangChain-based agent example in the 
+&lt;a href=&#34;https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server/examples&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MCP server&lt;/a&gt;. The agent can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create RL environments for specific synthesis tasks&lt;/li&gt;
+&lt;li&gt;Configure and launch training runs&lt;/li&gt;
+&lt;li&gt;Monitor progress and adjust hyperparameters&lt;/li&gt;
+&lt;li&gt;Use trained models to synthesize optimized circuits&lt;/li&gt;
+&lt;li&gt;Save models for deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This isn&amp;rsquo;t a toy demo - it&amp;rsquo;s a proof of concept of how we envision training our AI-based transpilation models that can outperform most existing heuristic methods, as demonstrated in 
+&lt;a href=&#34;https://www.nature.com/articles/s43588-025-00792-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Benchpress&lt;/a&gt; (&lt;em&gt;Nature Computational Science&lt;/em&gt;, 2025).&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;Install with pip:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# Full installation with all servers
+pip install qiskit-mcp-servers[all]
+
+# Or just the gym server
+pip install qiskit-mcp-servers[gym]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Configure your MCP client (Claude Code, Cursor, etc.) to connect to the server, and you&amp;rsquo;re ready to start training RL models through conversation.&lt;/p&gt;
+&lt;h2 id=&#34;why-this-matters&#34;&gt;Why This Matters&lt;/h2&gt;
+&lt;p&gt;The intersection of AI agents and quantum computing opens up new possibilities for automating complex optimization tasks. Instead of manually configuring training runs and tuning hyperparameters, you can describe what you want in natural language and let the agent handle the details.&lt;/p&gt;
+&lt;p&gt;This is just the beginning. The same pattern can extend to other quantum computing tasks and other fields.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pull Request: 
+&lt;a href=&#34;https://github.com/Qiskit/mcp-servers/pull/100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Qiskit/mcp-servers/pull/100&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;qiskit-gym-mcp-server: 
+&lt;a href=&#34;https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PyPI: 
+&lt;a href=&#34;https://pypi.org/project/qiskit-gym-mcp-server/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pypi.org/project/qiskit-gym-mcp-server/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;qiskit-gym: 
+&lt;a href=&#34;https://github.com/AI4quantum/qiskit-gym&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/AI4quantum/qiskit-gym&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;HF Skills Training (inspiration): 
+&lt;a href=&#34;https://huggingface.co/blog/hf-skills-training&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/blog/hf-skills-training&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Intelligent and automated system for solving computational problems using quantum computation</title>
