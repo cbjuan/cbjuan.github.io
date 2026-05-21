@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/tag/deep-learning/</link>
       <atom:link href="https://cbjuan.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Deep Learning</title>
       <link>https://cbjuan.github.io/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Intelligent unitary synthesis for quantum computing</title>
+      <link>https://cbjuan.github.io/publication/2026-patent-intelligentunitarysynthesis/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2026-patent-intelligentunitarysynthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AI Methods for Approximate Compiling of Unitaries Paper Published</title>

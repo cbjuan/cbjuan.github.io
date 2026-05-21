@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unitary Synthesis | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/unitary-synthesis/</link>
-      <atom:link href="https://cbjuan.github.io/tag/unitary-synthesis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Unitary Synthesis</description>
+    <title>Victor Villar Pascual | Juan Cruz-Benito</title>
+    <link>https://cbjuan.github.io/author/victor-villar-pascual/</link>
+      <atom:link href="https://cbjuan.github.io/author/victor-villar-pascual/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victor Villar Pascual</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Unitary Synthesis</title>
-      <link>https://cbjuan.github.io/tag/unitary-synthesis/</link>
+      <title>Victor Villar Pascual</title>
+      <link>https://cbjuan.github.io/author/victor-villar-pascual/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://cbjuan.github.io/publication/2026-patent-intelligentunitarysynthesis/</link>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://cbjuan.github.io/publication/2026-patent-intelligentunitarysynthesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI methods for approximate compiling of unitaries</title>
-      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
       <description></description>
     </item>
     
