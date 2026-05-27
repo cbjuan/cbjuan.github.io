@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/tag/qiskit/</link>
       <atom:link href="https://cbjuan.github.io/tag/qiskit/index.xml" rel="self" type="application/rss+xml" />
     <description>Qiskit</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Qiskit</title>
       <link>https://cbjuan.github.io/tag/qiskit/</link>
     </image>
+    
+    <item>
+      <title>Qiskit QuantumKatas: Adapting Microsoft&#39;s Quantum Computing exercises for LLM evaluation</title>
+      <link>https://cbjuan.github.io/publication/2026-qiskitquantumkatas/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2026-qiskitquantumkatas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>We Got AI Agents to Train RL Models for Quantum Transpilation</title>

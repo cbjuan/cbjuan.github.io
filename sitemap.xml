@@ -2,14 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cbjuan.github.io/publication-type/3/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/authors/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/evaluation-benchmarks/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/ismael-faro/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/large-language-models/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication_types/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/qiskit/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication/2026-qiskitquantumkatas/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantumkatas/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tags/</loc>
+    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+  </url><url>
     <loc>https://cbjuan.github.io/publication-type/8/</loc>
     <lastmod>2026-05-21T14:38:33+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/alexandra-rivero-garcia/</loc>
     <lastmod>2026-05-21T14:38:33+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/authors/</loc>
-    <lastmod>2026-05-21T16:25:42+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/david-kremer-garcia/</loc>
     <lastmod>2026-05-21T14:38:33+02:00</lastmod>
@@ -29,28 +65,13 @@
     <loc>https://cbjuan.github.io/author/ivan-duran-martinez/</loc>
     <lastmod>2026-05-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/</loc>
-    <lastmod>2026-05-21T14:38:33+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
-    <lastmod>2026-05-21T14:38:33+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/neural-network-model/</loc>
-    <lastmod>2026-05-21T14:38:33+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/publication_types/</loc>
     <lastmod>2026-05-21T14:38:33+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/quantum-circuit/</loc>
     <lastmod>2026-05-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
-    <lastmod>2026-05-21T14:38:33+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/author/sanjay-kumar-lalta-prasad-vishwakarma/</loc>
-    <lastmod>2026-05-21T14:38:33+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tags/</loc>
     <lastmod>2026-05-21T14:38:33+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/transpilation/</loc>
@@ -78,9 +99,6 @@
     <lastmod>2026-01-26T12:16:32+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/mcp/</loc>
-    <lastmod>2026-01-26T12:16:32+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/qiskit/</loc>
     <lastmod>2026-01-26T12:16:32+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/category/quantum-computing/</loc>
@@ -162,9 +180,6 @@
     <lastmod>2026-01-16T17:56:15+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/david-kremer/</loc>
-    <lastmod>2026-01-26T12:15:42+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/author/ismael-faro/</loc>
     <lastmod>2026-01-26T12:15:42+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/permutation-circuit/</loc>
@@ -287,9 +302,6 @@
     <loc>https://cbjuan.github.io/author/sanjay-vishwakarma/</loc>
     <lastmod>2026-01-26T12:15:42+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/publication-type/3/</loc>
-    <lastmod>2026-01-16T17:56:15+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/author/adarsh-tiwari/</loc>
     <lastmod>2026-01-16T17:56:15+01:00</lastmod>
   </url><url>
@@ -297,9 +309,6 @@
     <lastmod>2026-01-16T17:56:15+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/humaneval/</loc>
-    <lastmod>2026-01-16T17:56:15+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/large-language-models/</loc>
     <lastmod>2026-01-16T17:56:15+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/nicolas-dupuis/</loc>
@@ -580,9 +589,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/tag/approximate-compiling/</loc>
     <lastmod>2025-08-31T07:42:46-05:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/evaluation-benchmarks/</loc>
-    <lastmod>2026-01-16T17:56:15+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/francis-harkins/</loc>
     <lastmod>2026-01-16T17:56:15+01:00</lastmod>

@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/tag/evaluation-benchmarks/</link>
       <atom:link href="https://cbjuan.github.io/tag/evaluation-benchmarks/index.xml" rel="self" type="application/rss+xml" />
     <description>Evaluation Benchmarks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Evaluation Benchmarks</title>
       <link>https://cbjuan.github.io/tag/evaluation-benchmarks/</link>
     </image>
+    
+    <item>
+      <title>Qiskit QuantumKatas: Adapting Microsoft&#39;s Quantum Computing exercises for LLM evaluation</title>
+      <link>https://cbjuan.github.io/publication/2026-qiskitquantumkatas/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2026-qiskitquantumkatas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models</title>
