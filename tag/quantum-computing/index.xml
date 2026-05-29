@@ -5,12 +5,43 @@
     <link>https://cbjuan.github.io/tag/quantum-computing/</link>
       <atom:link href="https://cbjuan.github.io/tag/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Quantum Computing</title>
       <link>https://cbjuan.github.io/tag/quantum-computing/</link>
     </image>
+    
+    <item>
+      <title>Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code</title>
+      <link>https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/</guid>
+      <description>&lt;p&gt;Together with 
+&lt;a href=&#34;https://www.linkedin.com/in/ismaelfaro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ismael Faro&lt;/a&gt;, I&amp;rsquo;ve just put a new preprint on arXiv: &lt;code&gt;Qiskit QuantumKatas, a benchmark for measuring how well large language models write quantum computing code&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The starting point was 
+&lt;a href=&#34;https://github.com/microsoft/QuantumKatas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft&amp;rsquo;s QuantumKatas&lt;/a&gt; — a well-established, self-paced curriculum for learning quantum computing through programming exercises. The catch is that the originals are written in Q#. We translated them to Qiskit, the most widely-used quantum framework, and packaged the result with an evaluation pipeline built for systematic LLM assessment.&lt;/p&gt;
+&lt;h2 id=&#34;whats-in-it&#34;&gt;What&amp;rsquo;s in it&lt;/h2&gt;
+&lt;p&gt;The benchmark has 350 tasks across 26 categories, spanning the full pedagogical arc the QuantumKatas were designed around: fundamental gates and superposition, through canonical algorithms like Deutsch–Jozsa, Simon&amp;rsquo;s, and Grover&amp;rsquo;s, up to error correction, key distribution, and quantum games. Each task ships with a natural-language prompt, a canonical solution, and a deterministic test that verifies correctness via classical circuit simulation — so a solution either reproduces the expected statevector or it doesn&amp;rsquo;t. No approximate matching, no ambiguity.&lt;/p&gt;
+&lt;p&gt;Building on the QuantumKatas&amp;rsquo; existing structure rather than inventing tasks from scratch meant we inherited a principled difficulty progression and broad concept coverage. Our work sits on top of that: the Qiskit translation, the evaluation infrastructure, and the empirical analysis.&lt;/p&gt;
+&lt;h2 id=&#34;what-we-found&#34;&gt;What we found&lt;/h2&gt;
+&lt;p&gt;To show the benchmark does its job, we evaluated 16 models across 7 prompting configurations — 39,200 runs in total. A few things stood out.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It separates models cleanly.&lt;/strong&gt; Best-configuration pass rates run from 32.3% to 83.1%, with frontier models averaging about 26 points above open-source ones. That&amp;rsquo;s a wide enough spread to be useful, with no ceiling or floor effects crowding the results together.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Implementing a known algorithm is very different from encoding a problem.&lt;/strong&gt; Models do well when the task is to implement something documented — Simon&amp;rsquo;s algorithm sits at 82.1%, basic gates at 81.6%. They struggle when they have to cast a classical problem into quantum terms — encoding SAT for Grover&amp;rsquo;s search drops to 34.4%. The dominant failure mode across the board is logic errors, not syntax: the code runs and uses Qiskit correctly but produces the wrong quantum state.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chain-of-thought is not a free win.&lt;/strong&gt; It helped a few models — notably the reasoning-tuned ones — but degraded performance for the majority, leaving it mid-pack on average and behind simple few-shot prompting. The practical takeaway is that prompting strategy should track a model&amp;rsquo;s provenance rather than defaulting to &amp;ldquo;more reasoning is better.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;get-it&#34;&gt;Get it&lt;/h2&gt;
+&lt;p&gt;Everything is open. The dataset, the evaluation framework, and all the baseline results are released so anyone can reproduce the numbers or run their own models against the benchmark.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/2605.27210&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2605.27210&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dataset:&lt;/strong&gt; 
+&lt;a href=&#34;https://huggingface.co/datasets/Qiskit/Qiskit-QuantumKatas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qiskit/Qiskit-QuantumKatas on HuggingFace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code:&lt;/strong&gt; 
+&lt;a href=&#34;https://github.com/qiskit-community/Qiskit-QuantumKatas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;qiskit-community/Qiskit-QuantumKatas on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you work on quantum code generation, model evaluation, or quantum education tooling, I&amp;rsquo;d be glad to hear what you make of it.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Qiskit QuantumKatas: Adapting Microsoft&#39;s Quantum Computing exercises for LLM evaluation</title>

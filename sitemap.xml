@@ -2,19 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cbjuan.github.io/publication-type/3/</loc>
-    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
+    <loc>https://cbjuan.github.io/category/artificial-intelligence/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/authors/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/categories/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/open-source/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/open-source/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/category/quantum-computing/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/tags/</loc>
+    <lastmod>2026-05-29T18:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://cbjuan.github.io/publication-type/3/</loc>
     <lastmod>2026-05-27T12:04:07+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/evaluation-benchmarks/</loc>
     <lastmod>2026-05-27T12:04:07+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/ismael-faro/</loc>
-    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/</loc>
     <lastmod>2026-05-27T12:04:07+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/author/juan-cruz-benito/</loc>
@@ -32,13 +59,7 @@
     <loc>https://cbjuan.github.io/publication/2026-qiskitquantumkatas/</loc>
     <lastmod>2026-05-27T12:04:07+02:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/quantum-computing/</loc>
-    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/quantumkatas/</loc>
-    <lastmod>2026-05-27T12:04:07+02:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tags/</loc>
     <lastmod>2026-05-27T12:04:07+02:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/publication-type/8/</loc>
@@ -89,19 +110,10 @@
     <loc>https://cbjuan.github.io/tag/ai-for-quantum/</loc>
     <lastmod>2026-01-26T12:16:32+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/category/artificial-intelligence/</loc>
-    <lastmod>2026-01-26T12:16:32+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/categories/</loc>
-    <lastmod>2026-01-26T12:16:32+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/machine-learning/</loc>
     <lastmod>2026-01-26T12:16:32+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/mcp/</loc>
-    <lastmod>2026-01-26T12:16:32+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/category/quantum-computing/</loc>
     <lastmod>2026-01-26T12:16:32+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/reinforcement-learning/</loc>
@@ -125,9 +137,6 @@
     <loc>https://cbjuan.github.io/tag/leadership/</loc>
     <lastmod>2026-01-16T18:05:47+01:00</lastmod>
   </url><url>
-    <loc>https://cbjuan.github.io/tag/artificial-intelligence/</loc>
-    <lastmod>2026-01-26T12:15:42+01:00</lastmod>
-  </url><url>
     <loc>https://cbjuan.github.io/tag/error-mitigation/</loc>
     <lastmod>2025-12-26T17:59:31+01:00</lastmod>
   </url><url>
@@ -145,12 +154,6 @@
   </url><url>
     <loc>https://cbjuan.github.io/tag/ollama/</loc>
     <lastmod>2026-01-16T19:03:47+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/category/open-source/</loc>
-    <lastmod>2026-01-16T19:03:47+01:00</lastmod>
-  </url><url>
-    <loc>https://cbjuan.github.io/tag/open-source/</loc>
-    <lastmod>2026-01-16T19:08:02+01:00</lastmod>
   </url><url>
     <loc>https://cbjuan.github.io/tag/proof-assistants/</loc>
     <lastmod>2025-12-02T15:38:18+01:00</lastmod>

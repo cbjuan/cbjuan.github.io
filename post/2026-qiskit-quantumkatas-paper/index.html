@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Juan Cruz-Benito, Ph.D.">
+  <meta name="description" content="We adapted Microsoft&#39;s QuantumKatas from Q# to Qiskit and turned them into a 350-task benchmark for evaluating how well LLMs write quantum code. We ran 16 models across 7 prompting setups — 39,200 runs — and the results say a lot about where these models are strong and where they still fall short.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://cbjuan.github.io/categories/">
+  <link rel="alternate" hreflang="en-us" href="https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/">
 
   
 
@@ -248,14 +248,12 @@
 
 
   
-  <link rel="alternate" href="/categories/index.xml" type="application/rss+xml" title="Juan Cruz-Benito">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu_47c713c928a3463a.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu_ab9703043865ed66.png">
 
-  <link rel="canonical" href="https://cbjuan.github.io/categories/">
+  <link rel="canonical" href="https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/">
 
   
   
@@ -271,17 +269,69 @@
   <meta property="twitter:creator" content="@_juancb">
   
   <meta property="og:site_name" content="Juan Cruz-Benito">
-  <meta property="og:url" content="https://cbjuan.github.io/categories/">
-  <meta property="og:title" content="Categories | Juan Cruz-Benito">
-  <meta property="og:description" content="Juan Cruz-Benito, Ph.D."><meta property="og:image" content="https://cbjuan.github.io/img/JuanCruzBenito_square.jpg">
-  <meta property="twitter:image" content="https://cbjuan.github.io/img/JuanCruzBenito_square.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/">
+  <meta property="og:title" content="Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code | Juan Cruz-Benito">
+  <meta property="og:description" content="We adapted Microsoft&#39;s QuantumKatas from Q# to Qiskit and turned them into a 350-task benchmark for evaluating how well LLMs write quantum code. We ran 16 models across 7 prompting setups — 39,200 runs — and the results say a lot about where these models are strong and where they still fall short."><meta property="og:image" content="https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/featured.png">
+  <meta property="twitter:image" content="https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2026-05-27T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2026-05-27T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2026-05-29T18:36:30&#43;02:00">
   
 
   
 
 
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/"
+  },
+  "headline": "Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code",
+  
+  "image": [
+    "https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/featured.png"
+  ],
+  
+  "datePublished": "2026-05-27T00:00:00Z",
+  "dateModified": "2026-05-29T18:36:30+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Juan Cruz-Benito"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Juan Cruz-Benito",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cbjuan.github.io/images/icon_hu_ab9703043865ed66.png"
+    }
+  },
+  "description": "We adapted Microsoft's QuantumKatas from Q# to Qiskit and turned them into a 350-task benchmark for evaluating how well LLMs write quantum code. We ran 16 models across 7 prompting setups — 39,200 runs — and the results say a lot about where these models are strong and where they still fall short."
+}
+</script>
+
+  
+
+  
 
 
   
@@ -323,7 +373,7 @@
 
 
 
-  <title>Categories | Juan Cruz-Benito</title>
+  <title>Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code | Juan Cruz-Benito</title>
 
 </head>
 
@@ -596,156 +646,481 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <article class="article">
 
   
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Categories</h1>
+
+
+<div class="article-container pt-3">
+  <h1>Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code</h1>
 
   
 
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/juan-cruz-benito/">Juan Cruz-Benito</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    May 29, 2026
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/quantum-computing/">Quantum Computing</a>, <a href="/category/artificial-intelligence/">Artificial Intelligence</a>, <a href="/category/open-source/">Open Source</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/qiskit-code-assistant/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 1200px; max-height: 331px;">
+  <div style="position: relative">
+    <img src="/post/2026-qiskit-quantumkatas-paper/featured_hu_2ecdee657254f33e.png" alt="" class="featured-image">
+    <span class="article-header-caption">Qiskit QuantumKatas: a benchmark for evaluating LLMs on quantum code</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Together with 
+<a href="https://www.linkedin.com/in/ismaelfaro/" target="_blank" rel="noopener">Ismael Faro</a>, I&rsquo;ve just put a new preprint on arXiv: <code>Qiskit QuantumKatas, a benchmark for measuring how well large language models write quantum computing code</code>.</p>
+<p>The starting point was 
+<a href="https://github.com/microsoft/QuantumKatas/" target="_blank" rel="noopener">Microsoft&rsquo;s QuantumKatas</a> — a well-established, self-paced curriculum for learning quantum computing through programming exercises. The catch is that the originals are written in Q#. We translated them to Qiskit, the most widely-used quantum framework, and packaged the result with an evaluation pipeline built for systematic LLM assessment.</p>
+<h2 id="whats-in-it">What&rsquo;s in it</h2>
+<p>The benchmark has 350 tasks across 26 categories, spanning the full pedagogical arc the QuantumKatas were designed around: fundamental gates and superposition, through canonical algorithms like Deutsch–Jozsa, Simon&rsquo;s, and Grover&rsquo;s, up to error correction, key distribution, and quantum games. Each task ships with a natural-language prompt, a canonical solution, and a deterministic test that verifies correctness via classical circuit simulation — so a solution either reproduces the expected statevector or it doesn&rsquo;t. No approximate matching, no ambiguity.</p>
+<p>Building on the QuantumKatas&rsquo; existing structure rather than inventing tasks from scratch meant we inherited a principled difficulty progression and broad concept coverage. Our work sits on top of that: the Qiskit translation, the evaluation infrastructure, and the empirical analysis.</p>
+<h2 id="what-we-found">What we found</h2>
+<p>To show the benchmark does its job, we evaluated 16 models across 7 prompting configurations — 39,200 runs in total. A few things stood out.</p>
+<p><strong>It separates models cleanly.</strong> Best-configuration pass rates run from 32.3% to 83.1%, with frontier models averaging about 26 points above open-source ones. That&rsquo;s a wide enough spread to be useful, with no ceiling or floor effects crowding the results together.</p>
+<p><strong>Implementing a known algorithm is very different from encoding a problem.</strong> Models do well when the task is to implement something documented — Simon&rsquo;s algorithm sits at 82.1%, basic gates at 81.6%. They struggle when they have to cast a classical problem into quantum terms — encoding SAT for Grover&rsquo;s search drops to 34.4%. The dominant failure mode across the board is logic errors, not syntax: the code runs and uses Qiskit correctly but produces the wrong quantum state.</p>
+<p><strong>Chain-of-thought is not a free win.</strong> It helped a few models — notably the reasoning-tuned ones — but degraded performance for the majority, leaving it mid-pack on average and behind simple few-shot prompting. The practical takeaway is that prompting strategy should track a model&rsquo;s provenance rather than defaulting to &ldquo;more reasoning is better.&rdquo;</p>
+<h2 id="get-it">Get it</h2>
+<p>Everything is open. The dataset, the evaluation framework, and all the baseline results are released so anyone can reproduce the numbers or run their own models against the benchmark.</p>
+<ul>
+<li><strong>Paper:</strong> 
+<a href="https://arxiv.org/abs/2605.27210" target="_blank" rel="noopener">arXiv:2605.27210</a></li>
+<li><strong>Dataset:</strong> 
+<a href="https://huggingface.co/datasets/Qiskit/Qiskit-QuantumKatas" target="_blank" rel="noopener">Qiskit/Qiskit-QuantumKatas on HuggingFace</a></li>
+<li><strong>Code:</strong> 
+<a href="https://github.com/qiskit-community/Qiskit-QuantumKatas/" target="_blank" rel="noopener">qiskit-community/Qiskit-QuantumKatas on GitHub</a></li>
+</ul>
+<p>If you work on quantum code generation, model evaluation, or quantum education tooling, I&rsquo;d be glad to hear what you make of it.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/quantum-computing/">Quantum Computing</a>
+  
+  <a class="badge badge-light" href="/tag/artificial-intelligence/">Artificial Intelligence</a>
+  
+  <a class="badge badge-light" href="/tag/open-source/">Open Source</a>
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-  
-  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
-    
-    
-    <div>
-      <h2><a href="/category/conferences/" >Conferences</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/&amp;text=Qiskit%20QuantumKatas:%20A%20Benchmark%20for%20Evaluating%20LLMs%20on%20Quantum%20Code" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/category/academia/" >Academia</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/&amp;t=Qiskit%20QuantumKatas:%20A%20Benchmark%20for%20Evaluating%20LLMs%20on%20Quantum%20Code" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/category/mentorship/" >Mentorship</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Qiskit%20QuantumKatas:%20A%20Benchmark%20for%20Evaluating%20LLMs%20on%20Quantum%20Code&amp;body=https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/category/ibm/" >IBM</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/&amp;title=Qiskit%20QuantumKatas:%20A%20Benchmark%20for%20Evaluating%20LLMs%20on%20Quantum%20Code" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/category/events/" >Events</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Qiskit%20QuantumKatas:%20A%20Benchmark%20for%20Evaluating%20LLMs%20on%20Quantum%20Code%20https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/category/innovation/" >Innovation</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/category/professional-development/" >Professional Development</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/category/media/" >Media</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/category/interview/" >Interview</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/category/profile/" >Profile</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-
-  
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/categories/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/categories/page/3/">&raquo;</a></li>
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/&amp;title=Qiskit%20QuantumKatas:%20A%20Benchmark%20for%20Evaluating%20LLMs%20on%20Quantum%20Code" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
-</nav>
-
-
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="avatar mr-3 avatar-circle" src="/author/juan-cruz-benito/avatar_hu_7867102d95db01d6.jpg" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://cbjuan.github.io/">Juan Cruz-Benito</a></h5>
+      <h6 class="card-subtitle">Quantum+AI Manager</h6>
+      <p class="card-text">Working at the convergence of AI and Quantum Computing. Manager, Quantum+AI @ IBM Research</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/_juancb" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/cbjuan" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/juancb/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.es/citations?user=_mLnQPgAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0003-2045-8329" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Juan_Cruz-Benito" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/2025-qiskit-code-assistant-local/">Run Qiskit Code Assistant Locally easily!</a></li>
+      
+      <li><a href="/post/2025-mistral-qiskit-code-assistant-upgrade/">Qiskit Code Assistant Upgraded to Mistral-Small-3.2-24B-Qiskit</a></li>
+      
+      <li><a href="/post/2025-qiskit-code-assistant-llm-release/">Qiskit Code Assistant: New Open-Source LLM Models Released</a></li>
+      
+      <li><a href="/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/">qiskit-ibm-transpiler Ranks #4 in Unitary Fund 2024 Survey</a></li>
+      
+      <li><a href="/post/2025-metafuturo-quantum-ai-keynote/">Keynote Speaker at Metafuturo 2025: Quantum Computing &#43; AI Convergence</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</article>
 
       
 
