@@ -5,12 +5,20 @@
     <link>https://cbjuan.github.io/</link>
       <atom:link href="https://cbjuan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Cruz-Benito</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
       <title>Juan Cruz-Benito</title>
       <link>https://cbjuan.github.io/</link>
     </image>
+    
+    <item>
+      <title>Evolutionary Discovery of Bivariate Bicycle Codes with LLM-Guided Search</title>
+      <link>https://cbjuan.github.io/publication/2026-bivariatebicyclecodesllm/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://cbjuan.github.io/publication/2026-bivariatebicyclecodesllm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code</title>
