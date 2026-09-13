@@ -1,199 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Artificial Intelligence | Juan Cruz-Benito</title>
-    <link>https://cbjuan.github.io/tag/artificial-intelligence/</link>
-      <atom:link href="https://cbjuan.github.io/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
-    <description>Artificial Intelligence</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url>
-      <title>Artificial Intelligence</title>
-      <link>https://cbjuan.github.io/tag/artificial-intelligence/</link>
-    </image>
-    
-    <item>
-      <title>Evolutionary Discovery of Bivariate Bicycle Codes with LLM-Guided Search</title>
-      <link>https://cbjuan.github.io/publication/2026-bivariatebicyclecodesllm/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2026-bivariatebicyclecodesllm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code</title>
-      <link>https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/</guid>
-      <description>&lt;p&gt;Together with 
-&lt;a href=&#34;https://www.linkedin.com/in/ismaelfaro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ismael Faro&lt;/a&gt;, I&amp;rsquo;ve just put a new preprint on arXiv: &lt;code&gt;Qiskit QuantumKatas, a benchmark for measuring how well large language models write quantum computing code&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;The starting point was 
-&lt;a href=&#34;https://github.com/microsoft/QuantumKatas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft&amp;rsquo;s QuantumKatas&lt;/a&gt; — a well-established, self-paced curriculum for learning quantum computing through programming exercises. The catch is that the originals are written in Q#. We translated them to Qiskit, the most widely-used quantum framework, and packaged the result with an evaluation pipeline built for systematic LLM assessment.&lt;/p&gt;
-&lt;h2 id=&#34;whats-in-it&#34;&gt;What&amp;rsquo;s in it&lt;/h2&gt;
-&lt;p&gt;The benchmark has 350 tasks across 26 categories, spanning the full pedagogical arc the QuantumKatas were designed around: fundamental gates and superposition, through canonical algorithms like Deutsch–Jozsa, Simon&amp;rsquo;s, and Grover&amp;rsquo;s, up to error correction, key distribution, and quantum games. Each task ships with a natural-language prompt, a canonical solution, and a deterministic test that verifies correctness via classical circuit simulation — so a solution either reproduces the expected statevector or it doesn&amp;rsquo;t. No approximate matching, no ambiguity.&lt;/p&gt;
-&lt;p&gt;Building on the QuantumKatas&amp;rsquo; existing structure rather than inventing tasks from scratch meant we inherited a principled difficulty progression and broad concept coverage. Our work sits on top of that: the Qiskit translation, the evaluation infrastructure, and the empirical analysis.&lt;/p&gt;
-&lt;h2 id=&#34;what-we-found&#34;&gt;What we found&lt;/h2&gt;
-&lt;p&gt;To show the benchmark does its job, we evaluated 16 models across 7 prompting configurations — 39,200 runs in total. A few things stood out.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;It separates models cleanly.&lt;/strong&gt; Best-configuration pass rates run from 32.3% to 83.1%, with frontier models averaging about 26 points above open-source ones. That&amp;rsquo;s a wide enough spread to be useful, with no ceiling or floor effects crowding the results together.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Implementing a known algorithm is very different from encoding a problem.&lt;/strong&gt; Models do well when the task is to implement something documented — Simon&amp;rsquo;s algorithm sits at 82.1%, basic gates at 81.6%. They struggle when they have to cast a classical problem into quantum terms — encoding SAT for Grover&amp;rsquo;s search drops to 34.4%. The dominant failure mode across the board is logic errors, not syntax: the code runs and uses Qiskit correctly but produces the wrong quantum state.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Chain-of-thought is not a free win.&lt;/strong&gt; It helped a few models — notably the reasoning-tuned ones — but degraded performance for the majority, leaving it mid-pack on average and behind simple few-shot prompting. The practical takeaway is that prompting strategy should track a model&amp;rsquo;s provenance rather than defaulting to &amp;ldquo;more reasoning is better.&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;get-it&#34;&gt;Get it&lt;/h2&gt;
-&lt;p&gt;Everything is open. The dataset, the evaluation framework, and all the baseline results are released so anyone can reproduce the numbers or run their own models against the benchmark.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; 
-&lt;a href=&#34;https://arxiv.org/abs/2605.27210&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2605.27210&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dataset:&lt;/strong&gt; 
-&lt;a href=&#34;https://huggingface.co/datasets/Qiskit/Qiskit-QuantumKatas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qiskit/Qiskit-QuantumKatas on HuggingFace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Code:&lt;/strong&gt; 
-&lt;a href=&#34;https://github.com/qiskit-community/Qiskit-QuantumKatas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;qiskit-community/Qiskit-QuantumKatas on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you work on quantum code generation, model evaluation, or quantum education tooling, I&amp;rsquo;d be glad to hear what you make of it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Intelligent and automated system for solving computational problems using quantum computation</title>
-      <link>https://cbjuan.github.io/publication/2025-patent-quantumproblemsolving/</link>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-patent-quantumproblemsolving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI Methods for Permutation Circuit Synthesis Across Generic Topologies</title>
-      <link>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</link>
-      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Keynote Speaker at Metafuturo 2025: Quantum Computing &#43; AI Convergence</title>
-      <link>https://cbjuan.github.io/post/2025-metafuturo-quantum-ai-keynote/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/post/2025-metafuturo-quantum-ai-keynote/</guid>
-      <description>&lt;p&gt;🚀 Thrilled to have been part of Metafuturo 2025 as a keynote speaker!&lt;/p&gt;
-&lt;p&gt;I had the incredible opportunity to share insights on the convergence of Quantum Computing + AI at this forward-thinking event organized by Bizkaiko Foru Aldundia / Diputación Foral de Bizkaia and ATRESMEDIA.&lt;/p&gt;
-&lt;p&gt;The intersection of quantum technologies and artificial intelligence represents one of the most exciting frontiers in tech today. During my talk, I shared what we are doing in this field at IBM Quantum. From LLMs and agentic AI applications for quantum computing to AI-optimized quantum circuits, we&amp;rsquo;re witnessing the birth of computational capabilities that seemed like science fiction just a few years ago.&lt;/p&gt;
-&lt;p&gt;What struck me most during the event was the genuine curiosity and engagement from attendees across diverse industries. The talks and panels ranged from practical implementations to philosophical implications—exactly the kind of multidisciplinary dialogue we need as we navigate this quantum journey.&lt;/p&gt;
-&lt;p&gt;Huge thanks to the organizers for creating such a vibrant platform for discussing the technologies that will shape our tomorrow. Events like Metafuturo 2025 are essential for building bridges between cutting-edge research and real-world applications.&lt;/p&gt;
-&lt;p&gt;The future is quantum-enhanced, AI-powered, and closer than we think! 🔬⚡&lt;/p&gt;
-&lt;p&gt;#QuantumComputing #ArtificialIntelligence #Innovation #Metafuturo2025 #TechTrends #QuantumAI #FutureOfTech #IBM&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Originally shared on 
-&lt;a href=&#34;https://www.linkedin.com/posts/juancb_quantumcomputing-artificialintelligence-innovation-activity-7376756582644166656-N5v6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on September 24, 2025 - 107 reactions, 7 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Quantum Processing Unit (QPU) Processing Time Prediction with Machine Learning</title>
-      <link>https://cbjuan.github.io/publication/2025-qputimeprediction/</link>
-      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-qputimeprediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantum source code generation based on a modeling system</title>
-      <link>https://cbjuan.github.io/publication/2025-patent-quantumcodegeneration/</link>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-patent-quantumcodegeneration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pauli Network Circuit Synthesis with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI methods for approximate compiling of unitaries</title>
-      <link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Starting New Role: First Ever AI for Quantum Product Owner at IBM Quantum</title>
-      <link>https://cbjuan.github.io/post/2024-ai-quantum-product-owner/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/post/2024-ai-quantum-product-owner/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m happy to share that I&amp;rsquo;m starting a new position at IBM Quantum as the 1st ever AI for Quantum Product Owner! So happy and motivated for what is coming 🚀&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Originally shared on 
-&lt;a href=&#34;https://www.linkedin.com/posts/juancb_im-happy-to-share-that-im-starting-a-new-activity-7212108332688400385-Xxqu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 27, 2024 - 182 reactions, 52 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IBM Develops The AI-Quantum Link: Featured in Forbes</title>
-      <link>https://cbjuan.github.io/post/2024-ibm-ai-quantum-link-forbes/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/post/2024-ibm-ai-quantum-link-forbes/</guid>
-      <description>&lt;p&gt;Excited to share this 
-&lt;a href=&#34;https://www.forbes.com/sites/tiriasresearch/2024/06/24/ibm-develops-the-ai-quantum-link/?ss=ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forbes article highlighting our work at IBM Quantum on the intersection of AI and quantum computing&lt;/a&gt;! 🚀&lt;/p&gt;
-&lt;p&gt;The integration of AI and Quantum Computing has the potential to transform industries and advance quantum computing capabilities significantly. We&amp;rsquo;re thrilled to be disclosing our results and research papers from this exciting field.&lt;/p&gt;
-&lt;p&gt;This represents a major step forward in making quantum computing more accessible and powerful through the application of artificial intelligence.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Sharing 
-&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ibm-develops-the-ai-quantum-link-activity-7211318392367001602-AHCp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forbes article &amp;ldquo;IBM Develops The AI-Quantum Link&amp;rdquo;&lt;/a&gt; about IBM Quantum&amp;rsquo;s work integrating AI with quantum computing.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Originally shared on 
-&lt;a href=&#34;https://www.linkedin.com/posts/juancb_ibm-develops-the-ai-quantum-link-activity-7211318392367001602-AHCp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; on June 25, 2024 - 98 reactions, 3 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Quantum and non-quantum source code translation</title>
-      <link>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title>
-      <link>https://cbjuan.github.io/publication/2024-synthesisrl/</link>
-      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessed by Machines: Development of a TAM-Based Tool to Measure AI-based Assessment Acceptance Among Students</title>
-      <link>https://cbjuan.github.io/publication/2020-ijimai/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2020-ijimai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI-Driven Assessment of Students: Current Uses and Research Trends</title>
-      <link>https://cbjuan.github.io/publication/2020-hcii/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2020-hcii/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to Measure Teachers&#39; Acceptance of AI-driven Assessment in eLearning: A TAM-based Proposal</title>
-      <link>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring Students’ Acceptance to AI-Driven Assessment in eLearning: Proposing a First TAM-Based Research Model</title>
-      <link>https://cbjuan.github.io/publication/2019_hciinternational/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://cbjuan.github.io/publication/2019_hciinternational/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Artificial Intelligence | Juan Cruz-Benito</title><link>https://cbjuan.github.io/tag/artificial-intelligence/</link><atom:link href="https://cbjuan.github.io/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml"/><description>Artificial Intelligence</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><image><url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url><title>Artificial Intelligence</title><link>https://cbjuan.github.io/tag/artificial-intelligence/</link></image><item><title>Evolutionary Discovery of Bivariate Bicycle Codes with LLM-Guided Search</title><link>https://cbjuan.github.io/publication/2026-bivariatebicyclecodesllm/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2026-bivariatebicyclecodesllm/</guid><description/></item><item><title>Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code</title><link>https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/</guid><description>&lt;p>Together with
+&lt;a href="https://www.linkedin.com/in/ismaelfaro/" target="_blank" rel="noopener">Ismael Faro&lt;/a>, I&amp;rsquo;ve just put a new preprint on arXiv: &lt;code>Qiskit QuantumKatas, a benchmark for measuring how well large language models write quantum computing code&lt;/code>.&lt;/p>
+&lt;p>The starting point was
+&lt;a href="https://github.com/microsoft/QuantumKatas/" target="_blank" rel="noopener">Microsoft&amp;rsquo;s QuantumKatas&lt;/a> — a well-established, self-paced curriculum for learning quantum computing through programming exercises. The catch is that the originals are written in Q#. We translated them to Qiskit, the most widely-used quantum framework, and packaged the result with an evaluation pipeline built for systematic LLM assessment.&lt;/p>
+&lt;h2 id="whats-in-it">What&amp;rsquo;s in it&lt;/h2>
+&lt;p>The benchmark has 350 tasks across 26 categories, spanning the full pedagogical arc the QuantumKatas were designed around: fundamental gates and superposition, through canonical algorithms like Deutsch–Jozsa, Simon&amp;rsquo;s, and Grover&amp;rsquo;s, up to error correction, key distribution, and quantum games. Each task ships with a natural-language prompt, a canonical solution, and a deterministic test that verifies correctness via classical circuit simulation — so a solution either reproduces the expected statevector or it doesn&amp;rsquo;t. No approximate matching, no ambiguity.&lt;/p>
+&lt;p>Building on the QuantumKatas&amp;rsquo; existing structure rather than inventing tasks from scratch meant we inherited a principled difficulty progression and broad concept coverage. Our work sits on top of that: the Qiskit translation, the evaluation infrastructure, and the empirical analysis.&lt;/p>
+&lt;h2 id="what-we-found">What we found&lt;/h2>
+&lt;p>To show the benchmark does its job, we evaluated 16 models across 7 prompting configurations — 39,200 runs in total. A few things stood out.&lt;/p>
+&lt;p>&lt;strong>It separates models cleanly.&lt;/strong> Best-configuration pass rates run from 32.3% to 83.1%, with frontier models averaging about 26 points above open-source ones. That&amp;rsquo;s a wide enough spread to be useful, with no ceiling or floor effects crowding the results together.&lt;/p>
+&lt;p>&lt;strong>Implementing a known algorithm is very different from encoding a problem.&lt;/strong> Models do well when the task is to implement something documented — Simon&amp;rsquo;s algorithm sits at 82.1%, basic gates at 81.6%. They struggle when they have to cast a classical problem into quantum terms — encoding SAT for Grover&amp;rsquo;s search drops to 34.4%. The dominant failure mode across the board is logic errors, not syntax: the code runs and uses Qiskit correctly but produces the wrong quantum state.&lt;/p>
+&lt;p>&lt;strong>Chain-of-thought is not a free win.&lt;/strong> It helped a few models — notably the reasoning-tuned ones — but degraded performance for the majority, leaving it mid-pack on average and behind simple few-shot prompting. The practical takeaway is that prompting strategy should track a model&amp;rsquo;s provenance rather than defaulting to &amp;ldquo;more reasoning is better.&amp;rdquo;&lt;/p>
+&lt;h2 id="get-it">Get it&lt;/h2>
+&lt;p>Everything is open. The dataset, the evaluation framework, and all the baseline results are released so anyone can reproduce the numbers or run their own models against the benchmark.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Paper:&lt;/strong>
+&lt;a href="https://arxiv.org/abs/2605.27210" target="_blank" rel="noopener">arXiv:2605.27210&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Dataset:&lt;/strong>
+&lt;a href="https://huggingface.co/datasets/Qiskit/Qiskit-QuantumKatas" target="_blank" rel="noopener">Qiskit/Qiskit-QuantumKatas on HuggingFace&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Code:&lt;/strong>
+&lt;a href="https://github.com/qiskit-community/Qiskit-QuantumKatas/" target="_blank" rel="noopener">qiskit-community/Qiskit-QuantumKatas on GitHub&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>If you work on quantum code generation, model evaluation, or quantum education tooling, I&amp;rsquo;d be glad to hear what you make of it.&lt;/p></description></item><item><title>Intelligent and automated system for solving computational problems using quantum computation</title><link>https://cbjuan.github.io/publication/2025-patent-quantumproblemsolving/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-patent-quantumproblemsolving/</guid><description/></item><item><title>AI Methods for Permutation Circuit Synthesis Across Generic Topologies</title><link>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</link><pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</guid><description/></item><item><title>Keynote Speaker at Metafuturo 2025: Quantum Computing + AI Convergence</title><link>https://cbjuan.github.io/post/2025-metafuturo-quantum-ai-keynote/</link><pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-metafuturo-quantum-ai-keynote/</guid><description>&lt;p>🚀 Thrilled to have been part of Metafuturo 2025 as a keynote speaker!&lt;/p>
+&lt;p>I had the incredible opportunity to share insights on the convergence of Quantum Computing + AI at this forward-thinking event organized by Bizkaiko Foru Aldundia / Diputación Foral de Bizkaia and ATRESMEDIA.&lt;/p>
+&lt;p>The intersection of quantum technologies and artificial intelligence represents one of the most exciting frontiers in tech today. During my talk, I shared what we are doing in this field at IBM Quantum. From LLMs and agentic AI applications for quantum computing to AI-optimized quantum circuits, we&amp;rsquo;re witnessing the birth of computational capabilities that seemed like science fiction just a few years ago.&lt;/p>
+&lt;p>What struck me most during the event was the genuine curiosity and engagement from attendees across diverse industries. The talks and panels ranged from practical implementations to philosophical implications—exactly the kind of multidisciplinary dialogue we need as we navigate this quantum journey.&lt;/p>
+&lt;p>Huge thanks to the organizers for creating such a vibrant platform for discussing the technologies that will shape our tomorrow. Events like Metafuturo 2025 are essential for building bridges between cutting-edge research and real-world applications.&lt;/p>
+&lt;p>The future is quantum-enhanced, AI-powered, and closer than we think! 🔬⚡&lt;/p>
+&lt;p>#QuantumComputing #ArtificialIntelligence #Innovation #Metafuturo2025 #TechTrends #QuantumAI #FutureOfTech #IBM&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Originally shared on
+&lt;a href="https://www.linkedin.com/posts/juancb_quantumcomputing-artificialintelligence-innovation-activity-7376756582644166656-N5v6" target="_blank" rel="noopener">LinkedIn&lt;/a> on September 24, 2025 - 107 reactions, 7 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Quantum Processing Unit (QPU) Processing Time Prediction with Machine Learning</title><link>https://cbjuan.github.io/publication/2025-qputimeprediction/</link><pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-qputimeprediction/</guid><description/></item><item><title>Quantum source code generation based on a modeling system</title><link>https://cbjuan.github.io/publication/2025-patent-quantumcodegeneration/</link><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-patent-quantumcodegeneration/</guid><description/></item><item><title>Pauli Network Circuit Synthesis with Reinforcement Learning</title><link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link><pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid><description/></item><item><title>AI methods for approximate compiling of unitaries</title><link>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2024-aimethodsunitaries/</guid><description/></item><item><title>Starting New Role: First Ever AI for Quantum Product Owner at IBM Quantum</title><link>https://cbjuan.github.io/post/2024-ai-quantum-product-owner/</link><pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2024-ai-quantum-product-owner/</guid><description>&lt;p>I&amp;rsquo;m happy to share that I&amp;rsquo;m starting a new position at IBM Quantum as the 1st ever AI for Quantum Product Owner! So happy and motivated for what is coming 🚀&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Originally shared on
+&lt;a href="https://www.linkedin.com/posts/juancb_im-happy-to-share-that-im-starting-a-new-activity-7212108332688400385-Xxqu" target="_blank" rel="noopener">LinkedIn&lt;/a> on June 27, 2024 - 182 reactions, 52 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>IBM Develops The AI-Quantum Link: Featured in Forbes</title><link>https://cbjuan.github.io/post/2024-ibm-ai-quantum-link-forbes/</link><pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2024-ibm-ai-quantum-link-forbes/</guid><description>&lt;p>Excited to share this
+&lt;a href="https://www.forbes.com/sites/tiriasresearch/2024/06/24/ibm-develops-the-ai-quantum-link/?ss=ai" target="_blank" rel="noopener">Forbes article highlighting our work at IBM Quantum on the intersection of AI and quantum computing&lt;/a>! 🚀&lt;/p>
+&lt;p>The integration of AI and Quantum Computing has the potential to transform industries and advance quantum computing capabilities significantly. We&amp;rsquo;re thrilled to be disclosing our results and research papers from this exciting field.&lt;/p>
+&lt;p>This represents a major step forward in making quantum computing more accessible and powerful through the application of artificial intelligence.&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>Context:&lt;/strong> Sharing
+&lt;a href="https://www.linkedin.com/posts/juancb_ibm-develops-the-ai-quantum-link-activity-7211318392367001602-AHCp" target="_blank" rel="noopener">Forbes article &amp;ldquo;IBM Develops The AI-Quantum Link&amp;rdquo;&lt;/a> about IBM Quantum&amp;rsquo;s work integrating AI with quantum computing.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Originally shared on
+&lt;a href="https://www.linkedin.com/posts/juancb_ibm-develops-the-ai-quantum-link-activity-7211318392367001602-AHCp" target="_blank" rel="noopener">LinkedIn&lt;/a> on June 25, 2024 - 98 reactions, 3 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Quantum and non-quantum source code translation</title><link>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</link><pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2024-patent_quantumcodetranslation/</guid><description/></item><item><title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title><link>https://cbjuan.github.io/publication/2024-synthesisrl/</link><pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid><description/></item><item><title>Assessed by Machines: Development of a TAM-Based Tool to Measure AI-based Assessment Acceptance Among Students</title><link>https://cbjuan.github.io/publication/2020-ijimai/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2020-ijimai/</guid><description/></item><item><title>AI-Driven Assessment of Students: Current Uses and Research Trends</title><link>https://cbjuan.github.io/publication/2020-hcii/</link><pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2020-hcii/</guid><description/></item><item><title>How to Measure Teachers' Acceptance of AI-driven Assessment in eLearning: A TAM-based Proposal</title><link>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/sanchez-prieto-2019-mta-3362789-3362918/</guid><description/></item><item><title>Measuring Students’ Acceptance to AI-Driven Assessment in eLearning: Proposing a First TAM-Based Research Model</title><link>https://cbjuan.github.io/publication/2019_hciinternational/</link><pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2019_hciinternational/</guid><description/></item></channel></rss>
