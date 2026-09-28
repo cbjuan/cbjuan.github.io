@@ -8,7 +8,9 @@ Slides can be added in a few ways:
 - **Create** slides using Academic's _Slides_ feature and link using `url_slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --></description></item><item><title>¿Hay vida después del doctorado? / Is there life after the PhD?</title><link>https://cbjuan.github.io/talk/2025_doctorado_usal/</link><pubDate>Fri, 11 Apr 2025 16:00:00 +0000</pubDate><guid>https://cbjuan.github.io/talk/2025_doctorado_usal/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+Further talk details can easily be added to this page using _Markdown_ and $\rm \LaTeX$ math code. --></description></item><item><title>AI Methods for Quantum Circuit Optimization</title><link>https://cbjuan.github.io/talk/2025_ieee_qce_ai_circuit_optimization/</link><pubDate>Mon, 01 Sep 2025 10:00:00 +0000</pubDate><guid>https://cbjuan.github.io/talk/2025_ieee_qce_ai_circuit_optimization/</guid><description>&lt;p>Tutorial materials built on
+&lt;a href="https://github.com/AI4quantum/qiskit-gym" target="_blank" rel="noopener">Qiskit Gym&lt;/a>, including the
+&lt;a href="https://github.com/AI4quantum/qiskit-gym/blob/main/examples/intro.ipynb" target="_blank" rel="noopener">intro notebook&lt;/a>.&lt;/p></description></item><item><title>¿Hay vida después del doctorado? / Is there life after the PhD?</title><link>https://cbjuan.github.io/talk/2025_doctorado_usal/</link><pubDate>Fri, 11 Apr 2025 16:00:00 +0000</pubDate><guid>https://cbjuan.github.io/talk/2025_doctorado_usal/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
