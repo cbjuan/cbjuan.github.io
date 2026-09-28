@@ -1,113 +1,112 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Source | Juan Cruz-Benito</title><link>https://cbjuan.github.io/category/open-source/</link><atom:link href="https://cbjuan.github.io/category/open-source/index.xml" rel="self" type="application/rss+xml"/><description>Open Source</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate><image><url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url><title>Open Source</title><link>https://cbjuan.github.io/category/open-source/</link></image><item><title>Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code</title><link>https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2026-qiskit-quantumkatas-paper/</guid><description>&lt;p>Together with
-&lt;a href="https://www.linkedin.com/in/ismaelfaro/" target="_blank" rel="noopener">Ismael Faro&lt;/a>, I&amp;rsquo;ve just put a new preprint on arXiv: &lt;code>Qiskit QuantumKatas, a benchmark for measuring how well large language models write quantum computing code&lt;/code>.&lt;/p>
-&lt;p>The starting point was
-&lt;a href="https://github.com/microsoft/QuantumKatas/" target="_blank" rel="noopener">Microsoft&amp;rsquo;s QuantumKatas&lt;/a> — a well-established, self-paced curriculum for learning quantum computing through programming exercises. The catch is that the originals are written in Q#. We translated them to Qiskit, the most widely-used quantum framework, and packaged the result with an evaluation pipeline built for systematic LLM assessment.&lt;/p>
-&lt;h2 id="whats-in-it">What&amp;rsquo;s in it&lt;/h2>
-&lt;p>The benchmark has 350 tasks across 26 categories, spanning the full pedagogical arc the QuantumKatas were designed around: fundamental gates and superposition, through canonical algorithms like Deutsch–Jozsa, Simon&amp;rsquo;s, and Grover&amp;rsquo;s, up to error correction, key distribution, and quantum games. Each task ships with a natural-language prompt, a canonical solution, and a deterministic test that verifies correctness via classical circuit simulation — so a solution either reproduces the expected statevector or it doesn&amp;rsquo;t. No approximate matching, no ambiguity.&lt;/p>
-&lt;p>Building on the QuantumKatas&amp;rsquo; existing structure rather than inventing tasks from scratch meant we inherited a principled difficulty progression and broad concept coverage. Our work sits on top of that: the Qiskit translation, the evaluation infrastructure, and the empirical analysis.&lt;/p>
-&lt;h2 id="what-we-found">What we found&lt;/h2>
-&lt;p>To show the benchmark does its job, we evaluated 16 models across 7 prompting configurations — 39,200 runs in total. A few things stood out.&lt;/p>
-&lt;p>&lt;strong>It separates models cleanly.&lt;/strong> Best-configuration pass rates run from 32.3% to 83.1%, with frontier models averaging about 26 points above open-source ones. That&amp;rsquo;s a wide enough spread to be useful, with no ceiling or floor effects crowding the results together.&lt;/p>
-&lt;p>&lt;strong>Implementing a known algorithm is very different from encoding a problem.&lt;/strong> Models do well when the task is to implement something documented — Simon&amp;rsquo;s algorithm sits at 82.1%, basic gates at 81.6%. They struggle when they have to cast a classical problem into quantum terms — encoding SAT for Grover&amp;rsquo;s search drops to 34.4%. The dominant failure mode across the board is logic errors, not syntax: the code runs and uses Qiskit correctly but produces the wrong quantum state.&lt;/p>
-&lt;p>&lt;strong>Chain-of-thought is not a free win.&lt;/strong> It helped a few models — notably the reasoning-tuned ones — but degraded performance for the majority, leaving it mid-pack on average and behind simple few-shot prompting. The practical takeaway is that prompting strategy should track a model&amp;rsquo;s provenance rather than defaulting to &amp;ldquo;more reasoning is better.&amp;rdquo;&lt;/p>
-&lt;h2 id="get-it">Get it&lt;/h2>
-&lt;p>Everything is open. The dataset, the evaluation framework, and all the baseline results are released so anyone can reproduce the numbers or run their own models against the benchmark.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Paper:&lt;/strong>
-&lt;a href="https://arxiv.org/abs/2605.27210" target="_blank" rel="noopener">arXiv:2605.27210&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Dataset:&lt;/strong>
-&lt;a href="https://huggingface.co/datasets/Qiskit/Qiskit-QuantumKatas" target="_blank" rel="noopener">Qiskit/Qiskit-QuantumKatas on HuggingFace&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Code:&lt;/strong>
-&lt;a href="https://github.com/qiskit-community/Qiskit-QuantumKatas/" target="_blank" rel="noopener">qiskit-community/Qiskit-QuantumKatas on GitHub&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>If you work on quantum code generation, model evaluation, or quantum education tooling, I&amp;rsquo;d be glad to hear what you make of it.&lt;/p></description></item><item><title>Run Qiskit Code Assistant Locally easily!</title><link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-local/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-local/</guid><description>&lt;p>Don’t have access to the Qiskit Code Assistant because you’re not on an IBM Quantum Premium plan?&lt;/p>
-&lt;p>No worries—you can run it directly on your computer! We’ve recently improved the local setup experience. With our scripts, you can:&lt;/p>
-&lt;ul>
-&lt;li>✅ Download the LLM optimized for local enviroments (GGUF)&lt;/li>
-&lt;li>✅ Enable inference on your machine (through Ollama)&lt;/li>
-&lt;li>✅ Automatically configure the Qiskit Code Assistant VSCode or JupyterLab extension&lt;/li>
-&lt;/ul>
-&lt;p>Give it a try and share your feedback—we’d love to hear how you use it!&lt;/p>
-&lt;p>More info:
-&lt;a href="https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local#quick-start-recommended" target="_blank" rel="noopener">https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local#quick-start-recommended&lt;/a>&lt;/p>
-&lt;p>#Qiskit #QuantumComputing #AI #Ollama #OpenSource #AIforQuantum&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7401640583166951424/" target="_blank" rel="noopener">LinkedIn&lt;/a> on December 2, 2025&lt;/em>&lt;/p></description></item><item><title>Qiskit Code Assistant Upgraded to Mistral-Small-3.2-24B-Qiskit</title><link>https://cbjuan.github.io/post/2025-mistral-qiskit-code-assistant-upgrade/</link><pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-mistral-qiskit-code-assistant-upgrade/</guid><description>&lt;p>We&amp;rsquo;ve upgraded the Qiskit Code Assistant! 🚀&lt;/p>
-&lt;p>Last month, we introduced mistral-small-3.2-24b-qiskit, replacing granite-3.3-8b-qiskit.&lt;/p>
-&lt;h2 id="key-improvements">Key Improvements&lt;/h2>
-&lt;p>✅ &lt;strong>Better accuracy&lt;/strong>: The new model ranks higher across key benchmarks, including QiskitHumanEval, QiskitHumanEval Hard, HumanEval, MathQA, ASDiv, SciQ and others (see the
-&lt;a href="https://huggingface.co/Qiskit/mistral-small-3.2-24b-qiskit" target="_blank" rel="noopener">model card&lt;/a> for more info).&lt;/p>
-&lt;p>✅ &lt;strong>Improved UX&lt;/strong>: More precise responses for quantum programming tasks.&lt;/p>
-&lt;p>✅ &lt;strong>Open access&lt;/strong>: Available on Hugging Face →
-&lt;a href="https://huggingface.co/Qiskit/mistral-small-3.2-24b-qiskit" target="_blank" rel="noopener">https://huggingface.co/Qiskit/mistral-small-3.2-24b-qiskit&lt;/a>.&lt;/p>
-&lt;p>This update is part of our mission to make quantum development more intuitive and efficient. 🌟&lt;/p>
-&lt;p>Explore it, test it, and share your feedback!&lt;/p>
-&lt;p>#Qiskit #QuantumComputing #AI #OpenSource #HuggingFace&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskitmistral-small-32-24b-qiskit-hugging-activity-7399782560504889344-MW7W?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAAAqiyOwBYhl4wlt2Sem-hMcxJ1KKsLuYRUs" target="_blank" rel="noopener">LinkedIn&lt;/a> on November 27, 2025&lt;/em>&lt;/p></description></item><item><title>Qiskit Code Assistant: New Open-Source LLM Models Released</title><link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</guid><description>&lt;p>🚀 We&amp;rsquo;re thrilled to announce the latest open-source LLM releases from the Qiskit Code Assistant team! 🚀&lt;/p>
-&lt;p>These new models bring enhanced capabilities and broader compatibility to quantum computing development.&lt;/p>
-&lt;p>What&amp;rsquo;s New:&lt;/p>
-&lt;p>✨ Qiskit 2.0 Compatibility - Our newer models are fully compatible with Qiskit 2.0 code, ensuring seamless development with the latest quantum computing framework&lt;/p>
-&lt;p>🧠 Enhanced Text Understanding - Significant improvements in general text comprehension and code generation capabilities&lt;/p>
-&lt;p>🔬 Expanding Our Horizons - We continue to leverage the newest stable versions of IBM Granite 3.2 and 3.3 models, while for the first time exploring beyond IBM Granite with the powerful Qwen2.5-Coder series&lt;/p>
-&lt;p>Available Models:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Source | Juan Cruz-Benito</title><link>https://juancb.es/category/open-source/</link><atom:link href="https://juancb.es/category/open-source/index.xml" rel="self" type="application/rss+xml"/><description>Open Source</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate><image><url>https://juancb.es/media/sharing.jpg</url><title>Open Source</title><link>https://juancb.es/category/open-source/</link></image><item><title>Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code</title><link>https://juancb.es/blog/2026-qiskit-quantumkatas-paper/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2026-qiskit-quantumkatas-paper/</guid><description>&lt;p&gt;Together with
+, I&amp;rsquo;ve just put a new preprint on arXiv: &lt;code&gt;Qiskit QuantumKatas, a benchmark for measuring how well large language models write quantum computing code&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The starting point was
+— a well-established, self-paced curriculum for learning quantum computing through programming exercises. The catch is that the originals are written in Q#. We translated them to Qiskit, the most widely-used quantum framework, and packaged the result with an evaluation pipeline built for systematic LLM assessment.&lt;/p&gt;
+&lt;h2 id="whats-in-it"&gt;What&amp;rsquo;s in it&lt;/h2&gt;
+&lt;p&gt;The benchmark has 350 tasks across 26 categories, spanning the full pedagogical arc the QuantumKatas were designed around: fundamental gates and superposition, through canonical algorithms like Deutsch–Jozsa, Simon&amp;rsquo;s, and Grover&amp;rsquo;s, up to error correction, key distribution, and quantum games. Each task ships with a natural-language prompt, a canonical solution, and a deterministic test that verifies correctness via classical circuit simulation — so a solution either reproduces the expected statevector or it doesn&amp;rsquo;t. No approximate matching, no ambiguity.&lt;/p&gt;
+&lt;p&gt;Building on the QuantumKatas&amp;rsquo; existing structure rather than inventing tasks from scratch meant we inherited a principled difficulty progression and broad concept coverage. Our work sits on top of that: the Qiskit translation, the evaluation infrastructure, and the empirical analysis.&lt;/p&gt;
+&lt;h2 id="what-we-found"&gt;What we found&lt;/h2&gt;
+&lt;p&gt;To show the benchmark does its job, we evaluated 16 models across 7 prompting configurations — 39,200 runs in total. A few things stood out.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It separates models cleanly.&lt;/strong&gt; Best-configuration pass rates run from 32.3% to 83.1%, with frontier models averaging about 26 points above open-source ones. That&amp;rsquo;s a wide enough spread to be useful, with no ceiling or floor effects crowding the results together.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Implementing a known algorithm is very different from encoding a problem.&lt;/strong&gt; Models do well when the task is to implement something documented — Simon&amp;rsquo;s algorithm sits at 82.1%, basic gates at 81.6%. They struggle when they have to cast a classical problem into quantum terms — encoding SAT for Grover&amp;rsquo;s search drops to 34.4%. The dominant failure mode across the board is logic errors, not syntax: the code runs and uses Qiskit correctly but produces the wrong quantum state.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chain-of-thought is not a free win.&lt;/strong&gt; It helped a few models — notably the reasoning-tuned ones — but degraded performance for the majority, leaving it mid-pack on average and behind simple few-shot prompting. The practical takeaway is that prompting strategy should track a model&amp;rsquo;s provenance rather than defaulting to &amp;ldquo;more reasoning is better.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id="get-it"&gt;Get it&lt;/h2&gt;
+&lt;p&gt;Everything is open. The dataset, the evaluation framework, and all the baseline results are released so anyone can reproduce the numbers or run their own models against the benchmark.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dataset:&lt;/strong&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code:&lt;/strong&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you work on quantum code generation, model evaluation, or quantum education tooling, I&amp;rsquo;d be glad to hear what you make of it.&lt;/p&gt;</description></item><item><title>Run Qiskit Code Assistant Locally easily!</title><link>https://juancb.es/blog/2025-qiskit-code-assistant-local/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-qiskit-code-assistant-local/</guid><description>&lt;p&gt;Don’t have access to the Qiskit Code Assistant because you’re not on an IBM Quantum Premium plan?&lt;/p&gt;
+&lt;p&gt;No worries—you can run it directly on your computer! We’ve recently improved the local setup experience. With our scripts, you can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Download the LLM optimized for local enviroments (GGUF)&lt;/li&gt;
+&lt;li&gt;✅ Enable inference on your machine (through Ollama)&lt;/li&gt;
+&lt;li&gt;✅ Automatically configure the Qiskit Code Assistant VSCode or JupyterLab extension&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Give it a try and share your feedback—we’d love to hear how you use it!&lt;/p&gt;
+&lt;p&gt;More info:
+&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #Ollama #OpenSource #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on December 2, 2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Qiskit Code Assistant Upgraded to Mistral-Small-3.2-24B-Qiskit</title><link>https://juancb.es/blog/2025-mistral-qiskit-code-assistant-upgrade/</link><pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-mistral-qiskit-code-assistant-upgrade/</guid><description>&lt;p&gt;We&amp;rsquo;ve upgraded the Qiskit Code Assistant! 🚀&lt;/p&gt;
+&lt;p&gt;Last month, we introduced mistral-small-3.2-24b-qiskit, replacing granite-3.3-8b-qiskit.&lt;/p&gt;
+&lt;h2 id="key-improvements"&gt;Key Improvements&lt;/h2&gt;
+&lt;p&gt;✅ &lt;strong&gt;Better accuracy&lt;/strong&gt;: The new model ranks higher across key benchmarks, including QiskitHumanEval, QiskitHumanEval Hard, HumanEval, MathQA, ASDiv, SciQ and others (see the
+for more info).&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Improved UX&lt;/strong&gt;: More precise responses for quantum programming tasks.&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Open access&lt;/strong&gt;: Available on Hugging Face →
+.&lt;/p&gt;
+&lt;p&gt;This update is part of our mission to make quantum development more intuitive and efficient. 🌟&lt;/p&gt;
+&lt;p&gt;Explore it, test it, and share your feedback!&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #OpenSource #HuggingFace&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on November 27, 2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Qiskit Code Assistant: New Open-Source LLM Models Released</title><link>https://juancb.es/blog/2025-qiskit-code-assistant-llm-release/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-qiskit-code-assistant-llm-release/</guid><description>&lt;p&gt;🚀 We&amp;rsquo;re thrilled to announce the latest open-source LLM releases from the Qiskit Code Assistant team! 🚀&lt;/p&gt;
+&lt;p&gt;These new models bring enhanced capabilities and broader compatibility to quantum computing development.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s New:&lt;/p&gt;
+&lt;p&gt;✨ Qiskit 2.0 Compatibility - Our newer models are fully compatible with Qiskit 2.0 code, ensuring seamless development with the latest quantum computing framework&lt;/p&gt;
+&lt;p&gt;🧠 Enhanced Text Understanding - Significant improvements in general text comprehension and code generation capabilities&lt;/p&gt;
+&lt;p&gt;🔬 Expanding Our Horizons - We continue to leverage the newest stable versions of IBM Granite 3.2 and 3.3 models, while for the first time exploring beyond IBM Granite with the powerful Qwen2.5-Coder series&lt;/p&gt;
+&lt;p&gt;Available Models:
 • Granite 3.3 8B Qiskit (+ GGUF)
 • Granite 3.2 8B Qiskit (+ GGUF)
-• Qwen2.5-Coder 14B Qiskit (+ GGUF)&lt;/p>
-&lt;p>All models are available on Hugging Face and ready for local deployment!&lt;/p>
-&lt;p>🔗 Browse All Models:
-&lt;a href="https://huggingface.co/Qiskit" target="_blank" rel="noopener">https://huggingface.co/Qiskit&lt;/a>
+• Qwen2.5-Coder 14B Qiskit (+ GGUF)&lt;/p&gt;
+&lt;p&gt;All models are available on Hugging Face and ready for local deployment!&lt;/p&gt;
+&lt;p&gt;🔗 Browse All Models:
 🔗 Get Started:
-&lt;a href="https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local" target="_blank" rel="noopener">https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&lt;/a>&lt;/p>
-&lt;p>We&amp;rsquo;d love to hear how you&amp;rsquo;re making the most of these models! Share your experiences and quantum development journey with us. 🌟&lt;/p>
-&lt;p>Big thanks to the team involved in this release, specially to Nicolas Dupuis, Adarsh Tiwari and Ismael Faro&lt;/p>
-&lt;p>#QuantumComputing #OpenSource #AI #LLMs #Qiskit #IBM #TechInnovation #QuantumDevelopment #QiskitCodeAssistant&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskit-qiskit-activity-7348275407323893762-qqo8" target="_blank" rel="noopener">LinkedIn&lt;/a> on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>New Qiskit HumanEval Release: Qiskit 1.4 Compatibility and Benchmark Improvements</title><link>https://cbjuan.github.io/post/2025-qiskit-humaneval-update/</link><pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-qiskit-humaneval-update/</guid><description>&lt;p>New Qiskit HumanEval release! 🚀&lt;/p>
-&lt;p>We&amp;rsquo;ve just updated
-&lt;a href="https://huggingface.co/datasets/Qiskit/qiskit_humaneval" target="_blank" rel="noopener">https://huggingface.co/datasets/Qiskit/qiskit_humaneval&lt;/a> to be compatible with the latest Qiskit 1.4 release! But that&amp;rsquo;s not all - our update also includes significant improvements to the benchmark, making it more robust and rigorous in terms of code execution tests to provide even more accurate and comprehensive evaluations of your LLM-generated quantum code&lt;/p>
-&lt;p>View the full changelog:
-&lt;a href="https://github.com/qiskit-community/qiskit-human-eval/compare/0.1.0...0.1.1" target="_blank" rel="noopener">https://github.com/qiskit-community/qiskit-human-eval/compare/0.1.0...0.1.1&lt;/a>&lt;/p>
-&lt;p>Want to know more about Qiskit HumanEval? Check out our paper
-&lt;a href="https://arxiv.org/abs/2406.14712" target="_blank" rel="noopener">https://arxiv.org/abs/2406.14712&lt;/a>&lt;/p>
-&lt;p>#qiskit #AIforQuantum #qiskit_humaneval&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskit-aiforquantum-qiskitabrhumaneval-activity-7306320824448274433-svHs" target="_blank" rel="noopener">LinkedIn&lt;/a> on March 14, 2025 - 26 reactions, 2 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Granite-8B-Qiskit-RC-0.10: Updated Checkpoint Using Current Training Approach</title><link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</guid><description>&lt;p>🙌 Thanks to the feedback received, we&amp;rsquo;ve released a revised version of the granite-8b-qiskit-rc-0.10! Check out the improved checkpoint at
-&lt;a href="https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10" target="_blank" rel="noopener">https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a>&lt;/p>
-&lt;p>#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>Context&lt;/strong> In response to:
-&lt;a href="https://lnkd.in/dCzwpkBZ" target="_blank" rel="noopener">my&amp;rsquo;s post announcing the initial release of that model&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7302255239674404864-6E_9" target="_blank" rel="noopener">LinkedIn&lt;/a> on March 3, 2025 - 22 reactions, 0 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Shipping Granite-8B-Qiskit-RC-0.10: The Final Model of Current Training Era</title><link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</link><pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</guid><description>&lt;p>🚀 Last Friday, we shipped something special: granite-8b-qiskit-rc-0.10, our latest revision of the LLMs that empower the Qiskit Code Assistant.&lt;/p>
-&lt;p>Trained on a significantly expanded Qiskit synthetic dataset, this release marks the end of an era - it&amp;rsquo;s our final model using the current training approach.&lt;/p>
-&lt;p>What&amp;rsquo;s next? We&amp;rsquo;re pivoting to newer Granite base models and starting to integrate other cutting-edge techniques. Stay tuned!&lt;/p>
-&lt;p>Check it out:
-&lt;a href="https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10" target="_blank" rel="noopener">https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a>&lt;/p>
-&lt;p>#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7297410467726004225-osAr" target="_blank" rel="noopener">LinkedIn&lt;/a> on February 18, 2025 - 126 reactions, 8 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>qiskit-ibm-transpiler Ranks #4 in Unitary Fund 2024 Survey</title><link>https://cbjuan.github.io/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/</link><pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2024-qiskit-ibm-transpiler-unitary-fund-survey/</guid><description>&lt;p>🎉 Exciting news! The qiskit-ibm-transpiler has been recognized as the &amp;ldquo;4th most used quantum computing development tool globally&amp;rdquo; in the 2024 Unitary Fund survey under the &amp;ldquo;Full-stack development platforms, compilers, and simulators&amp;rdquo; category.&lt;/p>
-&lt;p>What makes this particularly remarkable? The project has only been publicly available for just over a year!&lt;/p>
-&lt;p>🔍 What is the qiskit-ibm-transpiler?&lt;/p>
-&lt;p>It&amp;rsquo;s a library that combines Qiskit&amp;rsquo;s powerful heuristic algorithms with our cutting-edge AI transpiler passes. Think of it as a sophisticated translator that optimizes your quantum code to run more efficiently on real quantum hardware.&lt;/p>
-&lt;p>🌍 What this means:&lt;/p>
-&lt;p>This recognition reflects both the growing adoption of quantum computing and the community&amp;rsquo;s trust in AI-powered tools. It&amp;rsquo;s an acknowledgment of not just our technology, but of every developer who has contributed to and embraced this project.&lt;/p>
-&lt;p>🔗 Resources:&lt;/p>
-&lt;ul>
-&lt;li>GitHub:
-&lt;a href="https://github.com/Qiskit/qiskit-ibm-transpiler" target="_blank" rel="noopener">https://github.com/Qiskit/qiskit-ibm-transpiler&lt;/a>&lt;/li>
-&lt;li>Documentation:
-&lt;a href="https://docs.quantum.ibm.com/transpile/qiskit-ibm-transpiler" target="_blank" rel="noopener">https://docs.quantum.ibm.com/transpile/qiskit-ibm-transpiler&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Thank you to everyone who has been part of this journey. Here&amp;rsquo;s to pushing the boundaries of quantum computing together! 🚀&lt;/p>
-&lt;p>#QuantumComputing #OpenSource #Qiskit #IBM #SoftwareDevelopment #AITranspilerPasses #QiskitIBMTranspiler #AIforQuantum&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_quantumcomputing-opensource-qiskit-activity-7274806285357748224-d9Al" target="_blank" rel="noopener">LinkedIn&lt;/a> on December 17, 2024 - 79 reactions, 1 comment as of 11/12/2025&lt;/em>&lt;/p></description></item></channel></rss>
+&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d love to hear how you&amp;rsquo;re making the most of these models! Share your experiences and quantum development journey with us. 🌟&lt;/p&gt;
+&lt;p&gt;Big thanks to the team involved in this release, specially to Nicolas Dupuis, Adarsh Tiwari and Ismael Faro&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #AI #LLMs #Qiskit #IBM #TechInnovation #QuantumDevelopment #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>New Qiskit HumanEval Release: Qiskit 1.4 Compatibility and Benchmark Improvements</title><link>https://juancb.es/blog/2025-qiskit-humaneval-update/</link><pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-qiskit-humaneval-update/</guid><description>&lt;p&gt;New Qiskit HumanEval release! 🚀&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve just updated
+to be compatible with the latest Qiskit 1.4 release! But that&amp;rsquo;s not all - our update also includes significant improvements to the benchmark, making it more robust and rigorous in terms of code execution tests to provide even more accurate and comprehensive evaluations of your LLM-generated quantum code&lt;/p&gt;
+&lt;p&gt;View the full changelog:
+&lt;/p&gt;
+&lt;p&gt;Want to know more about Qiskit HumanEval? Check out our paper
+&lt;/p&gt;
+&lt;p&gt;#qiskit #AIforQuantum #qiskit_humaneval&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on March 14, 2025 - 26 reactions, 2 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Granite-8B-Qiskit-RC-0.10: Updated Checkpoint Using Current Training Approach</title><link>https://juancb.es/blog/2025-granite-8b-qiskit-model-release/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-granite-8b-qiskit-model-release/</guid><description>&lt;p&gt;🙌 Thanks to the feedback received, we&amp;rsquo;ve released a revised version of the granite-8b-qiskit-rc-0.10! Check out the improved checkpoint at
+&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt; In response to:
+.&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on March 3, 2025 - 22 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Shipping Granite-8B-Qiskit-RC-0.10: The Final Model of Current Training Era</title><link>https://juancb.es/blog/2025-granite-8b-qiskit-rc-announcement/</link><pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-granite-8b-qiskit-rc-announcement/</guid><description>&lt;p&gt;🚀 Last Friday, we shipped something special: granite-8b-qiskit-rc-0.10, our latest revision of the LLMs that empower the Qiskit Code Assistant.&lt;/p&gt;
+&lt;p&gt;Trained on a significantly expanded Qiskit synthetic dataset, this release marks the end of an era - it&amp;rsquo;s our final model using the current training approach.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s next? We&amp;rsquo;re pivoting to newer Granite base models and starting to integrate other cutting-edge techniques. Stay tuned!&lt;/p&gt;
+&lt;p&gt;Check it out:
+&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on February 18, 2025 - 126 reactions, 8 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>qiskit-ibm-transpiler Ranks #4 in Unitary Fund 2024 Survey</title><link>https://juancb.es/blog/2024-qiskit-ibm-transpiler-unitary-fund-survey/</link><pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2024-qiskit-ibm-transpiler-unitary-fund-survey/</guid><description>&lt;p&gt;🎉 Exciting news! The qiskit-ibm-transpiler has been recognized as the &amp;ldquo;4th most used quantum computing development tool globally&amp;rdquo; in the 2024 Unitary Fund survey under the &amp;ldquo;Full-stack development platforms, compilers, and simulators&amp;rdquo; category.&lt;/p&gt;
+&lt;p&gt;What makes this particularly remarkable? The project has only been publicly available for just over a year!&lt;/p&gt;
+&lt;p&gt;🔍 What is the qiskit-ibm-transpiler?&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a library that combines Qiskit&amp;rsquo;s powerful heuristic algorithms with our cutting-edge AI transpiler passes. Think of it as a sophisticated translator that optimizes your quantum code to run more efficiently on real quantum hardware.&lt;/p&gt;
+&lt;p&gt;🌍 What this means:&lt;/p&gt;
+&lt;p&gt;This recognition reflects both the growing adoption of quantum computing and the community&amp;rsquo;s trust in AI-powered tools. It&amp;rsquo;s an acknowledgment of not just our technology, but of every developer who has contributed to and embraced this project.&lt;/p&gt;
+&lt;p&gt;🔗 Resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub:
+&lt;/li&gt;
+&lt;li&gt;Documentation:
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you to everyone who has been part of this journey. Here&amp;rsquo;s to pushing the boundaries of quantum computing together! 🚀&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #Qiskit #IBM #SoftwareDevelopment #AITranspilerPasses #QiskitIBMTranspiler #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on December 17, 2024 - 79 reactions, 1 comment as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>

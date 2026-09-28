@@ -6,17 +6,17 @@ Juan Cruz-Benito researches and develops AI-based systems for quantum computing 
 
 ## Key pages
 
-- [About](https://cbjuan.github.io/): Bio, education, interests, and contact details.
-- [Publications](https://cbjuan.github.io/publication/): 80+ peer-reviewed papers and articles on AI, quantum computing, and open source, going back to 2013.
-- [Projects](https://cbjuan.github.io/project/): Open-source projects, including AI tooling for Qiskit.
-- [Talks](https://cbjuan.github.io/talk/): Conference talks and invited lectures.
+- [About](https://juancb.es/): Bio, education, interests, and contact details.
+- [Publications](https://juancb.es/publications/): 80+ peer-reviewed papers and articles on AI, quantum computing, and open source, going back to 2013.
+- [Projects](https://juancb.es/projects/): Open-source projects, including AI tooling for Qiskit.
+- [Talks](https://juancb.es/events/): Conference talks and invited lectures.
 
 ## Featured projects
 
-- [Qiskit Code Assistant](https://cbjuan.github.io/project/qiskit-code-assistant/): Family of open-source LLMs (8B-24B) for quantum code generation, plus the Qiskit HumanEval benchmarks.
-- [Qiskit MCP Servers](https://cbjuan.github.io/project/qiskit-mcp-servers/): Model Context Protocol (MCP) servers connecting AI assistants and agents to IBM Quantum services.
-- [qiskit-ibm-transpiler](https://cbjuan.github.io/project/qiskit-ibm-transpiler/): AI-powered quantum circuit optimization library, ranked 3rd in the Unitary Foundation 2025 Survey with 929K+ downloads.
-- [Qiskit Gym](https://cbjuan.github.io/project/qiskit-gym/): Reinforcement learning environments for quantum circuit synthesis.
+- [Qiskit Code Assistant](https://juancb.es/projects/qiskit-code-assistant/): Family of open-source LLMs (8B-24B) for quantum code generation, plus the Qiskit HumanEval benchmarks.
+- [Qiskit MCP Servers](https://juancb.es/projects/qiskit-mcp-servers/): Model Context Protocol (MCP) servers connecting AI assistants and agents to IBM Quantum services.
+- [qiskit-ibm-transpiler](https://juancb.es/projects/qiskit-ibm-transpiler/): AI-powered quantum circuit optimization library, ranked 3rd in the Unitary Foundation 2025 Survey with 929K+ downloads.
+- [Qiskit Gym](https://juancb.es/projects/qiskit-gym/): Reinforcement learning environments for quantum circuit synthesis.
 
 ## Contact & profiles
 
@@ -27,7 +27,6 @@ Juan Cruz-Benito researches and develops AI-based systems for quantum computing 
 
 ## Optional
 
-- [ResearchGate](https://www.researchgate.net/profile/Juan_Cruz-Benito)
 - [Twitter/X](https://twitter.com/_juancb)
-- [RSS feed](https://cbjuan.github.io/index.xml)
-- [Sitemap](https://cbjuan.github.io/sitemap.xml)
+- [RSS feed](https://juancb.es/index.xml)
+- [Sitemap](https://juancb.es/sitemap.xml)

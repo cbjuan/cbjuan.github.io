@@ -1,4 +1,4 @@
-# https://cbjuan.github.io/robots.txt
+# https://juancb.es/robots.txt
 # This is a personal/academic site. All crawlers, including AI assistants
 # and LLM training/retrieval bots, are welcome to index and cite this content.
 
@@ -54,4 +54,4 @@ Allow: /
 User-agent: Meta-ExternalAgent
 Allow: /
 
-Sitemap: https://cbjuan.github.io/sitemap.xml
+Sitemap: https://juancb.es/sitemap.xml

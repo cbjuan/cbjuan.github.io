@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Serverless | Juan Cruz-Benito</title><link>https://cbjuan.github.io/tag/quantum-serverless/</link><atom:link href="https://cbjuan.github.io/tag/quantum-serverless/index.xml" rel="self" type="application/rss+xml"/><description>Quantum Serverless</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><image><url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url><title>Quantum Serverless</title><link>https://cbjuan.github.io/tag/quantum-serverless/</link></image><item><title>IBM Quantum Summit 2023: Major Announcements on Quantum Utility</title><link>https://cbjuan.github.io/post/2023-ibm-quantum-summit/</link><pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2023-ibm-quantum-summit/</guid><description>&lt;p>I am thrilled and honored by the major announcements from IBM Quantum Summit 2023! 🚀&lt;/p>
-&lt;p>Key highlights advancing quantum utility:&lt;/p>
-&lt;p>&lt;strong>Hardware Breakthroughs:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>IBM Heron chip: 3-5x device performance improvement over Eagle&lt;/li>
-&lt;li>IBM Condor: 1,121-processor system demonstrating scaling solutions&lt;/li>
-&lt;li>IBM Quantum System Two: Now operational at Yorktown Lab with 3 Heron processors&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Software Innovations:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Qiskit 1.0: Scheduled February release with improvements in circuit construction, compilation times, and memory consumption&lt;/li>
-&lt;li>Quantum Serverless: Beta deployment for scaled pattern execution&lt;/li>
-&lt;li>AI Integration: Automated code development via watsonx and enhanced transpiler tools&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Vision:&lt;/strong> Extended roadmap through 2033&lt;/p>
-&lt;p>Academic and industry partners from University of Tokyo, Argonne National Lab, BasQ, and others showcased utility-scale quantum applications.&lt;/p>
-&lt;p>This represents tremendous progress toward realizing the full potential of quantum computing!&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>Context:&lt;/strong> In response to
-&lt;a href="https://www.linkedin.com/posts/juancb_i-am-thrilled-and-honored-by-the-major-announcements-activity-7138330719772205056-0TG9" target="_blank" rel="noopener">Jay Gambetta&amp;rsquo;s post about IBM Quantum Summit 2023 announcements&lt;/a>, highlighting hardware and software advances toward quantum utility.&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_i-am-thrilled-and-honored-by-the-major-announcements-activity-7138330719772205056-0TG9" target="_blank" rel="noopener">LinkedIn&lt;/a> on December 7, 2023 - 6 reactions, 0 comments as of 11/12/2025&lt;/em>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Serverless | Juan Cruz-Benito</title><link>https://juancb.es/tag/quantum-serverless/</link><atom:link href="https://juancb.es/tag/quantum-serverless/index.xml" rel="self" type="application/rss+xml"/><description>Quantum Serverless</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><image><url>https://juancb.es/media/sharing.jpg</url><title>Quantum Serverless</title><link>https://juancb.es/tag/quantum-serverless/</link></image><item><title>IBM Quantum Summit 2023: Major Announcements on Quantum Utility</title><link>https://juancb.es/blog/2023-ibm-quantum-summit/</link><pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2023-ibm-quantum-summit/</guid><description>&lt;p&gt;I am thrilled and honored by the major announcements from IBM Quantum Summit 2023! 🚀&lt;/p&gt;
+&lt;p&gt;Key highlights advancing quantum utility:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hardware Breakthroughs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IBM Heron chip: 3-5x device performance improvement over Eagle&lt;/li&gt;
+&lt;li&gt;IBM Condor: 1,121-processor system demonstrating scaling solutions&lt;/li&gt;
+&lt;li&gt;IBM Quantum System Two: Now operational at Yorktown Lab with 3 Heron processors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Software Innovations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Qiskit 1.0: Scheduled February release with improvements in circuit construction, compilation times, and memory consumption&lt;/li&gt;
+&lt;li&gt;Quantum Serverless: Beta deployment for scaled pattern execution&lt;/li&gt;
+&lt;li&gt;AI Integration: Automated code development via watsonx and enhanced transpiler tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Vision:&lt;/strong&gt; Extended roadmap through 2033&lt;/p&gt;
+&lt;p&gt;Academic and industry partners from University of Tokyo, Argonne National Lab, BasQ, and others showcased utility-scale quantum applications.&lt;/p&gt;
+&lt;p&gt;This represents tremendous progress toward realizing the full potential of quantum computing!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; In response to
+, highlighting hardware and software advances toward quantum utility.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on December 7, 2023 - 6 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>

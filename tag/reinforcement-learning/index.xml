@@ -1,113 +1,112 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reinforcement Learning | Juan Cruz-Benito</title><link>https://cbjuan.github.io/tag/reinforcement-learning/</link><atom:link href="https://cbjuan.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml"/><description>Reinforcement Learning</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url><title>Reinforcement Learning</title><link>https://cbjuan.github.io/tag/reinforcement-learning/</link></image><item><title>We Got AI Agents to Train RL Models for Quantum Transpilation</title><link>https://cbjuan.github.io/post/2026-qiskit-gym-mcp-server/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2026-qiskit-gym-mcp-server/</guid><description>&lt;p>What if you could tell an AI assistant: &lt;code>train a model of X qubits to synthesize linear function circuits using the topology YYYY and 100 million steps&lt;/code> - and it just does it? That&amp;rsquo;s now possible with the new &lt;strong>qiskit-gym-mcp-server&lt;/strong>.&lt;/p>
-&lt;p>Inspired by the work Hugging Face has done with
-&lt;a href="https://huggingface.co/blog/hf-skills-training" target="_blank" rel="noopener">HF Skills Training&lt;/a> - where Claude and other agents can submit fine-tuning jobs through natural language - we&amp;rsquo;ve built something similar for quantum circuit synthesis. The key difference: instead of fine-tuning LLMs, we&amp;rsquo;re training RL agents that learn to synthesize quantum circuits optimized for real hardware.&lt;/p>
-&lt;video controls width="100%">
-&lt;source src="demo.mp4" type="video/mp4">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reinforcement Learning | Juan Cruz-Benito</title><link>https://juancb.es/tag/reinforcement-learning/</link><atom:link href="https://juancb.es/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml"/><description>Reinforcement Learning</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://juancb.es/media/sharing.jpg</url><title>Reinforcement Learning</title><link>https://juancb.es/tag/reinforcement-learning/</link></image><item><title>We Got AI Agents to Train RL Models for Quantum Transpilation</title><link>https://juancb.es/blog/2026-qiskit-gym-mcp-server/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2026-qiskit-gym-mcp-server/</guid><description>&lt;p&gt;What if you could tell an AI assistant: &lt;code&gt;train a model of X qubits to synthesize linear function circuits using the topology YYYY and 100 million steps&lt;/code&gt; - and it just does it? That&amp;rsquo;s now possible with the new &lt;strong&gt;qiskit-gym-mcp-server&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Inspired by the work Hugging Face has done with
+- where Claude and other agents can submit fine-tuning jobs through natural language - we&amp;rsquo;ve built something similar for quantum circuit synthesis. The key difference: instead of fine-tuning LLMs, we&amp;rsquo;re training RL agents that learn to synthesize quantum circuits optimized for real hardware.&lt;/p&gt;
+&lt;video controls width="100%"&gt;
+&lt;source src="demo.mp4" type="video/mp4"&gt;
 Your browser does not support the video tag.
-&lt;/video>
-&lt;h2 id="what-is-qiskit-gym-mcp-server">What Is qiskit-gym-mcp-server?&lt;/h2>
-&lt;p>The
-&lt;a href="https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server" target="_blank" rel="noopener">qiskit-gym-mcp-server&lt;/a> is a community MCP (Model Context Protocol) server that integrates the
-&lt;a href="https://github.com/AI4quantum/qiskit-gym" target="_blank" rel="noopener">qiskit-gym&lt;/a> library. It exposes reinforcement learning-based quantum circuit synthesis as tools that AI agents can invoke autonomously.&lt;/p>
-&lt;p>The server enables three main synthesis capabilities:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Permutation synthesis&lt;/strong>: Uses SWAP gate routing to handle qubit permutations on constrained topologies&lt;/li>
-&lt;li>&lt;strong>LinearFunction synthesis&lt;/strong>: Synthesizes CNOT circuits for linear boolean functions&lt;/li>
-&lt;li>&lt;strong>Clifford synthesis&lt;/strong>: Generates Clifford circuits using H, S, and CNOT gates&lt;/li>
-&lt;/ul>
-&lt;h2 id="how-it-works">How It Works&lt;/h2>
-&lt;p>The workflow is straightforward. An AI assistant connected via MCP can:&lt;/p>
-&lt;ol>
-&lt;li>&lt;strong>Create environments&lt;/strong> for different quantum circuit problems, supporting various hardware topologies including linear arrays, grid layouts, and layouts from real IBM backends&lt;/li>
-&lt;li>&lt;strong>Train models&lt;/strong> asynchronously using PPO or AlphaZero algorithms with real-time progress monitoring via TensorBoard&lt;/li>
-&lt;li>&lt;strong>Save and manage&lt;/strong> trained models for later use&lt;/li>
-&lt;li>&lt;strong>Synthesize circuits&lt;/strong> using the trained models&lt;/li>
-&lt;/ol>
-&lt;pre>&lt;code>AI Assistant → MCP Client → create_*_env_tool → start_training_tool
-↓ ↓
-gym_core.py (envs) training.py (RLSynthesis)
-↓
-synthesize_*_tool
-↓
-Optimized circuit (QPY format)
-&lt;/code>&lt;/pre>
-&lt;h2 id="the-agentic-example">The Agentic Example&lt;/h2>
-&lt;p>To demonstrate the full potential, we&amp;rsquo;ve included a LangChain-based agent example in the
-&lt;a href="https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server/examples" target="_blank" rel="noopener">MCP server&lt;/a>. The agent can:&lt;/p>
-&lt;ul>
-&lt;li>Create RL environments for specific synthesis tasks&lt;/li>
-&lt;li>Configure and launch training runs&lt;/li>
-&lt;li>Monitor progress and adjust hyperparameters&lt;/li>
-&lt;li>Use trained models to synthesize optimized circuits&lt;/li>
-&lt;li>Save models for deployment&lt;/li>
-&lt;/ul>
-&lt;p>This isn&amp;rsquo;t a toy demo - it&amp;rsquo;s a proof of concept of how we envision training our AI-based transpilation models that can outperform most existing heuristic methods, as demonstrated in
-&lt;a href="https://www.nature.com/articles/s43588-025-00792-y" target="_blank" rel="noopener">Benchpress&lt;/a> (&lt;em>Nature Computational Science&lt;/em>, 2025).&lt;/p>
-&lt;h2 id="getting-started">Getting Started&lt;/h2>
-&lt;p>Install with pip:&lt;/p>
-&lt;pre>&lt;code class="language-bash"># Full installation with all servers
-pip install qiskit-mcp-servers[all]
-# Or just the gym server
-pip install qiskit-mcp-servers[gym]
-&lt;/code>&lt;/pre>
-&lt;p>Configure your MCP client (Claude Code, Cursor, etc.) to connect to the server, and you&amp;rsquo;re ready to start training RL models through conversation.&lt;/p>
-&lt;h2 id="why-this-matters">Why This Matters&lt;/h2>
-&lt;p>The intersection of AI agents and quantum computing opens up new possibilities for automating complex optimization tasks. Instead of manually configuring training runs and tuning hyperparameters, you can describe what you want in natural language and let the agent handle the details.&lt;/p>
-&lt;p>This is just the beginning. The same pattern can extend to other quantum computing tasks and other fields.&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>Links:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Pull Request:
-&lt;a href="https://github.com/Qiskit/mcp-servers/pull/100" target="_blank" rel="noopener">https://github.com/Qiskit/mcp-servers/pull/100&lt;/a>&lt;/li>
-&lt;li>qiskit-gym-mcp-server:
-&lt;a href="https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server/" target="_blank" rel="noopener">https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server/&lt;/a>&lt;/li>
-&lt;li>PyPI:
-&lt;a href="https://pypi.org/project/qiskit-gym-mcp-server/" target="_blank" rel="noopener">https://pypi.org/project/qiskit-gym-mcp-server/&lt;/a>&lt;/li>
-&lt;li>qiskit-gym:
-&lt;a href="https://github.com/AI4quantum/qiskit-gym" target="_blank" rel="noopener">https://github.com/AI4quantum/qiskit-gym&lt;/a>&lt;/li>
-&lt;li>HF Skills Training (inspiration):
-&lt;a href="https://huggingface.co/blog/hf-skills-training" target="_blank" rel="noopener">https://huggingface.co/blog/hf-skills-training&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>Also shared on
-&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7420158488590561281/" target="_blank" rel="noopener">LinkedIn&lt;/a> on January 23, 2026&lt;/em>&lt;/p></description></item><item><title>AI Methods for Permutation Circuit Synthesis Across Generic Topologies</title><link>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</link><pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-genericpermutationsynthesis/</guid><description/></item><item><title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title><link>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</link><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-qpu_post_training_llms/</guid><description/></item><item><title>Reinforcement learning based transpilation of quantum circuits</title><link>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-patent_rl_transpilation/</guid><description/></item><item><title>Pauli Network Circuit Synthesis with Reinforcement Learning Paper Published</title><link>https://cbjuan.github.io/post/2025-pauli-network-circuit-synthesis/</link><pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-pauli-network-circuit-synthesis/</guid><description>&lt;p>Really happy to see the paper on arxiv. The described AI-powered transpiler pass for Pauli Networks has been available in the Qiskit Transpiler Service since last November 2024, as presented in the Quantum Developer Conference 2024 Check out the paper
-&lt;a href="https://arxiv.org/abs/2503.14448" target="_blank" rel="noopener">https://arxiv.org/abs/2503.14448&lt;/a> and the related documentation on how to use it
-&lt;a href="https://docs.quantum.ibm.com/guides/ai-transpiler-passes#ai-circuit-synthesis-passes" target="_blank" rel="noopener">https://docs.quantum.ibm.com/guides/ai-transpiler-passes#ai-circuit-synthesis-passes&lt;/a>&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>Context:&lt;/strong> In response to
-&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7308037457931833344/" target="_blank" rel="noopener">Ayushi Dubal&amp;rsquo;s post&lt;/a> about the Reinforcement Learning-based synthesis pass for Pauli Networks (Clifford + arbitrary angle Pauli rotation circuits). The research paper &lt;em>Pauli Network Circuit Synthesis with Reinforcement Learning&lt;/em> was presented at the American Physical Society March Meeting in Anaheim.&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_pauli-network-circuit-synthesis-with-reinforcement-activity-7308037457931833344-PyjS" target="_blank" rel="noopener">LinkedIn&lt;/a> on March 19, 2025 - 16 reactions, 2 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Pauli Network Circuit Synthesis with Reinforcement Learning</title><link>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</link><pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-paulinetworkssynthesisrl/</guid><description/></item><item><title>qiskit-ibm-transpiler</title><link>https://cbjuan.github.io/project/qiskit-ibm-transpiler/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/project/qiskit-ibm-transpiler/</guid><description>&lt;p>AI-powered quantum circuit optimization that outperforms traditional heuristics. Uses reinforcement learning to achieve near-optimal synthesis of Linear Function, Clifford, and Permutation circuits—orders of magnitude faster than SAT solvers. Our Pauli Network synthesis delivers over 2× reduction in two-qubit gate count, with average improvements of 20% and up to 60% on the Benchpress benchmark.&lt;/p>
-&lt;p>Supports hardware-aware routing up to 133 qubits and works as a drop-in replacement for standard Qiskit transpilation. Available as both local execution (with our open-source RL models) and cloud-based services.&lt;/p>
-&lt;p>&lt;strong>Achievements:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="https://unitaryfoundation.github.io/survey-2025/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future" target="_blank" rel="noopener">#3 in Unitary Foundation 2025 Survey&lt;/a> (full-stack platforms)&lt;/li>
-&lt;li>
-&lt;a href="https://unitaryfoundation.github.io/survey-2024/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future" target="_blank" rel="noopener">#4 in Unitary Fund 2024 Survey&lt;/a> (after just 1 year public)&lt;/li>
-&lt;li>
-&lt;a href="https://pepy.tech/projects/qiskit-ibm-transpiler" target="_blank" rel="noopener">929K+ downloads&lt;/a> • 56 releases • Apache 2.0&lt;/li>
-&lt;/ul></description></item><item><title>Qiskit Gym</title><link>https://cbjuan.github.io/project/qiskit-gym/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/project/qiskit-gym/</guid><description>&lt;p>Gymnasium-compatible RL environments for training AI agents to synthesize quantum circuits. The framework that powers the AI transpiler passes achieving state-of-the-art results in qiskit-ibm-transpiler.&lt;/p>
-&lt;p>&lt;strong>Three synthesis environments:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Permutation Synthesis&lt;/strong> — Minimal SWAP gate implementations respecting hardware coupling&lt;/li>
-&lt;li>&lt;strong>Linear Function Synthesis&lt;/strong> — CNOT-optimal decomposition of Boolean linear functions&lt;/li>
-&lt;li>&lt;strong>Clifford Synthesis&lt;/strong> — Hardware-efficient implementations of Clifford group elements&lt;/li>
-&lt;/ul>
-&lt;p>Hardware-aware design matches real quantum device coupling maps. High-performance Rust backend enables fast training. Supports PPO, AlphaZero, and custom policies with built-in TensorBoard visualization.&lt;/p>
-&lt;p>The agents trained with this framework achieve near-optimal synthesis up to 65 qubits—orders of magnitude faster than SAT solvers.&lt;/p></description></item><item><title>Reinforced Learning for Quantum Design</title><link>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-patent_rl_qpu_design/</guid><description/></item><item><title>Reinforcement Learning based Clifford Circuit Synthesis</title><link>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</link><pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2025-patent_rl_cliffords/</guid><description/></item><item><title>Reinforcement Learning for Quantum Transpiling: Research Paper Published</title><link>https://cbjuan.github.io/post/2024-rl-quantum-transpiling-paper/</link><pubDate>Mon, 17 Jun 2024 10:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2024-rl-quantum-transpiling-paper/</guid><description>&lt;p>Excited to share research demonstrating the integration of Reinforcement Learning (RL) into quantum transpiling workflows for the Qiskit transpiler service! 🚀&lt;/p>
-&lt;p>This work achieves near-optimal circuit synthesis and routing with significant performance improvements over traditional optimization methods like SAT solvers.&lt;/p>
-&lt;p>Key achievements:
+&lt;/video&gt;
+&lt;h2 id="what-is-qiskit-gym-mcp-server"&gt;What Is qiskit-gym-mcp-server?&lt;/h2&gt;
+&lt;p&gt;The
+is a community MCP (Model Context Protocol) server that integrates the
+library. It exposes reinforcement learning-based quantum circuit synthesis as tools that AI agents can invoke autonomously.&lt;/p&gt;
+&lt;p&gt;The server enables three main synthesis capabilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Permutation synthesis&lt;/strong&gt;: Uses SWAP gate routing to handle qubit permutations on constrained topologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinearFunction synthesis&lt;/strong&gt;: Synthesizes CNOT circuits for linear boolean functions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clifford synthesis&lt;/strong&gt;: Generates Clifford circuits using H, S, and CNOT gates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="how-it-works"&gt;How It Works&lt;/h2&gt;
+&lt;p&gt;The workflow is straightforward. An AI assistant connected via MCP can:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Create environments&lt;/strong&gt; for different quantum circuit problems, supporting various hardware topologies including linear arrays, grid layouts, and layouts from real IBM backends&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Train models&lt;/strong&gt; asynchronously using PPO or AlphaZero algorithms with real-time progress monitoring via TensorBoard&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Save and manage&lt;/strong&gt; trained models for later use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthesize circuits&lt;/strong&gt; using the trained models&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;AI&lt;/span&gt; &lt;span class="n"&gt;Assistant&lt;/span&gt; &lt;span class="err"&gt;→&lt;/span&gt; &lt;span class="n"&gt;MCP&lt;/span&gt; &lt;span class="n"&gt;Client&lt;/span&gt; &lt;span class="err"&gt;→&lt;/span&gt; &lt;span class="n"&gt;create_&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;_env_tool&lt;/span&gt; &lt;span class="err"&gt;→&lt;/span&gt; &lt;span class="n"&gt;start_training_tool&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="err"&gt;↓&lt;/span&gt; &lt;span class="err"&gt;↓&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;gym_core&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;py&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;envs&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;training&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;py&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;RLSynthesis&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="err"&gt;↓&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;synthesize_&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;_tool&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="err"&gt;↓&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;Optimized&lt;/span&gt; &lt;span class="n"&gt;circuit&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;QPY&lt;/span&gt; &lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="the-agentic-example"&gt;The Agentic Example&lt;/h2&gt;
+&lt;p&gt;To demonstrate the full potential, we&amp;rsquo;ve included a LangChain-based agent example in the
+. The agent can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create RL environments for specific synthesis tasks&lt;/li&gt;
+&lt;li&gt;Configure and launch training runs&lt;/li&gt;
+&lt;li&gt;Monitor progress and adjust hyperparameters&lt;/li&gt;
+&lt;li&gt;Use trained models to synthesize optimized circuits&lt;/li&gt;
+&lt;li&gt;Save models for deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This isn&amp;rsquo;t a toy demo - it&amp;rsquo;s a proof of concept of how we envision training our AI-based transpilation models that can outperform most existing heuristic methods, as demonstrated in
+(&lt;em&gt;Nature Computational Science&lt;/em&gt;, 2025).&lt;/p&gt;
+&lt;h2 id="getting-started"&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;Install with pip:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;# Full installation with all servers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;pip install qiskit-mcp-servers&lt;span class="o"&gt;[&lt;/span&gt;all&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;# Or just the gym server&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;pip install qiskit-mcp-servers&lt;span class="o"&gt;[&lt;/span&gt;gym&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Configure your MCP client (Claude Code, Cursor, etc.) to connect to the server, and you&amp;rsquo;re ready to start training RL models through conversation.&lt;/p&gt;
+&lt;h2 id="why-this-matters"&gt;Why This Matters&lt;/h2&gt;
+&lt;p&gt;The intersection of AI agents and quantum computing opens up new possibilities for automating complex optimization tasks. Instead of manually configuring training runs and tuning hyperparameters, you can describe what you want in natural language and let the agent handle the details.&lt;/p&gt;
+&lt;p&gt;This is just the beginning. The same pattern can extend to other quantum computing tasks and other fields.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pull Request:
+&lt;/li&gt;
+&lt;li&gt;qiskit-gym-mcp-server:
+&lt;/li&gt;
+&lt;li&gt;PyPI:
+&lt;/li&gt;
+&lt;li&gt;qiskit-gym:
+&lt;/li&gt;
+&lt;li&gt;HF Skills Training (inspiration):
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Also shared on
+on January 23, 2026&lt;/em&gt;&lt;/p&gt;</description></item><item><title>AI Methods for Permutation Circuit Synthesis Across Generic Topologies</title><link>https://juancb.es/publications/2025-genericpermutationsynthesis/</link><pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/publications/2025-genericpermutationsynthesis/</guid><description/></item><item><title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title><link>https://juancb.es/publications/2025-qpu_post_training_llms/</link><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/publications/2025-qpu_post_training_llms/</guid><description/></item><item><title>Reinforcement learning based transpilation of quantum circuits</title><link>https://juancb.es/publications/2025-patent_rl_transpilation/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/publications/2025-patent_rl_transpilation/</guid><description/></item><item><title>Pauli Network Circuit Synthesis with Reinforcement Learning Paper Published</title><link>https://juancb.es/blog/2025-pauli-network-circuit-synthesis/</link><pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-pauli-network-circuit-synthesis/</guid><description>&lt;p&gt;Really happy to see the paper on arxiv. The described AI-powered transpiler pass for Pauli Networks has been available in the Qiskit Transpiler Service since last November 2024, as presented in the Quantum Developer Conference 2024 Check out the paper
+and the related documentation on how to use it
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; In response to
+about the Reinforcement Learning-based synthesis pass for Pauli Networks (Clifford + arbitrary angle Pauli rotation circuits). The research paper &lt;em&gt;Pauli Network Circuit Synthesis with Reinforcement Learning&lt;/em&gt; was presented at the American Physical Society March Meeting in Anaheim.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on March 19, 2025 - 16 reactions, 2 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Pauli Network Circuit Synthesis with Reinforcement Learning</title><link>https://juancb.es/publications/2025-paulinetworkssynthesisrl/</link><pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/publications/2025-paulinetworkssynthesisrl/</guid><description/></item><item><title>qiskit-ibm-transpiler</title><link>https://juancb.es/projects/qiskit-ibm-transpiler/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/projects/qiskit-ibm-transpiler/</guid><description>&lt;p&gt;AI-powered quantum circuit optimization that outperforms traditional heuristics. Uses reinforcement learning to achieve near-optimal synthesis of Linear Function, Clifford, and Permutation circuits—orders of magnitude faster than SAT solvers. Our Pauli Network synthesis delivers over 2× reduction in two-qubit gate count, with average improvements of 20% and up to 60% on the Benchpress benchmark.&lt;/p&gt;
+&lt;p&gt;Supports hardware-aware routing up to 133 qubits and works as a drop-in replacement for standard Qiskit transpilation. Available as both local execution (with our open-source RL models) and cloud-based services.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Achievements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+(full-stack platforms)&lt;/li&gt;
+&lt;li&gt;
+(after just 1 year public)&lt;/li&gt;
+&lt;li&gt;
+• 56 releases • Apache 2.0&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Qiskit Gym</title><link>https://juancb.es/projects/qiskit-gym/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/projects/qiskit-gym/</guid><description>&lt;p&gt;Gymnasium-compatible RL environments for training AI agents to synthesize quantum circuits. The framework that powers the AI transpiler passes achieving state-of-the-art results in qiskit-ibm-transpiler.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Three synthesis environments:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Permutation Synthesis&lt;/strong&gt; — Minimal SWAP gate implementations respecting hardware coupling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linear Function Synthesis&lt;/strong&gt; — CNOT-optimal decomposition of Boolean linear functions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clifford Synthesis&lt;/strong&gt; — Hardware-efficient implementations of Clifford group elements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hardware-aware design matches real quantum device coupling maps. High-performance Rust backend enables fast training. Supports PPO, AlphaZero, and custom policies with built-in TensorBoard visualization.&lt;/p&gt;
+&lt;p&gt;The agents trained with this framework achieve near-optimal synthesis up to 65 qubits—orders of magnitude faster than SAT solvers.&lt;/p&gt;</description></item><item><title>Reinforced Learning for Quantum Design</title><link>https://juancb.es/publications/2025-patent_rl_qpu_design/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/publications/2025-patent_rl_qpu_design/</guid><description/></item><item><title>Reinforcement Learning based Clifford Circuit Synthesis</title><link>https://juancb.es/publications/2025-patent_rl_cliffords/</link><pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/publications/2025-patent_rl_cliffords/</guid><description/></item><item><title>Reinforcement Learning for Quantum Transpiling: Research Paper Published</title><link>https://juancb.es/blog/2024-rl-quantum-transpiling-paper/</link><pubDate>Mon, 17 Jun 2024 10:00:00 +0000</pubDate><guid>https://juancb.es/blog/2024-rl-quantum-transpiling-paper/</guid><description>&lt;p&gt;Excited to share research demonstrating the integration of Reinforcement Learning (RL) into quantum transpiling workflows for the Qiskit transpiler service! 🚀&lt;/p&gt;
+&lt;p&gt;This work achieves near-optimal circuit synthesis and routing with significant performance improvements over traditional optimization methods like SAT solvers.&lt;/p&gt;
+&lt;p&gt;Key achievements:
 ✅ Linear Function, Clifford, and Permutation circuit synthesis up to 65 qubits
 ✅ Substantial reductions in two-qubit gate depth for routing up to 133 qubits
 ✅ Performance advantages over SABRE routing heuristics
-✅ Practical efficiency for quantum transpiling pipelines&lt;/p>
-&lt;p>This research represents a major step forward in making quantum computing more efficient and accessible through AI-powered optimization.&lt;/p>
-&lt;p>Big thanks to the amazing team: David Kremer, Víctor Villar Pascual, Hanhee Paik, Ivan Duran Martinez, and Ismael Faro!&lt;/p>
-&lt;p>Read the paper:
-&lt;a href="https://lnkd.in/dcnw4Zav" target="_blank" rel="noopener">https://lnkd.in/dcnw4Zav&lt;/a>&lt;/p>
-&lt;p>#qiskit #quantumcomputing #IBMQuantum&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskit-quantumcomputing-ibmquantum-activity-7208407307783663616-3bfR" target="_blank" rel="noopener">LinkedIn&lt;/a> on June 17, 2024 - 48 reactions, 0 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title><link>https://cbjuan.github.io/publication/2024-synthesisrl/</link><pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2024-synthesisrl/</guid><description/></item></channel></rss>
+✅ Practical efficiency for quantum transpiling pipelines&lt;/p&gt;
+&lt;p&gt;This research represents a major step forward in making quantum computing more efficient and accessible through AI-powered optimization.&lt;/p&gt;
+&lt;p&gt;Big thanks to the amazing team: David Kremer, Víctor Villar Pascual, Hanhee Paik, Ivan Duran Martinez, and Ismael Faro!&lt;/p&gt;
+&lt;p&gt;Read the paper:
+&lt;/p&gt;
+&lt;p&gt;#qiskit #quantumcomputing #IBMQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on June 17, 2024 - 48 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning</title><link>https://juancb.es/publications/2024-synthesisrl/</link><pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate><guid>https://juancb.es/publications/2024-synthesisrl/</guid><description/></item></channel></rss>

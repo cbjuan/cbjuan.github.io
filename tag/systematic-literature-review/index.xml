@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Systematic Literature Review | Juan Cruz-Benito</title><link>https://cbjuan.github.io/tag/systematic-literature-review/</link><atom:link href="https://cbjuan.github.io/tag/systematic-literature-review/index.xml" rel="self" type="application/rss+xml"/><description>Systematic Literature Review</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url><title>Systematic Literature Review</title><link>https://cbjuan.github.io/tag/systematic-literature-review/</link></image><item><title>Systematic Literature Review: Quantum Machine Learning and Its Applications Published</title><link>https://cbjuan.github.io/post/2024-quantum-ml-systematic-review/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2024-quantum-ml-systematic-review/</guid><description>&lt;p>Excited to share our systematic literature review paper &amp;ldquo;Systematic literature review: Quantum machine learning and its applications&amp;rdquo; published in Computer Science Review! 🚀&lt;/p>
-&lt;p>This comprehensive work, in collaboration with David Peral García and Francisco José García-Peñalvo from the University of Salamanca, Spain, analyzes the state of quantum machine learning research from 2017 to 2023.&lt;/p>
-&lt;p>Key findings from our review of 94 studies:&lt;/p>
-&lt;ul>
-&lt;li>✅ Identified two primary algorithm categories: quantum versions of classical ML algorithms (support vector machines, k-nearest neighbors) and quantum neural networks&lt;/li>
-&lt;li>✅ Image classification emerged as a particularly relevant application area&lt;/li>
-&lt;li>✅ While quantum machine learning demonstrates promise, it remains far from achieving its full potential&lt;/li>
-&lt;/ul>
-&lt;p>Our analysis highlights that quantum hardware improvements are necessary, as current quantum computers lack sufficient quality, speed, and scalability for QML&amp;rsquo;s full realization.&lt;/p>
-&lt;p>This research provides valuable insights into the current state and future directions of quantum machine learning.&lt;/p>
-&lt;p>Read the full paper:
-&lt;a href="https://www.sciencedirect.com/science/article/pii/S1574013724000030" target="_blank" rel="noopener">https://www.sciencedirect.com/science/article/pii/S1574013724000030&lt;/a>.
-&lt;a href="https://doi.org/10.1016/j.cosrev.2024.100619" target="_blank" rel="noopener">DOI&lt;/a>&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_systematic-literature-review-quantum-machine-activity-7160148207727960064-JscM" target="_blank" rel="noopener">LinkedIn&lt;/a> on February 5, 2024 - 53 reactions, 4 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Analyzing the software architectures supporting HCI/HMI processes through a systematic review of the literature</title><link>https://cbjuan.github.io/publication/2018_cruzbenito/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/publication/2018_cruzbenito/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Systematic Literature Review | Juan Cruz-Benito</title><link>https://juancb.es/tag/systematic-literature-review/</link><atom:link href="https://juancb.es/tag/systematic-literature-review/index.xml" rel="self" type="application/rss+xml"/><description>Systematic Literature Review</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://juancb.es/media/sharing.jpg</url><title>Systematic Literature Review</title><link>https://juancb.es/tag/systematic-literature-review/</link></image><item><title>Systematic Literature Review: Quantum Machine Learning and Its Applications Published</title><link>https://juancb.es/blog/2024-quantum-ml-systematic-review/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2024-quantum-ml-systematic-review/</guid><description>&lt;p&gt;Excited to share our systematic literature review paper &amp;ldquo;Systematic literature review: Quantum machine learning and its applications&amp;rdquo; published in Computer Science Review! 🚀&lt;/p&gt;
+&lt;p&gt;This comprehensive work, in collaboration with David Peral García and Francisco José García-Peñalvo from the University of Salamanca, Spain, analyzes the state of quantum machine learning research from 2017 to 2023.&lt;/p&gt;
+&lt;p&gt;Key findings from our review of 94 studies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Identified two primary algorithm categories: quantum versions of classical ML algorithms (support vector machines, k-nearest neighbors) and quantum neural networks&lt;/li&gt;
+&lt;li&gt;✅ Image classification emerged as a particularly relevant application area&lt;/li&gt;
+&lt;li&gt;✅ While quantum machine learning demonstrates promise, it remains far from achieving its full potential&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our analysis highlights that quantum hardware improvements are necessary, as current quantum computers lack sufficient quality, speed, and scalability for QML&amp;rsquo;s full realization.&lt;/p&gt;
+&lt;p&gt;This research provides valuable insights into the current state and future directions of quantum machine learning.&lt;/p&gt;
+&lt;p&gt;Read the full paper:
+.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on February 5, 2024 - 53 reactions, 4 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Analyzing the software architectures supporting HCI/HMI processes through a systematic review of the literature</title><link>https://juancb.es/publications/2018_cruzbenito/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://juancb.es/publications/2018_cruzbenito/</guid><description/></item></channel></rss>

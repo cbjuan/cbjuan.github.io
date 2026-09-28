@@ -1,223 +1,221 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI | Juan Cruz-Benito</title><link>https://cbjuan.github.io/tag/ai/</link><atom:link href="https://cbjuan.github.io/tag/ai/index.xml" rel="self" type="application/rss+xml"/><description>AI</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Juan Cruz-Benito</copyright><lastBuildDate>Thu, 17 Sep 2026 15:15:00 +0000</lastBuildDate><image><url>https://cbjuan.github.io/img/JuanCruzBenito_square.jpg</url><title>AI</title><link>https://cbjuan.github.io/tag/ai/</link></image><item><title>Quantum Error Correction Meets AI for Science: Lessons from LLM-Guided Code Discovery</title><link>https://cbjuan.github.io/talk/2026_ieee_qce_ai4qc/</link><pubDate>Thu, 17 Sep 2026 15:15:00 +0000</pubDate><guid>https://cbjuan.github.io/talk/2026_ieee_qce_ai4qc/</guid><description>&lt;p>Related paper:
-&lt;a href="https://arxiv.org/abs/2606.02418" target="_blank" rel="noopener">Evolutionary Discovery of Bivariate Bicycle Codes with LLM-Guided Search&lt;/a> (arXiv:2606.02418).&lt;/p></description></item><item><title>We Got AI Agents to Train RL Models for Quantum Transpilation</title><link>https://cbjuan.github.io/post/2026-qiskit-gym-mcp-server/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2026-qiskit-gym-mcp-server/</guid><description>&lt;p>What if you could tell an AI assistant: &lt;code>train a model of X qubits to synthesize linear function circuits using the topology YYYY and 100 million steps&lt;/code> - and it just does it? That&amp;rsquo;s now possible with the new &lt;strong>qiskit-gym-mcp-server&lt;/strong>.&lt;/p>
-&lt;p>Inspired by the work Hugging Face has done with
-&lt;a href="https://huggingface.co/blog/hf-skills-training" target="_blank" rel="noopener">HF Skills Training&lt;/a> - where Claude and other agents can submit fine-tuning jobs through natural language - we&amp;rsquo;ve built something similar for quantum circuit synthesis. The key difference: instead of fine-tuning LLMs, we&amp;rsquo;re training RL agents that learn to synthesize quantum circuits optimized for real hardware.&lt;/p>
-&lt;video controls width="100%">
-&lt;source src="demo.mp4" type="video/mp4">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI | Juan Cruz-Benito</title><link>https://juancb.es/tag/ai/</link><atom:link href="https://juancb.es/tag/ai/index.xml" rel="self" type="application/rss+xml"/><description>AI</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Thu, 17 Sep 2026 15:15:00 +0000</lastBuildDate><image><url>https://juancb.es/media/sharing.jpg</url><title>AI</title><link>https://juancb.es/tag/ai/</link></image><item><title>Quantum Error Correction Meets AI for Science: Lessons from LLM-Guided Code Discovery</title><link>https://juancb.es/events/2026_ieee_qce_ai4qc/</link><pubDate>Thu, 17 Sep 2026 15:15:00 +0000</pubDate><guid>https://juancb.es/events/2026_ieee_qce_ai4qc/</guid><description>&lt;p&gt;Related paper:
+(arXiv:2606.02418).&lt;/p&gt;</description></item><item><title>We Got AI Agents to Train RL Models for Quantum Transpilation</title><link>https://juancb.es/blog/2026-qiskit-gym-mcp-server/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2026-qiskit-gym-mcp-server/</guid><description>&lt;p&gt;What if you could tell an AI assistant: &lt;code&gt;train a model of X qubits to synthesize linear function circuits using the topology YYYY and 100 million steps&lt;/code&gt; - and it just does it? That&amp;rsquo;s now possible with the new &lt;strong&gt;qiskit-gym-mcp-server&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Inspired by the work Hugging Face has done with
+- where Claude and other agents can submit fine-tuning jobs through natural language - we&amp;rsquo;ve built something similar for quantum circuit synthesis. The key difference: instead of fine-tuning LLMs, we&amp;rsquo;re training RL agents that learn to synthesize quantum circuits optimized for real hardware.&lt;/p&gt;
+&lt;video controls width="100%"&gt;
+&lt;source src="demo.mp4" type="video/mp4"&gt;
 Your browser does not support the video tag.
-&lt;/video>
-&lt;h2 id="what-is-qiskit-gym-mcp-server">What Is qiskit-gym-mcp-server?&lt;/h2>
-&lt;p>The
-&lt;a href="https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server" target="_blank" rel="noopener">qiskit-gym-mcp-server&lt;/a> is a community MCP (Model Context Protocol) server that integrates the
-&lt;a href="https://github.com/AI4quantum/qiskit-gym" target="_blank" rel="noopener">qiskit-gym&lt;/a> library. It exposes reinforcement learning-based quantum circuit synthesis as tools that AI agents can invoke autonomously.&lt;/p>
-&lt;p>The server enables three main synthesis capabilities:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Permutation synthesis&lt;/strong>: Uses SWAP gate routing to handle qubit permutations on constrained topologies&lt;/li>
-&lt;li>&lt;strong>LinearFunction synthesis&lt;/strong>: Synthesizes CNOT circuits for linear boolean functions&lt;/li>
-&lt;li>&lt;strong>Clifford synthesis&lt;/strong>: Generates Clifford circuits using H, S, and CNOT gates&lt;/li>
-&lt;/ul>
-&lt;h2 id="how-it-works">How It Works&lt;/h2>
-&lt;p>The workflow is straightforward. An AI assistant connected via MCP can:&lt;/p>
-&lt;ol>
-&lt;li>&lt;strong>Create environments&lt;/strong> for different quantum circuit problems, supporting various hardware topologies including linear arrays, grid layouts, and layouts from real IBM backends&lt;/li>
-&lt;li>&lt;strong>Train models&lt;/strong> asynchronously using PPO or AlphaZero algorithms with real-time progress monitoring via TensorBoard&lt;/li>
-&lt;li>&lt;strong>Save and manage&lt;/strong> trained models for later use&lt;/li>
-&lt;li>&lt;strong>Synthesize circuits&lt;/strong> using the trained models&lt;/li>
-&lt;/ol>
-&lt;pre>&lt;code>AI Assistant → MCP Client → create_*_env_tool → start_training_tool
-↓ ↓
-gym_core.py (envs) training.py (RLSynthesis)
-↓
-synthesize_*_tool
-↓
-Optimized circuit (QPY format)
-&lt;/code>&lt;/pre>
-&lt;h2 id="the-agentic-example">The Agentic Example&lt;/h2>
-&lt;p>To demonstrate the full potential, we&amp;rsquo;ve included a LangChain-based agent example in the
-&lt;a href="https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server/examples" target="_blank" rel="noopener">MCP server&lt;/a>. The agent can:&lt;/p>
-&lt;ul>
-&lt;li>Create RL environments for specific synthesis tasks&lt;/li>
-&lt;li>Configure and launch training runs&lt;/li>
-&lt;li>Monitor progress and adjust hyperparameters&lt;/li>
-&lt;li>Use trained models to synthesize optimized circuits&lt;/li>
-&lt;li>Save models for deployment&lt;/li>
-&lt;/ul>
-&lt;p>This isn&amp;rsquo;t a toy demo - it&amp;rsquo;s a proof of concept of how we envision training our AI-based transpilation models that can outperform most existing heuristic methods, as demonstrated in
-&lt;a href="https://www.nature.com/articles/s43588-025-00792-y" target="_blank" rel="noopener">Benchpress&lt;/a> (&lt;em>Nature Computational Science&lt;/em>, 2025).&lt;/p>
-&lt;h2 id="getting-started">Getting Started&lt;/h2>
-&lt;p>Install with pip:&lt;/p>
-&lt;pre>&lt;code class="language-bash"># Full installation with all servers
-pip install qiskit-mcp-servers[all]
-# Or just the gym server
-pip install qiskit-mcp-servers[gym]
-&lt;/code>&lt;/pre>
-&lt;p>Configure your MCP client (Claude Code, Cursor, etc.) to connect to the server, and you&amp;rsquo;re ready to start training RL models through conversation.&lt;/p>
-&lt;h2 id="why-this-matters">Why This Matters&lt;/h2>
-&lt;p>The intersection of AI agents and quantum computing opens up new possibilities for automating complex optimization tasks. Instead of manually configuring training runs and tuning hyperparameters, you can describe what you want in natural language and let the agent handle the details.&lt;/p>
-&lt;p>This is just the beginning. The same pattern can extend to other quantum computing tasks and other fields.&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>Links:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Pull Request:
-&lt;a href="https://github.com/Qiskit/mcp-servers/pull/100" target="_blank" rel="noopener">https://github.com/Qiskit/mcp-servers/pull/100&lt;/a>&lt;/li>
-&lt;li>qiskit-gym-mcp-server:
-&lt;a href="https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server/" target="_blank" rel="noopener">https://github.com/Qiskit/mcp-servers/tree/main/qiskit-gym-mcp-server/&lt;/a>&lt;/li>
-&lt;li>PyPI:
-&lt;a href="https://pypi.org/project/qiskit-gym-mcp-server/" target="_blank" rel="noopener">https://pypi.org/project/qiskit-gym-mcp-server/&lt;/a>&lt;/li>
-&lt;li>qiskit-gym:
-&lt;a href="https://github.com/AI4quantum/qiskit-gym" target="_blank" rel="noopener">https://github.com/AI4quantum/qiskit-gym&lt;/a>&lt;/li>
-&lt;li>HF Skills Training (inspiration):
-&lt;a href="https://huggingface.co/blog/hf-skills-training" target="_blank" rel="noopener">https://huggingface.co/blog/hf-skills-training&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>Also shared on
-&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7420158488590561281/" target="_blank" rel="noopener">LinkedIn&lt;/a> on January 23, 2026&lt;/em>&lt;/p></description></item><item><title>Run Qiskit Code Assistant Locally easily!</title><link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-local/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-local/</guid><description>&lt;p>Don’t have access to the Qiskit Code Assistant because you’re not on an IBM Quantum Premium plan?&lt;/p>
-&lt;p>No worries—you can run it directly on your computer! We’ve recently improved the local setup experience. With our scripts, you can:&lt;/p>
-&lt;ul>
-&lt;li>✅ Download the LLM optimized for local enviroments (GGUF)&lt;/li>
-&lt;li>✅ Enable inference on your machine (through Ollama)&lt;/li>
-&lt;li>✅ Automatically configure the Qiskit Code Assistant VSCode or JupyterLab extension&lt;/li>
-&lt;/ul>
-&lt;p>Give it a try and share your feedback—we’d love to hear how you use it!&lt;/p>
-&lt;p>More info:
-&lt;a href="https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local#quick-start-recommended" target="_blank" rel="noopener">https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local#quick-start-recommended&lt;/a>&lt;/p>
-&lt;p>#Qiskit #QuantumComputing #AI #Ollama #OpenSource #AIforQuantum&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7401640583166951424/" target="_blank" rel="noopener">LinkedIn&lt;/a> on December 2, 2025&lt;/em>&lt;/p></description></item><item><title>Seeing AI Through the Curry–Howard Lens</title><link>https://cbjuan.github.io/post/2025-curry-howard-ai/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-curry-howard-ai/</guid><description>&lt;p>The
-&lt;a href="https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence" target="_blank" rel="noopener">Curry–Howard correspondence&lt;/a> draws a deep equivalence between logic and computation: propositions as types, proofs as programs. It&amp;rsquo;s an elegant insight from the 1960s—and surprisingly relevant to where AI is headed.&lt;/p>
-&lt;p>Many researchers have explored formal verification, type-driven development, and reasoning-based generation in AI. But Curry–Howard offers something more: a conceptual framework for understanding what&amp;rsquo;s missing in current LLMs and what becomes possible if we push further.&lt;/p>
-&lt;p>The gap is narrowing. We&amp;rsquo;re already seeing glimpses of this future: reasoning models that decompose problems step-by-step, agents that iterate and verify their outputs, post-training techniques that reward logical consistency over mere plausibility. But these are still fundamentally pattern-matching systems with reasoning-like behavior grafted on. Curry–Howard suggests a more fundamental shift—one where programs are proofs and types are logical propositions about correctness.&lt;/p>
-&lt;h2 id="what-would-the-next-leap-look-like">What would the next leap look like?&lt;/h2>
-&lt;p>&lt;strong>Programs as proofs in scientific computing.&lt;/strong> Imagine an LLM generating not just a quantum circuit in Qiskit, but a circuit with accompanying correctness guarantees—proving it implements the intended algorithm, respects hardware constraints, or satisfies specific properties. In science and quantum computing, this means code we can trust, not just code that runs and passes tests.&lt;/p>
-&lt;p>&lt;strong>Types as reasoning scaffolds.&lt;/strong> Dependently-typed languages like Coq or Lean already embody Curry–Howard: types express logical specifications, and programs that type-check are valid proofs. Current LLMs can generate code in these languages, but they don&amp;rsquo;t truly reason within them. The next generation should navigate proof spaces natively, generating solutions that are provably correct by construction, not by post-hoc verification.&lt;/p>
-&lt;p>&lt;strong>AI as a verification partner.&lt;/strong> In quantum computing, bugs aren&amp;rsquo;t just inconvenient—they&amp;rsquo;re catastrophic. A misconfigured gate sequence, an incorrect assumption about decoherence, and months of experimental time are wasted. Today&amp;rsquo;s coding agents can catch some errors through testing and iteration. Tomorrow&amp;rsquo;s should provide formal guarantees.&lt;/p>
-&lt;h2 id="the-challenge-ahead">The challenge ahead&lt;/h2>
-&lt;p>The challenge is architectural: current approaches layer reasoning on top of statistical foundations. What we need are systems where formal reasoning is intrinsic—models that learn not just to predict tokens, but to construct and verify proofs, where the training objective itself rewards logical soundness.&lt;/p>
-&lt;p>This isn&amp;rsquo;t distant future. Research on neural theorem proving, program synthesis with specifications, and LLMs integrated with proof assistants is accelerating. What Curry–Howard offers is a north star: a vision of AI that doesn&amp;rsquo;t just mimic reasoning, but embodies it.&lt;/p>
-&lt;p>For fields like quantum computing, and science in general, where correctness is non-negotiable, this evolution from reasoning-flavored generation to proof-native systems could be transformative.&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Note: The featured image for this post was generated using Gemini Nano Banana.&lt;/em>&lt;/p></description></item><item><title>Qiskit Code Assistant Upgraded to Mistral-Small-3.2-24B-Qiskit</title><link>https://cbjuan.github.io/post/2025-mistral-qiskit-code-assistant-upgrade/</link><pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-mistral-qiskit-code-assistant-upgrade/</guid><description>&lt;p>We&amp;rsquo;ve upgraded the Qiskit Code Assistant! 🚀&lt;/p>
-&lt;p>Last month, we introduced mistral-small-3.2-24b-qiskit, replacing granite-3.3-8b-qiskit.&lt;/p>
-&lt;h2 id="key-improvements">Key Improvements&lt;/h2>
-&lt;p>✅ &lt;strong>Better accuracy&lt;/strong>: The new model ranks higher across key benchmarks, including QiskitHumanEval, QiskitHumanEval Hard, HumanEval, MathQA, ASDiv, SciQ and others (see the
-&lt;a href="https://huggingface.co/Qiskit/mistral-small-3.2-24b-qiskit" target="_blank" rel="noopener">model card&lt;/a> for more info).&lt;/p>
-&lt;p>✅ &lt;strong>Improved UX&lt;/strong>: More precise responses for quantum programming tasks.&lt;/p>
-&lt;p>✅ &lt;strong>Open access&lt;/strong>: Available on Hugging Face →
-&lt;a href="https://huggingface.co/Qiskit/mistral-small-3.2-24b-qiskit" target="_blank" rel="noopener">https://huggingface.co/Qiskit/mistral-small-3.2-24b-qiskit&lt;/a>.&lt;/p>
-&lt;p>This update is part of our mission to make quantum development more intuitive and efficient. 🌟&lt;/p>
-&lt;p>Explore it, test it, and share your feedback!&lt;/p>
-&lt;p>#Qiskit #QuantumComputing #AI #OpenSource #HuggingFace&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskitmistral-small-32-24b-qiskit-hugging-activity-7399782560504889344-MW7W?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAAAqiyOwBYhl4wlt2Sem-hMcxJ1KKsLuYRUs" target="_blank" rel="noopener">LinkedIn&lt;/a> on November 27, 2025&lt;/em>&lt;/p></description></item><item><title>AI for Qiskit. Hackathon starter pack</title><link>https://cbjuan.github.io/talk/2025_qiskit_ai_hackathon/</link><pubDate>Wed, 05 Nov 2025 16:00:00 +0000</pubDate><guid>https://cbjuan.github.io/talk/2025_qiskit_ai_hackathon/</guid><description/></item><item><title>AI Methods for Quantum Circuit Optimization</title><link>https://cbjuan.github.io/talk/2025_ieee_qce_ai_circuit_optimization/</link><pubDate>Mon, 01 Sep 2025 10:00:00 +0000</pubDate><guid>https://cbjuan.github.io/talk/2025_ieee_qce_ai_circuit_optimization/</guid><description>&lt;p>Tutorial materials built on
-&lt;a href="https://github.com/AI4quantum/qiskit-gym" target="_blank" rel="noopener">Qiskit Gym&lt;/a>, including the
-&lt;a href="https://github.com/AI4quantum/qiskit-gym/blob/main/examples/intro.ipynb" target="_blank" rel="noopener">intro notebook&lt;/a>.&lt;/p></description></item><item><title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title><link>https://cbjuan.github.io/post/2025-quantum-verifiable-rewards-qiskit/</link><pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-quantum-verifiable-rewards-qiskit/</guid><description>&lt;p>📄 We just released a new paper &amp;ldquo;Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant&amp;rdquo; - and it&amp;rsquo;s been getting great attention from folks in the quantum field since day one. 🎉&lt;/p>
-&lt;p>🔍 What we built: A novel approach to train AI models that can write better quantum code using Qiskit. What makes this interesting:&lt;/p>
-&lt;p>✅ Quantum verification at the core - Instead of just hoping the AI-generated code works, we actually verify it runs correctly on real quantum systems
+&lt;/video&gt;
+&lt;h2 id="what-is-qiskit-gym-mcp-server"&gt;What Is qiskit-gym-mcp-server?&lt;/h2&gt;
+&lt;p&gt;The
+is a community MCP (Model Context Protocol) server that integrates the
+library. It exposes reinforcement learning-based quantum circuit synthesis as tools that AI agents can invoke autonomously.&lt;/p&gt;
+&lt;p&gt;The server enables three main synthesis capabilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Permutation synthesis&lt;/strong&gt;: Uses SWAP gate routing to handle qubit permutations on constrained topologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinearFunction synthesis&lt;/strong&gt;: Synthesizes CNOT circuits for linear boolean functions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clifford synthesis&lt;/strong&gt;: Generates Clifford circuits using H, S, and CNOT gates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="how-it-works"&gt;How It Works&lt;/h2&gt;
+&lt;p&gt;The workflow is straightforward. An AI assistant connected via MCP can:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Create environments&lt;/strong&gt; for different quantum circuit problems, supporting various hardware topologies including linear arrays, grid layouts, and layouts from real IBM backends&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Train models&lt;/strong&gt; asynchronously using PPO or AlphaZero algorithms with real-time progress monitoring via TensorBoard&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Save and manage&lt;/strong&gt; trained models for later use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthesize circuits&lt;/strong&gt; using the trained models&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;AI&lt;/span&gt; &lt;span class="n"&gt;Assistant&lt;/span&gt; &lt;span class="err"&gt;→&lt;/span&gt; &lt;span class="n"&gt;MCP&lt;/span&gt; &lt;span class="n"&gt;Client&lt;/span&gt; &lt;span class="err"&gt;→&lt;/span&gt; &lt;span class="n"&gt;create_&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;_env_tool&lt;/span&gt; &lt;span class="err"&gt;→&lt;/span&gt; &lt;span class="n"&gt;start_training_tool&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="err"&gt;↓&lt;/span&gt; &lt;span class="err"&gt;↓&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;gym_core&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;py&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;envs&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;training&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;py&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;RLSynthesis&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="err"&gt;↓&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;synthesize_&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;_tool&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="err"&gt;↓&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;Optimized&lt;/span&gt; &lt;span class="n"&gt;circuit&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;QPY&lt;/span&gt; &lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="the-agentic-example"&gt;The Agentic Example&lt;/h2&gt;
+&lt;p&gt;To demonstrate the full potential, we&amp;rsquo;ve included a LangChain-based agent example in the
+. The agent can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create RL environments for specific synthesis tasks&lt;/li&gt;
+&lt;li&gt;Configure and launch training runs&lt;/li&gt;
+&lt;li&gt;Monitor progress and adjust hyperparameters&lt;/li&gt;
+&lt;li&gt;Use trained models to synthesize optimized circuits&lt;/li&gt;
+&lt;li&gt;Save models for deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This isn&amp;rsquo;t a toy demo - it&amp;rsquo;s a proof of concept of how we envision training our AI-based transpilation models that can outperform most existing heuristic methods, as demonstrated in
+(&lt;em&gt;Nature Computational Science&lt;/em&gt;, 2025).&lt;/p&gt;
+&lt;h2 id="getting-started"&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;Install with pip:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;# Full installation with all servers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;pip install qiskit-mcp-servers&lt;span class="o"&gt;[&lt;/span&gt;all&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;# Or just the gym server&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;pip install qiskit-mcp-servers&lt;span class="o"&gt;[&lt;/span&gt;gym&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Configure your MCP client (Claude Code, Cursor, etc.) to connect to the server, and you&amp;rsquo;re ready to start training RL models through conversation.&lt;/p&gt;
+&lt;h2 id="why-this-matters"&gt;Why This Matters&lt;/h2&gt;
+&lt;p&gt;The intersection of AI agents and quantum computing opens up new possibilities for automating complex optimization tasks. Instead of manually configuring training runs and tuning hyperparameters, you can describe what you want in natural language and let the agent handle the details.&lt;/p&gt;
+&lt;p&gt;This is just the beginning. The same pattern can extend to other quantum computing tasks and other fields.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pull Request:
+&lt;/li&gt;
+&lt;li&gt;qiskit-gym-mcp-server:
+&lt;/li&gt;
+&lt;li&gt;PyPI:
+&lt;/li&gt;
+&lt;li&gt;qiskit-gym:
+&lt;/li&gt;
+&lt;li&gt;HF Skills Training (inspiration):
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Also shared on
+on January 23, 2026&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Run Qiskit Code Assistant Locally easily!</title><link>https://juancb.es/blog/2025-qiskit-code-assistant-local/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-qiskit-code-assistant-local/</guid><description>&lt;p&gt;Don’t have access to the Qiskit Code Assistant because you’re not on an IBM Quantum Premium plan?&lt;/p&gt;
+&lt;p&gt;No worries—you can run it directly on your computer! We’ve recently improved the local setup experience. With our scripts, you can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Download the LLM optimized for local enviroments (GGUF)&lt;/li&gt;
+&lt;li&gt;✅ Enable inference on your machine (through Ollama)&lt;/li&gt;
+&lt;li&gt;✅ Automatically configure the Qiskit Code Assistant VSCode or JupyterLab extension&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Give it a try and share your feedback—we’d love to hear how you use it!&lt;/p&gt;
+&lt;p&gt;More info:
+&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #Ollama #OpenSource #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on December 2, 2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Seeing AI Through the Curry–Howard Lens</title><link>https://juancb.es/blog/2025-curry-howard-ai/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-curry-howard-ai/</guid><description>&lt;p&gt;The
+draws a deep equivalence between logic and computation: propositions as types, proofs as programs. It&amp;rsquo;s an elegant insight from the 1960s—and surprisingly relevant to where AI is headed.&lt;/p&gt;
+&lt;p&gt;Many researchers have explored formal verification, type-driven development, and reasoning-based generation in AI. But Curry–Howard offers something more: a conceptual framework for understanding what&amp;rsquo;s missing in current LLMs and what becomes possible if we push further.&lt;/p&gt;
+&lt;p&gt;The gap is narrowing. We&amp;rsquo;re already seeing glimpses of this future: reasoning models that decompose problems step-by-step, agents that iterate and verify their outputs, post-training techniques that reward logical consistency over mere plausibility. But these are still fundamentally pattern-matching systems with reasoning-like behavior grafted on. Curry–Howard suggests a more fundamental shift—one where programs are proofs and types are logical propositions about correctness.&lt;/p&gt;
+&lt;h2 id="what-would-the-next-leap-look-like"&gt;What would the next leap look like?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Programs as proofs in scientific computing.&lt;/strong&gt; Imagine an LLM generating not just a quantum circuit in Qiskit, but a circuit with accompanying correctness guarantees—proving it implements the intended algorithm, respects hardware constraints, or satisfies specific properties. In science and quantum computing, this means code we can trust, not just code that runs and passes tests.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Types as reasoning scaffolds.&lt;/strong&gt; Dependently-typed languages like Coq or Lean already embody Curry–Howard: types express logical specifications, and programs that type-check are valid proofs. Current LLMs can generate code in these languages, but they don&amp;rsquo;t truly reason within them. The next generation should navigate proof spaces natively, generating solutions that are provably correct by construction, not by post-hoc verification.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI as a verification partner.&lt;/strong&gt; In quantum computing, bugs aren&amp;rsquo;t just inconvenient—they&amp;rsquo;re catastrophic. A misconfigured gate sequence, an incorrect assumption about decoherence, and months of experimental time are wasted. Today&amp;rsquo;s coding agents can catch some errors through testing and iteration. Tomorrow&amp;rsquo;s should provide formal guarantees.&lt;/p&gt;
+&lt;h2 id="the-challenge-ahead"&gt;The challenge ahead&lt;/h2&gt;
+&lt;p&gt;The challenge is architectural: current approaches layer reasoning on top of statistical foundations. What we need are systems where formal reasoning is intrinsic—models that learn not just to predict tokens, but to construct and verify proofs, where the training objective itself rewards logical soundness.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t distant future. Research on neural theorem proving, program synthesis with specifications, and LLMs integrated with proof assistants is accelerating. What Curry–Howard offers is a north star: a vision of AI that doesn&amp;rsquo;t just mimic reasoning, but embodies it.&lt;/p&gt;
+&lt;p&gt;For fields like quantum computing, and science in general, where correctness is non-negotiable, this evolution from reasoning-flavored generation to proof-native systems could be transformative.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Note: The featured image for this post was generated using Gemini Nano Banana.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Qiskit Code Assistant Upgraded to Mistral-Small-3.2-24B-Qiskit</title><link>https://juancb.es/blog/2025-mistral-qiskit-code-assistant-upgrade/</link><pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-mistral-qiskit-code-assistant-upgrade/</guid><description>&lt;p&gt;We&amp;rsquo;ve upgraded the Qiskit Code Assistant! 🚀&lt;/p&gt;
+&lt;p&gt;Last month, we introduced mistral-small-3.2-24b-qiskit, replacing granite-3.3-8b-qiskit.&lt;/p&gt;
+&lt;h2 id="key-improvements"&gt;Key Improvements&lt;/h2&gt;
+&lt;p&gt;✅ &lt;strong&gt;Better accuracy&lt;/strong&gt;: The new model ranks higher across key benchmarks, including QiskitHumanEval, QiskitHumanEval Hard, HumanEval, MathQA, ASDiv, SciQ and others (see the
+for more info).&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Improved UX&lt;/strong&gt;: More precise responses for quantum programming tasks.&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Open access&lt;/strong&gt;: Available on Hugging Face →
+.&lt;/p&gt;
+&lt;p&gt;This update is part of our mission to make quantum development more intuitive and efficient. 🌟&lt;/p&gt;
+&lt;p&gt;Explore it, test it, and share your feedback!&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #OpenSource #HuggingFace&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on November 27, 2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>AI for Qiskit. Hackathon starter pack</title><link>https://juancb.es/events/2025_qiskit_ai_hackathon/</link><pubDate>Wed, 05 Nov 2025 16:00:00 +0000</pubDate><guid>https://juancb.es/events/2025_qiskit_ai_hackathon/</guid><description/></item><item><title>AI Methods for Quantum Circuit Optimization</title><link>https://juancb.es/events/2025_ieee_qce_ai_circuit_optimization/</link><pubDate>Mon, 01 Sep 2025 10:00:00 +0000</pubDate><guid>https://juancb.es/events/2025_ieee_qce_ai_circuit_optimization/</guid><description>&lt;p&gt;Tutorial materials built on
+, including the
+.&lt;/p&gt;</description></item><item><title>Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant</title><link>https://juancb.es/blog/2025-quantum-verifiable-rewards-qiskit/</link><pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-quantum-verifiable-rewards-qiskit/</guid><description>&lt;p&gt;📄 We just released a new paper &amp;ldquo;Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant&amp;rdquo; - and it&amp;rsquo;s been getting great attention from folks in the quantum field since day one. 🎉&lt;/p&gt;
+&lt;p&gt;🔍 What we built: A novel approach to train AI models that can write better quantum code using Qiskit. What makes this interesting:&lt;/p&gt;
+&lt;p&gt;✅ Quantum verification at the core - Instead of just hoping the AI-generated code works, we actually verify it runs correctly on real quantum systems
 ✅ Smart training pipeline - We created synthetic quantum problem-test pairs and used both Direct Preference Optimization (DPO) and Group Relative Policy Optimization (GRPO) to align our models
-✅ Real quantum feedback - Our models learn directly from quantum hardware and systems rewards, ensuring the code they generate actually works in practice&lt;/p>
-&lt;p>The results: Our best model significantly outperforms existing leading open-source baselines on the challenging Qiskit-HumanEval-hard benchmark.&lt;/p>
-&lt;p>This work presents a solid contribution to making quantum programming more accessible through AI assistance. The approach of using quantum hardware verification to train coding assistants opens up promising directions for future research.&lt;/p>
-&lt;p>Proud of our team&amp;rsquo;s thoughtful work on this project: Nicolas Dupuis, Adarsh Tiwari, Youssef MROUEH, David Kremer, Ismael Faro. The intersection of AI and quantum computing continues to offer compelling research opportunities.&lt;/p>
-&lt;p>Paper:
-&lt;a href="https://arxiv.org/abs/2508.20907" target="_blank" rel="noopener">https://arxiv.org/abs/2508.20907&lt;/a>&lt;/p>
-&lt;p>#QuantumComputing #AI #MachineLearning #Qiskit #Research #AIforQuantum&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_quantum-verifiable-rewards-for-post-training-activity-7367455154318585857-5ElR" target="_blank" rel="noopener">LinkedIn&lt;/a> on August 30, 2025 - 76 reactions, 0 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Qiskit Code Assistant: New Open-Source LLM Models Released</title><link>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-qiskit-code-assistant-llm-release/</guid><description>&lt;p>🚀 We&amp;rsquo;re thrilled to announce the latest open-source LLM releases from the Qiskit Code Assistant team! 🚀&lt;/p>
-&lt;p>These new models bring enhanced capabilities and broader compatibility to quantum computing development.&lt;/p>
-&lt;p>What&amp;rsquo;s New:&lt;/p>
-&lt;p>✨ Qiskit 2.0 Compatibility - Our newer models are fully compatible with Qiskit 2.0 code, ensuring seamless development with the latest quantum computing framework&lt;/p>
-&lt;p>🧠 Enhanced Text Understanding - Significant improvements in general text comprehension and code generation capabilities&lt;/p>
-&lt;p>🔬 Expanding Our Horizons - We continue to leverage the newest stable versions of IBM Granite 3.2 and 3.3 models, while for the first time exploring beyond IBM Granite with the powerful Qwen2.5-Coder series&lt;/p>
-&lt;p>Available Models:
+✅ Real quantum feedback - Our models learn directly from quantum hardware and systems rewards, ensuring the code they generate actually works in practice&lt;/p&gt;
+&lt;p&gt;The results: Our best model significantly outperforms existing leading open-source baselines on the challenging Qiskit-HumanEval-hard benchmark.&lt;/p&gt;
+&lt;p&gt;This work presents a solid contribution to making quantum programming more accessible through AI assistance. The approach of using quantum hardware verification to train coding assistants opens up promising directions for future research.&lt;/p&gt;
+&lt;p&gt;Proud of our team&amp;rsquo;s thoughtful work on this project: Nicolas Dupuis, Adarsh Tiwari, Youssef MROUEH, David Kremer, Ismael Faro. The intersection of AI and quantum computing continues to offer compelling research opportunities.&lt;/p&gt;
+&lt;p&gt;Paper:
+&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #AI #MachineLearning #Qiskit #Research #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on August 30, 2025 - 76 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Qiskit Code Assistant: New Open-Source LLM Models Released</title><link>https://juancb.es/blog/2025-qiskit-code-assistant-llm-release/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-qiskit-code-assistant-llm-release/</guid><description>&lt;p&gt;🚀 We&amp;rsquo;re thrilled to announce the latest open-source LLM releases from the Qiskit Code Assistant team! 🚀&lt;/p&gt;
+&lt;p&gt;These new models bring enhanced capabilities and broader compatibility to quantum computing development.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s New:&lt;/p&gt;
+&lt;p&gt;✨ Qiskit 2.0 Compatibility - Our newer models are fully compatible with Qiskit 2.0 code, ensuring seamless development with the latest quantum computing framework&lt;/p&gt;
+&lt;p&gt;🧠 Enhanced Text Understanding - Significant improvements in general text comprehension and code generation capabilities&lt;/p&gt;
+&lt;p&gt;🔬 Expanding Our Horizons - We continue to leverage the newest stable versions of IBM Granite 3.2 and 3.3 models, while for the first time exploring beyond IBM Granite with the powerful Qwen2.5-Coder series&lt;/p&gt;
+&lt;p&gt;Available Models:
 • Granite 3.3 8B Qiskit (+ GGUF)
 • Granite 3.2 8B Qiskit (+ GGUF)
-• Qwen2.5-Coder 14B Qiskit (+ GGUF)&lt;/p>
-&lt;p>All models are available on Hugging Face and ready for local deployment!&lt;/p>
-&lt;p>🔗 Browse All Models:
-&lt;a href="https://huggingface.co/Qiskit" target="_blank" rel="noopener">https://huggingface.co/Qiskit&lt;/a>
+• Qwen2.5-Coder 14B Qiskit (+ GGUF)&lt;/p&gt;
+&lt;p&gt;All models are available on Hugging Face and ready for local deployment!&lt;/p&gt;
+&lt;p&gt;🔗 Browse All Models:
 🔗 Get Started:
-&lt;a href="https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local" target="_blank" rel="noopener">https://quantum.cloud.ibm.com/docs/en/guides/qiskit-code-assistant-local&lt;/a>&lt;/p>
-&lt;p>We&amp;rsquo;d love to hear how you&amp;rsquo;re making the most of these models! Share your experiences and quantum development journey with us. 🌟&lt;/p>
-&lt;p>Big thanks to the team involved in this release, specially to Nicolas Dupuis, Adarsh Tiwari and Ismael Faro&lt;/p>
-&lt;p>#QuantumComputing #OpenSource #AI #LLMs #Qiskit #IBM #TechInnovation #QuantumDevelopment #QiskitCodeAssistant&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskit-qiskit-activity-7348275407323893762-qqo8" target="_blank" rel="noopener">LinkedIn&lt;/a> on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Qiskit Code Assistant</title><link>https://cbjuan.github.io/project/qiskit-code-assistant/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/project/qiskit-code-assistant/</guid><description>&lt;p>A family of LLMs (8B–24B parameters) specialized for quantum code generation. Models built on IBM Granite, Mistral, and Qwen foundations, fine-tuned on curated Qiskit datasets including Python scripts, Jupyter notebooks, and synthetic Q&amp;amp;A pairs.&lt;/p>
-&lt;p>&lt;strong>Open-source model family:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Mistral Small 24B&lt;/strong> — Largest model, highest accuracy&lt;/li>
-&lt;li>&lt;strong>Qwen2.5 Coder 14B&lt;/strong> — Strong coding foundation&lt;/li>
-&lt;li>&lt;strong>Granite 3.x 8B&lt;/strong> — Efficient, multiple versions&lt;/li>
-&lt;li>GGUF quantized versions available for local deployment&lt;/li>
-&lt;/ul>
-&lt;p>Achieves &lt;strong>46.53% on Qiskit HumanEval&lt;/strong>—significantly outperforming competing models (24.75%–39.6%). Supports natural language to code (&amp;ldquo;define a Bell circuit and run it on ibm_brisbane&amp;rdquo;) and intelligent autocomplete.&lt;/p>
-&lt;p>We created and open-sourced &lt;strong>Qiskit HumanEval&lt;/strong> and &lt;strong>Qiskit HumanEval Hard&lt;/strong>—benchmarks with 150+ tasks each, now used industry-wide for evaluating quantum code LLMs. Integrated into VS Code and JupyterLab.&lt;/p></description></item><item><title>Among IBM Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore</title><link>https://cbjuan.github.io/post/2025-ibm-tech-singapore/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-ibm-tech-singapore/</guid><description>&lt;p>Among 👁️🐝Ⓜ️ Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore 🇸🇬&lt;/p>
-&lt;p>I had the privilege of attending IBM Tech 2025 in Singapore this week - an exclusive, invitation-only gathering of IBM&amp;rsquo;s top technical talent from around the world. As one of the selected participants, I&amp;rsquo;m humbled to have been recognized among IBM&amp;rsquo;s most innovative and performing technical minds.&lt;/p>
-&lt;p>The atmosphere was electric as we dove deep into the future of AI, quantum computing, and emerging technologies. What struck me most was not just the cutting-edge content of the presentations from colleagues and leaders such as Ruchir Puri, Suja Viswesan, Ric Lewis, Borja Peropadre, and others, but the quality of conversations happening between sessions. Exchanging ideas with brilliant colleagues across different technical disciplines provided invaluable perspective on where technology is headed.&lt;/p>
-&lt;p>Particularly enlightening were the discussions with my IBM Quantum and AI Research colleagues and the cross-pollination of ideas between different technical domains. These connections reinforced my belief that the most transformative innovations happen at the intersection of diverse expertise.&lt;/p>
-&lt;p>Beyond the technical exchanges, Singapore provided a stunning backdrop for cultural experiences that complemented our professional activities. The city&amp;rsquo;s blend of tradition and futuristic vision perfectly mirrored our discussions about building tomorrow&amp;rsquo;s technologies while honoring established principles.&lt;/p>
-&lt;p>Returning home energized and inspired, I&amp;rsquo;m grateful for both the recognition and the opportunity to contribute to IBM&amp;rsquo;s technical community. The future belongs to those who collaborate across boundaries, and IBM Tech 2025 demonstrated that our collective expertise is our greatest strength.&lt;/p>
-&lt;p>#IBMTech2025 #Innovation #TechnicalExcellence #QuantumComputing #AI #FutureTech #IBMLife #AIforQuantum&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_ibmtech2025-innovation-technicalexcellence-activity-7311293166270242817-FcdZ" target="_blank" rel="noopener">LinkedIn&lt;/a> on March 28, 2025 - 96 reactions, 14 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Granite-8B-Qiskit-RC-0.10: Updated Checkpoint Using Current Training Approach</title><link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-model-release/</guid><description>&lt;p>🙌 Thanks to the feedback received, we&amp;rsquo;ve released a revised version of the granite-8b-qiskit-rc-0.10! Check out the improved checkpoint at
-&lt;a href="https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10" target="_blank" rel="noopener">https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a>&lt;/p>
-&lt;p>#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>Context&lt;/strong> In response to:
-&lt;a href="https://lnkd.in/dCzwpkBZ" target="_blank" rel="noopener">my&amp;rsquo;s post announcing the initial release of that model&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7302255239674404864-6E_9" target="_blank" rel="noopener">LinkedIn&lt;/a> on March 3, 2025 - 22 reactions, 0 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>qiskit-ibm-transpiler</title><link>https://cbjuan.github.io/project/qiskit-ibm-transpiler/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/project/qiskit-ibm-transpiler/</guid><description>&lt;p>AI-powered quantum circuit optimization that outperforms traditional heuristics. Uses reinforcement learning to achieve near-optimal synthesis of Linear Function, Clifford, and Permutation circuits—orders of magnitude faster than SAT solvers. Our Pauli Network synthesis delivers over 2× reduction in two-qubit gate count, with average improvements of 20% and up to 60% on the Benchpress benchmark.&lt;/p>
-&lt;p>Supports hardware-aware routing up to 133 qubits and works as a drop-in replacement for standard Qiskit transpilation. Available as both local execution (with our open-source RL models) and cloud-based services.&lt;/p>
-&lt;p>&lt;strong>Achievements:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="https://unitaryfoundation.github.io/survey-2025/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future" target="_blank" rel="noopener">#3 in Unitary Foundation 2025 Survey&lt;/a> (full-stack platforms)&lt;/li>
-&lt;li>
-&lt;a href="https://unitaryfoundation.github.io/survey-2024/#full-stack-development-platforms-compilers-and-simulators-used-currently-or-in-the-future" target="_blank" rel="noopener">#4 in Unitary Fund 2024 Survey&lt;/a> (after just 1 year public)&lt;/li>
-&lt;li>
-&lt;a href="https://pepy.tech/projects/qiskit-ibm-transpiler" target="_blank" rel="noopener">929K+ downloads&lt;/a> • 56 releases • Apache 2.0&lt;/li>
-&lt;/ul></description></item><item><title>Shipping Granite-8B-Qiskit-RC-0.10: The Final Model of Current Training Era</title><link>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</link><pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2025-granite-8b-qiskit-rc-announcement/</guid><description>&lt;p>🚀 Last Friday, we shipped something special: granite-8b-qiskit-rc-0.10, our latest revision of the LLMs that empower the Qiskit Code Assistant.&lt;/p>
-&lt;p>Trained on a significantly expanded Qiskit synthetic dataset, this release marks the end of an era - it&amp;rsquo;s our final model using the current training approach.&lt;/p>
-&lt;p>What&amp;rsquo;s next? We&amp;rsquo;re pivoting to newer Granite base models and starting to integrate other cutting-edge techniques. Stay tuned!&lt;/p>
-&lt;p>Check it out:
-&lt;a href="https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10" target="_blank" rel="noopener">https://huggingface.co/Qiskit/granite-8b-qiskit-rc-0.10&lt;/a>&lt;/p>
-&lt;p>#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_qiskitgranite-8b-rc-010-hugging-face-activity-7297410467726004225-osAr" target="_blank" rel="noopener">LinkedIn&lt;/a> on February 18, 2025 - 126 reactions, 8 comments as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Qiskit Gym</title><link>https://cbjuan.github.io/project/qiskit-gym/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/project/qiskit-gym/</guid><description>&lt;p>Gymnasium-compatible RL environments for training AI agents to synthesize quantum circuits. The framework that powers the AI transpiler passes achieving state-of-the-art results in qiskit-ibm-transpiler.&lt;/p>
-&lt;p>&lt;strong>Three synthesis environments:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Permutation Synthesis&lt;/strong> — Minimal SWAP gate implementations respecting hardware coupling&lt;/li>
-&lt;li>&lt;strong>Linear Function Synthesis&lt;/strong> — CNOT-optimal decomposition of Boolean linear functions&lt;/li>
-&lt;li>&lt;strong>Clifford Synthesis&lt;/strong> — Hardware-efficient implementations of Clifford group elements&lt;/li>
-&lt;/ul>
-&lt;p>Hardware-aware design matches real quantum device coupling maps. High-performance Rust backend enables fast training. Supports PPO, AlphaZero, and custom policies with built-in TensorBoard visualization.&lt;/p>
-&lt;p>The agents trained with this framework achieve near-optimal synthesis up to 65 qubits—orders of magnitude faster than SAT solvers.&lt;/p></description></item><item><title>Qiskit MCP Servers</title><link>https://cbjuan.github.io/project/qiskit-mcp-servers/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/project/qiskit-mcp-servers/</guid><description>&lt;p>Production-ready Model Context Protocol servers that give AI assistants direct access to quantum computing infrastructure. Built on FastMCP with async-first architecture, full type safety, and 65%+ test coverage.&lt;/p>
-&lt;p>&lt;strong>Four specialized servers:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Qiskit Server&lt;/strong> — Circuit creation, manipulation, and transpilation&lt;/li>
-&lt;li>&lt;strong>Code Assistant Server&lt;/strong> — AI-assisted quantum programming via Granite models&lt;/li>
-&lt;li>&lt;strong>IBM Runtime Server&lt;/strong> — Hardware access, job execution, and backend selection&lt;/li>
-&lt;li>&lt;strong>AI Transpiler Server&lt;/strong> — RL-powered circuit optimization&lt;/li>
-&lt;/ul>
-&lt;p>Enables AI systems to autonomously generate quantum code, select optimal backends, execute circuits on real hardware, and provide expert quantum computing guidance—all through a standardized protocol.&lt;/p></description></item><item><title>Quantum Developer Conference 2024: Showcasing AI-Powered Quantum Tools</title><link>https://cbjuan.github.io/post/2024-quantum-developer-conference/</link><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2024-quantum-developer-conference/</guid><description>&lt;p>Excited to be participating in the Quantum Developer Conference 2024 at the IBM Thomas J. Watson Research Center! It&amp;rsquo;s been fantastic networking with fellow quantum computing professionals and showcasing the latest developments at the intersection of AI and quantum computing.&lt;/p>
-&lt;p>We&amp;rsquo;re featuring exciting innovations including the Qiskit Code Assistant and our cutting-edge AI-powered transpiler passes. These tools represent significant steps forward in making quantum computing more accessible and efficient.&lt;/p>
-&lt;p>Learn more:
-&lt;a href="https://www.ibm.com/quantum/blog/qdc-2024" target="_blank" rel="noopener">https://www.ibm.com/quantum/blog/qdc-2024&lt;/a>&lt;/p>
-&lt;p>#QuantumComputing #AI #IBMQuantum #AIforQuantum&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_quantumcomputing-ai-ibmquantum-activity-7263335380895059968-cQiA" target="_blank" rel="noopener">LinkedIn&lt;/a> on November 15, 2024 - 97 reactions, 1 comment as of 11/12/2025&lt;/em>&lt;/p></description></item><item><title>Introducing Qiskit Code Assistant: New Blog Post Published</title><link>https://cbjuan.github.io/post/2024-qiskit-code-assistant-introduction/</link><pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate><guid>https://cbjuan.github.io/post/2024-qiskit-code-assistant-introduction/</guid><description>&lt;p>Last week we published a blog post summarizing what is the Qiskit Code Assistant and how you can start to use it.&lt;/p>
-&lt;p>Following the recent launch, users are already leveraging the tool&amp;rsquo;s features. We&amp;rsquo;re actively developing improved models with enhanced capabilities that we&amp;rsquo;re planning to release as open source!&lt;/p>
-&lt;p>Read the blog post:
-&lt;a href="https://www.ibm.com/quantum/blog/qiskit-code-assistant" target="_blank" rel="noopener">https://www.ibm.com/quantum/blog/qiskit-code-assistant&lt;/a>&lt;/p>
-&lt;p>#qiskit #qiskitcodeassistant #opensource #ibmquantum&lt;/p>
-&lt;hr>
-&lt;p>&lt;em>Originally shared on
-&lt;a href="https://www.linkedin.com/posts/juancb_introducing-qiskit-code-assistant-ibm-quantum-activity-7251924654397739008-d92S" target="_blank" rel="noopener">LinkedIn&lt;/a> on October 15, 2024 - 51 reactions, 0 comments as of 11/12/2025&lt;/em>&lt;/p></description></item></channel></rss>
+&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;d love to hear how you&amp;rsquo;re making the most of these models! Share your experiences and quantum development journey with us. 🌟&lt;/p&gt;
+&lt;p&gt;Big thanks to the team involved in this release, specially to Nicolas Dupuis, Adarsh Tiwari and Ismael Faro&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #OpenSource #AI #LLMs #Qiskit #IBM #TechInnovation #QuantumDevelopment #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Qiskit Code Assistant</title><link>https://juancb.es/projects/qiskit-code-assistant/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/projects/qiskit-code-assistant/</guid><description>&lt;p&gt;A family of LLMs (8B–24B parameters) specialized for quantum code generation. Models built on IBM Granite, Mistral, and Qwen foundations, fine-tuned on curated Qiskit datasets including Python scripts, Jupyter notebooks, and synthetic Q&amp;amp;A pairs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open-source model family:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mistral Small 24B&lt;/strong&gt; — Largest model, highest accuracy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Qwen2.5 Coder 14B&lt;/strong&gt; — Strong coding foundation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Granite 3.x 8B&lt;/strong&gt; — Efficient, multiple versions&lt;/li&gt;
+&lt;li&gt;GGUF quantized versions available for local deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Achieves &lt;strong&gt;46.53% on Qiskit HumanEval&lt;/strong&gt;—significantly outperforming competing models (24.75%–39.6%). Supports natural language to code (&amp;ldquo;define a Bell circuit and run it on ibm_brisbane&amp;rdquo;) and intelligent autocomplete.&lt;/p&gt;
+&lt;p&gt;We created and open-sourced &lt;strong&gt;Qiskit HumanEval&lt;/strong&gt; and &lt;strong&gt;Qiskit HumanEval Hard&lt;/strong&gt;—benchmarks with 150+ tasks each, now used industry-wide for evaluating quantum code LLMs. Integrated into VS Code and JupyterLab.&lt;/p&gt;</description></item><item><title>Among IBM Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore</title><link>https://juancb.es/blog/2025-ibm-tech-singapore/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-ibm-tech-singapore/</guid><description>&lt;p&gt;Among 👁️🐝Ⓜ️ Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore 🇸🇬&lt;/p&gt;
+&lt;p&gt;I had the privilege of attending IBM Tech 2025 in Singapore this week - an exclusive, invitation-only gathering of IBM&amp;rsquo;s top technical talent from around the world. As one of the selected participants, I&amp;rsquo;m humbled to have been recognized among IBM&amp;rsquo;s most innovative and performing technical minds.&lt;/p&gt;
+&lt;p&gt;The atmosphere was electric as we dove deep into the future of AI, quantum computing, and emerging technologies. What struck me most was not just the cutting-edge content of the presentations from colleagues and leaders such as Ruchir Puri, Suja Viswesan, Ric Lewis, Borja Peropadre, and others, but the quality of conversations happening between sessions. Exchanging ideas with brilliant colleagues across different technical disciplines provided invaluable perspective on where technology is headed.&lt;/p&gt;
+&lt;p&gt;Particularly enlightening were the discussions with my IBM Quantum and AI Research colleagues and the cross-pollination of ideas between different technical domains. These connections reinforced my belief that the most transformative innovations happen at the intersection of diverse expertise.&lt;/p&gt;
+&lt;p&gt;Beyond the technical exchanges, Singapore provided a stunning backdrop for cultural experiences that complemented our professional activities. The city&amp;rsquo;s blend of tradition and futuristic vision perfectly mirrored our discussions about building tomorrow&amp;rsquo;s technologies while honoring established principles.&lt;/p&gt;
+&lt;p&gt;Returning home energized and inspired, I&amp;rsquo;m grateful for both the recognition and the opportunity to contribute to IBM&amp;rsquo;s technical community. The future belongs to those who collaborate across boundaries, and IBM Tech 2025 demonstrated that our collective expertise is our greatest strength.&lt;/p&gt;
+&lt;p&gt;#IBMTech2025 #Innovation #TechnicalExcellence #QuantumComputing #AI #FutureTech #IBMLife #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on March 28, 2025 - 96 reactions, 14 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Granite-8B-Qiskit-RC-0.10: Updated Checkpoint Using Current Training Approach</title><link>https://juancb.es/blog/2025-granite-8b-qiskit-model-release/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-granite-8b-qiskit-model-release/</guid><description>&lt;p&gt;🙌 Thanks to the feedback received, we&amp;rsquo;ve released a revised version of the granite-8b-qiskit-rc-0.10! Check out the improved checkpoint at
+&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt; In response to:
+.&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on March 3, 2025 - 22 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>qiskit-ibm-transpiler</title><link>https://juancb.es/projects/qiskit-ibm-transpiler/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/projects/qiskit-ibm-transpiler/</guid><description>&lt;p&gt;AI-powered quantum circuit optimization that outperforms traditional heuristics. Uses reinforcement learning to achieve near-optimal synthesis of Linear Function, Clifford, and Permutation circuits—orders of magnitude faster than SAT solvers. Our Pauli Network synthesis delivers over 2× reduction in two-qubit gate count, with average improvements of 20% and up to 60% on the Benchpress benchmark.&lt;/p&gt;
+&lt;p&gt;Supports hardware-aware routing up to 133 qubits and works as a drop-in replacement for standard Qiskit transpilation. Available as both local execution (with our open-source RL models) and cloud-based services.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Achievements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+(full-stack platforms)&lt;/li&gt;
+&lt;li&gt;
+(after just 1 year public)&lt;/li&gt;
+&lt;li&gt;
+• 56 releases • Apache 2.0&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Shipping Granite-8B-Qiskit-RC-0.10: The Final Model of Current Training Era</title><link>https://juancb.es/blog/2025-granite-8b-qiskit-rc-announcement/</link><pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-granite-8b-qiskit-rc-announcement/</guid><description>&lt;p&gt;🚀 Last Friday, we shipped something special: granite-8b-qiskit-rc-0.10, our latest revision of the LLMs that empower the Qiskit Code Assistant.&lt;/p&gt;
+&lt;p&gt;Trained on a significantly expanded Qiskit synthetic dataset, this release marks the end of an era - it&amp;rsquo;s our final model using the current training approach.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s next? We&amp;rsquo;re pivoting to newer Granite base models and starting to integrate other cutting-edge techniques. Stay tuned!&lt;/p&gt;
+&lt;p&gt;Check it out:
+&lt;/p&gt;
+&lt;p&gt;#Qiskit #QuantumComputing #AI #AIforQuantum #QiskitCodeAssistant&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on February 18, 2025 - 126 reactions, 8 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Qiskit Gym</title><link>https://juancb.es/projects/qiskit-gym/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/projects/qiskit-gym/</guid><description>&lt;p&gt;Gymnasium-compatible RL environments for training AI agents to synthesize quantum circuits. The framework that powers the AI transpiler passes achieving state-of-the-art results in qiskit-ibm-transpiler.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Three synthesis environments:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Permutation Synthesis&lt;/strong&gt; — Minimal SWAP gate implementations respecting hardware coupling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linear Function Synthesis&lt;/strong&gt; — CNOT-optimal decomposition of Boolean linear functions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clifford Synthesis&lt;/strong&gt; — Hardware-efficient implementations of Clifford group elements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hardware-aware design matches real quantum device coupling maps. High-performance Rust backend enables fast training. Supports PPO, AlphaZero, and custom policies with built-in TensorBoard visualization.&lt;/p&gt;
+&lt;p&gt;The agents trained with this framework achieve near-optimal synthesis up to 65 qubits—orders of magnitude faster than SAT solvers.&lt;/p&gt;</description></item><item><title>Qiskit MCP Servers</title><link>https://juancb.es/projects/qiskit-mcp-servers/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/projects/qiskit-mcp-servers/</guid><description>&lt;p&gt;Production-ready Model Context Protocol servers that give AI assistants direct access to quantum computing infrastructure. Built on FastMCP with async-first architecture, full type safety, and 65%+ test coverage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Four specialized servers:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Qiskit Server&lt;/strong&gt; — Circuit creation, manipulation, and transpilation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code Assistant Server&lt;/strong&gt; — AI-assisted quantum programming via Granite models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IBM Runtime Server&lt;/strong&gt; — Hardware access, job execution, and backend selection&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Transpiler Server&lt;/strong&gt; — RL-powered circuit optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enables AI systems to autonomously generate quantum code, select optimal backends, execute circuits on real hardware, and provide expert quantum computing guidance—all through a standardized protocol.&lt;/p&gt;</description></item><item><title>Quantum Developer Conference 2024: Showcasing AI-Powered Quantum Tools</title><link>https://juancb.es/blog/2024-quantum-developer-conference/</link><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2024-quantum-developer-conference/</guid><description>&lt;p&gt;Excited to be participating in the Quantum Developer Conference 2024 at the IBM Thomas J. Watson Research Center! It&amp;rsquo;s been fantastic networking with fellow quantum computing professionals and showcasing the latest developments at the intersection of AI and quantum computing.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re featuring exciting innovations including the Qiskit Code Assistant and our cutting-edge AI-powered transpiler passes. These tools represent significant steps forward in making quantum computing more accessible and efficient.&lt;/p&gt;
+&lt;p&gt;Learn more:
+&lt;/p&gt;
+&lt;p&gt;#QuantumComputing #AI #IBMQuantum #AIforQuantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on November 15, 2024 - 97 reactions, 1 comment as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Introducing Qiskit Code Assistant: New Blog Post Published</title><link>https://juancb.es/blog/2024-qiskit-code-assistant-introduction/</link><pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2024-qiskit-code-assistant-introduction/</guid><description>&lt;p&gt;Last week we published a blog post summarizing what is the Qiskit Code Assistant and how you can start to use it.&lt;/p&gt;
+&lt;p&gt;Following the recent launch, users are already leveraging the tool&amp;rsquo;s features. We&amp;rsquo;re actively developing improved models with enhanced capabilities that we&amp;rsquo;re planning to release as open source!&lt;/p&gt;
+&lt;p&gt;Read the blog post:
+&lt;/p&gt;
+&lt;p&gt;#qiskit #qiskitcodeassistant #opensource #ibmquantum&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Originally shared on
+on October 15, 2024 - 51 reactions, 0 comments as of 11/12/2025&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
