@@ -151,6 +151,8 @@ on July 8, 2025 - 304 reactions, 16 comments as of 11/12/2025&lt;/em&gt;&lt;/p&g
 &lt;li&gt;&lt;strong&gt;Granite 3.x 8B&lt;/strong&gt; — Efficient, multiple versions&lt;/li&gt;
 &lt;li&gt;GGUF quantized versions available for local deployment&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;
+across 11 model repositories, including the GGUF versions.&lt;/p&gt;
 &lt;p&gt;Achieves &lt;strong&gt;46.53% on Qiskit HumanEval&lt;/strong&gt;—significantly outperforming competing models (24.75%–39.6%). Supports natural language to code (&amp;ldquo;define a Bell circuit and run it on ibm_brisbane&amp;rdquo;) and intelligent autocomplete.&lt;/p&gt;
 &lt;p&gt;We created and open-sourced &lt;strong&gt;Qiskit HumanEval&lt;/strong&gt; and &lt;strong&gt;Qiskit HumanEval Hard&lt;/strong&gt;—benchmarks with 150+ tasks each, now used industry-wide for evaluating quantum code LLMs. Integrated into VS Code and JupyterLab.&lt;/p&gt;</description></item><item><title>Among IBM Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore</title><link>https://juancb.es/blog/2025-ibm-tech-singapore/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2025-ibm-tech-singapore/</guid><description>&lt;p&gt;Among 👁️🐝Ⓜ️ Giants and Pioneers: Reflections from IBM Tech 2025 in Singapore 🇸🇬&lt;/p&gt;
 &lt;p&gt;I had the privilege of attending IBM Tech 2025 in Singapore this week - an exclusive, invitation-only gathering of IBM&amp;rsquo;s top technical talent from around the world. As one of the selected participants, I&amp;rsquo;m humbled to have been recognized among IBM&amp;rsquo;s most innovative and performing technical minds.&lt;/p&gt;
