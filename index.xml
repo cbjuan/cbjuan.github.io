@@ -29,14 +29,12 @@
 &lt;/table&gt;
 &lt;p&gt;Google may process this data outside the EU. Such transfers are covered by the EU–US Data Privacy Framework and Google&amp;rsquo;s standard contractual clauses. See
 .&lt;/p&gt;
-&lt;p&gt;If you click &lt;strong&gt;Reject&lt;/strong&gt;, or haven&amp;rsquo;t chosen yet, Google Analytics isn&amp;rsquo;t loaded at all, no request is sent to Google Analytics and no analytics cookies are set. Browsers that send a
-signal are treated as having rejected, unless the visitor accepts explicitly.&lt;/p&gt;
+&lt;p&gt;If you click &lt;strong&gt;Reject&lt;/strong&gt;, or haven&amp;rsquo;t chosen yet, Google Analytics isn&amp;rsquo;t loaded at all, no request is sent to Google Analytics and no analytics cookies are set.&lt;/p&gt;
 &lt;p&gt;Your choice is saved in your browser&amp;rsquo;s local storage (key &lt;code&gt;cookie-consent&lt;/code&gt;) so the banner doesn&amp;rsquo;t reappear on every page. That entry is strictly necessary to remember your decision, is never sent to any server, and is renewed after 12 months.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;You can change your mind at any time&lt;/strong&gt; using &lt;a href="#cookie-settings"&gt;Cookie settings&lt;/a&gt;, which is also linked in the footer of every page. Withdrawing consent deletes the analytics cookies from this site.&lt;/p&gt;
 &lt;p&gt;The legal basis is your consent (Art. 6(1)(a) GDPR and Art. 22.2 of the Spanish LSSI).&lt;/p&gt;
 &lt;h2 id="web-fonts"&gt;Web fonts&lt;/h2&gt;
-&lt;p&gt;Pages use fonts served by Google Fonts. To deliver them, your browser connects to Google&amp;rsquo;s servers, which receive your IP address and browser information. Google Fonts doesn&amp;rsquo;t set cookies. See the
-.&lt;/p&gt;
+&lt;p&gt;The fonts are served from this website itself, so loading a page doesn&amp;rsquo;t contact Google Fonts or any other font service.&lt;/p&gt;
 &lt;h2 id="hosting"&gt;Hosting&lt;/h2&gt;
 &lt;p&gt;The site is hosted on
 . GitHub may log technical data such as your IP address when serving pages, for security and to keep the service running. See the
@@ -56,7 +54,7 @@ signal are treated as having rejected, unless the visitor accepts explicitly.&lt
 &lt;/ul&gt;
 &lt;p&gt;For this data, you have the right to access, rectify and erase it, to restrict or object to its processing, and to data portability. You can also withdraw your analytics consent at any time with &lt;a href="#cookie-settings"&gt;Cookie settings&lt;/a&gt;. Withdrawing doesn&amp;rsquo;t affect anything processed before. To exercise any of these rights, use the
 .&lt;/p&gt;
-&lt;p&gt;Google (for Google Fonts and its own use of analytics data) and GitHub (for hosting logs) process some data as independent controllers. For that processing, contact them directly through the privacy policies linked above.&lt;/p&gt;
+&lt;p&gt;Google (for its own use of analytics data) and GitHub (for hosting logs) process some data as independent controllers. For that processing, contact them directly through the privacy policies linked above.&lt;/p&gt;
 &lt;p&gt;You can also lodge a complaint with the Spanish Data Protection Agency (
 ).&lt;/p&gt;
 &lt;h2 id="changes"&gt;Changes&lt;/h2&gt;
