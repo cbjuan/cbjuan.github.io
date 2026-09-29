@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Juan Cruz-Benito</title><link>https://juancb.es/</link><atom:link href="https://juancb.es/index.xml" rel="self" type="application/rss+xml"/><description>Juan Cruz-Benito</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><copyright>©</copyright><image><url>https://juancb.es/media/sharing.jpg</url><title>Juan Cruz-Benito</title><link>https://juancb.es/</link></image><item><title>Quantum Error Correction Meets AI for Science: Lessons from LLM-Guided Code Discovery</title><link>https://juancb.es/events/2026_ieee_qce_ai4qc/</link><pubDate>Thu, 17 Sep 2026 15:15:00 +0000</pubDate><guid>https://juancb.es/events/2026_ieee_qce_ai4qc/</guid><description>&lt;p&gt;Related paper:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Juan Cruz-Benito</title><link>https://juancb.es/</link><atom:link href="https://juancb.es/index.xml" rel="self" type="application/rss+xml"/><description>Juan Cruz-Benito</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><copyright>©</copyright><image><url>https://juancb.es/media/sharing.jpg</url><title>Juan Cruz-Benito</title><link>https://juancb.es/</link></image><item><title>Privacy Policy</title><link>https://juancb.es/privacy/</link><pubDate>Tue, 29 Sep 2026 00:00:00 +0200</pubDate><guid>https://juancb.es/privacy/</guid><description>&lt;p&gt;This is the personal website of Juan Cruz-Benito. It is a static site with no user accounts, and it collects as little personal data as possible. This page explains what is collected, why, and what you can do about it.&lt;/p&gt;
+&lt;h2 id="who-is-responsible"&gt;Who is responsible&lt;/h2&gt;
+&lt;p&gt;Juan Cruz-Benito is the data controller for this website. For any privacy question or request, use the
+.&lt;/p&gt;
+&lt;h2 id="analytics-only-with-your-consent"&gt;Analytics (only with your consent)&lt;/h2&gt;
+&lt;p&gt;If you click &lt;strong&gt;Accept&lt;/strong&gt; in the cookie banner, the site loads
+, provided by Google Ireland Ltd. It is used only to count visits and see which pages are read. The data is aggregated and is not used for advertising.&lt;/p&gt;
+&lt;p&gt;Google Analytics sets these cookies:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Cookie&lt;/th&gt;
+&lt;th&gt;Purpose&lt;/th&gt;
+&lt;th&gt;Duration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;_ga&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Distinguishes visitors&lt;/td&gt;
+&lt;td&gt;2 years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;_ga_&amp;lt;container-id&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Keeps the session state&lt;/td&gt;
+&lt;td&gt;2 years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Google may process this data outside the EU. Such transfers are covered by the EU–US Data Privacy Framework and Google&amp;rsquo;s standard contractual clauses. See
+.&lt;/p&gt;
+&lt;p&gt;If you click &lt;strong&gt;Reject&lt;/strong&gt;, or haven&amp;rsquo;t chosen yet, Google Analytics isn&amp;rsquo;t loaded at all, no request is sent to Google Analytics and no analytics cookies are set. Browsers that send a
+signal are treated as having rejected, unless the visitor accepts explicitly.&lt;/p&gt;
+&lt;p&gt;Your choice is saved in your browser&amp;rsquo;s local storage (key &lt;code&gt;cookie-consent&lt;/code&gt;) so the banner doesn&amp;rsquo;t reappear on every page. That entry is strictly necessary to remember your decision, is never sent to any server, and is renewed after 12 months.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You can change your mind at any time&lt;/strong&gt; using &lt;a href="#cookie-settings"&gt;Cookie settings&lt;/a&gt;, which is also linked in the footer of every page. Withdrawing consent deletes the analytics cookies from this site.&lt;/p&gt;
+&lt;p&gt;The legal basis is your consent (Art. 6(1)(a) GDPR and Art. 22.2 of the Spanish LSSI).&lt;/p&gt;
+&lt;h2 id="web-fonts"&gt;Web fonts&lt;/h2&gt;
+&lt;p&gt;Pages use fonts served by Google Fonts. To deliver them, your browser connects to Google&amp;rsquo;s servers, which receive your IP address and browser information. Google Fonts doesn&amp;rsquo;t set cookies. See the
+.&lt;/p&gt;
+&lt;h2 id="hosting"&gt;Hosting&lt;/h2&gt;
+&lt;p&gt;The site is hosted on
+. GitHub may log technical data such as your IP address when serving pages, for security and to keep the service running. See the
+.&lt;/p&gt;
+&lt;h2 id="contact-form"&gt;Contact form&lt;/h2&gt;
+&lt;p&gt;The contact form on the homepage is processed by
+. If you send a message, your name, email address and message are passed to Formspree and delivered to me by email. They&amp;rsquo;re used only to reply to you and are deleted once they&amp;rsquo;re no longer needed. The legal basis is your request to be contacted (Art. 6(1)(b) GDPR).&lt;/p&gt;
+&lt;h2 id="search"&gt;Search&lt;/h2&gt;
+&lt;p&gt;Site search runs entirely in your browser, using an index served from this site. Your queries aren&amp;rsquo;t sent anywhere.&lt;/p&gt;
+&lt;h2 id="external-links"&gt;External links&lt;/h2&gt;
+&lt;p&gt;Pages link to other websites, such as publishers, GitHub, LinkedIn and Hugging Face. Once you follow a link, that site&amp;rsquo;s own privacy policy applies. There are no embedded social media widgets.&lt;/p&gt;
+&lt;h2 id="your-rights"&gt;Your rights&lt;/h2&gt;
+&lt;p&gt;I hold very little data about visitors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contact messages&lt;/strong&gt;: if you used the contact form, I have your message and email address in my inbox and in Formspree&amp;rsquo;s records.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analytics data&lt;/strong&gt;: if you accepted analytics, your usage data is in my Google Analytics property, which Google processes on my behalf. That data is tied to a random cookie ID rather than to your name, so I usually can&amp;rsquo;t tell which records are yours (Art. 11 GDPR). If you send me the value of your &lt;code&gt;_ga&lt;/code&gt; cookie, I can find that data and delete it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For this data, you have the right to access, rectify and erase it, to restrict or object to its processing, and to data portability. You can also withdraw your analytics consent at any time with &lt;a href="#cookie-settings"&gt;Cookie settings&lt;/a&gt;. Withdrawing doesn&amp;rsquo;t affect anything processed before. To exercise any of these rights, use the
+.&lt;/p&gt;
+&lt;p&gt;Google (for Google Fonts and its own use of analytics data) and GitHub (for hosting logs) process some data as independent controllers. For that processing, contact them directly through the privacy policies linked above.&lt;/p&gt;
+&lt;p&gt;You can also lodge a complaint with the Spanish Data Protection Agency (
+).&lt;/p&gt;
+&lt;h2 id="changes"&gt;Changes&lt;/h2&gt;
+&lt;p&gt;If this policy changes, the date on this page will be updated.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Last updated: September 29, 2026.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Quantum Error Correction Meets AI for Science: Lessons from LLM-Guided Code Discovery</title><link>https://juancb.es/events/2026_ieee_qce_ai4qc/</link><pubDate>Thu, 17 Sep 2026 15:15:00 +0000</pubDate><guid>https://juancb.es/events/2026_ieee_qce_ai4qc/</guid><description>&lt;p&gt;Related paper:
 (arXiv:2606.02418).&lt;/p&gt;</description></item><item><title>Evolutionary Discovery of Bivariate Bicycle Codes with LLM-Guided Search</title><link>https://juancb.es/publications/2026-bivariatebicyclecodesllm/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://juancb.es/publications/2026-bivariatebicyclecodesllm/</guid><description/></item><item><title>Qiskit QuantumKatas: A Benchmark for Evaluating LLMs on Quantum Code</title><link>https://juancb.es/blog/2026-qiskit-quantumkatas-paper/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://juancb.es/blog/2026-qiskit-quantumkatas-paper/</guid><description>&lt;p&gt;Together with
 , I&amp;rsquo;ve just put a new preprint on arXiv: &lt;code&gt;Qiskit QuantumKatas, a benchmark for measuring how well large language models write quantum computing code&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;The starting point was
