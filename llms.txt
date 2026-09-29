@@ -10,6 +10,7 @@ Juan Cruz-Benito researches and develops AI-based systems for quantum computing 
 - [Publications](https://juancb.es/publications/): 80+ peer-reviewed papers and articles on AI, quantum computing, and open source, going back to 2013.
 - [Projects](https://juancb.es/projects/): Open-source projects, including AI tooling for Qiskit.
 - [Talks](https://juancb.es/events/): Conference talks and invited lectures.
+- [CV (PDF)](https://juancb.es/uploads/juan-cruz-benito-cv.pdf): Two-page CV covering experience, selected publications, patents, awards and talks.
 
 ## Featured projects
 
