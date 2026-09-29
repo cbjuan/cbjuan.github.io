@@ -15,7 +15,7 @@ Juan Cruz-Benito researches and develops AI-based systems for quantum computing 
 
 - [Qiskit Code Assistant](https://juancb.es/projects/qiskit-code-assistant/): Family of open-source LLMs (8B-24B) for quantum code generation, plus the Qiskit HumanEval benchmarks.
 - [Qiskit MCP Servers](https://juancb.es/projects/qiskit-mcp-servers/): Model Context Protocol (MCP) servers connecting AI assistants and agents to IBM Quantum services.
-- [qiskit-ibm-transpiler](https://juancb.es/projects/qiskit-ibm-transpiler/): AI-powered quantum circuit optimization library, ranked 3rd in the Unitary Foundation 2025 Survey with 929K+ downloads.
+- [qiskit-ibm-transpiler](https://juancb.es/projects/qiskit-ibm-transpiler/): AI-powered quantum circuit optimization library, ranked 3rd in the Unitary Foundation 2025 Survey with 981K+ downloads.
 - [Qiskit Gym](https://juancb.es/projects/qiskit-gym/): Reinforcement learning environments for quantum circuit synthesis.
 
 ## Contact & profiles
