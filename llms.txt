@@ -19,6 +19,13 @@ Juan Cruz-Benito researches and develops AI-based systems for quantum computing 
 - [qiskit-ibm-transpiler](https://juancb.es/projects/qiskit-ibm-transpiler/): AI-powered quantum circuit optimization library, ranked 3rd in the Unitary Foundation 2025 Survey with 981K+ downloads.
 - [Qiskit Gym](https://juancb.es/projects/qiskit-gym/): Reinforcement learning environments for quantum circuit synthesis.
 
+## Recent publications
+
+- [Large Language Model-Guided Discovery of Weight-Five Bivariate Bicycle Codes](https://juancb.es/publications/2026-weightfivebivariatebicyclecodesllm/) (arXiv:2610.06623, 2026): Extends LLM-guided program evolution to weight-five bivariate bicycle quantum LDPC codes, with exact distance certificates, structural analysis and random-search controls.
+- [Linter-Guided Repair of Quantum Code Smells](https://juancb.es/publications/2026-linterguidedrepairquantumcodesmells/) (SaTQuML Workshop, NeurIPS 2026): Uses LLMs to repair quantum-specific code smells in Qiskit benchmarks without breaking functional correctness.
+- [Evolutionary Discovery of Bivariate Bicycle Codes with LLM-Guided Search](https://juancb.es/publications/2026-bivariatebicyclecodesllm/) (arXiv:2606.02418, 2026): LLM-driven program evolution plus an independent validation pipeline for discovering quantum LDPC codes.
+- [Qiskit QuantumKatas](https://juancb.es/publications/2026-qiskitquantumkatas/) (arXiv:2605.27210, 2026): A 350-task Qiskit benchmark, adapted from Microsoft's QuantumKatas, for evaluating LLMs on quantum programming.
+
 ## Contact & profiles
 
 - [GitHub](https://github.com/cbjuan)
