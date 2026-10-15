@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Developer Tools | Juan Cruz-Benito</title><link>https://juancb.es/tag/developer-tools/</link><atom:link href="https://juancb.es/tag/developer-tools/index.xml" rel="self" type="application/rss+xml"/><description>Developer Tools</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://juancb.es/media/sharing.jpg</url><title>Developer Tools</title><link>https://juancb.es/tag/developer-tools/</link></image><item><title>Qiskit MCP Servers</title><link>https://juancb.es/projects/qiskit-mcp-servers/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://juancb.es/projects/qiskit-mcp-servers/</guid><description>&lt;p&gt;Production-ready Model Context Protocol servers that give AI assistants direct access to quantum computing infrastructure. Built on FastMCP with async-first architecture, full type safety, and 65%+ test coverage.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Four specialized servers:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Five specialized servers:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Qiskit Server&lt;/strong&gt; — Circuit creation, manipulation, and transpilation&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Code Assistant Server&lt;/strong&gt; — AI-assisted quantum programming via Granite models&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;IBM Runtime Server&lt;/strong&gt; — Hardware access, job execution, and backend selection&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;AI Transpiler Server&lt;/strong&gt; — RL-powered circuit optimization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Qiskit Gym Server&lt;/strong&gt; — Lets AI agents train RL models for circuit synthesis on their own: create environments, launch PPO or AlphaZero training, and synthesize circuits (
+)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Enables AI systems to autonomously generate quantum code, select optimal backends, execute circuits on real hardware, and provide expert quantum computing guidance—all through a standardized protocol.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Enables AI systems to autonomously generate quantum code, select optimal backends, execute circuits on real hardware, train their own circuit-synthesis models, and provide expert quantum computing guidance—all through a standardized protocol.&lt;/p&gt;</description></item><item><title>IBM Quantum Lab</title><link>https://juancb.es/projects/ibm-quantum-lab/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://juancb.es/projects/ibm-quantum-lab/</guid><description>&lt;p&gt;Led development of IBM Quantum Lab, the cloud notebook environment where IBM Quantum users wrote and ran Qiskit code against real quantum hardware without installing anything. Built as a &lt;strong&gt;JupyterHub deployment on Kubernetes&lt;/strong&gt; integrated with the IBM Quantum platform, open to &lt;strong&gt;~240,000 enrolled users&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Engineering challenges solved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Custom authentication against the IBM Quantum platform&lt;/li&gt;
+&lt;li&gt;Persistent per-user storage and tailored user environments with Qiskit and tutorials pre-installed&lt;/li&gt;
+&lt;li&gt;Automatic selection of hardware resources for different user profiles&lt;/li&gt;
+&lt;li&gt;Abuse protection and performance at scale — peaks of &lt;strong&gt;~800 concurrent user servers&lt;/strong&gt; during the IBM Quantum Challenge&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Presented at JupyterCon 2020.&lt;/p&gt;</description></item></channel></rss>
